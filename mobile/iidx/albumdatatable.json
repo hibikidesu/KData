@@ -20320,6 +20320,46 @@
             "openType": 1
         },
         {
+            "gid": "bm_063_0055",
+            "albumID": 1034,
+            "trackNo": 55,
+            "title": "アクマフカ",
+            "artist": "Pizuya's Cell",
+            "openType": 1
+        },
+        {
+            "gid": "bm_063_0056",
+            "albumID": 1034,
+            "trackNo": 56,
+            "title": "Pout",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_063_0057",
+            "albumID": 1034,
+            "trackNo": 57,
+            "title": "Flying Castle",
+            "artist": "lapix",
+            "openType": 1
+        },
+        {
+            "gid": "bm_063_0058",
+            "albumID": 1034,
+            "trackNo": 58,
+            "title": "天邪鬼",
+            "artist": "Qlarabelle",
+            "openType": 1
+        },
+        {
+            "gid": "bm_063_0059",
+            "albumID": 1034,
+            "trackNo": 59,
+            "title": "WHA",
+            "artist": "かめりあ involving ななひら",
+            "openType": 1
+        },
+        {
             "gid": "bs_001_0001",
             "albumID": 8000,
             "trackNo": 1,
@@ -40080,6 +40120,38 @@
             "openType": 1
         },
         {
+            "gid": "jb_018_0053",
+            "albumID": 6016,
+            "trackNo": 53,
+            "title": "アモ",
+            "artist": "八月二雪",
+            "openType": 1
+        },
+        {
+            "gid": "jb_018_0054",
+            "albumID": 6016,
+            "trackNo": 54,
+            "title": "太陽の滴",
+            "artist": "CANVAS feat. Quimär",
+            "openType": 1
+        },
+        {
+            "gid": "jb_018_0055",
+            "albumID": 6016,
+            "trackNo": 55,
+            "title": "Underground Astronomy",
+            "artist": "D.watt (IOSYS)",
+            "openType": 1
+        },
+        {
+            "gid": "jb_018_0056",
+            "albumID": 6016,
+            "trackNo": 56,
+            "title": "激闘保安官！DEMPA撲滅大作戦",
+            "artist": "ARM × かたほとり ft. ななひら",
+            "openType": 1
+        },
+        {
             "gid": "ms_001_0001",
             "albumID": 9000,
             "trackNo": 1,
@@ -56728,6 +56800,38 @@
             "openType": 1
         },
         {
+            "gid": "pm_060_0034",
+            "albumID": 2028,
+            "trackNo": 34,
+            "title": "The Lost Empire",
+            "artist": "BEMANI Sound Team \"S-C-U\"",
+            "openType": 1
+        },
+        {
+            "gid": "pm_060_0035",
+            "albumID": 2028,
+            "trackNo": 35,
+            "title": "あ～あ。feat.ケンカイヨシ",
+            "artist": "chocck",
+            "openType": 1
+        },
+        {
+            "gid": "pm_060_0036",
+            "albumID": 2028,
+            "trackNo": 36,
+            "title": "On dish or maindish?",
+            "artist": "red glasses feat.mami",
+            "openType": 1
+        },
+        {
+            "gid": "pm_060_0037",
+            "albumID": 2028,
+            "trackNo": 37,
+            "title": "Shades of Day",
+            "artist": "BEMANI Sound Team \"PON\"",
+            "openType": 1
+        },
+        {
             "gid": "rb_001_0001",
             "albumID": 7000,
             "trackNo": 1,
@@ -63528,6 +63632,102 @@
             "openType": 1
         },
         {
+            "gid": "dr_018_0011",
+            "albumID": 12010,
+            "trackNo": 11,
+            "title": "STAY GOLD",
+            "artist": "Yuta Imai",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0012",
+            "albumID": 12010,
+            "trackNo": 12,
+            "title": "Beluga",
+            "artist": "BEMANI Sound Team \"S-C-U\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0013",
+            "albumID": 12010,
+            "trackNo": 13,
+            "title": "Worst Plan",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0014",
+            "albumID": 12010,
+            "trackNo": 14,
+            "title": "Qwerty",
+            "artist": "BEMANI Sound Team \"Yvya\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0015",
+            "albumID": 12010,
+            "trackNo": 15,
+            "title": "stellar rain",
+            "artist": "BEMANI Sound Team \"PHQUASE\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0016",
+            "albumID": 12010,
+            "trackNo": 16,
+            "title": "Teleportation",
+            "artist": "Tatsunoshin",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0017",
+            "albumID": 12010,
+            "trackNo": 17,
+            "title": "Mess With My Emotions",
+            "artist": "Latenighter",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0018",
+            "albumID": 12010,
+            "trackNo": 18,
+            "title": "TRUE LOVE (Clubstar's True Club Mix)",
+            "artist": "jun feat. Schanita",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0019",
+            "albumID": 12010,
+            "trackNo": 19,
+            "title": "DOUBLE TORNARD",
+            "artist": "evo-X",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0020",
+            "albumID": 12010,
+            "trackNo": 20,
+            "title": "I WANT YOUR LOVE (Darwin remix)",
+            "artist": "GAV",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0021",
+            "albumID": 12010,
+            "trackNo": 21,
+            "title": "Closer to my Heart (jun remix)",
+            "artist": "NM feat.Heather Elmer",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0022",
+            "albumID": 12010,
+            "trackNo": 22,
+            "title": "鏡花水月楼 (DDR EDITION)",
+            "artist": "ＴЁЯＲＡ feat.宇宙戦隊NOIZ",
+            "openType": 1
+        },
+        {
             "gid": "sv_101_0001",
             "albumID": 13000,
             "trackNo": 1,
@@ -64181,6 +64381,30 @@
             "trackNo": 10,
             "title": "Froyo Froyo",
             "artist": "Numb'n'dub Prod. by uno(IOSYS)",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0011",
+            "albumID": 10014,
+            "trackNo": 11,
+            "title": "Go Down",
+            "artist": "KO3",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0012",
+            "albumID": 10014,
+            "trackNo": 12,
+            "title": "Easy Peasy",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0013",
+            "albumID": 10014,
+            "trackNo": 13,
+            "title": "Garnet",
+            "artist": "BEMANI Sound Team \"Captain KING\"",
             "openType": 1
         }
     ]
