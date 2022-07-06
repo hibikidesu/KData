@@ -1,5 +1,38 @@
 [
     {
+        "gacha_id": 76,
+        "gacha_type": 1,
+        "name": "jubeat\uff08\u30e6\u30d3\u30fc\u30c8\uff09",
+        "disp_name": "jubeat\uff08\u30e6\u30d3\u30fc\u30c8\uff09",
+        "comment": "",
+        "new_flag": 1,
+        "gacha_item_num": 4,
+        "limit_type": 0,
+        "limit_num": 0,
+        "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/76_jacket.png",
+        "gacha_big_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/76_jacket.png",
+        "accessibility": 1,
+        "price_type": [
+            1
+        ],
+        "gacha_1_price": 1000,
+        "gacha_10_price": 10000,
+        "gacha_1_flg": 1,
+        "gacha_10_flg": 1,
+        "music_list": [
+            100060195,
+            100060196,
+            100060197,
+            100060198
+        ],
+        "extra_time_type": 0,
+        "start_time": 1657069200,
+        "end_time": 5711734800,
+        "playable_date": 0,
+        "10_disp_flg": 1,
+        "sort_id": 1
+    },
+    {
         "gacha_id": 66,
         "gacha_type": 1,
         "name": "DanceDanceRevolution",
