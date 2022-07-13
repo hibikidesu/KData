@@ -583,6 +583,79 @@
             }
         }
     },
+    "9": {
+        "info": {
+            "label": "1n0003",
+            "title_name": "Love齶sicK",
+            "title_yomigana": "ﾗﾌﾞｼｯｸ",
+            "artist_name": "8#Prince(八王子P)",
+            "artist_yomigana": "ﾊﾁｵｳｼﾞﾋﾟｰ",
+            "ascii": "lovesick_8prince",
+            "bpm_max": 13200,
+            "bpm_min": 13200,
+            "distribution_date": 20120118,
+            "volume": 91,
+            "bg_no": 0,
+            "genre": 40,
+            "is_fixed": 1,
+            "version": 1,
+            "demo_pri": 0,
+            "filename_obfuscated_path": "41e06625-94ec-48cf-a645-deec68ee23ba.bin",
+            "inf_ver": 0
+        },
+        "difficulty": {
+            "novice": {
+                "difnum": 3,
+                "illustrator": "twiny齶blue",
+                "effected_by": "PHQUASE",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "advanced": {
+                "difnum": 7,
+                "illustrator": "twiny齶blue",
+                "effected_by": "しばまる子",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "exhaust": {
+                "difnum": 11,
+                "illustrator": "twiny齶blue",
+                "effected_by": "PHQUASE",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "infinite": {
+                "difnum": 0,
+                "illustrator": "dummy",
+                "effected_by": "dummy",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 1,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "maximum": {
+                "difnum": 0,
+                "illustrator": "dummy",
+                "effected_by": "dummy",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 1,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            }
+        }
+    },
     "10": {
         "info": {
             "label": "1n0004",
@@ -9391,6 +9464,79 @@
                 "price": -1,
                 "item_id": "dummy",
                 "limited": 3,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "infinite": {
+                "difnum": 0,
+                "illustrator": "dummy",
+                "effected_by": "dummy",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 1,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "maximum": {
+                "difnum": 0,
+                "illustrator": "dummy",
+                "effected_by": "dummy",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 1,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            }
+        }
+    },
+    "209": {
+        "info": {
+            "label": 209,
+            "title_name": "Fly to Next World (syzfonics Remix)",
+            "title_yomigana": "ﾌﾗｲﾄｩﾈｸｽﾄﾜｰﾙﾄﾞｼｽﾞﾌｫﾆｸｽﾘﾐｯｸｽ",
+            "artist_name": "syzfonics",
+            "artist_yomigana": "ｼｽﾞﾌｫﾆｸｽ",
+            "ascii": "fly_to_next_world_syzfonics",
+            "bpm_max": 18500,
+            "bpm_min": 18500,
+            "distribution_date": 20130620,
+            "volume": 91,
+            "bg_no": 6,
+            "genre": 18,
+            "is_fixed": 1,
+            "version": 2,
+            "demo_pri": 0,
+            "filename_obfuscated_path": "b1ac46bd-a65a-44f3-b7f9-9df768d8fe7a.bin",
+            "inf_ver": 0
+        },
+        "difficulty": {
+            "novice": {
+                "difnum": 3,
+                "illustrator": "tef * tef",
+                "effected_by": "DJ WILDPARTY",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "advanced": {
+                "difnum": 7,
+                "illustrator": "tef * tef",
+                "effected_by": "DJ WILDPARTY",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "exhaust": {
+                "difnum": 12,
+                "illustrator": "tef * tef",
+                "effected_by": "DJ WILDPARTY",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
                 "jacket_print": -2,
                 "jacket_mask": 0
             },
@@ -19490,6 +19636,79 @@
             }
         }
     },
+    "408": {
+        "info": {
+            "label": 408,
+            "title_name": "KiLLeR MeRMaiD",
+            "title_yomigana": "ｷﾗｰﾏｰﾒｲﾄﾞ",
+            "artist_name": "QURELESS",
+            "artist_yomigana": "ｷｭｱﾚｽ",
+            "ascii": "killer_mermaid_qureless",
+            "bpm_max": 44000,
+            "bpm_min": 44000,
+            "distribution_date": 20140425,
+            "volume": 91,
+            "bg_no": 2,
+            "genre": 6,
+            "is_fixed": 1,
+            "version": 2,
+            "demo_pri": 0,
+            "filename_obfuscated_path": "fe59234c-7c51-4870-8e0b-31ee89506c9e.bin",
+            "inf_ver": 0
+        },
+        "difficulty": {
+            "novice": {
+                "difnum": 6,
+                "illustrator": "NAGI",
+                "effected_by": "Ether99",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "advanced": {
+                "difnum": 12,
+                "illustrator": "NAGI",
+                "effected_by": "Ether99",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "exhaust": {
+                "difnum": 17,
+                "illustrator": "NAGI",
+                "effected_by": "Ether99",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "infinite": {
+                "difnum": 0,
+                "illustrator": "dummy",
+                "effected_by": "dummy",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 1,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "maximum": {
+                "difnum": 0,
+                "illustrator": "dummy",
+                "effected_by": "dummy",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 1,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            }
+        }
+    },
     "414": {
         "info": {
             "label": 414,
@@ -23771,6 +23990,79 @@
                 "effected_by": "PHQUASE",
                 "price": -1,
                 "item_id": "I1010010",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "infinite": {
+                "difnum": 0,
+                "illustrator": "dummy",
+                "effected_by": "dummy",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 1,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "maximum": {
+                "difnum": 0,
+                "illustrator": "dummy",
+                "effected_by": "dummy",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 1,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            }
+        }
+    },
+    "523": {
+        "info": {
+            "label": 523,
+            "title_name": "君がいる場所へ",
+            "title_yomigana": "ｷﾐｶﾞｲﾙﾊﾞｼｮﾍ",
+            "artist_name": "VALLEYSTONE feat. 紫崎 雪",
+            "artist_yomigana": "ﾊﾞﾘｰｽﾄｰﾝﾌｨｰﾁｬﾘﾝｸﾞｼｻﾞｷﾕｷ",
+            "ascii": "kimigairu_valleystone",
+            "bpm_max": 16500,
+            "bpm_min": 16500,
+            "distribution_date": 20151204,
+            "volume": 91,
+            "bg_no": 29,
+            "genre": 2,
+            "is_fixed": 1,
+            "version": 3,
+            "demo_pri": -2,
+            "filename_obfuscated_path": "e397f06b-08d5-45b2-8769-741e1c6ecd58.bin",
+            "inf_ver": 0
+        },
+        "difficulty": {
+            "novice": {
+                "difnum": 4,
+                "illustrator": "蒼弐 2ndSeason 劇場版 -アナタを-",
+                "effected_by": "わかば",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "advanced": {
+                "difnum": 9,
+                "illustrator": "蒼弐 2ndSeason 劇場版 -信じて-",
+                "effected_by": "わかば",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "exhaust": {
+                "difnum": 13,
+                "illustrator": "蒼弐 2ndSeason 劇場版 -迎えにいきマス-",
+                "effected_by": "わかば",
+                "price": -1,
+                "item_id": "dummy",
                 "limited": 2,
                 "jacket_print": -2,
                 "jacket_mask": 0
@@ -89126,6 +89418,79 @@
                 "effected_by": "風瑠人",
                 "price": -2,
                 "item_id": "I1010021",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            }
+        }
+    },
+    "1711": {
+        "info": {
+            "label": 1711,
+            "title_name": "Le Merle Noir",
+            "title_yomigana": "ﾙﾒﾙﾙﾉﾜｰﾙ",
+            "artist_name": "Rigel Theatre",
+            "artist_yomigana": "ﾗｲｼﾞｪﾙｼｱﾀｰ",
+            "ascii": "lemerlenoir_rigeltheatre",
+            "bpm_max": 13600,
+            "bpm_min": 9200,
+            "distribution_date": 20210303,
+            "volume": 91,
+            "bg_no": 10,
+            "genre": 2,
+            "is_fixed": 1,
+            "version": 6,
+            "demo_pri": -2,
+            "filename_obfuscated_path": "8c131dee-1f4c-4c59-b38a-27a0fb0e400d.bin",
+            "inf_ver": 0
+        },
+        "difficulty": {
+            "novice": {
+                "difnum": 3,
+                "illustrator": "やびさら",
+                "effected_by": "kamuy noko",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "advanced": {
+                "difnum": 9,
+                "illustrator": "やびさら",
+                "effected_by": "kamuy noko",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "exhaust": {
+                "difnum": 14,
+                "illustrator": "やびさら",
+                "effected_by": "kamuy noko",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 2,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "infinite": {
+                "difnum": 0,
+                "illustrator": "dummy",
+                "effected_by": "dummy",
+                "price": -1,
+                "item_id": "dummy",
+                "limited": 1,
+                "jacket_print": -2,
+                "jacket_mask": 0
+            },
+            "maximum": {
+                "difnum": 16,
+                "illustrator": "やびさら",
+                "effected_by": "kamuy noko",
+                "price": -2,
+                "item_id": "dummy",
                 "limited": 2,
                 "jacket_print": -2,
                 "jacket_mask": 0
