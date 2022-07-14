@@ -941,6 +941,11 @@
             "category": 3
         },
         {
+            "albumID": 12011,
+            "title": "DanceDanceRevolution SuperNOVA2 Original Soundtrack",
+            "category": 3
+        },
+        {
             "albumID": 13000,
             "title": "SOUND VOLTEX ULTIMATE TRACKS Dimension Gates Ω -Phase.1-",
             "category": 4
@@ -62973,6 +62978,94 @@
             "trackNo": 81,
             "title": "Fascination ～eternal love mix～",
             "artist": "2MB",
+            "openType": 1
+        },
+        {
+            "gid": "dr_010_0001",
+            "albumID": 12011,
+            "trackNo": 1,
+            "title": "Fly away -mix del matador-",
+            "artist": "Shawn the Horny Master feat. ChiyoTia",
+            "openType": 1
+        },
+        {
+            "gid": "dr_010_0002",
+            "albumID": 12011,
+            "trackNo": 2,
+            "title": "SOUL CRASH",
+            "artist": "nc ft HARDCORE NATION",
+            "openType": 1
+        },
+        {
+            "gid": "dr_010_0003",
+            "albumID": 12011,
+            "trackNo": 3,
+            "title": "Star Gate Heaven (FUTURE LOVE Mix)",
+            "artist": "SySF. feat. Donna Burke",
+            "openType": 1
+        },
+        {
+            "gid": "dr_010_0004",
+            "albumID": 12011,
+            "trackNo": 4,
+            "title": "MOONSTER",
+            "artist": "kobo uniting Marsha & D.",
+            "openType": 1
+        },
+        {
+            "gid": "dr_010_0005",
+            "albumID": 12011,
+            "trackNo": 5,
+            "title": "Flow (Jammin' Ragga Mix)",
+            "artist": "Scotty D. revisits U1",
+            "openType": 1
+        },
+        {
+            "gid": "dr_010_0006",
+            "albumID": 12011,
+            "trackNo": 6,
+            "title": "Feelings Won't Fade(Extend Trance Mix)",
+            "artist": "SySF.",
+            "openType": 1
+        },
+        {
+            "gid": "dr_010_0007",
+            "albumID": 12011,
+            "trackNo": 7,
+            "title": "Silver Platform - I wanna get your heart -",
+            "artist": "U1 Reincarnates w/ Leah",
+            "openType": 1
+        },
+        {
+            "gid": "dr_010_0008",
+            "albumID": 12011,
+            "trackNo": 8,
+            "title": "Trim",
+            "artist": "kobo",
+            "openType": 1
+        },
+        {
+            "gid": "dr_010_0009",
+            "albumID": 12011,
+            "trackNo": 9,
+            "title": "Electrified",
+            "artist": "SySF.",
+            "openType": 1
+        },
+        {
+            "gid": "dr_010_0010",
+            "albumID": 12011,
+            "trackNo": 10,
+            "title": "Music In The Rhythm",
+            "artist": "nc ft. 触電",
+            "openType": 1
+        },
+        {
+            "gid": "dr_010_0011",
+            "albumID": 12011,
+            "trackNo": 11,
+            "title": "Raspberry Heart(English version)",
+            "artist": "jun feat. PAULA TERRY",
             "openType": 1
         },
         {
