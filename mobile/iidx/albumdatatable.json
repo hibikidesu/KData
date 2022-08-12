@@ -751,6 +751,11 @@
             "category": 14
         },
         {
+            "albumID": 10015,
+            "title": "beatmania IIDX 30 RESIDENT LOCATION TEST SPECIAL",
+            "category": 14
+        },
+        {
             "albumID": 11000,
             "title": "cyber beatnation 2 -Hi Speed conclusion-",
             "category": 13
@@ -23178,6 +23183,174 @@
             "trackNo": 12,
             "title": "Triple Cross",
             "artist": "BEMANI Sound Team\"dj TAKA & DJ YOSHITAKA & SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0001",
+            "albumID": 10014,
+            "trackNo": 1,
+            "title": "Starlight Parade",
+            "artist": "ARM (IOSYS) ft. Renko",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0002",
+            "albumID": 10014,
+            "trackNo": 2,
+            "title": "1-2-3 Jump!",
+            "artist": "まろん (IOSYS) ft. Renko",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0003",
+            "albumID": 10014,
+            "trackNo": 3,
+            "title": "You You You",
+            "artist": "D.watt feat. 紡音れい",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0004",
+            "albumID": 10014,
+            "trackNo": 4,
+            "title": "ステップ ステップ ステップ",
+            "artist": "駄々子 Prod. by uno(IOSYS)",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0005",
+            "albumID": 10014,
+            "trackNo": 5,
+            "title": "Sunshine let me find a way",
+            "artist": "コバヤシユウヤ (IOSYS) ft. You-Re:",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0006",
+            "albumID": 10014,
+            "trackNo": 6,
+            "title": "Let's DANCE aROUND!!",
+            "artist": "kors k feat.Jaejun by NuevoStudio",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0007",
+            "albumID": 10014,
+            "trackNo": 7,
+            "title": "Midnight Starlight",
+            "artist": "kors k feat.Such",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0008",
+            "albumID": 10014,
+            "trackNo": 8,
+            "title": "Hello World",
+            "artist": "MK",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0009",
+            "albumID": 10014,
+            "trackNo": 9,
+            "title": "Seasonal Memories",
+            "artist": "コバヤシユウヤ (IOSYS) ft. cotowari",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0010",
+            "albumID": 10014,
+            "trackNo": 10,
+            "title": "Froyo Froyo",
+            "artist": "Numb'n'dub Prod. by uno(IOSYS)",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0011",
+            "albumID": 10014,
+            "trackNo": 11,
+            "title": "Go Down",
+            "artist": "KO3",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0012",
+            "albumID": 10014,
+            "trackNo": 12,
+            "title": "Easy Peasy",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_015_0013",
+            "albumID": 10014,
+            "trackNo": 13,
+            "title": "Garnet",
+            "artist": "BEMANI Sound Team \"Captain KING\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_016_0001",
+            "albumID": 10015,
+            "trackNo": 1,
+            "title": "No Border",
+            "artist": "BEMANI Sound Team \"dj TAKA\" feat.Sana",
+            "openType": 1
+        },
+        {
+            "gid": "ev_016_0002",
+            "albumID": 10015,
+            "trackNo": 2,
+            "title": "LADS",
+            "artist": "BEMANI Sound Team \"PON\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_016_0003",
+            "albumID": 10015,
+            "trackNo": 3,
+            "title": "Programmed Genom",
+            "artist": "kors k",
+            "openType": 1
+        },
+        {
+            "gid": "ev_016_0004",
+            "albumID": 10015,
+            "trackNo": 4,
+            "title": "Bad Encryption",
+            "artist": "BEMANI Sound Team \"ZAQUVA\" respect for teranoid",
+            "openType": 1
+        },
+        {
+            "gid": "ev_016_0005",
+            "albumID": 10015,
+            "trackNo": 5,
+            "title": "Move UR Body",
+            "artist": "nora2r",
+            "openType": 1
+        },
+        {
+            "gid": "ev_016_0006",
+            "albumID": 10015,
+            "trackNo": 6,
+            "title": "罪過の聖堂",
+            "artist": "OSTER project",
+            "openType": 1
+        },
+        {
+            "gid": "ev_016_0007",
+            "albumID": 10015,
+            "trackNo": 7,
+            "title": "THE TIME MACHINE",
+            "artist": "Yuta Imai",
+            "openType": 1
+        },
+        {
+            "gid": "ev_016_0008",
+            "albumID": 10015,
+            "trackNo": 8,
+            "title": "Sunny Day Vibes",
+            "artist": "Mameyudoufu",
             "openType": 1
         },
         {
@@ -64443,110 +64616,6 @@
             "title": "突撃!ガラスのニーソ姫! D.watt nu-denpa RMX",
             "artist": "D.watt(IOSYS)",
             "openType": 0
-        },
-        {
-            "gid": "ev_015_0001",
-            "albumID": 10014,
-            "trackNo": 1,
-            "title": "Starlight Parade",
-            "artist": "ARM (IOSYS) ft. Renko",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0002",
-            "albumID": 10014,
-            "trackNo": 2,
-            "title": "1-2-3 Jump!",
-            "artist": "まろん (IOSYS) ft. Renko",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0003",
-            "albumID": 10014,
-            "trackNo": 3,
-            "title": "You You You",
-            "artist": "D.watt feat. 紡音れい",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0004",
-            "albumID": 10014,
-            "trackNo": 4,
-            "title": "ステップ ステップ ステップ",
-            "artist": "駄々子 Prod. by uno(IOSYS)",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0005",
-            "albumID": 10014,
-            "trackNo": 5,
-            "title": "Sunshine let me find a way",
-            "artist": "コバヤシユウヤ (IOSYS) ft. You-Re:",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0006",
-            "albumID": 10014,
-            "trackNo": 6,
-            "title": "Let's DANCE aROUND!!",
-            "artist": "kors k feat.Jaejun by NuevoStudio",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0007",
-            "albumID": 10014,
-            "trackNo": 7,
-            "title": "Midnight Starlight",
-            "artist": "kors k feat.Such",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0008",
-            "albumID": 10014,
-            "trackNo": 8,
-            "title": "Hello World",
-            "artist": "MK",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0009",
-            "albumID": 10014,
-            "trackNo": 9,
-            "title": "Seasonal Memories",
-            "artist": "コバヤシユウヤ (IOSYS) ft. cotowari",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0010",
-            "albumID": 10014,
-            "trackNo": 10,
-            "title": "Froyo Froyo",
-            "artist": "Numb'n'dub Prod. by uno(IOSYS)",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0011",
-            "albumID": 10014,
-            "trackNo": 11,
-            "title": "Go Down",
-            "artist": "KO3",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0012",
-            "albumID": 10014,
-            "trackNo": 12,
-            "title": "Easy Peasy",
-            "artist": "BEMANI Sound Team \"SYUNN\"",
-            "openType": 1
-        },
-        {
-            "gid": "ev_015_0013",
-            "albumID": 10014,
-            "trackNo": 13,
-            "title": "Garnet",
-            "artist": "BEMANI Sound Team \"Captain KING\"",
-            "openType": 1
         }
     ]
 }
