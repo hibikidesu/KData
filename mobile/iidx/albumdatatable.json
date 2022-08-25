@@ -606,6 +606,11 @@
             "category": 9
         },
         {
+            "albumID": 6017,
+            "title": "jubeat Ave. ORIGINAL SOUNDTRACK",
+            "category": 9
+        },
+        {
             "albumID": 7000,
             "title": "REFLEC BEAT ORIGINAL SOUNDTRACK",
             "category": 10
@@ -40359,6 +40364,102 @@
             "openType": 1
         },
         {
+            "gid": "jb_019_0001",
+            "albumID": 6017,
+            "trackNo": 1,
+            "title": "Victory of the Century",
+            "artist": "BEMANI Sound Team \"TAG\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0002",
+            "albumID": 6017,
+            "trackNo": 2,
+            "title": "Cranberry",
+            "artist": "BEMANI Sound Team \"肥塚良彦\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0003",
+            "albumID": 6017,
+            "trackNo": 3,
+            "title": " †渚のリベンジΣ脈あり!?バケェ～ション†",
+            "artist": "とろピカるサマー Prim",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0004",
+            "albumID": 6017,
+            "trackNo": 4,
+            "title": "Reincarnation Of Dead Petal",
+            "artist": "BEMANI Sound Team \"Akhuta Works\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0005",
+            "albumID": 6017,
+            "trackNo": 5,
+            "title": "Elysion ex machina",
+            "artist": "OSTER project",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0006",
+            "albumID": 6017,
+            "trackNo": 6,
+            "title": "Time Lapse",
+            "artist": "Hommarju",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0007",
+            "albumID": 6017,
+            "trackNo": 7,
+            "title": "ZIGZAG COWBOY",
+            "artist": "BEMANI Sound Team \"劇団レコード\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0008",
+            "albumID": 6017,
+            "trackNo": 8,
+            "title": "Explore Every Ave.",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0009",
+            "albumID": 6017,
+            "trackNo": 9,
+            "title": "Liar×Girl",
+            "artist": "BEMANI Sound Team \"HuΣeR\" feat.ゆきまめ",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0010",
+            "albumID": 6017,
+            "trackNo": 10,
+            "title": "Crackpot Evangelist",
+            "artist": "BEMANI Sound Team \"ZAQUVA\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0011",
+            "albumID": 6017,
+            "trackNo": 11,
+            "title": "Lost Dream",
+            "artist": "Tatsunoshin",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0012",
+            "albumID": 6017,
+            "trackNo": 12,
+            "title": "brown hawk owl",
+            "artist": "BEMANI Sound Team \"S-C-U\"",
+            "openType": 1
+        },
+        {
             "gid": "ms_001_0001",
             "albumID": 9000,
             "trackNo": 1,
@@ -57036,6 +57137,54 @@
             "trackNo": 37,
             "title": "Shades of Day",
             "artist": "BEMANI Sound Team \"PON\"",
+            "openType": 1
+        },
+        {
+            "gid": "pm_060_0038",
+            "albumID": 2028,
+            "trackNo": 38,
+            "title": "Mystery at the bar",
+            "artist": "Tomoyuki Uchida",
+            "openType": 1
+        },
+        {
+            "gid": "pm_060_0039",
+            "albumID": 2028,
+            "trackNo": 39,
+            "title": "極悪の華",
+            "artist": "onoken feat.実咲",
+            "openType": 1
+        },
+        {
+            "gid": "pm_060_0040",
+            "albumID": 2028,
+            "trackNo": 40,
+            "title": "Mystery of my life",
+            "artist": "阿部靖広",
+            "openType": 1
+        },
+        {
+            "gid": "pm_060_0041",
+            "albumID": 2028,
+            "trackNo": 41,
+            "title": "青天ノ霹レキ",
+            "artist": "SOUND HOLIC feat. Nana Takahashi",
+            "openType": 1
+        },
+        {
+            "gid": "pm_060_0042",
+            "albumID": 2028,
+            "trackNo": 42,
+            "title": "鎬",
+            "artist": "RoughSkreamZ feat.らっぷびと",
+            "openType": 1
+        },
+        {
+            "gid": "pm_060_0043",
+            "albumID": 2028,
+            "trackNo": 43,
+            "title": "Slime Molds",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
             "openType": 1
         },
         {
