@@ -1,0 +1,292 @@
+{
+    "messages": [
+        {
+            "msg_id": 118,
+            "tag": "GAME",
+            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=31,83,104;MatchingType=1;TeamSyncType=1;",
+            "till_time": 1662512400000
+        },
+        {
+            "msg_id": 200,
+            "tag": "CLASS_PA1",
+            "message": "MP_13=9;MP_14=9;MP_15=9;MP_16=10;MP_17=11;MP_18=11;MP_19=11;MP_20=11;MP_21=11;MP_22=11;LP_07=50;LP_08=50;LP_09=50;LP_10=70;LP_11=70;LP_12=70;LP_13=90;LP_14=90;LP_15=100;LP_16=105;LP_17=102;LP_18=130;",
+            "till_time": 9223372036825200000
+        },
+        {
+            "msg_id": 201,
+            "tag": "CLASS_PA2",
+            "message": "CPW_10=50;CPW_11=50;CPW_12=50;",
+            "till_time": 9223372036825200000
+        },
+        {
+            "msg_id": 44,
+            "tag": "TIMER",
+            "message": "Matching=300;Matching_Beginner=120;Matching_Local=150;Standby=60;",
+            "till_time": 9223372036825200000
+        },
+        {
+            "msg_id": 144,
+            "tag": "GACHA",
+            "message": "tuika_gacha_rate=0,-2,-1,1,1,1;",
+            "till_time": 9223372036825200000
+        },
+        {
+            "msg_id": 1,
+            "tag": "R_MAP",
+            "message": "Map=31,83,104;",
+            "till_time": 1662483600000
+        }
+    ],
+    "events": [
+        {
+            "type": 1,
+            "phase": 54
+        },
+        {
+            "type": 4,
+            "phase": 1
+        },
+        {
+            "type": 4,
+            "phase": 4
+        },
+        {
+            "type": 4,
+            "phase": 14
+        },
+        {
+            "type": 4,
+            "phase": 17
+        },
+        {
+            "type": 4,
+            "phase": 18
+        },
+        {
+            "type": 4,
+            "phase": 19
+        },
+        {
+            "type": 4,
+            "phase": 22
+        },
+        {
+            "type": 4,
+            "phase": 23
+        },
+        {
+            "type": 4,
+            "phase": 33
+        },
+        {
+            "type": 4,
+            "phase": 36
+        },
+        {
+            "type": 4,
+            "phase": 37
+        },
+        {
+            "type": 4,
+            "phase": 38
+        },
+        {
+            "type": 4,
+            "phase": 39
+        },
+        {
+            "type": 4,
+            "phase": 40
+        },
+        {
+            "type": 4,
+            "phase": 41
+        },
+        {
+            "type": 4,
+            "phase": 42
+        },
+        {
+            "type": 4,
+            "phase": 43
+        },
+        {
+            "type": 4,
+            "phase": 44
+        },
+        {
+            "type": 4,
+            "phase": 46
+        },
+        {
+            "type": 4,
+            "phase": 47
+        },
+        {
+            "type": 4,
+            "phase": 52
+        },
+        {
+            "type": 4,
+            "phase": 53
+        },
+        {
+            "type": 4,
+            "phase": 55
+        },
+        {
+            "type": 4,
+            "phase": 56
+        },
+        {
+            "type": 4,
+            "phase": 57
+        },
+        {
+            "type": 5,
+            "phase": 4
+        },
+        {
+            "type": 7,
+            "phase": 12
+        },
+        {
+            "type": 8,
+            "phase": 4
+        },
+        {
+            "type": 9,
+            "phase": 13
+        },
+        {
+            "type": 9,
+            "phase": 14
+        },
+        {
+            "type": 9,
+            "phase": 15
+        },
+        {
+            "type": 9,
+            "phase": 16
+        },
+        {
+            "type": 9,
+            "phase": 17
+        },
+        {
+            "type": 9,
+            "phase": 18
+        },
+        {
+            "type": 9,
+            "phase": 19
+        },
+        {
+            "type": 10,
+            "phase": 1
+        }
+    ],
+    "event_info": [
+        {
+            "type": 5,
+            "phase": 4,
+            "str_date": "8/31(水) 10:00 am ～ 9/14(水) 9:59 am"
+        }
+    ],
+    "gacha": {
+        "id": 4,
+        "items": [
+            {
+                "item_id": 6,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 10,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1151,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1499,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1870,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2264,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 864,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1106,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 865,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1107,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 867,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1699,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 868,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2245,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 880,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1310,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1154,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1502,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1872,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2267,
+                "pick_rate": 1
+            }
+        ],
+        "pick_rate": [
+            {
+                "rare": 3,
+                "pick_rate": 80
+            },
+            {
+                "rare": 5,
+                "pick_rate": 80
+            }
+        ]
+    }
+}
