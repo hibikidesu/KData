@@ -1,0 +1,722 @@
+[
+    {
+        "season_id": 1,
+        "season_name": "SKILL ANALYZER 第1回",
+        "season_new_flg": false,
+        "course_id": 1,
+        "course_name": "SKILL ANALYZER Level.01",
+        "course_type": 0,
+        "skill_level": 1,
+        "skill_name_id": 1,
+        "matching_assist": true,
+        "clear_rate": 9204,
+        "avg_score": 27367102,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 682,
+                "music_type": 0
+            },
+            {
+                "track_no": 1,
+                "music_id": 987,
+                "music_type": 1
+            },
+            {
+                "track_no": 2,
+                "music_id": 756,
+                "music_type": 1
+            }
+        ]
+    },
+    {
+        "season_id": 4,
+        "season_name": "SKILL ANALYZER 第2回",
+        "season_new_flg": true,
+        "course_id": 1,
+        "course_name": "SKILL ANALYZER Level.01",
+        "course_type": 0,
+        "skill_level": 1,
+        "skill_name_id": 1,
+        "matching_assist": true,
+        "clear_rate": 9046,
+        "avg_score": 27478850,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 803,
+                "music_type": 0
+            },
+            {
+                "track_no": 1,
+                "music_id": 334,
+                "music_type": 1
+            },
+            {
+                "track_no": 2,
+                "music_id": 126,
+                "music_type": 0
+            }
+        ]
+    },
+    {
+        "season_id": 1,
+        "season_name": "SKILL ANALYZER 第1回",
+        "season_new_flg": false,
+        "course_id": 2,
+        "course_name": "SKILL ANALYZER Level.02",
+        "course_type": 0,
+        "skill_level": 2,
+        "skill_name_id": 2,
+        "matching_assist": true,
+        "clear_rate": 9278,
+        "avg_score": 27316522,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 65,
+                "music_type": 1
+            },
+            {
+                "track_no": 1,
+                "music_id": 614,
+                "music_type": 1
+            },
+            {
+                "track_no": 2,
+                "music_id": 1002,
+                "music_type": 1
+            }
+        ]
+    },
+    {
+        "season_id": 4,
+        "season_name": "SKILL ANALYZER 第2回",
+        "season_new_flg": true,
+        "course_id": 2,
+        "course_name": "SKILL ANALYZER Level.02",
+        "course_type": 0,
+        "skill_level": 2,
+        "skill_name_id": 2,
+        "matching_assist": true,
+        "clear_rate": 9344,
+        "avg_score": 28143770,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 283,
+                "music_type": 1
+            },
+            {
+                "track_no": 1,
+                "music_id": 181,
+                "music_type": 1
+            },
+            {
+                "track_no": 2,
+                "music_id": 1079,
+                "music_type": 1
+            }
+        ]
+    },
+    {
+        "season_id": 1,
+        "season_name": "SKILL ANALYZER 第1回",
+        "season_new_flg": false,
+        "course_id": 3,
+        "course_name": "SKILL ANALYZER Level.03",
+        "course_type": 0,
+        "skill_level": 3,
+        "skill_name_id": 3,
+        "matching_assist": true,
+        "clear_rate": 9327,
+        "avg_score": 27296820,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 603,
+                "music_type": 1
+            },
+            {
+                "track_no": 1,
+                "music_id": 799,
+                "music_type": 1
+            },
+            {
+                "track_no": 2,
+                "music_id": 346,
+                "music_type": 1
+            }
+        ]
+    },
+    {
+        "season_id": 4,
+        "season_name": "SKILL ANALYZER 第2回",
+        "season_new_flg": true,
+        "course_id": 3,
+        "course_name": "SKILL ANALYZER Level.03",
+        "course_type": 0,
+        "skill_level": 3,
+        "skill_name_id": 3,
+        "matching_assist": true,
+        "clear_rate": 8823,
+        "avg_score": 27233864,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 860,
+                "music_type": 1
+            },
+            {
+                "track_no": 1,
+                "music_id": 620,
+                "music_type": 1
+            },
+            {
+                "track_no": 2,
+                "music_id": 1650,
+                "music_type": 1
+            }
+        ]
+    },
+    {
+        "season_id": 1,
+        "season_name": "SKILL ANALYZER 第1回",
+        "season_new_flg": false,
+        "course_id": 4,
+        "course_name": "SKILL ANALYZER Level.04",
+        "course_type": 0,
+        "skill_level": 4,
+        "skill_name_id": 4,
+        "matching_assist": true,
+        "clear_rate": 9375,
+        "avg_score": 27161203,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 497,
+                "music_type": 1
+            },
+            {
+                "track_no": 1,
+                "music_id": 1021,
+                "music_type": 1
+            },
+            {
+                "track_no": 2,
+                "music_id": 800,
+                "music_type": 1
+            }
+        ]
+    },
+    {
+        "season_id": 4,
+        "season_name": "SKILL ANALYZER 第2回",
+        "season_new_flg": true,
+        "course_id": 4,
+        "course_name": "SKILL ANALYZER Level.04",
+        "course_type": 0,
+        "skill_level": 4,
+        "skill_name_id": 4,
+        "matching_assist": true,
+        "clear_rate": 8550,
+        "avg_score": 27016990,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 969,
+                "music_type": 1
+            },
+            {
+                "track_no": 1,
+                "music_id": 343,
+                "music_type": 1
+            },
+            {
+                "track_no": 2,
+                "music_id": 851,
+                "music_type": 1
+            }
+        ]
+    },
+    {
+        "season_id": 1,
+        "season_name": "SKILL ANALYZER 第1回",
+        "season_new_flg": false,
+        "course_id": 5,
+        "course_name": "SKILL ANALYZER Level.05",
+        "course_type": 0,
+        "skill_level": 5,
+        "skill_name_id": 5,
+        "matching_assist": true,
+        "clear_rate": 7254,
+        "avg_score": 26169897,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 537,
+                "music_type": 1
+            },
+            {
+                "track_no": 1,
+                "music_id": 403,
+                "music_type": 2
+            },
+            {
+                "track_no": 2,
+                "music_id": 775,
+                "music_type": 2
+            }
+        ]
+    },
+    {
+        "season_id": 4,
+        "season_name": "SKILL ANALYZER 第2回",
+        "season_new_flg": true,
+        "course_id": 5,
+        "course_name": "SKILL ANALYZER Level.05",
+        "course_type": 0,
+        "skill_level": 5,
+        "skill_name_id": 5,
+        "matching_assist": true,
+        "clear_rate": 6434,
+        "avg_score": 23540589,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 392,
+                "music_type": 1
+            },
+            {
+                "track_no": 1,
+                "music_id": 601,
+                "music_type": 2
+            },
+            {
+                "track_no": 2,
+                "music_id": 665,
+                "music_type": 2
+            }
+        ]
+    },
+    {
+        "season_id": 1,
+        "season_name": "SKILL ANALYZER 第1回",
+        "season_new_flg": false,
+        "course_id": 6,
+        "course_name": "SKILL ANALYZER Level.06",
+        "course_type": 0,
+        "skill_level": 6,
+        "skill_name_id": 6,
+        "matching_assist": true,
+        "clear_rate": 8235,
+        "avg_score": 25776251,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 890,
+                "music_type": 2
+            },
+            {
+                "track_no": 1,
+                "music_id": 891,
+                "music_type": 2
+            },
+            {
+                "track_no": 2,
+                "music_id": 1423,
+                "music_type": 2
+            }
+        ]
+    },
+    {
+        "season_id": 4,
+        "season_name": "SKILL ANALYZER 第2回",
+        "season_new_flg": true,
+        "course_id": 6,
+        "course_name": "SKILL ANALYZER Level.06",
+        "course_type": 0,
+        "skill_level": 6,
+        "skill_name_id": 6,
+        "matching_assist": true,
+        "clear_rate": 6916,
+        "avg_score": 24119552,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 1441,
+                "music_type": 2
+            },
+            {
+                "track_no": 1,
+                "music_id": 232,
+                "music_type": 2
+            },
+            {
+                "track_no": 2,
+                "music_id": 1472,
+                "music_type": 2
+            }
+        ]
+    },
+    {
+        "season_id": 1,
+        "season_name": "SKILL ANALYZER 第1回",
+        "season_new_flg": false,
+        "course_id": 7,
+        "course_name": "SKILL ANALYZER Level.07",
+        "course_type": 0,
+        "skill_level": 7,
+        "skill_name_id": 7,
+        "matching_assist": true,
+        "clear_rate": 8565,
+        "avg_score": 27394906,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 784,
+                "music_type": 2
+            },
+            {
+                "track_no": 1,
+                "music_id": 979,
+                "music_type": 2
+            },
+            {
+                "track_no": 2,
+                "music_id": 492,
+                "music_type": 2
+            }
+        ]
+    },
+    {
+        "season_id": 4,
+        "season_name": "SKILL ANALYZER 第2回",
+        "season_new_flg": true,
+        "course_id": 7,
+        "course_name": "SKILL ANALYZER Level.07",
+        "course_type": 0,
+        "skill_level": 7,
+        "skill_name_id": 7,
+        "matching_assist": true,
+        "clear_rate": 7762,
+        "avg_score": 25511849,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 862,
+                "music_type": 2
+            },
+            {
+                "track_no": 1,
+                "music_id": 22,
+                "music_type": 3
+            },
+            {
+                "track_no": 2,
+                "music_id": 519,
+                "music_type": 2
+            }
+        ]
+    },
+    {
+        "season_id": 1,
+        "season_name": "SKILL ANALYZER 第1回",
+        "season_new_flg": false,
+        "course_id": 8,
+        "course_name": "SKILL ANALYZER Level.08",
+        "course_type": 0,
+        "skill_level": 8,
+        "skill_name_id": 8,
+        "matching_assist": false,
+        "clear_rate": 8433,
+        "avg_score": 26775773,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 878,
+                "music_type": 4
+            },
+            {
+                "track_no": 1,
+                "music_id": 1155,
+                "music_type": 4
+            },
+            {
+                "track_no": 2,
+                "music_id": 541,
+                "music_type": 2
+            }
+        ]
+    },
+    {
+        "season_id": 4,
+        "season_name": "SKILL ANALYZER 第2回",
+        "season_new_flg": true,
+        "course_id": 8,
+        "course_name": "SKILL ANALYZER Level.08",
+        "course_type": 0,
+        "skill_level": 8,
+        "skill_name_id": 8,
+        "matching_assist": false,
+        "clear_rate": 6936,
+        "avg_score": 25084491,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 622,
+                "music_type": 2
+            },
+            {
+                "track_no": 1,
+                "music_id": 1562,
+                "music_type": 2
+            },
+            {
+                "track_no": 2,
+                "music_id": 398,
+                "music_type": 2
+            }
+        ]
+    },
+    {
+        "season_id": 1,
+        "season_name": "SKILL ANALYZER 第1回",
+        "season_new_flg": false,
+        "course_id": 9,
+        "course_name": "SKILL ANALYZER Level.09",
+        "course_type": 0,
+        "skill_level": 9,
+        "skill_name_id": 9,
+        "matching_assist": false,
+        "clear_rate": 8125,
+        "avg_score": 25582821,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 1306,
+                "music_type": 2
+            },
+            {
+                "track_no": 1,
+                "music_id": 1309,
+                "music_type": 2
+            },
+            {
+                "track_no": 2,
+                "music_id": 802,
+                "music_type": 2
+            }
+        ]
+    },
+    {
+        "season_id": 4,
+        "season_name": "SKILL ANALYZER 第2回",
+        "season_new_flg": true,
+        "course_id": 9,
+        "course_name": "SKILL ANALYZER Level.09",
+        "course_type": 0,
+        "skill_level": 9,
+        "skill_name_id": 9,
+        "matching_assist": false,
+        "clear_rate": 6975,
+        "avg_score": 25179961,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 1563,
+                "music_type": 3
+            },
+            {
+                "track_no": 1,
+                "music_id": 120,
+                "music_type": 3
+            },
+            {
+                "track_no": 2,
+                "music_id": 581,
+                "music_type": 2
+            }
+        ]
+    },
+    {
+        "season_id": 1,
+        "season_name": "SKILL ANALYZER 第1回",
+        "season_new_flg": false,
+        "course_id": 10,
+        "course_name": "SKILL ANALYZER Level.10",
+        "course_type": 0,
+        "skill_level": 10,
+        "skill_name_id": 10,
+        "matching_assist": false,
+        "clear_rate": 8577,
+        "avg_score": 26750210,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 847,
+                "music_type": 2
+            },
+            {
+                "track_no": 1,
+                "music_id": 716,
+                "music_type": 2
+            },
+            {
+                "track_no": 2,
+                "music_id": 615,
+                "music_type": 2
+            }
+        ]
+    },
+    {
+        "season_id": 4,
+        "season_name": "SKILL ANALYZER 第2回",
+        "season_new_flg": true,
+        "course_id": 10,
+        "course_name": "SKILL ANALYZER Level.10",
+        "course_type": 0,
+        "skill_level": 10,
+        "skill_name_id": 10,
+        "matching_assist": false,
+        "clear_rate": 8733,
+        "avg_score": 26571353,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 139,
+                "music_type": 3
+            },
+            {
+                "track_no": 1,
+                "music_id": 1552,
+                "music_type": 3
+            },
+            {
+                "track_no": 2,
+                "music_id": 834,
+                "music_type": 4
+            }
+        ]
+    },
+    {
+        "season_id": 5,
+        "season_name": "SKILL ANALYZER 第2回 Aコース",
+        "season_new_flg": true,
+        "course_id": 11,
+        "course_name": "SKILL ANALYZER Level.11",
+        "course_type": 3,
+        "skill_level": 11,
+        "skill_name_id": 11,
+        "matching_assist": false,
+        "clear_rate": 8019,
+        "avg_score": 25591583,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 1558,
+                "music_type": 3
+            },
+            {
+                "track_no": 1,
+                "music_id": 1775,
+                "music_type": 4
+            },
+            {
+                "track_no": 2,
+                "music_id": 1096,
+                "music_type": 4
+            }
+        ]
+    },
+    {
+        "season_id": 6,
+        "season_name": "SKILL ANALYZER 第2回 Bコース",
+        "season_new_flg": true,
+        "course_id": 11,
+        "course_name": "SKILL ANALYZER Level.11",
+        "course_type": 3,
+        "skill_level": 11,
+        "skill_name_id": 11,
+        "matching_assist": false,
+        "clear_rate": 7847,
+        "avg_score": 25338168,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 1072,
+                "music_type": 4
+            },
+            {
+                "track_no": 1,
+                "music_id": 1779,
+                "music_type": 4
+            },
+            {
+                "track_no": 2,
+                "music_id": 1554,
+                "music_type": 3
+            }
+        ]
+    },
+    {
+        "season_id": 5,
+        "season_name": "SKILL ANALYZER 第2回 Aコース",
+        "season_new_flg": true,
+        "course_id": 12,
+        "course_name": "SKILL ANALYZER Level.∞",
+        "course_type": 3,
+        "skill_level": 12,
+        "skill_name_id": 12,
+        "matching_assist": false,
+        "clear_rate": 5400,
+        "avg_score": 24698721,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 636,
+                "music_type": 3
+            },
+            {
+                "track_no": 1,
+                "music_id": 367,
+                "music_type": 3
+            },
+            {
+                "track_no": 2,
+                "music_id": 1766,
+                "music_type": 4
+            }
+        ]
+    },
+    {
+        "season_id": 6,
+        "season_name": "SKILL ANALYZER 第2回 Bコース",
+        "season_new_flg": true,
+        "course_id": 12,
+        "course_name": "SKILL ANALYZER Level.∞",
+        "course_type": 3,
+        "skill_level": 12,
+        "skill_name_id": 12,
+        "matching_assist": false,
+        "clear_rate": 5856,
+        "avg_score": 24713071,
+        "tracks": [
+            {
+                "track_no": 0,
+                "music_id": 1769,
+                "music_type": 4
+            },
+            {
+                "track_no": 1,
+                "music_id": 1768,
+                "music_type": 4
+            },
+            {
+                "track_no": 2,
+                "music_id": 1767,
+                "music_type": 4
+            }
+        ]
+    }
+]
