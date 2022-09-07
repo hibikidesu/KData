@@ -36428,6 +36428,94 @@
             "jacket_disable": 1,
             "start_date": 1661302800,
             "end_date": 4825530000
+        },
+        {
+            "purchase_id": 1062,
+            "product_id": "jbt_IAB2432",
+            "pack_id": 2432,
+            "pack_name": "SOUND VOLTEX pack 4",
+            "disp_pack_name": "SOUND VOLTEX pack 4",
+            "music_list": [
+                {
+                    "music_id": 100060156,
+                    "fumen_list": [
+                        "4d212d4b-30ed-447d-99f9-05e34f46cb79",
+                        "e22c7d57-4522-49b5-8049-cd0091a4e2e9",
+                        "7fab9a0c-78be-4dff-90d3-632ef5956a5b",
+                        "7ca5fe43-4c94-48cc-9faa-2b05ab832a9f"
+                    ]
+                },
+                {
+                    "music_id": 100060157,
+                    "fumen_list": [
+                        "4d212d4b-30ed-447d-99f9-05e34f46cb79",
+                        "e22c7d57-4522-49b5-8049-cd0091a4e2e9",
+                        "7fab9a0c-78be-4dff-90d3-632ef5956a5b",
+                        "7ca5fe43-4c94-48cc-9faa-2b05ab832a9f",
+                        "9641eaa4-ff32-4ab3-b1ad-41ac96d3b334",
+                        "5ae70734-aeb3-4598-8ddb-92375dac02fe",
+                        "e759d43f-ced3-479e-850e-9acd44ea2bcd",
+                        "64dfedfe-250b-401c-90da-52e1b3e7f0e9"
+                    ]
+                },
+                {
+                    "music_id": 100060160,
+                    "fumen_list": [
+                        "4d212d4b-30ed-447d-99f9-05e34f46cb79",
+                        "e22c7d57-4522-49b5-8049-cd0091a4e2e9",
+                        "7fab9a0c-78be-4dff-90d3-632ef5956a5b",
+                        "7ca5fe43-4c94-48cc-9faa-2b05ab832a9f",
+                        "9641eaa4-ff32-4ab3-b1ad-41ac96d3b334",
+                        "5ae70734-aeb3-4598-8ddb-92375dac02fe",
+                        "e759d43f-ced3-479e-850e-9acd44ea2bcd",
+                        "64dfedfe-250b-401c-90da-52e1b3e7f0e9",
+                        "7a7c9f49-f829-448e-8907-13f6c8627e67",
+                        "862db3c2-7b59-4045-b706-8319ac2e1571",
+                        "e76285b4-0bce-49f3-9c55-439fc865ba5c",
+                        "b5d71baa-4db3-4ada-88e9-024afa334cd8"
+                    ]
+                },
+                {
+                    "music_id": 100060161,
+                    "fumen_list": [
+                        "4d212d4b-30ed-447d-99f9-05e34f46cb79",
+                        "e22c7d57-4522-49b5-8049-cd0091a4e2e9",
+                        "7fab9a0c-78be-4dff-90d3-632ef5956a5b",
+                        "7ca5fe43-4c94-48cc-9faa-2b05ab832a9f",
+                        "9641eaa4-ff32-4ab3-b1ad-41ac96d3b334",
+                        "5ae70734-aeb3-4598-8ddb-92375dac02fe",
+                        "e759d43f-ced3-479e-850e-9acd44ea2bcd",
+                        "64dfedfe-250b-401c-90da-52e1b3e7f0e9",
+                        "7a7c9f49-f829-448e-8907-13f6c8627e67",
+                        "862db3c2-7b59-4045-b706-8319ac2e1571",
+                        "e76285b4-0bce-49f3-9c55-439fc865ba5c",
+                        "b5d71baa-4db3-4ada-88e9-024afa334cd8",
+                        "0e19273a-2a75-4be8-abf0-49bfd5072884",
+                        "1f83f5d9-7e0f-4265-adce-a460e7c4fa03",
+                        "de498cf3-54c8-44f8-9f86-4efad2d2b949",
+                        "3fc3af41-003b-4e40-a4ab-0163395c7897"
+                    ]
+                }
+            ],
+            "category": [
+                7
+            ],
+            "new_flag": 1,
+            "comment": "",
+            "short_comment": "",
+            "pack_small_jacket": "Konami/AssetBundles/Album/Store/Jackets/2432_pack_jacket.png",
+            "pack_big_jacket": "Konami/AssetBundles/Album/Store/Jackets/2432_pack_jacket.png",
+            "copyright": "",
+            "order_rank": 1004,
+            "artist_url": "",
+            "artist_url_label": "",
+            "price": 500,
+            "cash_flg": 0,
+            "jblock_flg": 1,
+            "item_id": 100,
+            "jacket_disable": 1,
+            "start_date": 1662512400,
+            "end_date": 4825530000
         }
     ]
 }
