@@ -1,10 +1,10 @@
 {
     "messages": [
         {
-            "msg_id": 120,
+            "msg_id": 121,
             "tag": "GAME",
-            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=32,132,102;MatchingType=1;TeamSyncType=1;",
-            "till_time": 1663722000000
+            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=31,5,53;MatchingType=1;TeamSyncType=1;",
+            "till_time": 1664931600000
         },
         {
             "msg_id": 200,
@@ -29,6 +29,12 @@
             "tag": "GACHA",
             "message": "tuika_gacha_rate=0,-2,-1,1,1,1;",
             "till_time": 9223372036825200000
+        },
+        {
+            "msg_id": 2,
+            "tag": "R_MAP",
+            "message": "Map=31,5,53;",
+            "till_time": 1664931600000
         }
     ],
     "events": [
