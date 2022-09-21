@@ -1,5 +1,15 @@
 [
     {
+        "id": 174,
+        "category": 3,
+        "title": "楽曲パック『SOUND VOLTEX pack 5』追加のおしらせ",
+        "start_date": "2022-09-21 10:39:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20220921_0_info_pack.html",
+        "pick_up_flg": 1,
+        "view_flg": 0
+    },
+    {
         "id": 173,
         "category": 4,
         "title": "iOS16対応についてのお知らせ",
