@@ -15356,6 +15356,22 @@
         "stage": 17
     },
     {
+        "mcode": 38554,
+        "basename": "akib",
+        "title": "THE ANCIENT KING IS BACK",
+        "title_sort": "theancientkingisback",
+        "artist": "BEMANI Sound Team \"L.E.D.-G\"",
+        "bpmmax": 160,
+        "bpmmin": 160,
+        "level_str": "3 7 11 14 0 0 7 11 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 14
+    },
+    {
         "mcode": 38555,
         "basename": "eape",
         "title": "Easy Peasy",
