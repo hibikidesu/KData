@@ -15574,5 +15574,42 @@
         "limited": 2,
         "bemaniflag": 6144,
         "stage": 28
+    },
+    {
+        "mcode": 38561,
+        "basename": "waku",
+        "title": "惑星☆ロリポップ",
+        "title_sort": "ワクセイロリホツフ",
+        "artist": "SOUND HOLIC feat. Nana Takahashi",
+        "bpmmax": 180,
+        "bpmmin": 180,
+        "level_str": "2 5 11 15 0 0 5 11 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "bemaniflag": 72,
+        "eventno_1": 64,
+        "movie": 1,
+        "stage": 5
+    },
+    {
+        "mcode": 38562,
+        "basename": "bone",
+        "title": "BONE BORN",
+        "title_sort": "boneborn",
+        "artist": "MARON (IOSYS)",
+        "bpmmax": 135,
+        "bpmmin": 135,
+        "level_str": "1 5 10 13 0 0 5 11 14 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "bemaniflag": 2048,
+        "eventno_1": 64,
+        "stage": 5
     }
 ]
