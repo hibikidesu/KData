@@ -3899,6 +3899,86 @@
             "mp_gid": "sv_105_0022",
             "mp_flag": 1,
             "is_new": 0
+        },
+        {
+            "mp_gid": "dr_010_0012",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_010_0013",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_010_0014",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_010_0015",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_010_0016",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_010_0017",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_010_0018",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_010_0019",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_010_0021",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_010_0022",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_010_0023",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ds_001_0157",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ds_001_0158",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ds_001_0159",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ds_001_0160",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ds_001_0161",
+            "mp_flag": 0,
+            "is_new": 1
         }
     ]
 }
