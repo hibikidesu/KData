@@ -138,7 +138,7 @@
         ]
     },
     "release_code": "2022072600",
-    "revision": "22224M",
+    "revision": "22343M",
     "music_list": [
         {
             "index": "1",
@@ -5828,11 +5828,11 @@
             "jk_idn": false,
             "unlock_type": 4,
             "real_unlock_type": 4,
-            "start_date": "2022-10-02 10:00",
+            "start_date": "2100-05-02 10:00",
             "end_date": "9999-12-31 23:59",
             "real_once_price": 0,
             "real_forever_price": 0,
-            "real_start_date": "2022-10-02 10:00",
+            "real_start_date": "9999-12-31 23:59",
             "real_end_date": "9999-12-31 23:59",
             "pack_id": 0
         },
