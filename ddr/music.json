@@ -15476,6 +15476,24 @@
         "stage": 17
     },
     {
+        "mcode": 38551,
+        "basename": "itiz",
+        "title": "一途",
+        "title_sort": "イチス",
+        "artist": "",
+        "bpmmax": 160,
+        "bpmmin": 160,
+        "level_str": "2 6 12 15 0 0 6 12 15 0",
+        "editable": false,
+        "is_konaste_music": true,
+        "is_streaming": true,
+        "seriesid": 1,
+        "ac_seriesid": 0,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 2
+    },
+    {
         "mcode": 38554,
         "basename": "akib",
         "title": "THE ANCIENT KING IS BACK",
