@@ -1,12 +1,22 @@
 [
     {
+        "id": 177,
+        "category": 5,
+        "title": "【時間変更】Apple社による価格帯変更に伴う対応のお知らせ",
+        "start_date": "2022-10-03 13:30:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_mainte.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20221003_0_important_info.html",
+        "pick_up_flg": 1,
+        "view_flg": 0
+    },
+    {
         "id": 176,
         "category": 5,
         "title": "Apple社による価格帯変更に伴う対応のお知らせ",
         "start_date": "2022-09-28 16:30:00",
         "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_mainte.png",
         "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20220928_0_important_info.html",
-        "pick_up_flg": 1,
+        "pick_up_flg": 0,
         "view_flg": 0
     },
     {
