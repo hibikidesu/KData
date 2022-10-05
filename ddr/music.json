@@ -14115,6 +14115,22 @@
         "stage": 30
     },
     {
+        "mcode": 38451,
+        "basename": "lmsy",
+        "title": "Let Me Show You",
+        "title_sort": "letmeshowyou",
+        "artist": "Whac-A-Me",
+        "bpmmax": 170,
+        "bpmmin": 170,
+        "level_str": "3 7 11 15 0 0 7 11 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 14
+    },
+    {
         "mcode": 38453,
         "basename": "cbmf",
         "title": "Come Back to Me (Feel It)",
