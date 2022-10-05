@@ -40,16 +40,6 @@
         "view_flg": 0
     },
     {
-        "id": 173,
-        "category": 4,
-        "title": "iOS16対応についてのお知らせ",
-        "start_date": "2022-09-09 17:25:00",
-        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_update.png",
-        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20220909_0_important_info.html",
-        "pick_up_flg": 1,
-        "view_flg": 0
-    },
-    {
         "id": 172,
         "category": 3,
         "title": "楽曲パック『SOUND VOLTEX pack 4』追加のおしらせ",
