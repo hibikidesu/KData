@@ -1,16 +1,16 @@
 [
     {
-        "gacha_id": 76,
+        "gacha_id": 77,
         "gacha_type": 1,
-        "name": "jubeat\uff08\u30e6\u30d3\u30fc\u30c8\uff09",
-        "disp_name": "jubeat\uff08\u30e6\u30d3\u30fc\u30c8\uff09",
+        "name": "\u30db\u30ed\u30e9\u30a4\u30d6",
+        "disp_name": "\u30db\u30ed\u30e9\u30a4\u30d6",
         "comment": "",
         "new_flag": 1,
-        "gacha_item_num": 4,
+        "gacha_item_num": 6,
         "limit_type": 0,
         "limit_num": 0,
-        "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/76_jacket.png",
-        "gacha_big_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/76_jacket.png",
+        "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/77_jacket.png",
+        "gacha_big_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/77_jacket.png",
         "accessibility": 1,
         "price_type": [
             1
@@ -20,15 +20,17 @@
         "gacha_1_flg": 1,
         "gacha_10_flg": 1,
         "music_list": [
-            100060195,
-            100060196,
-            100060197,
-            100060198
+            351580001,
+            351580002,
+            351580101,
+            351580201,
+            351580301,
+            351580401
         ],
         "extra_time_type": 0,
-        "start_time": 1657069200,
+        "start_time": 1665104400,
         "end_time": 5711734800,
-        "playable_date": 0,
+        "playable_date": 1665130340,
         "10_disp_flg": 1,
         "sort_id": 1
     },
@@ -90,6 +92,39 @@
         ],
         "extra_time_type": 0,
         "start_time": 1656032400,
+        "end_time": 5711734800,
+        "playable_date": 0,
+        "10_disp_flg": 1,
+        "sort_id": 2
+    },
+    {
+        "gacha_id": 76,
+        "gacha_type": 1,
+        "name": "jubeat\uff08\u30e6\u30d3\u30fc\u30c8\uff09",
+        "disp_name": "jubeat\uff08\u30e6\u30d3\u30fc\u30c8\uff09",
+        "comment": "",
+        "new_flag": 1,
+        "gacha_item_num": 4,
+        "limit_type": 0,
+        "limit_num": 0,
+        "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/76_jacket.png",
+        "gacha_big_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/76_jacket.png",
+        "accessibility": 1,
+        "price_type": [
+            1
+        ],
+        "gacha_1_price": 1000,
+        "gacha_10_price": 10000,
+        "gacha_1_flg": 1,
+        "gacha_10_flg": 1,
+        "music_list": [
+            100060195,
+            100060196,
+            100060197,
+            100060198
+        ],
+        "extra_time_type": 0,
+        "start_time": 1657069200,
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
