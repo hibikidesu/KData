@@ -1,10 +1,10 @@
 {
     "messages": [
         {
-            "msg_id": 122,
+            "msg_id": 123,
             "tag": "GAME",
-            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=130,28,84;MatchingType=1;TeamSyncType=1;",
-            "till_time": 1666141200000
+            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=131,52,104;MatchingType=1;TeamSyncType=1;",
+            "till_time": 1667264400000
         },
         {
             "msg_id": 200,
@@ -127,6 +127,10 @@
         {
             "type": 4,
             "phase": 53
+        },
+        {
+            "type": 4,
+            "phase": 54
         },
         {
             "type": 4,
