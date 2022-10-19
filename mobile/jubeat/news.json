@@ -1,5 +1,15 @@
 [
     {
+        "id": 180,
+        "category": 3,
+        "title": "楽曲パック『SOUND VOLTEX pack 7』と単曲パック追加のおしらせ",
+        "start_date": "2022-10-19 11:30:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20221019_0_info_pack.html",
+        "pick_up_flg": 1,
+        "view_flg": 0
+    },
+    {
         "id": 179,
         "category": 6,
         "title": "現在確認している不具合について(2022.10.07 13:30更新)",
