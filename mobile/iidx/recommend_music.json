@@ -1,41 +1,41 @@
 [
     {
-        "recommended_id": 904,
+        "recommended_id": 908,
         "type": 1,
         "message": "",
         "reward_id": 101,
-        "start_date": "2022-10-20 00:00:00",
-        "end_date": "2022-10-20 23:59:59",
+        "start_date": "2022-10-24 00:00:00",
+        "end_date": "2022-10-24 23:59:59",
         "recommended_music_list": [
             {
-                "recommended_no": 2,
-                "music_id": 16009
+                "recommended_no": 1,
+                "music_id": 11013
             },
             {
-                "recommended_no": 1,
-                "music_id": 19003
+                "recommended_no": 2,
+                "music_id": 24081
             },
             {
                 "recommended_no": 0,
-                "music_id": 26069
+                "music_id": 27032
             }
         ]
     },
     {
-        "recommended_id": 5114,
+        "recommended_id": 5115,
         "type": 2,
-        "message": "かわいい曲でオススメです♪",
+        "message": "ロックな曲はどうですか？",
         "reward_id": 0,
-        "start_date": "2022-10-17 00:00:00",
-        "end_date": "2022-10-23 23:59:59",
+        "start_date": "2022-10-24 00:00:00",
+        "end_date": "2022-10-30 23:59:59",
         "recommended_music_list": [
             {
                 "recommended_no": 1,
-                "music_id": 20007
+                "music_id": 12000
             },
             {
                 "recommended_no": 0,
-                "music_id": 21030
+                "music_id": 14055
             }
         ]
     }
