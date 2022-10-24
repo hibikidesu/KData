@@ -3437,7 +3437,6 @@
         "level_str": "2 6 10 14 0 0 6 11 14 0",
         "music_pack_no": 13,
         "editable": false,
-        "is_streaming": true,
         "seriesid": 0,
         "ac_seriesid": 20,
         "limited": 1,
@@ -4434,7 +4433,6 @@
         "level_str": "2 6 9 12 0 0 6 9 12 0",
         "music_pack_no": 13,
         "editable": false,
-        "is_streaming": true,
         "seriesid": 0,
         "ac_seriesid": 20,
         "limited": 1,
@@ -9241,7 +9239,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 15,
-        "limited_cha": 1,
         "bemaniflag": 2267,
         "movie": 4,
         "movieoffset": 4096,
@@ -11948,7 +11945,7 @@
         "artist": "DJ Shimamura",
         "bpmmax": 175,
         "bpmmin": 175,
-        "level_str": "4 9 12 16 0 0 9 12 16 0",
+        "level_str": "4 9 12 16 17 0 9 12 16 17",
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 18,
@@ -12100,7 +12097,7 @@
         "artist": "Cranky",
         "bpmmax": 175,
         "bpmmin": 175,
-        "level_str": "4 9 12 16 0 0 9 12 16 0",
+        "level_str": "4 9 12 16 17 0 9 12 16 17",
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 18,
@@ -12135,7 +12132,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 18,
-        "limited_cha": 1,
         "stage": 31
     },
     {
@@ -12491,7 +12487,7 @@
         "artist": "BEMANI Sound Team \"劇団レコード\" ft.Lisa - paint with stars",
         "bpmmax": 150,
         "bpmmin": 150,
-        "level_str": "4 7 11 14 0 0 6 11 14 0",
+        "level_str": "4 7 11 14 16 0 6 11 14 16",
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 18,
@@ -13592,7 +13588,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 11,
         "limited_cha": 1,
         "stage": 17
     },
@@ -13755,7 +13750,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 12,
+        "limited": 11,
         "limited_cha": 1,
         "stage": 15
     },
@@ -14173,7 +14168,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 13,
+        "limited": 12,
         "limited_cha": 1,
         "stage": 14
     },
@@ -14221,7 +14216,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
+        "limited": 13,
         "limited_cha": 1,
         "stage": 30
     },
@@ -14268,7 +14263,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 5,
         "limited_cha": 1,
         "stage": 31
     },
@@ -15129,6 +15123,22 @@
         "stage": 15
     },
     {
+        "mcode": 38519,
+        "basename": "debu",
+        "title": "Debug Dance",
+        "title_sort": "debugdance",
+        "artist": "lapix",
+        "bpmmax": 151,
+        "bpmmin": 151,
+        "level_str": "3 8 11 15 0 0 8 11 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "stage": 15
+    },
+    {
         "mcode": 38520,
         "basename": "leda",
         "title": "Let's DANCE aROUND!!",
@@ -15140,7 +15150,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited_cha": 1,
         "bemaniflag": 4096,
         "stage": 2
     },
@@ -15521,7 +15530,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
+        "limited": 5,
         "limited_cha": 1,
         "stage": 14
     },
@@ -15645,5 +15654,21 @@
         "bemaniflag": 2048,
         "eventno_1": 64,
         "stage": 5
+    },
+    {
+        "mcode": 38574,
+        "basename": "k\f\"",
+        "title": "Awakening Wings",
+        "title_sort": "awakeningwings",
+        "artist": "伊達朱里紗",
+        "bpmmax": 190,
+        "bpmmin": 190,
+        "level_str": "2 5 10 11 0 0 5 10 11 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 2
     }
 ]
