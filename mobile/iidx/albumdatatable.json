@@ -176,6 +176,11 @@
             "category": 0
         },
         {
+            "albumID": 1035,
+            "title": "beatmania IIDX 30 RESIDENT ON GAME",
+            "category": 0
+        },
+        {
             "albumID": 2000,
             "title": "pop'n music original soundtrack",
             "category": 2
@@ -20396,6 +20401,46 @@
             "openType": 1
         },
         {
+            "gid": "bm_063_0062",
+            "albumID": 1034,
+            "trackNo": 62,
+            "title": "AMICABLE",
+            "artist": "BEMANI Sound Team \"Sota F.\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_063_0063",
+            "albumID": 1034,
+            "trackNo": 63,
+            "title": "Get set, Go! feat.Kanae Asaba",
+            "artist": "MK",
+            "openType": 1
+        },
+        {
+            "gid": "bm_063_0064",
+            "albumID": 1034,
+            "trackNo": 64,
+            "title": "10000 MILES AWAY",
+            "artist": "AJURIKA",
+            "openType": 1
+        },
+        {
+            "gid": "bm_063_0065",
+            "albumID": 1034,
+            "trackNo": 65,
+            "title": "Arkadia",
+            "artist": "Hommarju ft. Mayumi Morinaga",
+            "openType": 1
+        },
+        {
+            "gid": "bm_063_0066",
+            "albumID": 1034,
+            "trackNo": 66,
+            "title": "hard-wired",
+            "artist": "Yuta Imai ≡ Blacklolita",
+            "openType": 1
+        },
+        {
             "gid": "bs_001_0001",
             "albumID": 8000,
             "trackNo": 1,
@@ -21794,6 +21839,22 @@
             "title": "Make That Body",
             "artist": "kors k vs Yooh",
             "openType": 1
+        },
+        {
+            "gid": "ds_001_0162",
+            "albumID": 3000,
+            "trackNo": 162,
+            "title": "Warpstep",
+            "artist": "DJ Shimamura",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0163",
+            "albumID": 3000,
+            "trackNo": 163,
+            "title": "Tropical White",
+            "artist": "星宮とと+TEMPLIME",
+            "openType": 0
         },
         {
             "gid": "ev_001_0001",
@@ -40500,6 +40561,30 @@
             "openType": 1
         },
         {
+            "gid": "jb_019_0013",
+            "albumID": 6017,
+            "trackNo": 13,
+            "title": "和beat",
+            "artist": "Flash back Dominant",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0014",
+            "albumID": 6017,
+            "trackNo": 14,
+            "title": "見えない星の渡り方",
+            "artist": "Capchii feat. ことの",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0015",
+            "albumID": 6017,
+            "trackNo": 15,
+            "title": "Anubis",
+            "artist": "ARForest",
+            "openType": 1
+        },
+        {
             "gid": "ms_001_0001",
             "albumID": 9000,
             "trackNo": 1,
@@ -43113,6 +43198,102 @@
             "trackNo": 29,
             "title": "Un Happy Heart",
             "artist": "onoken",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0030",
+            "albumID": 5002,
+            "trackNo": 30,
+            "title": "Datte! Brand-New Me!!",
+            "artist": "カタオカツグミ feat. みずたま",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0031",
+            "albumID": 5002,
+            "trackNo": 31,
+            "title": "Note d'Azur",
+            "artist": "Osamu Kubota",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0032",
+            "albumID": 5002,
+            "trackNo": 32,
+            "title": "アクアリウム ブルー",
+            "artist": "宮崎カナエ",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0033",
+            "albumID": 5002,
+            "trackNo": 33,
+            "title": "The Dynamics of an Asteroid",
+            "artist": "xi",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0034",
+            "albumID": 5002,
+            "trackNo": 34,
+            "title": "The Splendid Expression",
+            "artist": "technoplanet",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0035",
+            "albumID": 5002,
+            "trackNo": 35,
+            "title": "The way to the castle",
+            "artist": "Tomoyuki Uchida",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0036",
+            "albumID": 5002,
+            "trackNo": 36,
+            "title": "天使の追放",
+            "artist": "onoken",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0037",
+            "albumID": 5002,
+            "trackNo": 37,
+            "title": "交響詩「悪魔の誕生」",
+            "artist": "削除",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0038",
+            "albumID": 5002,
+            "trackNo": 38,
+            "title": "琥珀の夢",
+            "artist": "月代 彩 × Luna Safari",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0039",
+            "albumID": 5002,
+            "trackNo": 39,
+            "title": "WONDERLAND",
+            "artist": "BEMANI Sound Team \"Sota Fujimori\"",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0040",
+            "albumID": 5002,
+            "trackNo": 40,
+            "title": "ハテノサキ",
+            "artist": "Cororo feat.Yuria Miyazono",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0041",
+            "albumID": 5002,
+            "trackNo": 41,
+            "title": "Illegal Harmony",
+            "artist": "REVERSE JOY",
             "openType": 1
         },
         {
