@@ -15656,6 +15656,24 @@
         "stage": 5
     },
     {
+        "mcode": 38566,
+        "basename": "hooy",
+        "title": "星が泳ぐ",
+        "title_sort": "ホシカオヨク",
+        "artist": "",
+        "bpmmax": 95,
+        "bpmmin": 95,
+        "level_str": "1 3 7 10 0 0 3 7 11 0",
+        "editable": false,
+        "is_konaste_music": true,
+        "is_streaming": true,
+        "seriesid": 1,
+        "ac_seriesid": 0,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 2
+    },
+    {
         "mcode": 38574,
         "basename": "k\f\"",
         "title": "Awakening Wings",
