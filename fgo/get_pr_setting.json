@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2022-10-31T03:10:26+09:00",
+    "last_cache_load_time": "2022-11-01T03:10:32+09:00",
     "pr_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -120,30 +120,6 @@
             "message": "",
             "lottery_type": 6,
             "lineup_id": 203
-        },
-        {
-            "start_time": "2022-10-01T07:00:00+09:00",
-            "popup_image_id": 196,
-            "disp_type": 0,
-            "pr_type": 3,
-            "data_id": 312,
-            "end_time": "2022-11-01T07:00:00+09:00",
-            "singularity_id": -1,
-            "message": "交換期間：２０２２年１０月１日（土）７：００ ～ ２０２２年１１月１日（火）６：５９まで",
-            "lottery_type": -1,
-            "lineup_id": -1
-        },
-        {
-            "start_time": "2022-10-01T07:00:00+09:00",
-            "popup_image_id": 197,
-            "disp_type": 0,
-            "pr_type": 3,
-            "data_id": 313,
-            "end_time": "2022-11-01T07:00:00+09:00",
-            "singularity_id": -1,
-            "message": "交換期間：２０２２年１０月１日（土）７：００ ～ ２０２２年１１月１日（火）６：５９まで",
-            "lottery_type": -1,
-            "lineup_id": -1
         },
         {
             "start_time": "2022-09-29T10:00:00+09:00",
