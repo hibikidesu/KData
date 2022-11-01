@@ -2,24 +2,6 @@
     "banner_extend_info_mapping_list": [
         {
             "banner_kind": 101,
-            "banner_extend_info_id": 11,
-            "sub_id_3": -1,
-            "sub_id_2": -1,
-            "sub_id_1": -1,
-            "sub_id_0": -1,
-            "priority": 1
-        },
-        {
-            "banner_kind": 501,
-            "banner_extend_info_id": 13,
-            "sub_id_3": -1,
-            "sub_id_2": -1,
-            "sub_id_1": -1,
-            "sub_id_0": -1,
-            "priority": 0
-        },
-        {
-            "banner_kind": 101,
             "banner_extend_info_id": 12,
             "sub_id_3": -1,
             "sub_id_2": -1,
@@ -816,8 +798,10 @@
         "is_user_support_open": 0,
         "servant_record_close": 0,
         "user_support_a_code_lst": [
-            "01036657190001928153",
-            "01036611046573196075"
+            "01036825313198332988",
+            "01036372284616264884",
+            "01036350956673503351",
+            "01036347378894869327"
         ],
         "score_ranking_close": 0,
         "title_close": 0,
@@ -837,8 +821,10 @@
         "is_develop_mode_open": 0,
         "aime_pay_close": 0,
         "develop_mode_a_code_lst": [
-            "01036657190001928153",
-            "01036611046573196075"
+            "01036825313198332988",
+            "01036372284616264884",
+            "01036350956673503351",
+            "01036347378894869327"
         ],
         "high_priced_emoney_close": 1,
         "fp_convert_close": 0,
@@ -848,10 +834,10 @@
         "mst_gender_type_edit_close": 0,
         "saint_graph_change_close": 0,
         "vs_npc_battle_close": 0,
-        "log_write": 1,
+        "log_write": 0,
         "web_my_room_close": 0,
         "closed_place_battle_close": 0,
-        "confidential_watermark": 1,
+        "confidential_watermark": 0,
         "spiritual_costume_close": 0,
         "multi_battle_reward_temp_flag_close": 1,
         "chaldea_gate_close": 0,
@@ -891,22 +877,6 @@
     },
     "banner_extend_info_list": [
         {
-            "start_time": "2022-10-06T10:00:00+09:00",
-            "banner_extend_info_id": 11,
-            "image_data_id": 22,
-            "data_type": 1,
-            "end_time": "2022-11-01T10:00:00+09:00",
-            "message": ""
-        },
-        {
-            "start_time": "2022-10-06T10:00:00+09:00",
-            "banner_extend_info_id": 13,
-            "image_data_id": -1,
-            "data_type": 0,
-            "end_time": "2022-11-01T10:00:00+09:00",
-            "message": "<CAMPAIGN_EMPHASIS>ハロウィンキャンペーン２０２２記念商品追加！<DEFAULT_COLOR>"
-        },
-        {
             "start_time": "2022-10-20T10:00:00+09:00",
             "banner_extend_info_id": 12,
             "image_data_id": 23,
@@ -939,7 +909,7 @@
             "message": "<CAMPAIGN_EMPHASIS>★５サーヴァント交換期間中！<DEFAULT_COLOR>"
         }
     ],
-    "atnd_lut": "2022-11-01T03:10:26+09:00",
+    "atnd_lut": "2022-11-02T04:10:36+09:00",
     "menu_button_extend_info_list": [
         {
             "start_time": "2022-07-26T07:00:00+09:00",
@@ -949,7 +919,7 @@
         }
     ],
     "web_my_room_url": "",
-    "ms_ping_port": 50000,
+    "ms_ping_port": 50002,
     "cmd_time_out_list": [
         {
             "target": "add_mana_prism",
@@ -1060,5 +1030,5 @@
             "time_out": 10000
         }
     ],
-    "ms_tcp_port": 50001
+    "ms_tcp_port": 50003
 }
