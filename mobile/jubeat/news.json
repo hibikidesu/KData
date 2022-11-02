@@ -380,16 +380,6 @@
         "view_flg": 0
     },
     {
-        "id": 78,
-        "category": 2,
-        "title": "アルバム追加のおしらせ",
-        "start_date": "2021-11-02 16:00:00",
-        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
-        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20211102_2_info_album.html",
-        "pick_up_flg": 0,
-        "view_flg": 0
-    },
-    {
         "id": 71,
         "category": 2,
         "title": "楽曲追加のおしらせ",
