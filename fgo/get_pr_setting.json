@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2022-11-02T04:10:40+09:00",
+    "last_cache_load_time": "2022-11-03T04:10:41+09:00",
     "pr_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -156,18 +156,6 @@
             "message": "",
             "lottery_type": 6,
             "lineup_id": 202
-        },
-        {
-            "start_time": "2022-09-22T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 86,
-            "end_time": "2022-11-02T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 201
         }
     ]
 }
