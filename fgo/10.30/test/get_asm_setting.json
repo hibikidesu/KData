@@ -1,0 +1,395 @@
+{
+    "last_cache_load_time": "2022-11-12T03:10:46+09:00",
+    "asm_setting_list": [
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 6
+                }
+            ],
+            "qp_amount": 100000,
+            "svt_id": 89,
+            "limit_count": 0
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 3,
+                    "idx_in_category": 6
+                },
+                {
+                    "amount": 9,
+                    "category_id": 2,
+                    "idx_in_category": 6
+                }
+            ],
+            "qp_amount": 300000,
+            "svt_id": 89,
+            "limit_count": 1
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 13
+                },
+                {
+                    "amount": 20,
+                    "category_id": 2,
+                    "idx_in_category": 4
+                },
+                {
+                    "amount": 5,
+                    "category_id": 2,
+                    "idx_in_category": 12
+                }
+            ],
+            "qp_amount": 1000000,
+            "svt_id": 89,
+            "limit_count": 2
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 3,
+                    "idx_in_category": 13
+                },
+                {
+                    "amount": 10,
+                    "category_id": 2,
+                    "idx_in_category": 12
+                },
+                {
+                    "amount": 5,
+                    "category_id": 2,
+                    "idx_in_category": 21
+                }
+            ],
+            "qp_amount": 3000000,
+            "svt_id": 89,
+            "limit_count": 3
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 5
+                }
+            ],
+            "qp_amount": 100000,
+            "svt_id": 92,
+            "limit_count": 0
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 3,
+                    "idx_in_category": 5
+                },
+                {
+                    "amount": 8,
+                    "category_id": 2,
+                    "idx_in_category": 11
+                }
+            ],
+            "qp_amount": 300000,
+            "svt_id": 92,
+            "limit_count": 1
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 12
+                },
+                {
+                    "amount": 10,
+                    "category_id": 2,
+                    "idx_in_category": 12
+                },
+                {
+                    "amount": 2,
+                    "category_id": 2,
+                    "idx_in_category": 26
+                }
+            ],
+            "qp_amount": 1000000,
+            "svt_id": 92,
+            "limit_count": 2
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 3,
+                    "idx_in_category": 12
+                },
+                {
+                    "amount": 4,
+                    "category_id": 2,
+                    "idx_in_category": 26
+                },
+                {
+                    "amount": 5,
+                    "category_id": 2,
+                    "idx_in_category": 20
+                }
+            ],
+            "qp_amount": 3000000,
+            "svt_id": 92,
+            "limit_count": 3
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 2
+                },
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 3
+                },
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 5
+                }
+            ],
+            "qp_amount": 100000,
+            "svt_id": 148,
+            "limit_count": 0
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 1
+                },
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 4
+                },
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 6
+                },
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 7
+                }
+            ],
+            "qp_amount": 300000,
+            "svt_id": 148,
+            "limit_count": 1
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 9
+                },
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 10
+                },
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 12
+                }
+            ],
+            "qp_amount": 1000000,
+            "svt_id": 148,
+            "limit_count": 2
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 8
+                },
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 11
+                },
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 13
+                },
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 14
+                }
+            ],
+            "qp_amount": 3000000,
+            "svt_id": 148,
+            "limit_count": 3
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 5
+                }
+            ],
+            "qp_amount": 100000,
+            "svt_id": 149,
+            "limit_count": 0
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 3,
+                    "idx_in_category": 5
+                },
+                {
+                    "amount": 5,
+                    "category_id": 2,
+                    "idx_in_category": 28
+                }
+            ],
+            "qp_amount": 300000,
+            "svt_id": 149,
+            "limit_count": 1
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 12
+                },
+                {
+                    "amount": 10,
+                    "category_id": 2,
+                    "idx_in_category": 34
+                },
+                {
+                    "amount": 2,
+                    "category_id": 2,
+                    "idx_in_category": 19
+                }
+            ],
+            "qp_amount": 1000000,
+            "svt_id": 149,
+            "limit_count": 2
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 3,
+                    "idx_in_category": 12
+                },
+                {
+                    "amount": 4,
+                    "category_id": 2,
+                    "idx_in_category": 19
+                },
+                {
+                    "amount": 12,
+                    "category_id": 2,
+                    "idx_in_category": 36
+                }
+            ],
+            "qp_amount": 3000000,
+            "svt_id": 149,
+            "limit_count": 3
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 4
+                }
+            ],
+            "qp_amount": 100000,
+            "svt_id": 151,
+            "limit_count": 0
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 3,
+                    "idx_in_category": 4
+                },
+                {
+                    "amount": 8,
+                    "category_id": 2,
+                    "idx_in_category": 11
+                }
+            ],
+            "qp_amount": 300000,
+            "svt_id": 151,
+            "limit_count": 1
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 11
+                },
+                {
+                    "amount": 6,
+                    "category_id": 2,
+                    "idx_in_category": 28
+                },
+                {
+                    "amount": 15,
+                    "category_id": 2,
+                    "idx_in_category": 43
+                }
+            ],
+            "qp_amount": 1000000,
+            "svt_id": 151,
+            "limit_count": 2
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 3,
+                    "idx_in_category": 11
+                },
+                {
+                    "amount": 29,
+                    "category_id": 2,
+                    "idx_in_category": 43
+                },
+                {
+                    "amount": 5,
+                    "category_id": 2,
+                    "idx_in_category": 31
+                }
+            ],
+            "qp_amount": 3000000,
+            "svt_id": 151,
+            "limit_count": 3
+        }
+    ]
+}

@@ -1,0 +1,255 @@
+{
+    "last_cache_load_time": "2022-11-12T03:11:06+09:00",
+    "tc_lottery_open_setting_list": [
+        {
+            "line_up_id": 2,
+            "start_time": "2022-10-13T10:00:00+09:00",
+            "summon_ticket_banner_id": 45,
+            "disp_priority": 0,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "lineup_id": 2,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 28
+        },
+        {
+            "line_up_id": 2,
+            "start_time": "2022-10-13T10:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "lineup_id": 2,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 28
+        },
+        {
+            "line_up_id": 197,
+            "start_time": "2022-09-01T10:00:00+09:00",
+            "summon_ticket_banner_id": 193,
+            "disp_priority": 0,
+            "end_time": "2022-10-13T10:00:00+09:00",
+            "lineup_id": 197,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 260
+        },
+        {
+            "line_up_id": 197,
+            "start_time": "2022-09-01T10:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2022-10-13T10:00:00+09:00",
+            "lineup_id": 197,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 260
+        },
+        {
+            "line_up_id": 196,
+            "start_time": "2022-08-23T10:00:00+09:00",
+            "summon_ticket_banner_id": 86,
+            "disp_priority": 0,
+            "end_time": "2022-10-13T10:00:00+09:00",
+            "lineup_id": 196,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 165
+        },
+        {
+            "line_up_id": 196,
+            "start_time": "2022-08-23T10:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2022-10-13T10:00:00+09:00",
+            "lineup_id": 196,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 165
+        },
+        {
+            "line_up_id": 195,
+            "start_time": "2022-08-18T10:00:00+09:00",
+            "summon_ticket_banner_id": 87,
+            "disp_priority": 0,
+            "end_time": "2022-10-13T10:00:00+09:00",
+            "lineup_id": 195,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 166
+        },
+        {
+            "line_up_id": 195,
+            "start_time": "2022-08-18T10:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2022-10-13T10:00:00+09:00",
+            "lineup_id": 195,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 166
+        },
+        {
+            "line_up_id": 194,
+            "start_time": "2022-08-09T10:00:00+09:00",
+            "summon_ticket_banner_id": 130,
+            "disp_priority": 0,
+            "end_time": "2022-10-06T10:00:00+09:00",
+            "lineup_id": 194,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 205
+        },
+        {
+            "line_up_id": 194,
+            "start_time": "2022-08-09T10:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2022-10-06T10:00:00+09:00",
+            "lineup_id": 194,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 205
+        },
+        {
+            "line_up_id": 192,
+            "start_time": "2022-08-02T10:00:00+09:00",
+            "summon_ticket_banner_id": 188,
+            "disp_priority": 0,
+            "end_time": "2022-09-29T10:00:00+09:00",
+            "lineup_id": 192,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 258
+        },
+        {
+            "line_up_id": 192,
+            "start_time": "2022-08-02T10:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2022-09-29T10:00:00+09:00",
+            "lineup_id": 192,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 258
+        },
+        {
+            "line_up_id": 193,
+            "start_time": "2022-08-02T10:00:00+09:00",
+            "summon_ticket_banner_id": 131,
+            "disp_priority": 0,
+            "end_time": "2022-09-29T10:00:00+09:00",
+            "lineup_id": 193,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 206
+        },
+        {
+            "line_up_id": 193,
+            "start_time": "2022-08-02T10:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2022-09-29T10:00:00+09:00",
+            "lineup_id": 193,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 206
+        },
+        {
+            "line_up_id": 189,
+            "start_time": "2022-07-26T07:00:00+09:00",
+            "summon_ticket_banner_id": 185,
+            "disp_priority": 0,
+            "end_time": "2022-09-22T10:00:00+09:00",
+            "lineup_id": 189,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 255
+        },
+        {
+            "line_up_id": 189,
+            "start_time": "2022-07-26T07:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2022-09-22T10:00:00+09:00",
+            "lineup_id": 189,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 255
+        },
+        {
+            "line_up_id": 191,
+            "start_time": "2022-07-26T07:00:00+09:00",
+            "summon_ticket_banner_id": 187,
+            "disp_priority": 0,
+            "end_time": "2022-09-08T10:00:00+09:00",
+            "lineup_id": 191,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 257
+        },
+        {
+            "line_up_id": 191,
+            "start_time": "2022-07-26T07:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2022-09-08T10:00:00+09:00",
+            "lineup_id": 191,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 257
+        },
+        {
+            "line_up_id": 190,
+            "start_time": "2022-07-26T07:00:00+09:00",
+            "summon_ticket_banner_id": 186,
+            "disp_priority": 0,
+            "end_time": "2022-09-08T10:00:00+09:00",
+            "lineup_id": 190,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 256
+        },
+        {
+            "line_up_id": 190,
+            "start_time": "2022-07-26T07:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2022-09-08T10:00:00+09:00",
+            "lineup_id": 190,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 256
+        },
+        {
+            "line_up_id": 188,
+            "start_time": "2022-07-21T10:00:00+09:00",
+            "summon_ticket_banner_id": 137,
+            "disp_priority": 0,
+            "end_time": "2022-09-01T10:00:00+09:00",
+            "lineup_id": 188,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 211
+        },
+        {
+            "line_up_id": 188,
+            "start_time": "2022-07-21T10:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2022-09-01T10:00:00+09:00",
+            "lineup_id": 188,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 211
+        },
+        {
+            "line_up_id": 187,
+            "start_time": "2022-07-14T10:00:00+09:00",
+            "summon_ticket_banner_id": 132,
+            "disp_priority": 0,
+            "end_time": "2022-09-01T10:00:00+09:00",
+            "lineup_id": 187,
+            "tc_lottery_type": 6,
+            "frontispiece_id": 207
+        },
+        {
+            "line_up_id": 187,
+            "start_time": "2022-07-14T10:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2022-09-01T10:00:00+09:00",
+            "lineup_id": 187,
+            "tc_lottery_type": 3,
+            "frontispiece_id": 207
+        },
+        {
+            "line_up_id": 21,
+            "start_time": "2022-04-21T07:00:00+09:00",
+            "summon_ticket_banner_id": -1,
+            "disp_priority": 0,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "lineup_id": 21,
+            "tc_lottery_type": 2,
+            "frontispiece_id": 78
+        }
+    ]
+}

@@ -1,0 +1,1085 @@
+{
+    "banner_extend_info_mapping_list": [
+        {
+            "banner_kind": 101,
+            "banner_extend_info_id": 12,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": -1,
+            "priority": 0
+        },
+        {
+            "banner_kind": 100,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": 30,
+            "sub_id_0": 14,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 0,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 1,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 2,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 3,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 4,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 5,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 6,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 7,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 8,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 1,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 4,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 7,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 10,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 13,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 16,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 19,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 22,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 69,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 72,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 75,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 78,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 81,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 84,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 87,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 91,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 108,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 111,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 114,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 117,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 120,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 123,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 126,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 129,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 132,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 136,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 137,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 196,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 197,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 198,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 199,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 200,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 201,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 202,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 203,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 205,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 278,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 279,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 280,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 281,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 282,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 283,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 285,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 378,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 379,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 380,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 381,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 382,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 383,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 384,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 457,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 458,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 459,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 460,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 461,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 462,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 463,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 465,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 609,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 610,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 611,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 612,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 613,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 614,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 615,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 617,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 642,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 643,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 644,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 645,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 646,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 647,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 648,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 649,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 14,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 651,
+            "priority": 0
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 17,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 46,
+            "priority": 0
+        },
+        {
+            "banner_kind": 508,
+            "banner_extend_info_id": 15,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": -1,
+            "priority": 0
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 18,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 46,
+            "priority": 1
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 19,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 46,
+            "priority": 2
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 20,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 46,
+            "priority": 3
+        }
+    ],
+    "costume_news_url": "",
+    "etc_param": {
+        "is_user_support_open": 0,
+        "servant_record_close": 0,
+        "user_support_a_code_lst": [
+            "01036825313198332988",
+            "01036372284616264884",
+            "01036350956673503351",
+            "01036347378894869327"
+        ],
+        "score_ranking_close": 0,
+        "title_close": 0,
+        "server_mb_rating_close": 1,
+        "synthesis_ascension_close": 0,
+        "no_card_payout_close": 1,
+        "master_name_edit_close": 0,
+        "next_adv_movie_release_close": 0,
+        "my_room_release_close": 0,
+        "summon_point_close": 0,
+        "code_match_battle_close": 0,
+        "synthesis_skill_close": 0,
+        "disp_play_policy_close": 0,
+        "server_mb_rank_close": 1,
+        "mana_prism_shop_close": 0,
+        "costume_change_close": 0,
+        "is_develop_mode_open": 0,
+        "aime_pay_close": 0,
+        "develop_mode_a_code_lst": [
+            "01036825313198332988",
+            "01036372284616264884",
+            "01036350956673503351",
+            "01036347378894869327"
+        ],
+        "high_priced_emoney_close": 1,
+        "fp_convert_close": 0,
+        "exceed_servant_close": 0,
+        "disp_next_bonus_close": 0,
+        "mana_prism_close": 0,
+        "mst_gender_type_edit_close": 0,
+        "saint_graph_change_close": 0,
+        "vs_npc_battle_close": 0,
+        "log_write": 0,
+        "web_my_room_close": 0,
+        "closed_place_battle_close": 0,
+        "confidential_watermark": 0,
+        "spiritual_costume_close": 0,
+        "multi_battle_reward_temp_flag_close": 1,
+        "chaldea_gate_close": 0,
+        "my_room_close": 0,
+        "grail_war_close": 0,
+        "command_card_costume_change_close": 0,
+        "synthesis_svt_close": 0,
+        "alone_battle_close": 0,
+        "extra_interlude_close": 0,
+        "fp_lottery_close": 0,
+        "main_quest_close": 0,
+        "item_exchange_shop_close": 0,
+        "pu_lottery_close": 0
+    },
+    "ms_hostname": "",
+    "game_balance_param": {
+        "fp_lottery_cost": 200,
+        "max_friend_point_stock": 10000,
+        "max_gp_credit": -1,
+        "play_start_service_time": 600,
+        "max_sp_gauge": 50,
+        "max_mana_prism_gauge": 100,
+        "mst_gender_type_edit_time": 60,
+        "grail_war_match_wait_sec": 120,
+        "present_box_disp_line_num": 100,
+        "code_match_wait_sec": 180,
+        "mst_gender_type_edit_gp": 10,
+        "ms_login_wait_sec": 70,
+        "master_name_edit_gp": 10,
+        "master_lv_cap": 30,
+        "bot_in_wait_sec": 10,
+        "after_battle_service_time": 600,
+        "is_enable_fairly_matching": 1,
+        "coop_match_wait_sec": 120,
+        "master_name_edit_time": 120,
+        "credit_addition_service_time": 600
+    },
+    "banner_extend_info_list": [
+        {
+            "start_time": "2022-10-20T10:00:00+09:00",
+            "banner_extend_info_id": 12,
+            "image_data_id": 23,
+            "data_type": 1,
+            "end_time": "2022-12-01T10:00:00+09:00",
+            "message": ""
+        },
+        {
+            "start_time": "2022-11-01T07:00:00+09:00",
+            "banner_extend_info_id": 14,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2022-12-15T07:00:00+09:00",
+            "message": "<CAMPAIGN_EMPHASIS>クエスト開始＆コンティニュー消費ＧＰ ５０％ＤＯＷＮ！<DEFAULT_COLOR>"
+        },
+        {
+            "start_time": "2022-11-01T07:00:00+09:00",
+            "banner_extend_info_id": 17,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2022-12-15T10:00:00+09:00",
+            "message": "タイムアタックランキング開催中！"
+        },
+        {
+            "start_time": "2022-11-01T07:00:00+09:00",
+            "banner_extend_info_id": 15,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-01-12T10:00:00+09:00",
+            "message": "<CAMPAIGN_EMPHASIS>★５サーヴァント交換期間中！<DEFAULT_COLOR>"
+        },
+        {
+            "start_time": "2022-11-10T10:00:00+09:00",
+            "banner_extend_info_id": 18,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2022-12-15T10:00:00+09:00",
+            "message": "イベントミッションが開放！"
+        },
+        {
+            "start_time": "2022-11-10T10:00:00+09:00",
+            "banner_extend_info_id": 19,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2022-12-15T10:00:00+09:00",
+            "message": "高難易度クエスト追加！"
+        },
+        {
+            "start_time": "2022-11-10T10:00:00+09:00",
+            "banner_extend_info_id": 20,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2022-12-15T10:00:00+09:00",
+            "message": "高難易度ミッション追加！"
+        }
+    ],
+    "atnd_lut": "2022-11-12T04:10:59+09:00",
+    "menu_button_extend_info_list": [
+        {
+            "start_time": "2022-07-26T07:00:00+09:00",
+            "menu_button_id": 5,
+            "end_time": "2023-01-12T10:00:00+09:00",
+            "mark_type": 1
+        }
+    ],
+    "web_my_room_url": "",
+    "ms_ping_port": 50002,
+    "cmd_time_out_list": [
+        {
+            "target": "add_mana_prism",
+            "time_out": 10000
+        },
+        {
+            "target": "buy_billing_shop_product",
+            "time_out": 10000
+        },
+        {
+            "target": "buy_shop_product",
+            "time_out": 10000
+        },
+        {
+            "target": "call_up",
+            "time_out": 10000
+        },
+        {
+            "target": "ctrl_ptbg_shop",
+            "time_out": 10000
+        },
+        {
+            "target": "get_extra_interlude_progress_detail",
+            "time_out": 10000
+        },
+        {
+            "target": "get_extra_interlude_progress_list",
+            "time_out": 10000
+        },
+        {
+            "target": "get_my_room_info",
+            "time_out": 10000
+        },
+        {
+            "target": "get_present_box",
+            "time_out": 10000
+        },
+        {
+            "target": "get_ptbg_setting",
+            "time_out": 10000
+        },
+        {
+            "target": "get_shop_product_list",
+            "time_out": 20000
+        },
+        {
+            "target": "get_singularity_quest_progress",
+            "time_out": 10000
+        },
+        {
+            "target": "get_tlf_info",
+            "time_out": 10000
+        },
+        {
+            "target": "multi_battle_result",
+            "time_out": 10000
+        },
+        {
+            "target": "multi_battle_start",
+            "time_out": 10000
+        },
+        {
+            "target": "pre_calc_rank",
+            "time_out": 10000
+        },
+        {
+            "target": "receive_achievement_reward",
+            "time_out": 10000
+        },
+        {
+            "target": "remove_present",
+            "time_out": 10000
+        },
+        {
+            "target": "single_battle_result",
+            "time_out": 10000
+        },
+        {
+            "target": "single_battle_start",
+            "time_out": 10000
+        },
+        {
+            "target": "spend_credit",
+            "time_out": 10000
+        },
+        {
+            "target": "summon",
+            "time_out": 10000
+        },
+        {
+            "target": "sync_play_data",
+            "time_out": 10000
+        },
+        {
+            "target": "unlock_spiritual_costume",
+            "time_out": 10000
+        },
+        {
+            "target": "use_present",
+            "time_out": 10000
+        },
+        {
+            "target": "use_printing_ticket",
+            "time_out": 10000
+        },
+        {
+            "target": "use_summon_ticket",
+            "time_out": 10000
+        }
+    ],
+    "ms_tcp_port": 50003
+}

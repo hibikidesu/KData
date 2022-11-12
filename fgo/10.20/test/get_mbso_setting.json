@@ -1,0 +1,45 @@
+{
+    "last_cache_load_time": "2022-11-12T03:10:25+09:00",
+    "multi_battle_stage_open_setting_list": [
+        {
+            "start_time": "2022-01-01T10:00:00+09:00",
+            "stage_id": 2020,
+            "cost_gp": 250,
+            "prize_sp": 0,
+            "bond_exp_win": 250,
+            "end_time": "2022-10-06T10:00:00+09:00",
+            "bond_exp_lose": 250,
+            "tc_lottery_list": []
+        },
+        {
+            "start_time": "2022-10-06T10:00:00+09:00",
+            "stage_id": 2026,
+            "cost_gp": 250,
+            "prize_sp": 0,
+            "bond_exp_win": 250,
+            "end_time": "2022-10-20T10:00:00+09:00",
+            "bond_exp_lose": 250,
+            "tc_lottery_list": []
+        },
+        {
+            "start_time": "2022-10-20T10:00:00+09:00",
+            "stage_id": 2011,
+            "cost_gp": 250,
+            "prize_sp": 0,
+            "bond_exp_win": 250,
+            "end_time": "2022-11-01T10:00:00+09:00",
+            "bond_exp_lose": 250,
+            "tc_lottery_list": []
+        },
+        {
+            "start_time": "2022-11-01T10:00:00+09:00",
+            "stage_id": 2011,
+            "cost_gp": 250,
+            "prize_sp": 0,
+            "bond_exp_win": 250,
+            "end_time": "2029-01-01T10:00:00+09:00",
+            "bond_exp_lose": 250,
+            "tc_lottery_list": []
+        }
+    ]
+}

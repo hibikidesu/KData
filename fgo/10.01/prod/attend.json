@@ -1,0 +1,201 @@
+{
+    "banner_extend_info_mapping_list": [],
+    "costume_news_url": "",
+    "etc_param": {
+        "is_user_support_open": 0,
+        "servant_record_close": 0,
+        "user_support_a_code_lst": [
+            "01036825313198332988",
+            "01036372284616264884",
+            "01036350956673503351",
+            "01036347378894869327"
+        ],
+        "score_ranking_close": 0,
+        "title_close": 0,
+        "server_mb_rating_close": 1,
+        "synthesis_ascension_close": 0,
+        "no_card_payout_close": 1,
+        "master_name_edit_close": 0,
+        "next_adv_movie_release_close": 0,
+        "my_room_release_close": 0,
+        "summon_point_close": 0,
+        "code_match_battle_close": 0,
+        "synthesis_skill_close": 0,
+        "disp_play_policy_close": 0,
+        "server_mb_rank_close": 1,
+        "mana_prism_shop_close": 0,
+        "costume_change_close": 0,
+        "is_develop_mode_open": 0,
+        "aime_pay_close": 0,
+        "develop_mode_a_code_lst": [
+            "01036825313198332988",
+            "01036372284616264884",
+            "01036350956673503351",
+            "01036347378894869327"
+        ],
+        "high_priced_emoney_close": 1,
+        "fp_convert_close": 0,
+        "exceed_servant_close": 0,
+        "disp_next_bonus_close": 0,
+        "mana_prism_close": 0,
+        "mst_gender_type_edit_close": 0,
+        "saint_graph_change_close": 0,
+        "vs_npc_battle_close": 0,
+        "log_write": 0,
+        "web_my_room_close": 0,
+        "closed_place_battle_close": 0,
+        "confidential_watermark": 0,
+        "spiritual_costume_close": 0,
+        "multi_battle_reward_temp_flag_close": 1,
+        "chaldea_gate_close": 0,
+        "my_room_close": 0,
+        "grail_war_close": 0,
+        "command_card_costume_change_close": 0,
+        "synthesis_svt_close": 0,
+        "alone_battle_close": 0,
+        "extra_interlude_close": 0,
+        "fp_lottery_close": 0,
+        "main_quest_close": 0,
+        "item_exchange_shop_close": 0,
+        "pu_lottery_close": 0
+    },
+    "ms_hostname": "",
+    "game_balance_param": {
+        "fp_lottery_cost": 200,
+        "max_friend_point_stock": 10000,
+        "max_gp_credit": -1,
+        "play_start_service_time": 600,
+        "max_sp_gauge": 50,
+        "max_mana_prism_gauge": 100,
+        "mst_gender_type_edit_time": 60,
+        "grail_war_match_wait_sec": 120,
+        "present_box_disp_line_num": 100,
+        "code_match_wait_sec": 180,
+        "mst_gender_type_edit_gp": 10,
+        "ms_login_wait_sec": 70,
+        "master_name_edit_gp": 10,
+        "master_lv_cap": 30,
+        "bot_in_wait_sec": 10,
+        "after_battle_service_time": 600,
+        "is_enable_fairly_matching": 1,
+        "coop_match_wait_sec": 120,
+        "master_name_edit_time": 120,
+        "credit_addition_service_time": 600
+    },
+    "banner_extend_info_list": [],
+    "atnd_lut": "2022-11-12T04:12:12+09:00",
+    "menu_button_extend_info_list": [],
+    "web_my_room_url": "",
+    "ms_ping_port": 50002,
+    "cmd_time_out_list": [
+        {
+            "target": "add_mana_prism",
+            "time_out": 10000
+        },
+        {
+            "target": "buy_billing_shop_product",
+            "time_out": 10000
+        },
+        {
+            "target": "buy_shop_product",
+            "time_out": 10000
+        },
+        {
+            "target": "call_up",
+            "time_out": 10000
+        },
+        {
+            "target": "ctrl_ptbg_shop",
+            "time_out": 10000
+        },
+        {
+            "target": "get_extra_interlude_progress_detail",
+            "time_out": 10000
+        },
+        {
+            "target": "get_extra_interlude_progress_list",
+            "time_out": 10000
+        },
+        {
+            "target": "get_my_room_info",
+            "time_out": 10000
+        },
+        {
+            "target": "get_present_box",
+            "time_out": 10000
+        },
+        {
+            "target": "get_ptbg_setting",
+            "time_out": 10000
+        },
+        {
+            "target": "get_shop_product_list",
+            "time_out": 20000
+        },
+        {
+            "target": "get_singularity_quest_progress",
+            "time_out": 10000
+        },
+        {
+            "target": "get_tlf_info",
+            "time_out": 10000
+        },
+        {
+            "target": "multi_battle_result",
+            "time_out": 10000
+        },
+        {
+            "target": "multi_battle_start",
+            "time_out": 10000
+        },
+        {
+            "target": "pre_calc_rank",
+            "time_out": 10000
+        },
+        {
+            "target": "receive_achievement_reward",
+            "time_out": 10000
+        },
+        {
+            "target": "remove_present",
+            "time_out": 10000
+        },
+        {
+            "target": "single_battle_result",
+            "time_out": 10000
+        },
+        {
+            "target": "single_battle_start",
+            "time_out": 10000
+        },
+        {
+            "target": "spend_credit",
+            "time_out": 10000
+        },
+        {
+            "target": "summon",
+            "time_out": 10000
+        },
+        {
+            "target": "sync_play_data",
+            "time_out": 10000
+        },
+        {
+            "target": "unlock_spiritual_costume",
+            "time_out": 10000
+        },
+        {
+            "target": "use_present",
+            "time_out": 10000
+        },
+        {
+            "target": "use_printing_ticket",
+            "time_out": 10000
+        },
+        {
+            "target": "use_summon_ticket",
+            "time_out": 10000
+        }
+    ],
+    "ms_tcp_port": 50003
+}

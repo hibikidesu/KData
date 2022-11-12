@@ -1,0 +1,45 @@
+{
+    "last_cache_load_time": "2022-11-12T04:10:40+09:00",
+    "content_pr_setting_list": [
+        {
+            "start_time": "2022-10-27T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 129,
+            "horizontal_priority": 5,
+            "end_time": "2022-12-08T10:00:00+09:00"
+        },
+        {
+            "start_time": "2022-10-20T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 147,
+            "horizontal_priority": 6,
+            "end_time": "2022-11-24T10:00:00+09:00"
+        },
+        {
+            "start_time": "2022-10-13T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 146,
+            "horizontal_priority": 7,
+            "end_time": "2022-11-17T10:00:00+09:00"
+        },
+        {
+            "start_time": "2022-10-06T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 145,
+            "horizontal_priority": 8,
+            "end_time": "2022-11-17T10:00:00+09:00"
+        },
+        {
+            "start_time": "2022-10-20T10:00:00+09:00",
+            "vertical_priority": 40,
+            "data_set_type": 3,
+            "data_id": 5,
+            "horizontal_priority": 19,
+            "end_time": "2029-01-01T10:00:00+09:00"
+        }
+    ]
+}

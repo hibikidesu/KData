@@ -1,0 +1,14 @@
+{
+    "last_cache_load_time": "2022-11-12T03:11:05+09:00",
+    "quest_setting_list": [
+        {
+            "start_time": "2022-11-11T07:00:00+09:00",
+            "entity_list": [
+                {
+                    "file_name": "quest_prop_000001.txt",
+                    "body": "quest_lv=1\n"
+                }
+            ]
+        }
+    ]
+}
