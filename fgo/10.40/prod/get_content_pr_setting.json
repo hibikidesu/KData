@@ -1,6 +1,22 @@
 {
-    "last_cache_load_time": "2022-11-16T04:10:11+09:00",
+    "last_cache_load_time": "2022-11-17T04:10:11+09:00",
     "content_pr_setting_list": [
+        {
+            "start_time": "2022-11-17T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 150,
+            "horizontal_priority": 6,
+            "end_time": "2022-12-29T10:00:00+09:00"
+        },
+        {
+            "start_time": "2022-11-17T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 114,
+            "horizontal_priority": 7,
+            "end_time": "2022-12-29T10:00:00+09:00"
+        },
         {
             "start_time": "2022-11-10T10:00:00+09:00",
             "vertical_priority": 30,
