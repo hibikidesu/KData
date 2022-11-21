@@ -827,6 +827,15 @@
             "sub_id_1": -1,
             "sub_id_0": -1,
             "priority": 2
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 21,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 9999,
+            "priority": 0
         }
     ],
     "costume_news_url": "",
@@ -977,9 +986,17 @@
             "data_type": 0,
             "end_time": "2022-12-01T07:00:00+09:00",
             "message": "連勝ボーナス実施中！"
+        },
+        {
+            "start_time": "2022-11-22T10:00:00+09:00",
+            "banner_extend_info_id": 21,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2022-12-08T10:00:00+09:00",
+            "message": "予選B：チーム限定対戦部門 エントリー募集中！"
         }
     ],
-    "atnd_lut": "2022-11-20T04:10:01+09:00",
+    "atnd_lut": "2022-11-21T04:10:02+09:00",
     "menu_button_extend_info_list": [
         {
             "start_time": "2022-07-26T07:00:00+09:00",
