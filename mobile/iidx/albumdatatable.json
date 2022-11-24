@@ -326,6 +326,11 @@
             "category": 2
         },
         {
+            "albumID": 2029,
+            "title": "pop'n music UniLab ORIGINAL SOUNDTRACK",
+            "category": 2
+        },
+        {
             "albumID": 3000,
             "title": "DANCERUSH STARDOM ORIGINAL SOUNDTRACK",
             "category": 5
@@ -757,12 +762,12 @@
         },
         {
             "albumID": 10014,
-            "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
+            "title": "beatmania IIDX 30 RESIDENT LOCATION TEST SPECIAL",
             "category": 15
         },
         {
             "albumID": 10015,
-            "title": "beatmania IIDX 30 RESIDENT LOCATION TEST SPECIAL",
+            "title": "いちかのごちゃまぜMix UP！",
             "category": 15
         },
         {
@@ -22124,9 +22129,9 @@
             "gid": "ds_001_0163",
             "albumID": 3000,
             "trackNo": 163,
-            "title": "Tropical White",
-            "artist": "星宮とと+TEMPLIME",
-            "openType": 0
+            "title": "So What",
+            "artist": "PRIDASK",
+            "openType": 1
         },
         {
             "gid": "ev_001_0001",
@@ -23572,169 +23577,137 @@
             "gid": "ev_015_0001",
             "albumID": 10014,
             "trackNo": 1,
-            "title": "Starlight Parade",
-            "artist": "ARM (IOSYS) ft. Renko",
+            "title": "No Border",
+            "artist": "BEMANI Sound Team \"dj TAKA\" feat.Sana",
             "openType": 0
         },
         {
             "gid": "ev_015_0002",
             "albumID": 10014,
             "trackNo": 2,
-            "title": "1-2-3 Jump!",
-            "artist": "まろん (IOSYS) ft. Renko",
+            "title": "LADS",
+            "artist": "BEMANI Sound Team \"PON\"",
             "openType": 0
         },
         {
             "gid": "ev_015_0003",
             "albumID": 10014,
             "trackNo": 3,
-            "title": "You You You",
-            "artist": "D.watt feat. 紡音れい",
+            "title": "Programmed Genom",
+            "artist": "kors k",
             "openType": 0
         },
         {
             "gid": "ev_015_0004",
             "albumID": 10014,
             "trackNo": 4,
-            "title": "ステップ ステップ ステップ",
-            "artist": "駄々子 Prod. by uno(IOSYS)",
+            "title": "Bad Encryption",
+            "artist": "BEMANI Sound Team \"ZAQUVA\" respect for teranoid",
             "openType": 0
         },
         {
             "gid": "ev_015_0005",
             "albumID": 10014,
             "trackNo": 5,
-            "title": "Sunshine let me find a way",
-            "artist": "コバヤシユウヤ (IOSYS) ft. You-Re:",
+            "title": "Move UR Body",
+            "artist": "nora2r",
             "openType": 0
         },
         {
             "gid": "ev_015_0006",
             "albumID": 10014,
             "trackNo": 6,
-            "title": "Let's DANCE aROUND!!",
-            "artist": "kors k feat.Jaejun by NuevoStudio",
+            "title": "罪過の聖堂",
+            "artist": "OSTER project",
             "openType": 0
         },
         {
             "gid": "ev_015_0007",
             "albumID": 10014,
             "trackNo": 7,
-            "title": "Midnight Starlight",
-            "artist": "kors k feat.Such",
+            "title": "THE TIME MACHINE",
+            "artist": "Yuta Imai",
             "openType": 0
         },
         {
             "gid": "ev_015_0008",
             "albumID": 10014,
             "trackNo": 8,
-            "title": "Hello World",
-            "artist": "MK",
-            "openType": 0
-        },
-        {
-            "gid": "ev_015_0009",
-            "albumID": 10014,
-            "trackNo": 9,
-            "title": "Seasonal Memories",
-            "artist": "コバヤシユウヤ (IOSYS) ft. cotowari",
-            "openType": 0
-        },
-        {
-            "gid": "ev_015_0010",
-            "albumID": 10014,
-            "trackNo": 10,
-            "title": "Froyo Froyo",
-            "artist": "Numb'n'dub Prod. by uno(IOSYS)",
-            "openType": 0
-        },
-        {
-            "gid": "ev_015_0011",
-            "albumID": 10014,
-            "trackNo": 11,
-            "title": "Go Down",
-            "artist": "KO3",
-            "openType": 0
-        },
-        {
-            "gid": "ev_015_0012",
-            "albumID": 10014,
-            "trackNo": 12,
-            "title": "Easy Peasy",
-            "artist": "BEMANI Sound Team \"SYUNN\"",
-            "openType": 0
-        },
-        {
-            "gid": "ev_015_0013",
-            "albumID": 10014,
-            "trackNo": 13,
-            "title": "Garnet",
-            "artist": "BEMANI Sound Team \"Captain KING\"",
+            "title": "Sunny Day Vibes",
+            "artist": "Mameyudoufu",
             "openType": 0
         },
         {
             "gid": "ev_016_0001",
             "albumID": 10015,
             "trackNo": 1,
-            "title": "No Border",
-            "artist": "BEMANI Sound Team \"dj TAKA\" feat.Sana",
-            "openType": 1
+            "title": "[ ]DENTITY",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 0
         },
         {
             "gid": "ev_016_0002",
             "albumID": 10015,
             "trackNo": 2,
-            "title": "LADS",
-            "artist": "BEMANI Sound Team \"PON\"",
-            "openType": 1
+            "title": "White Stream",
+            "artist": "BEMANI Sound Team “ZAQUVA”",
+            "openType": 0
         },
         {
             "gid": "ev_016_0003",
             "albumID": 10015,
             "trackNo": 3,
-            "title": "Programmed Genom",
-            "artist": "kors k",
-            "openType": 1
+            "title": "Kilonova",
+            "artist": "BEMANI Sound Team “Yvya”",
+            "openType": 0
         },
         {
             "gid": "ev_016_0004",
             "albumID": 10015,
             "trackNo": 4,
-            "title": "Bad Encryption",
-            "artist": "BEMANI Sound Team \"ZAQUVA\" respect for teranoid",
-            "openType": 1
+            "title": "新蛇姫",
+            "artist": "BEMANI Sound Team “U1-ASAMi”",
+            "openType": 0
         },
         {
             "gid": "ev_016_0005",
             "albumID": 10015,
             "trackNo": 5,
-            "title": "Move UR Body",
-            "artist": "nora2r",
-            "openType": 1
+            "title": "Dance With The Dead",
+            "artist": "BEMANI Sound Team “SYUNN”",
+            "openType": 0
         },
         {
             "gid": "ev_016_0006",
             "albumID": 10015,
             "trackNo": 6,
-            "title": "罪過の聖堂",
-            "artist": "OSTER project",
-            "openType": 1
+            "title": "Metamorphic",
+            "artist": "BEMANI Sound Team “Sota Fujimori”",
+            "openType": 0
         },
         {
             "gid": "ev_016_0007",
             "albumID": 10015,
             "trackNo": 7,
-            "title": "THE TIME MACHINE",
-            "artist": "Yuta Imai",
-            "openType": 1
+            "title": "Indigo Nocturne",
+            "artist": "BEMANI Sound Team “Power Of Nature”",
+            "openType": 0
         },
         {
             "gid": "ev_016_0008",
             "albumID": 10015,
             "trackNo": 8,
-            "title": "Sunny Day Vibes",
-            "artist": "Mameyudoufu",
-            "openType": 1
+            "title": "輪廻の鴉",
+            "artist": "BEMANI Sound Team “dj TAKA”",
+            "openType": 0
+        },
+        {
+            "gid": "ev_016_0009",
+            "albumID": 10015,
+            "trackNo": 9,
+            "title": "VOLAQUAS",
+            "artist": "BEMANI Sound Team “DJ TOTTO VS 兎々”",
+            "openType": 0
         },
         {
             "gid": "gd_001_0001",
@@ -43569,6 +43542,14 @@
             "openType": 1
         },
         {
+            "gid": "ns_003_0042",
+            "albumID": 5002,
+            "trackNo": 42,
+            "title": "「交錯する使命」",
+            "artist": "red glasses",
+            "openType": 1
+        },
+        {
             "gid": "pm_001_0001",
             "albumID": 2000,
             "trackNo": 1,
@@ -57681,6 +57662,78 @@
             "openType": 1
         },
         {
+            "gid": "pm_061_0001",
+            "albumID": 2029,
+            "trackNo": 1,
+            "title": "Airplane",
+            "artist": "Red Planets",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0002",
+            "albumID": 2029,
+            "trackNo": 2,
+            "title": "Journey",
+            "artist": "colors",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0003",
+            "albumID": 2029,
+            "trackNo": 3,
+            "title": "恋とメロンとキューピット",
+            "artist": "まろん feat. キャサリン",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0004",
+            "albumID": 2029,
+            "trackNo": 4,
+            "title": "LIMIT TOPPA REVOLUTION",
+            "artist": "BEMANI Sound Team \"PON\" feat.NU-KO",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0005",
+            "albumID": 2029,
+            "trackNo": 5,
+            "title": "リナリア",
+            "artist": "OSTER project feat. hinatanso",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0006",
+            "albumID": 2029,
+            "trackNo": 6,
+            "title": "Hibiki",
+            "artist": "ARForest feat.nayuta",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0007",
+            "albumID": 2029,
+            "trackNo": 7,
+            "title": "Bye Bye",
+            "artist": "削除",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0008",
+            "albumID": 2029,
+            "trackNo": 8,
+            "title": "空駆けるスピードスター",
+            "artist": "BEMANI Sound Team \"Sota Fujimori\" feat. Kanata.N",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0009",
+            "albumID": 2029,
+            "trackNo": 9,
+            "title": "ダイバージェンス",
+            "artist": "T-HEY & TANEKO",
+            "openType": 1
+        },
+        {
             "gid": "rb_001_0001",
             "albumID": 7000,
             "trackNo": 1,
@@ -64889,6 +64942,190 @@
             "openType": 1
         },
         {
+            "gid": "dr_018_0026",
+            "albumID": 12010,
+            "trackNo": 26,
+            "title": "Settin' the Scene",
+            "artist": "U1 night style",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0027",
+            "albumID": 12010,
+            "trackNo": 27,
+            "title": "Unity",
+            "artist": "The Remembers",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0028",
+            "albumID": 12010,
+            "trackNo": 28,
+            "title": "ON-DO",
+            "artist": "PON×U1",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0029",
+            "albumID": 12010,
+            "trackNo": 29,
+            "title": "Are U Ready",
+            "artist": "Shouya Namai",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0030",
+            "albumID": 12010,
+            "trackNo": 30,
+            "title": "Last Summer",
+            "artist": "BEMANI Sound Team \"Monolith vs. Nautilus\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0031",
+            "albumID": 12010,
+            "trackNo": 31,
+            "title": "Get Your Wish",
+            "artist": "WATARU",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0032",
+            "albumID": 12010,
+            "trackNo": 32,
+            "title": "恋愛観測 -2021真夏のエンディング ver.-",
+            "artist": "2021真夏のSingers",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0033",
+            "albumID": 12010,
+            "trackNo": 33,
+            "title": "Let Me Know",
+            "artist": "ZEOL",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0034",
+            "albumID": 12010,
+            "trackNo": 34,
+            "title": "Acid,Tribal & Dance (DDR EDITION)",
+            "artist": "Relect",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0035",
+            "albumID": 12010,
+            "trackNo": 35,
+            "title": "Come Back to Me (Feel It)",
+            "artist": "Dominant Space",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0036",
+            "albumID": 12010,
+            "trackNo": 36,
+            "title": "Go Down",
+            "artist": "KO3",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0037",
+            "albumID": 12010,
+            "trackNo": 37,
+            "title": "THE ANCIENT KING IS BACK",
+            "artist": "BEMANI Sound Team \"L.E.D.-G\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0038",
+            "albumID": 12010,
+            "trackNo": 38,
+            "title": "CANDY (UFO mix)",
+            "artist": "The Sweetest",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0039",
+            "albumID": 12010,
+            "trackNo": 39,
+            "title": "We Will Live Together",
+            "artist": "Happy CoreMAN",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0040",
+            "albumID": 12010,
+            "trackNo": 40,
+            "title": "Heavens and the Earth",
+            "artist": "The Lonely Hearts",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0041",
+            "albumID": 12010,
+            "trackNo": 41,
+            "title": "STAY (Joey Riot remix)",
+            "artist": "DANNY D",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0042",
+            "albumID": 12010,
+            "trackNo": 42,
+            "title": "PARADISE",
+            "artist": "Lea Drop feat. McCall Clark",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0043",
+            "albumID": 12010,
+            "trackNo": 43,
+            "title": "Curry Up",
+            "artist": "OR-IF-IS",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0044",
+            "albumID": 12010,
+            "trackNo": 44,
+            "title": "Take Me",
+            "artist": "Harmony Machine",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0045",
+            "albumID": 12010,
+            "trackNo": 45,
+            "title": "Let Me Show You",
+            "artist": "Whac-A-Me",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0046",
+            "albumID": 12010,
+            "trackNo": 46,
+            "title": "Awakening Wings",
+            "artist": "伊達朱里紗",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0047",
+            "albumID": 12010,
+            "trackNo": 47,
+            "title": "Go To The Oasis",
+            "artist": "GRAN-NEW DRAMATIC BOYS",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0048",
+            "albumID": 12010,
+            "trackNo": 48,
+            "title": "Get it",
+            "artist": "Dubscribe",
+            "openType": 1
+        },
+        {
             "gid": "sv_101_0001",
             "albumID": 13000,
             "trackNo": 1,
@@ -65566,6 +65803,22 @@
             "trackNo": 13,
             "title": "Garnet",
             "artist": "BEMANI Sound Team \"Captain KING\"",
+            "openType": 1
+        },
+        {
+            "gid": "da_001_0014",
+            "albumID": 14000,
+            "trackNo": 14,
+            "title": "Buss Tune",
+            "artist": "DJ RoughSketch feat. K2",
+            "openType": 1
+        },
+        {
+            "gid": "da_001_0015",
+            "albumID": 14000,
+            "trackNo": 15,
+            "title": "スターチューン",
+            "artist": "コバヤシユウヤ(IOSYS) feat.まるもこ",
             "openType": 1
         }
     ]
