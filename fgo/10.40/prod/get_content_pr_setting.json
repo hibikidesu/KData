@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2022-11-25T04:10:11+09:00",
+    "last_cache_load_time": "2022-11-26T04:10:13+09:00",
     "content_pr_setting_list": [
         {
             "start_time": "2022-11-24T10:00:00+09:00",
@@ -56,14 +56,6 @@
             "data_id": 129,
             "horizontal_priority": 11,
             "end_time": "2022-12-08T10:00:00+09:00"
-        },
-        {
-            "start_time": "2022-10-20T10:00:00+09:00",
-            "vertical_priority": 30,
-            "data_set_type": 2,
-            "data_id": 147,
-            "horizontal_priority": 12,
-            "end_time": "2022-11-24T10:00:00+09:00"
         },
         {
             "start_time": "2022-11-21T10:00:00+09:00",
