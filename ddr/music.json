@@ -12084,7 +12084,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 18,
-        "limited_cha": 1,
         "stage": 30
     },
     {
@@ -13630,7 +13629,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 11,
         "limited_cha": 1,
         "stage": 16
     },
@@ -13888,7 +13886,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 12,
+        "limited": 11,
         "limited_cha": 1,
         "stage": 31
     },
@@ -14177,7 +14175,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 14,
+        "limited": 13,
         "limited_cha": 1,
         "stage": 14
     },
@@ -14447,7 +14445,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 13,
+        "limited": 12,
         "limited_cha": 1,
         "stage": 15
     },
@@ -15246,6 +15244,7 @@
         "ac_seriesid": 20,
         "limited": 2,
         "limited_cha": 1,
+        "bemaniflag": 512,
         "stage": 15
     },
     {
@@ -15740,7 +15739,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
+        "limited": 14,
         "limited_cha": 1,
         "stage": 16
     },
@@ -15851,6 +15850,7 @@
         "limited": 1,
         "limited_cha": 1,
         "genreid": 8,
+        "movie": 1,
         "stage": 3
     },
     {
@@ -15879,7 +15879,7 @@
         "title": "\u6700\u901f\u6700\u9ad8\u30b7\u30e3\u30c3\u30bf\u30fc\u30ac\u30fc\u30eb",
         "title_sort": "\u30b5\u30a4\u30bd\u30af\u30b5\u30a4\u30b3\u30a6\u30b7\u30e4\u30c4\u30bf\u30a2\u30ab\u30a2\u30eb",
         "artist": "\u30d3\u30fc\u30c8\u307e\u308a\u304a(COOL&CREATE)",
-        "license": "Licensed by COOL&CREATE\r\n\u00a9\u4e0a\u6d77\u30a2\u30ea\u30b9\u5e7b\u6a02\u56e3",
+        "license": "Licensed by COOL&CREATE\r\nLicensed by AniPix\r\n\u00a9\u4e0a\u6d77\u30a2\u30ea\u30b9\u5e7b\u6a02\u56e3",
         "bpmmax": 160,
         "bpmmin": 160,
         "level_str": "4 7 12 16 18 0 7 12 16 18",
