@@ -5969,6 +5969,24 @@
         "stage": 5
     },
     {
+        "mcode": 37609,
+        "basename": "akue",
+        "title": "\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3",
+        "title_sort": "\u30bd\u30a6\u30bb\u30a4\u30ce\u30a2\u30af\u30a8\u30ea\u30aa\u30f3",
+        "artist": "",
+        "bpmmax": 151,
+        "bpmmin": 61,
+        "level_str": "1 4 7 11 0 0 4 7 11 0",
+        "editable": false,
+        "is_konaste_music": true,
+        "is_streaming": true,
+        "seriesid": 1,
+        "ac_seriesid": 0,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 2
+    },
+    {
         "mcode": 37613,
         "basename": "youa",
         "title": "You are a Star",
