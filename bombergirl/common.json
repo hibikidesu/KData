@@ -1,10 +1,10 @@
 {
     "messages": [
         {
-            "msg_id": 125,
+            "msg_id": 126,
             "tag": "GAME",
-            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=31,40,83;MatchingType=1;TeamSyncType=1;",
-            "till_time": 1669770000000
+            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=101,53,84;MatchingType=1;TeamSyncType=1;",
+            "till_time": 9223372036825200000
         },
         {
             "msg_id": 200,
@@ -31,10 +31,10 @@
             "till_time": 9223372036825200000
         },
         {
-            "msg_id": 6,
+            "msg_id": 7,
             "tag": "R_MAP",
-            "message": "Map=31,40,83;",
-            "till_time": 1669770000000
+            "message": "Map=101,53,84;",
+            "till_time": 1671555600000
         }
     ],
     "events": [
