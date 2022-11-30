@@ -1,26 +1,6 @@
 {
-    "last_cache_load_time": "2022-11-29T04:10:05+09:00",
+    "last_cache_load_time": "2022-11-30T15:20:01+09:00",
     "multi_battle_stage_open_setting_list": [
-        {
-            "start_time": "2022-10-20T10:00:00+09:00",
-            "stage_id": 2011,
-            "cost_gp": 250,
-            "prize_sp": 0,
-            "bond_exp_win": 250,
-            "end_time": "2022-11-01T10:00:00+09:00",
-            "bond_exp_lose": 250,
-            "tc_lottery_list": []
-        },
-        {
-            "start_time": "2022-11-01T10:00:00+09:00",
-            "stage_id": 2009,
-            "cost_gp": 250,
-            "prize_sp": 0,
-            "bond_exp_win": 250,
-            "end_time": "2022-11-21T10:00:00+09:00",
-            "bond_exp_lose": 250,
-            "tc_lottery_list": []
-        },
         {
             "start_time": "2022-11-21T10:00:00+09:00",
             "stage_id": 2019,
@@ -33,7 +13,37 @@
         },
         {
             "start_time": "2022-12-01T10:00:00+09:00",
-            "stage_id": 2019,
+            "stage_id": 2023,
+            "cost_gp": 250,
+            "prize_sp": 0,
+            "bond_exp_win": 250,
+            "end_time": "2022-12-15T10:00:00+09:00",
+            "bond_exp_lose": 250,
+            "tc_lottery_list": []
+        },
+        {
+            "start_time": "2022-12-15T10:00:00+09:00",
+            "stage_id": 2024,
+            "cost_gp": 250,
+            "prize_sp": 0,
+            "bond_exp_win": 250,
+            "end_time": "2023-01-05T10:00:00+09:00",
+            "bond_exp_lose": 250,
+            "tc_lottery_list": []
+        },
+        {
+            "start_time": "2023-01-05T10:00:00+09:00",
+            "stage_id": 2001,
+            "cost_gp": 250,
+            "prize_sp": 0,
+            "bond_exp_win": 250,
+            "end_time": "2023-01-19T10:00:00+09:00",
+            "bond_exp_lose": 250,
+            "tc_lottery_list": []
+        },
+        {
+            "start_time": "2023-01-19T10:00:00+09:00",
+            "stage_id": 2001,
             "cost_gp": 250,
             "prize_sp": 0,
             "bond_exp_win": 250,

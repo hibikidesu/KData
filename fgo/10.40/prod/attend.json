@@ -820,22 +820,49 @@
             "priority": 3
         },
         {
-            "banner_kind": 101,
-            "banner_extend_info_id": 16,
+            "banner_kind": 106,
+            "banner_extend_info_id": 29,
             "sub_id_3": -1,
             "sub_id_2": -1,
             "sub_id_1": -1,
             "sub_id_0": -1,
-            "priority": 2
+            "priority": 0
         },
         {
             "banner_kind": 104,
-            "banner_extend_info_id": 21,
+            "banner_extend_info_id": 22,
             "sub_id_3": -1,
             "sub_id_2": -1,
             "sub_id_1": -1,
-            "sub_id_0": 9999,
+            "sub_id_0": 47,
             "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 22,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 714,
+            "priority": 0
+        },
+        {
+            "banner_kind": 501,
+            "banner_extend_info_id": 23,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": -1,
+            "priority": 0
+        },
+        {
+            "banner_kind": 106,
+            "banner_extend_info_id": 30,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": -1,
+            "priority": 1
         }
     ],
     "costume_news_url": "",
@@ -980,28 +1007,44 @@
             "message": "高難易度ミッション追加！"
         },
         {
-            "start_time": "2022-11-17T07:00:00+09:00",
-            "banner_extend_info_id": 16,
-            "image_data_id": -1,
-            "data_type": 0,
-            "end_time": "2022-12-01T07:00:00+09:00",
-            "message": "連勝ボーナス実施中！"
-        },
-        {
             "start_time": "2022-11-22T10:00:00+09:00",
-            "banner_extend_info_id": 21,
+            "banner_extend_info_id": 29,
             "image_data_id": -1,
             "data_type": 0,
             "end_time": "2022-12-08T10:00:00+09:00",
             "message": "予選B：チーム限定対戦部門 エントリー募集中！"
+        },
+        {
+            "start_time": "2022-12-01T10:00:00+09:00",
+            "banner_extend_info_id": 22,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2022-12-26T07:00:00+09:00",
+            "message": "「タイムアタックランキング開催中！」"
+        },
+        {
+            "start_time": "2022-12-01T10:00:00+09:00",
+            "banner_extend_info_id": 23,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2022-12-26T10:00:00+09:00",
+            "message": "<CAMPAIGN_EMPHASIS>「カルデア・ランチタイム」交換期間中！<DEFAULT_COLOR>"
+        },
+        {
+            "start_time": "2022-12-01T18:00:00+09:00",
+            "banner_extend_info_id": 30,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2022-12-14T22:00:00+09:00",
+            "message": "予選B：チーム限定対戦部門 開催中！ "
         }
     ],
-    "atnd_lut": "2022-11-29T04:10:02+09:00",
+    "atnd_lut": "2022-11-30T15:19:59+09:00",
     "menu_button_extend_info_list": [
         {
             "start_time": "2022-07-26T07:00:00+09:00",
             "menu_button_id": 5,
-            "end_time": "2023-01-12T10:00:00+09:00",
+            "end_time": "2023-02-01T07:00:00+09:00",
             "mark_type": 1
         }
     ],

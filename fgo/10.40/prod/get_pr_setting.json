@@ -1,6 +1,30 @@
 {
-    "last_cache_load_time": "2022-11-29T04:10:11+09:00",
+    "last_cache_load_time": "2022-11-30T15:20:06+09:00",
     "pr_setting_list": [
+        {
+            "start_time": "2022-12-01T07:00:00+09:00",
+            "popup_image_id": 207,
+            "disp_type": 0,
+            "pr_type": 3,
+            "data_id": 403,
+            "end_time": "2023-01-01T07:00:00+09:00",
+            "singularity_id": -1,
+            "message": "交換期間：２０２２年１２月１日（木）７：００ ～ ２０２３年１月１日（日）６：５９まで",
+            "lottery_type": -1,
+            "lineup_id": -1
+        },
+        {
+            "start_time": "2022-12-01T07:00:00+09:00",
+            "popup_image_id": 208,
+            "disp_type": 0,
+            "pr_type": 3,
+            "data_id": 404,
+            "end_time": "2023-01-01T07:00:00+09:00",
+            "singularity_id": -1,
+            "message": "交換期間：２０２２年１２月１日（木）７：００ ～ ２０２３年１月１日（日）６：５９まで",
+            "lottery_type": -1,
+            "lineup_id": -1
+        },
         {
             "start_time": "2022-11-24T10:00:00+09:00",
             "popup_image_id": -1,
@@ -94,30 +118,6 @@
             "end_time": "2022-12-14T22:00:00+09:00",
             "singularity_id": -1,
             "message": "",
-            "lottery_type": -1,
-            "lineup_id": -1
-        },
-        {
-            "start_time": "2022-11-01T07:00:00+09:00",
-            "popup_image_id": 198,
-            "disp_type": 0,
-            "pr_type": 3,
-            "data_id": 314,
-            "end_time": "2022-12-01T07:00:00+09:00",
-            "singularity_id": -1,
-            "message": "交換期間：２０２２年１１月１日（火）７：００ ～ ２０２２年１２月１日（木）６：５９まで",
-            "lottery_type": -1,
-            "lineup_id": -1
-        },
-        {
-            "start_time": "2022-11-01T07:00:00+09:00",
-            "popup_image_id": 199,
-            "disp_type": 0,
-            "pr_type": 3,
-            "data_id": 315,
-            "end_time": "2022-12-01T07:00:00+09:00",
-            "singularity_id": -1,
-            "message": "交換期間：２０２２年１１月１日（火）７：００ ～ ２０２２年１２月１日（木）６：５９まで",
             "lottery_type": -1,
             "lineup_id": -1
         },
