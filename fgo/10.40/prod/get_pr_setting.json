@@ -1,6 +1,42 @@
 {
-    "last_cache_load_time": "2022-11-30T15:20:06+09:00",
+    "last_cache_load_time": "2022-12-01T04:10:08+09:00",
     "pr_setting_list": [
+        {
+            "start_time": "2022-12-01T10:00:00+09:00",
+            "popup_image_id": -1,
+            "disp_type": 0,
+            "pr_type": 1,
+            "data_id": 407,
+            "end_time": "2023-01-19T10:00:00+09:00",
+            "singularity_id": -1,
+            "message": "",
+            "lottery_type": 6,
+            "lineup_id": 219
+        },
+        {
+            "start_time": "2022-12-01T10:00:00+09:00",
+            "popup_image_id": -1,
+            "disp_type": 0,
+            "pr_type": 1,
+            "data_id": 291,
+            "end_time": "2022-12-26T07:00:00+09:00",
+            "singularity_id": -1,
+            "message": "",
+            "lottery_type": 6,
+            "lineup_id": 218
+        },
+        {
+            "start_time": "2022-12-01T10:00:00+09:00",
+            "popup_image_id": 218,
+            "disp_type": 0,
+            "pr_type": 3,
+            "data_id": 411,
+            "end_time": "2022-12-26T07:00:00+09:00",
+            "singularity_id": -1,
+            "message": "",
+            "lottery_type": -1,
+            "lineup_id": -1
+        },
         {
             "start_time": "2022-12-01T07:00:00+09:00",
             "popup_image_id": 207,
@@ -86,18 +122,6 @@
             "lineup_id": 210
         },
         {
-            "start_time": "2022-11-02T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 153,
-            "end_time": "2022-12-01T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 209
-        },
-        {
             "start_time": "2022-11-01T07:00:00+09:00",
             "popup_image_id": 211,
             "disp_type": 0,
@@ -132,18 +156,6 @@
             "message": "",
             "lottery_type": 6,
             "lineup_id": 217
-        },
-        {
-            "start_time": "2022-10-20T10:00:00+09:00",
-            "popup_image_id": 206,
-            "disp_type": 0,
-            "pr_type": 3,
-            "data_id": 399,
-            "end_time": "2022-12-01T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": -1,
-            "lineup_id": -1
         }
     ]
 }
