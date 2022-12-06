@@ -30,16 +30,6 @@
         "view_flg": 0
     },
     {
-        "id": 181,
-        "category": 1,
-        "title": "きまぐれ！スペシャルミッションスタート！",
-        "start_date": "2022-11-02 10:09:00",
-        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_event.png",
-        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20221102_0_info_event.html",
-        "pick_up_flg": 1,
-        "view_flg": 0
-    },
-    {
         "id": 180,
         "category": 3,
         "title": "楽曲パック『SOUND VOLTEX pack 7』と単曲パック追加のおしらせ",
