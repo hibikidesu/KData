@@ -811,15 +811,6 @@
             "priority": 3
         },
         {
-            "banner_kind": 106,
-            "banner_extend_info_id": 29,
-            "sub_id_3": -1,
-            "sub_id_2": -1,
-            "sub_id_1": -1,
-            "sub_id_0": -1,
-            "priority": 0
-        },
-        {
             "banner_kind": 104,
             "banner_extend_info_id": 22,
             "sub_id_3": -1,
@@ -988,14 +979,6 @@
             "data_type": 0,
             "end_time": "2022-12-15T10:00:00+09:00",
             "message": "高難易度ミッション追加！"
-        },
-        {
-            "start_time": "2022-11-22T10:00:00+09:00",
-            "banner_extend_info_id": 29,
-            "image_data_id": -1,
-            "data_type": 0,
-            "end_time": "2022-12-08T10:00:00+09:00",
-            "message": "予選B：チーム限定対戦部門 エントリー募集中！"
         },
         {
             "start_time": "2022-12-01T10:00:00+09:00",

@@ -156,18 +156,6 @@
             "message": "",
             "lottery_type": -1,
             "lineup_id": -1
-        },
-        {
-            "start_time": "2022-10-27T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 273,
-            "end_time": "2022-12-08T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 217
         }
     ]
 }
