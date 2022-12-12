@@ -4,7 +4,7 @@
             "msg_id": 126,
             "tag": "GAME",
             "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=101,53,84;MatchingType=1;TeamSyncType=1;",
-            "till_time": 9223372036825200000
+            "till_time": 1670979600000
         },
         {
             "msg_id": 200,
@@ -160,7 +160,7 @@
         },
         {
             "type": 7,
-            "phase": 12
+            "phase": 13
         },
         {
             "type": 8,
@@ -193,6 +193,10 @@
         {
             "type": 9,
             "phase": 19
+        },
+        {
+            "type": 9,
+            "phase": 20
         },
         {
             "type": 10,
