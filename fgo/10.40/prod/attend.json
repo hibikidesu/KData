@@ -838,15 +838,6 @@
             "priority": 0
         },
         {
-            "banner_kind": 106,
-            "banner_extend_info_id": 30,
-            "sub_id_3": -1,
-            "sub_id_2": -1,
-            "sub_id_1": -1,
-            "sub_id_0": -1,
-            "priority": 1
-        },
-        {
             "banner_kind": 700,
             "banner_extend_info_id": 24,
             "sub_id_3": -1,
@@ -1004,14 +995,6 @@
             "data_type": 0,
             "end_time": "2022-12-26T10:00:00+09:00",
             "message": "<CAMPAIGN_EMPHASIS>「カルデア・ランチタイム」交換期間中！<DEFAULT_COLOR>"
-        },
-        {
-            "start_time": "2022-12-01T18:00:00+09:00",
-            "banner_extend_info_id": 30,
-            "image_data_id": -1,
-            "data_type": 0,
-            "end_time": "2022-12-14T22:00:00+09:00",
-            "message": "予選B：チーム限定対戦部門 開催中！ "
         },
         {
             "start_time": "2022-12-15T10:00:00+09:00",
