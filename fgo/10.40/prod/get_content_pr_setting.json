@@ -1,6 +1,14 @@
 {
-    "last_cache_load_time": "2022-12-14T04:10:14+09:00",
+    "last_cache_load_time": "2022-12-15T04:10:10+09:00",
     "content_pr_setting_list": [
+        {
+            "start_time": "2022-12-15T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 122,
+            "horizontal_priority": 6,
+            "end_time": "2023-02-02T10:00:00+09:00"
+        },
         {
             "start_time": "2022-12-08T10:00:00+09:00",
             "vertical_priority": 30,
@@ -64,6 +72,14 @@
             "data_id": 148,
             "horizontal_priority": 14,
             "end_time": "2022-12-15T10:00:00+09:00"
+        },
+        {
+            "start_time": "2022-12-15T10:00:00+09:00",
+            "vertical_priority": 40,
+            "data_set_type": 3,
+            "data_id": 22,
+            "horizontal_priority": 18,
+            "end_time": "2023-01-05T10:00:00+09:00"
         },
         {
             "start_time": "2022-12-01T10:00:00+09:00",
