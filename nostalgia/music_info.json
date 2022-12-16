@@ -137,8 +137,8 @@
             0
         ]
     },
-    "release_code": "2022102600",
-    "revision": "22496M",
+    "release_code": "2022121300",
+    "revision": "22569M",
     "music_list": [
         {
             "index": "1",
@@ -445,6 +445,38 @@
             "pack_id": 10
         },
         {
+            "index": "15",
+            "jk_jpn": true,
+            "jk_asia": false,
+            "jk_kor": false,
+            "jk_idn": false,
+            "unlock_type": 2,
+            "real_unlock_type": 2,
+            "start_date": "2022-12-21 10:00",
+            "end_date": "9999-12-31 23:59",
+            "real_once_price": 0,
+            "real_forever_price": 0,
+            "real_start_date": "2022-12-21 10:00",
+            "real_end_date": "9999-12-31 23:59",
+            "pack_id": 11
+        },
+        {
+            "index": "16",
+            "jk_jpn": true,
+            "jk_asia": false,
+            "jk_kor": false,
+            "jk_idn": false,
+            "unlock_type": 2,
+            "real_unlock_type": 2,
+            "start_date": "9999-12-31 23:59",
+            "end_date": "9999-12-31 23:59",
+            "real_once_price": 0,
+            "real_forever_price": 0,
+            "real_start_date": "9999-12-31 23:59",
+            "real_end_date": "9999-12-31 23:59",
+            "pack_id": 12
+        },
+        {
             "index": "528",
             "jk_jpn": true,
             "jk_asia": false,
@@ -459,6 +491,22 @@
             "real_start_date": "2022-08-02 10:00",
             "real_end_date": "9999-12-31 23:59",
             "pack_id": 0
+        },
+        {
+            "index": "18",
+            "jk_jpn": true,
+            "jk_asia": false,
+            "jk_kor": false,
+            "jk_idn": false,
+            "unlock_type": 2,
+            "real_unlock_type": 2,
+            "start_date": "9999-12-31 23:59",
+            "end_date": "9999-12-31 23:59",
+            "real_once_price": 0,
+            "real_forever_price": 0,
+            "real_start_date": "2100-01-01 00:00",
+            "real_end_date": "2200-01-01 00:00",
+            "pack_id": 12
         },
         {
             "index": "19",
@@ -859,6 +907,22 @@
             "real_start_date": "2100-01-01 00:00",
             "real_end_date": "2200-01-01 00:00",
             "pack_id": 0
+        },
+        {
+            "index": "52",
+            "jk_jpn": true,
+            "jk_asia": false,
+            "jk_kor": false,
+            "jk_idn": false,
+            "unlock_type": 2,
+            "real_unlock_type": 2,
+            "start_date": "2022-12-21 10:00",
+            "end_date": "9999-12-31 23:59",
+            "real_once_price": 0,
+            "real_forever_price": 0,
+            "real_start_date": "2100-01-01 00:00",
+            "real_end_date": "2200-01-01 00:00",
+            "pack_id": 11
         },
         {
             "index": "53",
@@ -1275,6 +1339,22 @@
             "real_start_date": "2100-01-01 00:00",
             "real_end_date": "2200-01-01 00:00",
             "pack_id": 2
+        },
+        {
+            "index": "83",
+            "jk_jpn": true,
+            "jk_asia": false,
+            "jk_kor": false,
+            "jk_idn": false,
+            "unlock_type": 2,
+            "real_unlock_type": 2,
+            "start_date": "2022-12-21 10:00",
+            "end_date": "9999-12-31 23:59",
+            "real_once_price": 0,
+            "real_forever_price": 0,
+            "real_start_date": "2100-01-01 00:00",
+            "real_end_date": "2200-01-01 00:00",
+            "pack_id": 11
         },
         {
             "index": "84",
@@ -2829,6 +2909,38 @@
             "pack_id": 0
         },
         {
+            "index": "234",
+            "jk_jpn": true,
+            "jk_asia": false,
+            "jk_kor": false,
+            "jk_idn": false,
+            "unlock_type": 2,
+            "real_unlock_type": 2,
+            "start_date": "9999-12-31 23:59",
+            "end_date": "9999-12-31 23:59",
+            "real_once_price": 0,
+            "real_forever_price": 0,
+            "real_start_date": "2100-01-01 00:00",
+            "real_end_date": "2200-01-01 00:00",
+            "pack_id": 12
+        },
+        {
+            "index": "235",
+            "jk_jpn": true,
+            "jk_asia": false,
+            "jk_kor": false,
+            "jk_idn": false,
+            "unlock_type": 2,
+            "real_unlock_type": 2,
+            "start_date": "9999-12-31 23:59",
+            "end_date": "9999-12-31 23:59",
+            "real_once_price": 0,
+            "real_forever_price": 0,
+            "real_start_date": "2100-01-01 00:00",
+            "real_end_date": "2200-01-01 00:00",
+            "pack_id": 12
+        },
+        {
             "index": "238",
             "jk_jpn": true,
             "jk_asia": false,
@@ -3259,6 +3371,38 @@
             "real_start_date": "2100-01-01 00:00",
             "real_end_date": "2200-01-01 00:00",
             "pack_id": 0
+        },
+        {
+            "index": "272",
+            "jk_jpn": true,
+            "jk_asia": false,
+            "jk_kor": false,
+            "jk_idn": false,
+            "unlock_type": 2,
+            "real_unlock_type": 2,
+            "start_date": "2022-12-21 10:00",
+            "end_date": "9999-12-31 23:59",
+            "real_once_price": 0,
+            "real_forever_price": 0,
+            "real_start_date": "2022-12-21 10:00",
+            "real_end_date": "9999-12-31 23:59",
+            "pack_id": 11
+        },
+        {
+            "index": "275",
+            "jk_jpn": true,
+            "jk_asia": false,
+            "jk_kor": false,
+            "jk_idn": false,
+            "unlock_type": 2,
+            "real_unlock_type": 2,
+            "start_date": "9999-12-31 23:59",
+            "end_date": "9999-12-31 23:59",
+            "real_once_price": 0,
+            "real_forever_price": 0,
+            "real_start_date": "9999-12-31 23:59",
+            "real_end_date": "9999-12-31 23:59",
+            "pack_id": 12
         },
         {
             "index": "277",
@@ -4251,6 +4395,22 @@
             "real_start_date": "2100-01-01 00:00",
             "real_end_date": "2200-01-01 00:00",
             "pack_id": 0
+        },
+        {
+            "index": "349",
+            "jk_jpn": true,
+            "jk_asia": false,
+            "jk_kor": false,
+            "jk_idn": false,
+            "unlock_type": 2,
+            "real_unlock_type": 2,
+            "start_date": "2022-12-21 10:00",
+            "end_date": "9999-12-31 23:59",
+            "real_once_price": 0,
+            "real_forever_price": 0,
+            "real_start_date": "2100-01-01 00:00",
+            "real_end_date": "2200-01-01 00:00",
+            "pack_id": 11
         },
         {
             "index": "354",
