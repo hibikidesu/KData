@@ -29,6 +29,12 @@
             "tag": "GACHA",
             "message": "tuika_gacha_rate=0,-2,-1,1,1,1;",
             "till_time": 9223372036825200000
+        },
+        {
+            "msg_id": 232,
+            "tag": "KSNET",
+            "message": "wifi_check=0;",
+            "till_time": 9223372036825200000
         }
     ],
     "events": [
