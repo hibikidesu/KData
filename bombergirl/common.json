@@ -29,12 +29,6 @@
             "tag": "GACHA",
             "message": "tuika_gacha_rate=0,-2,-1,1,1,1;",
             "till_time": 9223372036825200000
-        },
-        {
-            "msg_id": 8,
-            "tag": "R_MAP",
-            "message": "Map=131,102,161;",
-            "till_time": 1671555600000
         }
     ],
     "events": [
