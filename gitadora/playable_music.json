@@ -23569,10 +23569,10 @@
         "cont_gf": true,
         "cont_dm": true,
         "is_cont": true,
-        "is_secret": true,
+        "is_secret": false,
         "is_hot": true,
         "data_ver": 115,
-        "knst_pack": 0,
+        "knst_pack": 29,
         "ifs_ver": 1
     },
     {
@@ -27909,10 +27909,10 @@
         "cont_gf": true,
         "cont_dm": true,
         "is_cont": true,
-        "is_secret": true,
-        "is_hot": false,
+        "is_secret": false,
+        "is_hot": true,
         "data_ver": 115,
-        "knst_pack": 999,
+        "knst_pack": 29,
         "ifs_ver": 1
     },
     {
