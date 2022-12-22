@@ -22134,6 +22134,22 @@
             "openType": 1
         },
         {
+            "gid": "ds_001_0164",
+            "albumID": 3000,
+            "trackNo": 164,
+            "title": "Jumbo Drill",
+            "artist": "Nizikawa",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0165",
+            "albumID": 3000,
+            "trackNo": 165,
+            "title": "Tropical White",
+            "artist": "星宮とと+TEMPLIME",
+            "openType": 1
+        },
+        {
             "gid": "ev_001_0001",
             "albumID": 10000,
             "trackNo": 1,
@@ -36430,6 +36446,230 @@
             "openType": 1
         },
         {
+            "gid": "gd_052_0028",
+            "albumID": 4035,
+            "trackNo": 28,
+            "title": "Dreams on the road",
+            "artist": "BEMANI Sound Team \"肥塚良彦\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0029",
+            "albumID": 4035,
+            "trackNo": 29,
+            "title": "永",
+            "artist": "BEMANI Sound Team \"あさき\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0030",
+            "albumID": 4035,
+            "trackNo": 30,
+            "title": "Comme le miel",
+            "artist": "BEMANI Sound Team \"TOMOSUKE\" feat. ボンジュール鈴木",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0031",
+            "albumID": 4035,
+            "trackNo": 31,
+            "title": "DUAL STRIKER",
+            "artist": "Mayumi Morinaga,Fernweh by BEMANI Sound Team \"L.E.D. & HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0032",
+            "albumID": 4035,
+            "trackNo": 32,
+            "title": "Triple Cross -GITADORA Edition-",
+            "artist": "BEMANI Sound Team \"dj TAKA & DJ YOSHITAKA & SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0033",
+            "albumID": 4035,
+            "trackNo": 33,
+            "title": "Arena Argenticuria",
+            "artist": "BEMANI Sound Team \"Akhuta Works\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0034",
+            "albumID": 4035,
+            "trackNo": 34,
+            "title": "和風インザ洋風",
+            "artist": "Super Momo Tarosans",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0035",
+            "albumID": 4035,
+            "trackNo": 35,
+            "title": "Inviolable Souls",
+            "artist": "竹内光雄＆BEMANI Sound Team \"劇団レコード\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0036",
+            "albumID": 4035,
+            "trackNo": 36,
+            "title": "半宵とケイオス",
+            "artist": "BEMANI Sound Team \"PON\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0037",
+            "albumID": 4035,
+            "trackNo": 37,
+            "title": "Under The Shades Of The Divine Ray",
+            "artist": "BEMANI Sound Team \"asaki\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0038",
+            "albumID": 4035,
+            "trackNo": 38,
+            "title": "The Splendid Expression",
+            "artist": "technoplanet",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0039",
+            "albumID": 4035,
+            "trackNo": 39,
+            "title": "Iridescent Future",
+            "artist": "BEMANI Sound Team \"Yvya × OJ\" feat. ATSUMI UEDA",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0040",
+            "albumID": 4035,
+            "trackNo": 40,
+            "title": "REAL WONDER LAND",
+            "artist": "ひまわり＊パンチ",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0041",
+            "albumID": 4035,
+            "trackNo": 41,
+            "title": "硝子玉のゆくえ",
+            "artist": "BEMANI Sound Team \"Akhuta Works\" feat. NU-KO",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0042",
+            "albumID": 4035,
+            "trackNo": 42,
+            "title": "Snowmelt",
+            "artist": "nora2r × BEMANI Sound Team \"Yvya\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0043",
+            "albumID": 4035,
+            "trackNo": 43,
+            "title": "うさぎの国の不思議な旋律",
+            "artist": "かゆき",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0044",
+            "albumID": 4035,
+            "trackNo": 44,
+            "title": "ペルペトゥム・モビレ",
+            "artist": "RENO",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0045",
+            "albumID": 4035,
+            "trackNo": 45,
+            "title": "Escape Velocity",
+            "artist": "setsat",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0046",
+            "albumID": 4035,
+            "trackNo": 46,
+            "title": "we're gamers",
+            "artist": "ひまわり＊パンチ",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0047",
+            "albumID": 4035,
+            "trackNo": 47,
+            "title": "Roar",
+            "artist": "Rookie.F feat. Sean(from PHOENIX ASH)",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0048",
+            "albumID": 4035,
+            "trackNo": 48,
+            "title": "嘘 feat.ピコ",
+            "artist": "RENO",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0049",
+            "albumID": 4035,
+            "trackNo": 49,
+            "title": "Run through life",
+            "artist": "都 啓一",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0050",
+            "albumID": 4035,
+            "trackNo": 50,
+            "title": "ナミダゴコロ",
+            "artist": "MiA feat.綾野ましろ,山内あいな＆下島輝星",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0051",
+            "albumID": 4035,
+            "trackNo": 51,
+            "title": "Illegal Harmony",
+            "artist": "REVERSE JOY",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0052",
+            "albumID": 4035,
+            "trackNo": 52,
+            "title": "月が嫌いになった理由",
+            "artist": "BEMANI Sound Team \"肥塚良彦\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0053",
+            "albumID": 4035,
+            "trackNo": 53,
+            "title": "REBELLION",
+            "artist": "BEMANI Sound Team \"TheaterR\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0054",
+            "albumID": 4035,
+            "trackNo": 54,
+            "title": "THE LAST OF FIREFACE",
+            "artist": "大和",
+            "openType": 1
+        },
+        {
+            "gid": "gd_052_0055",
+            "albumID": 4035,
+            "trackNo": 55,
+            "title": "VOLAQUAS -GITADO ROCK ver.-",
+            "artist": "BEMANI Sound Team \"DJ TOTTO VS 兎々\"",
+            "openType": 1
+        },
+        {
             "gid": "jb_001_0001",
             "albumID": 6000,
             "trackNo": 1,
@@ -43547,6 +43787,14 @@
             "trackNo": 42,
             "title": "「交錯する使命」",
             "artist": "red glasses",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0043",
+            "albumID": 5002,
+            "trackNo": 43,
+            "title": "mariposa",
+            "artist": "BEMANI Sound Team \"S-C-U\"",
             "openType": 1
         },
         {
@@ -57731,6 +57979,30 @@
             "trackNo": 9,
             "title": "ダイバージェンス",
             "artist": "T-HEY & TANEKO",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0010",
+            "albumID": 2029,
+            "trackNo": 10,
+            "title": "ラブケミ",
+            "artist": "red glasses Trio feat.Sana",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0011",
+            "albumID": 2029,
+            "trackNo": 11,
+            "title": "悪夢 ショコラティエ",
+            "artist": "My Complex of Academy",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0012",
+            "albumID": 2029,
+            "trackNo": 12,
+            "title": "001 -どうしんのかいろ-",
+            "artist": "90°club",
             "openType": 1
         },
         {
