@@ -1,5 +1,15 @@
 [
     {
+        "id": 184,
+        "category": 4,
+        "title": "年末年始のお問い合わせについて",
+        "start_date": "2022-12-26 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_update.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20221226_0_info_notice.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
         "id": 187,
         "category": 1,
         "title": "さわってみよう♪アルバムツアー！ミッションスタート！",
