@@ -10,33 +10,6 @@
             "priority": 0
         },
         {
-            "banner_kind": 104,
-            "banner_extend_info_id": 22,
-            "sub_id_3": -1,
-            "sub_id_2": -1,
-            "sub_id_1": -1,
-            "sub_id_0": 47,
-            "priority": 0
-        },
-        {
-            "banner_kind": 400,
-            "banner_extend_info_id": 22,
-            "sub_id_3": -1,
-            "sub_id_2": -1,
-            "sub_id_1": -1,
-            "sub_id_0": 714,
-            "priority": 0
-        },
-        {
-            "banner_kind": 501,
-            "banner_extend_info_id": 23,
-            "sub_id_3": -1,
-            "sub_id_2": -1,
-            "sub_id_1": -1,
-            "sub_id_0": -1,
-            "priority": 0
-        },
-        {
             "banner_kind": 700,
             "banner_extend_info_id": 24,
             "sub_id_3": -1,
@@ -176,22 +149,6 @@
             "message": "<CAMPAIGN_EMPHASIS>★５サーヴァント交換期間中！<DEFAULT_COLOR>"
         },
         {
-            "start_time": "2022-12-01T10:00:00+09:00",
-            "banner_extend_info_id": 22,
-            "image_data_id": -1,
-            "data_type": 0,
-            "end_time": "2022-12-26T07:00:00+09:00",
-            "message": "「タイムアタックランキング開催中！」"
-        },
-        {
-            "start_time": "2022-12-01T10:00:00+09:00",
-            "banner_extend_info_id": 23,
-            "image_data_id": -1,
-            "data_type": 0,
-            "end_time": "2022-12-26T10:00:00+09:00",
-            "message": "<CAMPAIGN_EMPHASIS>「カルデア・ランチタイム」交換期間中！<DEFAULT_COLOR>"
-        },
-        {
             "start_time": "2022-12-15T10:00:00+09:00",
             "banner_extend_info_id": 24,
             "image_data_id": -1,
@@ -232,7 +189,7 @@
             "message": "高難易度ミッション登場！"
         }
     ],
-    "atnd_lut": "2022-12-25T04:10:02+09:00",
+    "atnd_lut": "2022-12-26T04:10:02+09:00",
     "menu_button_extend_info_list": [
         {
             "start_time": "2022-12-15T10:00:00+09:00",

@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2022-12-25T04:10:09+09:00",
+    "last_cache_load_time": "2022-12-26T04:10:11+09:00",
     "pr_setting_list": [
         {
             "start_time": "2022-12-22T10:00:00+09:00",
@@ -60,30 +60,6 @@
             "message": "",
             "lottery_type": 6,
             "lineup_id": 219
-        },
-        {
-            "start_time": "2022-12-01T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 291,
-            "end_time": "2022-12-26T07:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 218
-        },
-        {
-            "start_time": "2022-12-01T10:00:00+09:00",
-            "popup_image_id": 218,
-            "disp_type": 0,
-            "pr_type": 3,
-            "data_id": 411,
-            "end_time": "2022-12-26T07:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": -1,
-            "lineup_id": -1
         },
         {
             "start_time": "2022-12-01T07:00:00+09:00",
