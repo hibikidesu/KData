@@ -53,6 +53,15 @@
             "sub_id_1": -1,
             "sub_id_0": 48,
             "priority": 3
+        },
+        {
+            "banner_kind": 502,
+            "banner_extend_info_id": 31,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": -1,
+            "priority": 0
         }
     ],
     "costume_news_url": "",
@@ -187,9 +196,17 @@
             "data_type": 0,
             "end_time": "2023-02-02T10:00:00+09:00",
             "message": "高難易度ミッション登場！"
+        },
+        {
+            "start_time": "2023-01-01T07:00:00+09:00",
+            "banner_extend_info_id": 31,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-02-01T07:00:00+09:00",
+            "message": "新規カラーバリエーションの必要霊衣片<CAMPAIGN_EMPHASIS>５０％ＤＯＷＮ！<DEFAULT_COLOR>"
         }
     ],
-    "atnd_lut": "2022-12-30T04:10:02+09:00",
+    "atnd_lut": "2022-12-31T04:10:02+09:00",
     "menu_button_extend_info_list": [
         {
             "start_time": "2022-12-15T10:00:00+09:00",

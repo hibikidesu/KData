@@ -1,6 +1,30 @@
 {
-    "last_cache_load_time": "2022-12-30T04:10:09+09:00",
+    "last_cache_load_time": "2022-12-31T04:10:13+09:00",
     "pr_setting_list": [
+        {
+            "start_time": "2023-01-01T07:00:00+09:00",
+            "popup_image_id": 214,
+            "disp_type": 0,
+            "pr_type": 3,
+            "data_id": 408,
+            "end_time": "2023-02-01T07:00:00+09:00",
+            "singularity_id": -1,
+            "message": "交換期間：２０２３年１月１日（日）７：００ ～ ２０２３年２月１日（水）６：５９まで",
+            "lottery_type": -1,
+            "lineup_id": -1
+        },
+        {
+            "start_time": "2023-01-01T07:00:00+09:00",
+            "popup_image_id": 215,
+            "disp_type": 0,
+            "pr_type": 3,
+            "data_id": 409,
+            "end_time": "2023-02-01T07:00:00+09:00",
+            "singularity_id": -1,
+            "message": "交換期間：２０２３年１月１日（日）７：００ ～ ２０２３年２月１日（水）６：５９まで",
+            "lottery_type": -1,
+            "lineup_id": -1
+        },
         {
             "start_time": "2022-12-22T10:00:00+09:00",
             "popup_image_id": -1,
