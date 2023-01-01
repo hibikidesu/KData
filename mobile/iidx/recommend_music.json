@@ -1,41 +1,41 @@
 [
     {
-        "recommended_id": 977,
+        "recommended_id": 978,
         "type": 1,
         "message": "",
         "reward_id": 101,
-        "start_date": "2023-01-01 00:00:00",
-        "end_date": "2023-01-01 23:59:59",
+        "start_date": "2023-01-02 00:00:00",
+        "end_date": "2023-01-02 23:59:59",
         "recommended_music_list": [
             {
-                "recommended_no": 0,
-                "music_id": 19046
+                "recommended_no": 1,
+                "music_id": 15003
             },
             {
                 "recommended_no": 2,
-                "music_id": 22044
+                "music_id": 15028
             },
             {
-                "recommended_no": 1,
-                "music_id": 27007
+                "recommended_no": 0,
+                "music_id": 27025
             }
         ]
     },
     {
-        "recommended_id": 5124,
+        "recommended_id": 5125,
         "type": 2,
-        "message": "ボーカル曲をセレクト♪",
+        "message": "カッコいい曲を揃えました！",
         "reward_id": 0,
-        "start_date": "2022-12-26 00:00:00",
-        "end_date": "2023-01-01 23:59:59",
+        "start_date": "2023-01-02 00:00:00",
+        "end_date": "2023-01-08 23:59:59",
         "recommended_music_list": [
             {
                 "recommended_no": 1,
-                "music_id": 17004
+                "music_id": 19022
             },
             {
                 "recommended_no": 0,
-                "music_id": 20061
+                "music_id": 20066
             }
         ]
     }
