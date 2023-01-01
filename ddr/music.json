@@ -15835,6 +15835,23 @@
         "stage": 5
     },
     {
+        "mcode": 38565,
+        "basename": "crys",
+        "title": "Crystarium",
+        "title_sort": "crystarium",
+        "artist": "BlackY",
+        "bpmmax": 130,
+        "bpmmin": 130,
+        "level_str": "2 6 11 15 0 0 6 11 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "bemaniflag": 2048,
+        "stage": 3
+    },
+    {
         "mcode": 38566,
         "basename": "hooy",
         "title": "\u661f\u304c\u6cf3\u3050",
