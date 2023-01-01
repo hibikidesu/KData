@@ -1,9 +1,9 @@
 {
     "events": [
         "BLASTER_ABLE",
-        "BLASTER_BONUS_ENABLE 11",
         "CLOUD_LINK_ENABLE",
         "CREW_SELECT_ABLE",
+        "NEW_YEAR_2022 3",
         "SKILL_ANALYZER_ABLE",
         "VOLFORCE_ENABLE"
     ],
