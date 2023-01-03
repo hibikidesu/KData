@@ -15870,6 +15870,25 @@
         "genreid": 2
     },
     {
+        "mcode": 38567,
+        "basename": "pops",
+        "title": "POP STAR",
+        "title_sort": "popstar",
+        "artist": "",
+        "bpmmax": 140,
+        "bpmmin": 140,
+        "level_str": "1 3 6 11 0 0 3 6 11 0",
+        "editable": false,
+        "is_konaste_music": true,
+        "is_streaming": true,
+        "seriesid": 1,
+        "ac_seriesid": 0,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 1,
+        "stage": 16
+    },
+    {
         "mcode": 38574,
         "basename": "k\f\"",
         "title": "Awakening Wings",
