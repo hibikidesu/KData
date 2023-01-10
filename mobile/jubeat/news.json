@@ -1,15 +1,5 @@
 [
     {
-        "id": 188,
-        "category": 1,
-        "title": "年末年始スペシャルミッションスタート！",
-        "start_date": "2022-12-29 12:00:00",
-        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_event.png",
-        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20221229_0_info_event.html",
-        "pick_up_flg": 1,
-        "view_flg": 0
-    },
-    {
         "id": 185,
         "category": 4,
         "title": "アップデートのお知らせ",
