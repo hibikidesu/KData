@@ -395,7 +395,7 @@
             },
             {
                 "user_id": 319824,
-                "name": "iPadAir_Tap.",
+                "name": "iP12Pro_Tap.",
                 "rank": 55,
                 "point": 100,
                 "icon_id": 14
@@ -1036,7 +1036,7 @@
             },
             {
                 "user_id": 319824,
-                "name": "iPadAir_Tap.",
+                "name": "iP12Pro_Tap.",
                 "rank": 44,
                 "point": 100,
                 "icon_id": 14
@@ -1642,7 +1642,7 @@
             },
             {
                 "user_id": 319824,
-                "name": "iPadAir_Tap.",
+                "name": "iP12Pro_Tap.",
                 "rank": 28,
                 "point": 100,
                 "icon_id": 14
@@ -2821,18 +2821,18 @@
                 "icon_id": 24
             },
             {
-                "user_id": 383180,
-                "name": "nagicha",
-                "rank": 94,
-                "point": 100,
-                "icon_id": 29
-            },
-            {
                 "user_id": 181205,
                 "name": "Furries",
-                "rank": 95,
+                "rank": 94,
                 "point": 100,
                 "icon_id": 14
+            },
+            {
+                "user_id": 383180,
+                "name": "nagicha",
+                "rank": 95,
+                "point": 100,
+                "icon_id": 29
             },
             {
                 "user_id": 308164,
@@ -3456,7 +3456,7 @@
             },
             {
                 "user_id": 319824,
-                "name": "iPadAir_Tap.",
+                "name": "iP12Pro_Tap.",
                 "rank": 82,
                 "point": 100,
                 "icon_id": 14
@@ -4104,7 +4104,7 @@
             },
             {
                 "user_id": 319824,
-                "name": "iPadAir_Tap.",
+                "name": "iP12Pro_Tap.",
                 "rank": 72,
                 "point": 100,
                 "icon_id": 14
@@ -4857,7 +4857,7 @@
             },
             {
                 "user_id": 319824,
-                "name": "iPadAir_Tap.",
+                "name": "iP12Pro_Tap.",
                 "rank": 77,
                 "point": 100,
                 "icon_id": 14
@@ -5901,7 +5901,7 @@
             },
             {
                 "user_id": 319824,
-                "name": "iPadAir_Tap.",
+                "name": "iP12Pro_Tap.",
                 "rank": 21,
                 "point": 100,
                 "icon_id": 14
@@ -7833,67 +7833,67 @@
                 "icon_id": 24
             },
             {
+                "user_id": 426322,
+                "name": "T.k",
+                "rank": 92,
+                "point": 95,
+                "icon_id": 1
+            },
+            {
                 "user_id": 25994,
                 "name": "LIGHT",
-                "rank": 92,
+                "rank": 93,
                 "point": 94,
                 "icon_id": 5
             },
             {
                 "user_id": 119346,
                 "name": "MASA.",
-                "rank": 93,
+                "rank": 94,
                 "point": 94,
                 "icon_id": 16
             },
             {
                 "user_id": 142584,
                 "name": "5555",
-                "rank": 94,
+                "rank": 95,
                 "point": 94,
                 "icon_id": 22
             },
             {
                 "user_id": 50455,
                 "name": "SILLY",
-                "rank": 95,
+                "rank": 96,
                 "point": 93,
                 "icon_id": 18
             },
             {
                 "user_id": 389836,
                 "name": "K",
-                "rank": 96,
+                "rank": 97,
                 "point": 93,
                 "icon_id": 1
             },
             {
                 "user_id": 87381,
                 "name": "GJ",
-                "rank": 97,
+                "rank": 98,
                 "point": 93,
                 "icon_id": 6
             },
             {
                 "user_id": 252751,
                 "name": "KOVA",
-                "rank": 98,
+                "rank": 99,
                 "point": 93,
                 "icon_id": 15
             },
             {
                 "user_id": 195907,
                 "name": "AZ1",
-                "rank": 99,
-                "point": 92,
-                "icon_id": 20
-            },
-            {
-                "user_id": 324125,
-                "name": "Mizuki",
                 "rank": 100,
                 "point": 92,
-                "icon_id": 10
+                "icon_id": 20
             }
         ]
     },
