@@ -1,15 +1,6 @@
 {
     "banner_extend_info_mapping_list": [
         {
-            "banner_kind": 508,
-            "banner_extend_info_id": 15,
-            "sub_id_3": -1,
-            "sub_id_2": -1,
-            "sub_id_1": -1,
-            "sub_id_0": -1,
-            "priority": 0
-        },
-        {
             "banner_kind": 700,
             "banner_extend_info_id": 24,
             "sub_id_3": -1,
@@ -150,14 +141,6 @@
     },
     "banner_extend_info_list": [
         {
-            "start_time": "2022-11-01T07:00:00+09:00",
-            "banner_extend_info_id": 15,
-            "image_data_id": -1,
-            "data_type": 0,
-            "end_time": "2023-01-12T10:00:00+09:00",
-            "message": "<CAMPAIGN_EMPHASIS>★５サーヴァント交換期間中！<DEFAULT_COLOR>"
-        },
-        {
             "start_time": "2022-12-15T10:00:00+09:00",
             "banner_extend_info_id": 24,
             "image_data_id": -1,
@@ -206,7 +189,7 @@
             "message": "新規カラーバリエーションの必要霊衣片<CAMPAIGN_EMPHASIS>５０％ＤＯＷＮ！<DEFAULT_COLOR>"
         }
     ],
-    "atnd_lut": "2023-01-11T04:10:02+09:00",
+    "atnd_lut": "2023-01-12T04:10:02+09:00",
     "menu_button_extend_info_list": [
         {
             "start_time": "2022-12-15T10:00:00+09:00",
