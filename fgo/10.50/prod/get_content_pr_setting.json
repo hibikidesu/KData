@@ -1,0 +1,77 @@
+{
+    "last_cache_load_time": "2023-01-13T04:10:37+09:00",
+    "content_pr_setting_list": [
+        {
+            "start_time": "2023-01-12T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 155,
+            "horizontal_priority": 7,
+            "end_time": "2023-02-09T10:00:00+09:00"
+        },
+        {
+            "start_time": "2023-01-12T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 92,
+            "horizontal_priority": 8,
+            "end_time": "2023-02-09T10:00:00+09:00"
+        },
+        {
+            "start_time": "2023-01-05T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 154,
+            "horizontal_priority": 9,
+            "end_time": "2023-02-09T10:00:00+09:00"
+        },
+        {
+            "start_time": "2023-01-01T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 153,
+            "horizontal_priority": 10,
+            "end_time": "2023-02-09T10:00:00+09:00"
+        },
+        {
+            "start_time": "2022-12-26T07:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 152,
+            "horizontal_priority": 11,
+            "end_time": "2023-02-09T10:00:00+09:00"
+        },
+        {
+            "start_time": "2022-12-22T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 124,
+            "horizontal_priority": 12,
+            "end_time": "2023-02-02T10:00:00+09:00"
+        },
+        {
+            "start_time": "2022-12-15T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 122,
+            "horizontal_priority": 13,
+            "end_time": "2023-02-02T10:00:00+09:00"
+        },
+        {
+            "start_time": "2022-12-01T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 151,
+            "horizontal_priority": 15,
+            "end_time": "2023-01-19T10:00:00+09:00"
+        },
+        {
+            "start_time": "2023-01-05T10:00:00+09:00",
+            "vertical_priority": 40,
+            "data_set_type": 3,
+            "data_id": 3,
+            "horizontal_priority": 20,
+            "end_time": "2023-01-19T10:00:00+09:00"
+        }
+    ]
+}
