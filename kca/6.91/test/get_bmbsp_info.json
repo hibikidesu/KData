@@ -1,0 +1,41 @@
+{
+    "bmbsp_info_lst": [
+        {
+            "exercise_raid_reward_num": 1,
+            "start_time": "2023-01-02T07:00:00+09:00",
+            "exercise_solo_reward_num": 1,
+            "exercise_raid_play_count": 3,
+            "end_time": "2023-01-09T07:00:00+09:00",
+            "period_id": 231,
+            "exercise_solo_play_count": 6
+        },
+        {
+            "exercise_raid_reward_num": 1,
+            "start_time": "2023-01-09T07:00:00+09:00",
+            "exercise_solo_reward_num": 1,
+            "exercise_raid_play_count": 3,
+            "end_time": "2023-01-16T07:00:00+09:00",
+            "period_id": 232,
+            "exercise_solo_play_count": 6
+        },
+        {
+            "exercise_raid_reward_num": 1,
+            "start_time": "2023-01-16T07:00:00+09:00",
+            "exercise_solo_reward_num": 1,
+            "exercise_raid_play_count": 3,
+            "end_time": "2023-01-23T07:00:00+09:00",
+            "period_id": 233,
+            "exercise_solo_play_count": 6
+        },
+        {
+            "exercise_raid_reward_num": 1,
+            "start_time": "2023-01-23T07:00:00+09:00",
+            "exercise_solo_reward_num": 1,
+            "exercise_raid_play_count": 3,
+            "end_time": "2023-01-30T07:00:00+09:00",
+            "period_id": 234,
+            "exercise_solo_play_count": 6
+        }
+    ],
+    "bmbspi_lut": "2023-01-13T17:06:55+09:00"
+}
