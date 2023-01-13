@@ -1,0 +1,45 @@
+{
+    "season_and_contest_relation": [
+        {
+            "gw_contest_id": 7,
+            "season_id": 4
+        },
+        {
+            "gw_contest_id": 8,
+            "season_id": 4
+        }
+    ],
+    "last_cache_load_time": "2023-01-13T04:10:34+09:00",
+    "gw_contest_setting_list": [
+        {
+            "gw_contest_id": 7,
+            "division": 0,
+            "start_time": "2023-01-05T10:00:00+09:00",
+            "score_ranking_id": 15,
+            "contest_target": 0,
+            "end_time": "2023-02-02T10:00:00+09:00",
+            "name": "ＧＷスパークスバトル シーズン4　",
+            "disp_sprite_id": -1
+        },
+        {
+            "gw_contest_id": 8,
+            "division": 1,
+            "start_time": "2023-01-05T10:00:00+09:00",
+            "score_ranking_id": 16,
+            "contest_target": 1,
+            "end_time": "2023-01-19T10:00:00+09:00",
+            "name": "ＧＷスパークスバトル シーズン4　",
+            "disp_sprite_id": -1
+        }
+    ],
+    "season_list": [
+        {
+            "start_time": "2023-01-05T10:00:00+09:00",
+            "end_time": "2023-02-02T10:00:00+09:00",
+            "disp_name": "シーズン4",
+            "disp_number": 4,
+            "season_id": 4,
+            "disp_sprite_id": 1
+        }
+    ]
+}
