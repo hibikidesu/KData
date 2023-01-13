@@ -1,0 +1,631 @@
+{
+    "last_cache_load_time": "2023-01-13T04:10:35+09:00",
+    "start_time": "2023-01-12T07:00:00+09:00",
+    "ce_flavor_setting_list": [
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1219,
+            "index": 1,
+            "ce_id": 1219,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "白く淡く降り積もる雪。\n郷愁に彩られた温泉街を歩く。\n\nかけられた声へ振り向くと、\n煌びやかな女神たちが待っている。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1220,
+            "index": 1,
+            "ce_id": 1220,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "剣にも鍛錬が必要なように、\n歌にもトレーニングが必須！\n\n女王直々の指導は厳しいが、\nこれも暁の華となるため……！\n\nほら、そこの竜の魔女さんも！！\nやる気出してくださいね！？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1221,
+            "index": 1,
+            "ce_id": 1221,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1222,
+            "index": 1,
+            "ce_id": 1222,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1223,
+            "index": 1,
+            "ce_id": 1223,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8000,
+            "index": 1,
+            "ce_id": 8000,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8001,
+            "index": 1,
+            "ce_id": 8001,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8002,
+            "index": 1,
+            "ce_id": 8002,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8003,
+            "index": 1,
+            "ce_id": 8003,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱に防御力ダウンを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8004,
+            "index": 1,
+            "ce_id": 8004,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "クイックカード耐性をダウンする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8005,
+            "index": 1,
+            "ce_id": 8005,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "アーツカード耐性をダウンする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8006,
+            "index": 1,
+            "ce_id": 8006,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "バスターカード耐性をダウンする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8007,
+            "index": 1,
+            "ce_id": 8007,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8008,
+            "index": 1,
+            "ce_id": 8008,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8009,
+            "index": 1,
+            "ce_id": 8009,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8010,
+            "index": 1,
+            "ce_id": 8010,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "クー・フーリン〔オルタ〕にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8011,
+            "index": 1,
+            "ce_id": 8011,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "クー・フーリン〔オルタ〕にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8012,
+            "index": 1,
+            "ce_id": 8012,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "クー・フーリン〔オルタ〕にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8013,
+            "index": 1,
+            "ce_id": 8013,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "スノーマンに死亡時に相手に無敵貫通を付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8014,
+            "index": 1,
+            "ce_id": 8014,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "行動不能耐性、強化解除耐性を付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8015,
+            "index": 1,
+            "ce_id": 8015,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ターゲット集中＆NPチャージをする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8016,
+            "index": 1,
+            "ce_id": 8016,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "15秒毎にNPを100％増やす礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8017,
+            "index": 1,
+            "ce_id": 8017,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に敵全体のQuick性能をアップする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8018,
+            "index": 1,
+            "ce_id": 8018,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に敵全体のArts性能をアップする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8019,
+            "index": 1,
+            "ce_id": 8019,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に敵全体のBuster性能をアップする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8020,
+            "index": 1,
+            "ce_id": 8020,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "強化解除耐性を付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8021,
+            "index": 1,
+            "ce_id": 8021,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8022,
+            "index": 1,
+            "ce_id": 8022,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8023,
+            "index": 1,
+            "ce_id": 8023,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8024,
+            "index": 1,
+            "ce_id": 8024,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱に防御力ダウンを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8025,
+            "index": 1,
+            "ce_id": 8025,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8026,
+            "index": 1,
+            "ce_id": 8026,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8027,
+            "index": 1,
+            "ce_id": 8027,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8028,
+            "index": 1,
+            "ce_id": 8028,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に味方の強化を解除する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8029,
+            "index": 1,
+            "ce_id": 8029,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ArtsとBuster耐性アップ＆Quick耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8030,
+            "index": 1,
+            "ce_id": 8030,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "QuickとBuster耐性アップ＆Arts耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8031,
+            "index": 1,
+            "ce_id": 8031,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "QuickとArts耐性アップ＆Buster耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8032,
+            "index": 1,
+            "ce_id": 8032,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "登場時に敵全体のQuick性能アップ + 登場時に味方全体のArtsとBuster耐性アップ＆Quick耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8033,
+            "index": 1,
+            "ce_id": 8033,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "登場時に敵全体のAuick性能アップ + 登場時に味方全体のQuickとBuster耐性アップ＆Arts耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8034,
+            "index": 1,
+            "ce_id": 8034,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "登場時に敵全体のBuster性能アップ + 登場時に味方全体のQuickとArts耐性アップ＆Quick耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8035,
+            "index": 1,
+            "ce_id": 8035,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に味方の強化を解除する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8036,
+            "index": 1,
+            "ce_id": 8036,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に味方の強化を解除する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8037,
+            "index": 1,
+            "ce_id": 8037,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に範囲内の味方全体の強化状態を解除する"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8038,
+            "index": 1,
+            "ce_id": 8038,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に範囲内の敵全体の弱体状態を解除する"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8039,
+            "index": 1,
+            "ce_id": 8039,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に範囲内の味方全体の強化状態を解除する"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8040,
+            "index": 1,
+            "ce_id": 8040,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "登場時に範囲内の敵全体のスター発生率をアップ＆一定時間ごとにスター獲得状態を付与"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8041,
+            "index": 1,
+            "ce_id": 8041,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に範囲内の味方全体の強化状態を解除する"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 9001,
+            "index": 1,
+            "ce_id": 9001,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "自身のパーティの攻撃の威力を200％アップする礼装です"
+        }
+    ],
+    "is_completed": 1
+}
