@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-15T04:10:43+09:00",
+    "last_cache_load_time": "2023-01-16T04:10:48+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -989,15 +989,81 @@
             ]
         },
         {
-            "update_time": "2023-01-15T04:00:08+09:00",
+            "update_time": "2023-01-16T04:00:11+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 15655,
-                    "name": "皐月",
-                    "gw_rank": 15,
+                    "score": 18050,
+                    "name": "Ｗｏｗ Ｗｏ!釘パンチ",
+                    "gw_rank": 21,
                     "border_disp_rank": 500,
+                    "title_equip": {
+                        "title_word_id_1": 6,
+                        "title_word_id_0": 29,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2606,
+                        "title_plate_id": 79
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 30775,
+                    "name": "最果てにて",
+                    "gw_rank": 26,
+                    "border_disp_rank": 200,
+                    "title_equip": {
+                        "title_word_id_1": 8,
+                        "title_word_id_0": 475,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2568,
+                        "title_plate_id": 323
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 53285,
+                    "name": "さくまる",
+                    "gw_rank": 26,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 19,
+                        "title_disp_type": 2,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 79630,
+                    "name": "藤丸 立香",
+                    "gw_rank": 21,
+                    "border_disp_rank": 10,
+                    "title_equip": {
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
+                    }
+                }
+            ]
+        },
+        {
+            "update_time": "2023-01-16T04:00:16+09:00",
+            "score_ranking_id": 16,
+            "border_data_list": [
+                {
+                    "exist": 1,
+                    "score": 20,
+                    "name": "ダーオカ",
+                    "gw_rank": 18,
+                    "border_disp_rank": 1200,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
@@ -1009,113 +1075,47 @@
                 },
                 {
                     "exist": 1,
-                    "score": 26565,
-                    "name": "ケツドラム",
-                    "gw_rank": 24,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 2171,
-                        "title_word_id_0": 593,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 10,
-                        "title_plate_id": 318
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 46840,
-                    "name": "グレン",
-                    "gw_rank": 23,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 1004,
-                        "title_word_id_0": 475,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1005,
-                        "title_plate_id": 7
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 69175,
-                    "name": "もぉぉぉぉぉぉぉぉ！！！",
-                    "gw_rank": 22,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 1482,
-                        "title_word_id_0": 2551,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 354
-                    }
-                }
-            ]
-        },
-        {
-            "update_time": "2023-01-15T04:00:12+09:00",
-            "score_ranking_id": 16,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 17,
-                    "name": "天理チョーク",
-                    "gw_rank": 19,
-                    "border_disp_rank": 1200,
-                    "title_equip": {
-                        "title_word_id_1": 1841,
-                        "title_word_id_0": 2140,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 48
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 37,
-                    "name": "宮沢ＴＯＵＧＨ",
+                    "score": 43,
+                    "name": "静寂の待ち人",
                     "gw_rank": 21,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 615,
-                        "title_word_id_0": 258,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 217
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 4,
-                    "name": "話の途中でワイバーン☆",
-                    "gw_rank": 11,
-                    "border_disp_rank": 2500,
-                    "title_equip": {
                         "title_word_id_1": 7,
-                        "title_word_id_0": 60,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 52,
+                        "title_word_id_2": 2,
                         "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 81,
-                    "name": "サルバトーレ",
-                    "gw_rank": 20,
-                    "border_disp_rank": 150,
+                    "score": 4,
+                    "name": "ジャック・ジャグラー",
+                    "gw_rank": 11,
+                    "border_disp_rank": 2500,
                     "title_equip": {
-                        "title_word_id_1": 953,
-                        "title_word_id_0": 34,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 997,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 969,
-                        "title_plate_id": 66
+                        "title_word_id_2": 1889,
+                        "title_plate_id": 255
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 94,
+                    "name": "藤丸 立香",
+                    "gw_rank": 22,
+                    "border_disp_rank": 150,
+                    "title_equip": {
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 }
             ]
