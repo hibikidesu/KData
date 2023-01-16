@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-16T04:10:48+09:00",
+    "last_cache_load_time": "2023-01-17T04:10:48+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -989,59 +989,59 @@
             ]
         },
         {
-            "update_time": "2023-01-16T04:00:11+09:00",
+            "update_time": "2023-01-17T04:00:10+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 18050,
-                    "name": "Ｗｏｗ Ｗｏ!釘パンチ",
-                    "gw_rank": 21,
+                    "score": 18740,
+                    "name": "七陰第四席　衛宮 桜",
+                    "gw_rank": 16,
                     "border_disp_rank": 500,
                     "title_equip": {
                         "title_word_id_1": 6,
-                        "title_word_id_0": 29,
+                        "title_word_id_0": 312,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2606,
-                        "title_plate_id": 79
+                        "title_word_id_2": 1841,
+                        "title_plate_id": 104
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 30775,
-                    "name": "最果てにて",
-                    "gw_rank": 26,
+                    "score": 32940,
+                    "name": "エル",
+                    "gw_rank": 21,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 475,
+                        "title_word_id_1": 22,
+                        "title_word_id_0": 31,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2568,
-                        "title_plate_id": 323
+                        "title_word_id_2": 17,
+                        "title_plate_id": 60
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 53285,
-                    "name": "さくまる",
-                    "gw_rank": 26,
+                    "score": 55985,
+                    "name": "Ｐｏｃｋｙ",
+                    "gw_rank": 23,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 19,
-                        "title_disp_type": 2,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
+                        "title_word_id_1": 1873,
+                        "title_word_id_0": 2101,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 302,
+                        "title_plate_id": 185
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 79630,
+                    "score": 82975,
                     "name": "藤丸 立香",
-                    "gw_rank": 21,
+                    "gw_rank": 20,
                     "border_disp_rank": 10,
                     "title_equip": {
                         "title_word_id_1": 7,
@@ -1055,7 +1055,7 @@
             ]
         },
         {
-            "update_time": "2023-01-16T04:00:16+09:00",
+            "update_time": "2023-01-17T04:00:16+09:00",
             "score_ranking_id": 16,
             "border_data_list": [
                 {
@@ -1075,8 +1075,8 @@
                 },
                 {
                     "exist": 1,
-                    "score": 43,
-                    "name": "静寂の待ち人",
+                    "score": 44,
+                    "name": "ＣＤ",
                     "gw_rank": 21,
                     "border_disp_rank": 600,
                     "title_equip": {
@@ -1090,32 +1090,32 @@
                 },
                 {
                     "exist": 1,
-                    "score": 4,
-                    "name": "ジャック・ジャグラー",
-                    "gw_rank": 11,
+                    "score": 5,
+                    "name": "三式機械",
+                    "gw_rank": 23,
                     "border_disp_rank": 2500,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 997,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1889,
-                        "title_plate_id": 255
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 94,
-                    "name": "藤丸 立香",
-                    "gw_rank": 22,
-                    "border_disp_rank": 150,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_plate_id": 93
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 100,
+                    "name": "キラキラのアーチャー",
+                    "gw_rank": 21,
+                    "border_disp_rank": 150,
+                    "title_equip": {
+                        "title_word_id_1": 1323,
+                        "title_word_id_0": 1317,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 392,
+                        "title_plate_id": 354
                     }
                 }
             ]
