@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-17T04:10:48+09:00",
+    "last_cache_load_time": "2023-01-18T04:10:43+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -989,59 +989,59 @@
             ]
         },
         {
-            "update_time": "2023-01-17T04:00:10+09:00",
+            "update_time": "2023-01-18T04:00:10+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 18740,
-                    "name": "七陰第四席　衛宮 桜",
-                    "gw_rank": 16,
+                    "score": 19760,
+                    "name": "ダンバインＲＵＳＨ！",
+                    "gw_rank": 21,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 6,
-                        "title_word_id_0": 312,
+                        "title_word_id_1": 252,
+                        "title_word_id_0": 239,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1841,
-                        "title_plate_id": 104
+                        "title_word_id_2": 2183,
+                        "title_plate_id": 210
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 32940,
-                    "name": "エル",
-                    "gw_rank": 21,
+                    "score": 34435,
+                    "name": "おらごくう",
+                    "gw_rank": 19,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 22,
-                        "title_word_id_0": 31,
+                        "title_word_id_1": 345,
+                        "title_word_id_0": 1829,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 17,
-                        "title_plate_id": 60
+                        "title_word_id_2": 349,
+                        "title_plate_id": 247
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 55985,
-                    "name": "Ｐｏｃｋｙ",
-                    "gw_rank": 23,
+                    "score": 58235,
+                    "name": "かつ",
+                    "gw_rank": 17,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 1873,
-                        "title_word_id_0": 2101,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 302,
-                        "title_plate_id": 185
+                        "title_word_id_2": 2,
+                        "title_plate_id": 11
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 82975,
+                    "score": 87760,
                     "name": "藤丸 立香",
-                    "gw_rank": 20,
+                    "gw_rank": 25,
                     "border_disp_rank": 10,
                     "title_equip": {
                         "title_word_id_1": 7,
@@ -1055,37 +1055,37 @@
             ]
         },
         {
-            "update_time": "2023-01-17T04:00:16+09:00",
+            "update_time": "2023-01-18T04:00:13+09:00",
             "score_ranking_id": 16,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 20,
-                    "name": "ダーオカ",
-                    "gw_rank": 18,
+                    "score": 21,
+                    "name": "はすきー",
+                    "gw_rank": 20,
                     "border_disp_rank": 1200,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 1829,
+                        "title_word_id_0": 0,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
+                        "title_word_id_2": 0,
                         "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 44,
-                    "name": "ＣＤ",
-                    "gw_rank": 21,
+                    "score": 46,
+                    "name": "うさぎさん",
+                    "gw_rank": 24,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 2451,
+                        "title_word_id_0": 29,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 34,
+                        "title_plate_id": 2
                     }
                 },
                 {
@@ -1105,17 +1105,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 100,
-                    "name": "キラキラのアーチャー",
-                    "gw_rank": 21,
+                    "score": 106,
+                    "name": "タロット",
+                    "gw_rank": 23,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 1323,
-                        "title_word_id_0": 1317,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 392,
-                        "title_plate_id": 354
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 }
             ]
