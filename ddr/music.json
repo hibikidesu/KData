@@ -15414,6 +15414,22 @@
         "stage": 3
     },
     {
+        "mcode": 38528,
+        "basename": "losy",
+        "title": "Lose Your Sense",
+        "title_sort": "loseyoursense",
+        "artist": "ZxNX",
+        "bpmmax": 175,
+        "bpmmin": 44,
+        "level_str": "6 9 13 17 0 0 9 13 17 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 28
+    },
+    {
         "mcode": 38532,
         "basename": "takh",
         "title": "TAKE ME HIGHER",
