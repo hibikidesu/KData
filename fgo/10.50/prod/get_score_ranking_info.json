@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-18T04:10:43+09:00",
+    "last_cache_load_time": "2023-01-19T04:10:47+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -989,52 +989,52 @@
             ]
         },
         {
-            "update_time": "2023-01-18T04:00:10+09:00",
+            "update_time": "2023-01-19T04:00:12+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 19760,
-                    "name": "ダンバインＲＵＳＨ！",
-                    "gw_rank": 21,
+                    "score": 20610,
+                    "name": "ｎａｂｅ",
+                    "gw_rank": 23,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 252,
-                        "title_word_id_0": 239,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2183,
-                        "title_plate_id": 210
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 33,
+                        "title_disp_type": 2,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 34435,
-                    "name": "おらごくう",
-                    "gw_rank": 19,
+                    "score": 36035,
+                    "name": "藤丸 立香",
+                    "gw_rank": 24,
                     "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 345,
-                        "title_word_id_0": 1829,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 349,
-                        "title_plate_id": 247
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 58235,
-                    "name": "かつ",
-                    "gw_rank": 17,
-                    "border_disp_rank": 50,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 11
+                        "title_plate_id": 25
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 61365,
+                    "name": "黄金の鉄の塊",
+                    "gw_rank": 20,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 2514,
+                        "title_word_id_0": 1766,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 153,
+                        "title_plate_id": 323
                     }
                 },
                 {
@@ -1055,37 +1055,37 @@
             ]
         },
         {
-            "update_time": "2023-01-18T04:00:13+09:00",
+            "update_time": "2023-01-19T04:00:17+09:00",
             "score_ranking_id": 16,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 21,
-                    "name": "はすきー",
-                    "gw_rank": 20,
+                    "score": 22,
+                    "name": "リコリス",
+                    "gw_rank": 14,
                     "border_disp_rank": 1200,
                     "title_equip": {
-                        "title_word_id_1": 1829,
-                        "title_word_id_0": 0,
+                        "title_word_id_1": 1079,
+                        "title_word_id_0": 250,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 25
+                        "title_plate_id": 60
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 46,
-                    "name": "うさぎさん",
-                    "gw_rank": 24,
+                    "score": 49,
+                    "name": "もる",
+                    "gw_rank": 23,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 2451,
-                        "title_word_id_0": 29,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 34,
-                        "title_plate_id": 2
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
@@ -1105,17 +1105,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 106,
-                    "name": "タロット",
-                    "gw_rank": 23,
+                    "score": 112,
+                    "name": "５Å",
+                    "gw_rank": 19,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 1122,
+                        "title_word_id_0": 177,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 13,
+                        "title_plate_id": 29
                     }
                 }
             ]
