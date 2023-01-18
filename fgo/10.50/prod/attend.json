@@ -890,6 +890,15 @@
             "sub_id_1": -1,
             "sub_id_0": 49,
             "priority": 0
+        },
+        {
+            "banner_kind": 700,
+            "banner_extend_info_id": 39,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": -1,
+            "priority": 2
         }
     ],
     "costume_news_url": "",
@@ -1091,6 +1100,14 @@
             "data_type": 0,
             "end_time": "2023-02-02T07:00:00+09:00",
             "message": "高難易度クエスト追加！"
+        },
+        {
+            "start_time": "2023-01-19T10:00:00+09:00",
+            "banner_extend_info_id": 39,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-02-16T10:00:00+09:00",
+            "message": "<CAMPAIGN_EMPHASIS>フランケンシュタイン（クリスマス）強化時の獲得経験値２倍！<DEFAULT_COLOR>"
         }
     ],
     "atnd_lut": "2023-01-18T04:10:30+09:00",
