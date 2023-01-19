@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-19T04:10:47+09:00",
+    "last_cache_load_time": "2023-01-20T04:11:07+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -925,83 +925,52 @@
         {
             "update_time": "2022-12-26T08:00:30+09:00",
             "score_ranking_id": 14,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 110340,
-                    "name": "ＫＥＩ",
-                    "gw_rank": 17,
-                    "border_disp_rank": 300,
-                    "title_equip": {
-                        "title_word_id_1": 724,
-                        "title_word_id_0": 2588,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 13,
-                        "title_plate_id": 220
-                    }
-                },
-                {
-                    "exist": 0,
-                    "score": -1,
-                    "name": "",
-                    "gw_rank": -1,
-                    "border_disp_rank": 3000,
-                    "title_equip": {
-                        "title_word_id_1": -1,
-                        "title_word_id_0": -1,
-                        "title_integrated_id": -1,
-                        "title_disp_type": -1,
-                        "title_word_id_2": -1,
-                        "title_plate_id": -1
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 152070,
-                    "name": "皆尽",
-                    "gw_rank": 23,
-                    "border_disp_rank": 1000,
-                    "title_equip": {
-                        "title_word_id_1": 13,
-                        "title_word_id_0": 819,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 203,
-                        "title_plate_id": 89
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 66960,
-                    "name": "ＲＩＲＡ",
-                    "gw_rank": 21,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 2719,
-                        "title_word_id_0": 2726,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 188
-                    }
-                }
-            ]
+            "border_data_list": []
         },
         {
-            "update_time": "2023-01-19T04:00:12+09:00",
+            "update_time": "2023-01-20T04:00:10+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 20610,
-                    "name": "ｎａｂｅ",
+                    "score": 21065,
+                    "name": "たにし",
                     "gw_rank": 23,
                     "border_disp_rank": 500,
                     "title_equip": {
+                        "title_word_id_1": 6,
+                        "title_word_id_0": 755,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 579,
+                        "title_plate_id": 73
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 37705,
+                    "name": "麻婆うどん",
+                    "gw_rank": 20,
+                    "border_disp_rank": 200,
+                    "title_equip": {
+                        "title_word_id_1": 36,
+                        "title_word_id_0": 919,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 291,
+                        "title_plate_id": 87
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 62135,
+                    "name": "トーマ＠ミモリアン",
+                    "gw_rank": 27,
+                    "border_disp_rank": 50,
+                    "title_equip": {
                         "title_word_id_1": 0,
                         "title_word_id_0": 0,
-                        "title_integrated_id": 33,
+                        "title_integrated_id": 20,
                         "title_disp_type": 2,
                         "title_word_id_2": 0,
                         "title_plate_id": 25
@@ -1009,53 +978,23 @@
                 },
                 {
                     "exist": 1,
-                    "score": 36035,
-                    "name": "藤丸 立香",
-                    "gw_rank": 24,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 61365,
-                    "name": "黄金の鉄の塊",
-                    "gw_rank": 20,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 2514,
-                        "title_word_id_0": 1766,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 153,
-                        "title_plate_id": 323
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 87760,
-                    "name": "藤丸 立香",
-                    "gw_rank": 25,
+                    "score": 98330,
+                    "name": "グエル",
+                    "gw_rank": 26,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 109,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 1767,
+                        "title_plate_id": 230
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-01-19T04:00:17+09:00",
+            "update_time": "2023-01-19T11:00:11+09:00",
             "score_ranking_id": 16,
             "border_data_list": [
                 {
