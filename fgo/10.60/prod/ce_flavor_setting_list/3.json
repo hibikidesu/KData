@@ -1,0 +1,2607 @@
+{
+    "last_cache_load_time": "2023-01-21T04:10:07+09:00",
+    "start_time": "2023-01-20T07:00:00+09:00",
+    "ce_flavor_setting_list": [
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 610,
+            "index": 1,
+            "ce_id": 610,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 611,
+            "index": 1,
+            "ce_id": 611,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 612,
+            "index": 1,
+            "ce_id": 612,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 613,
+            "index": 1,
+            "ce_id": 613,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 614,
+            "index": 1,
+            "ce_id": 614,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 615,
+            "index": 1,
+            "ce_id": 615,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 616,
+            "index": 1,
+            "ce_id": 616,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "より多くの人を守るためには、\nより多くの努力を必要とした。\n\n時に受難に打ち勝つ強さを持ち得たからこそ、\n彼女は聖女たり得たのだろう。\n故に彼女の教えは、しばしば厳しい一面も見せる。\n\n主に物理的な方面で。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 617,
+            "index": 1,
+            "ce_id": 617,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "聖夜はまだ待たせておきましょう。\nクリスマスのお洒落も、\n祭事の喧騒もまだまだ遠く。\n\n特別な日のランチをゆっくり楽しむのも、\n乙女にとって当然の嗜みなのだから。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 618,
+            "index": 1,
+            "ce_id": 618,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "両手では足りないほどの大荷物を抱える姿は、\nさながら現代のサンタクロース。\n\nそれはサーヴァントたちによる、\nマスターへの日頃の感謝がこもったプレゼント。\n\n願いや想いを託されることには、いささか懐旧せざるを\n得ないが―――こんな温かな重みならば、いくらでも背\n負ってみせよう。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 619,
+            "index": 1,
+            "ce_id": 619,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "肩を並べるようにして歩きましょう。\n\nたくさんの荷物は喜びに満ちていて、\n抱えた分だけあったかくて、\nどれだけ重くたってへっちゃらです。\n\nこのかけがえのない時間が、\nいつまでもいつまでも、どうか続いていきますように。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 620,
+            "index": 1,
+            "ce_id": 620,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "きらびやかな夜に、いくつもの祝福が降り注ぐ。\n\n恋人との愛を育てる貴方に。\n友との親交を温める貴方に。\n家族との絆を深める貴方に。\n\n誰かのために戦いを続ける貴方に。\n\n皆に等しく。\n歴代のサンタたちから心を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 621,
+            "index": 1,
+            "ce_id": 621,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "その腕の輝きは、決して損なわれない――。\n\n遠い日に犯した過ち。 \n己が信じる忠義を果たすべく、\n遍歴の騎士は白亜の城へと歩みを進める。\n\n遥かな旅の果てに残るものなど無いとしても。\nそれでも、この旅の終わりを目指す。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 622,
+            "index": 1,
+            "ce_id": 622,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "“今宵、月の光の舞踏会にお越しください―――”\n\n差出人不明のメールを受け取ったふたり。\n向かった先は『ロストルーム』と呼ばれる場所。\n\n月光が注ぐ中、\nふたりの訪れと共に息を吹き返すシミュレーション。\n寂れていた空間は舞踏会のホールに変わり………\n\nそれは、在りし日のカルデアで起きた、\n一夜かぎりの御伽噺。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 623,
+            "index": 1,
+            "ce_id": 623,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 624,
+            "index": 1,
+            "ce_id": 624,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 625,
+            "index": 1,
+            "ce_id": 625,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 626,
+            "index": 1,
+            "ce_id": 626,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 627,
+            "index": 1,
+            "ce_id": 627,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 628,
+            "index": 1,
+            "ce_id": 628,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 629,
+            "index": 1,
+            "ce_id": 629,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 630,
+            "index": 1,
+            "ce_id": 630,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 631,
+            "index": 1,
+            "ce_id": 631,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 632,
+            "index": 1,
+            "ce_id": 632,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 633,
+            "index": 1,
+            "ce_id": 633,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 634,
+            "index": 1,
+            "ce_id": 634,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 635,
+            "index": 1,
+            "ce_id": 635,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 636,
+            "index": 1,
+            "ce_id": 636,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 637,
+            "index": 1,
+            "ce_id": 637,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 638,
+            "index": 1,
+            "ce_id": 638,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 639,
+            "index": 1,
+            "ce_id": 639,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 640,
+            "index": 1,
+            "ce_id": 640,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 641,
+            "index": 1,
+            "ce_id": 641,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 642,
+            "index": 1,
+            "ce_id": 642,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 643,
+            "index": 1,
+            "ce_id": 643,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 644,
+            "index": 1,
+            "ce_id": 644,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 645,
+            "index": 1,
+            "ce_id": 645,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 646,
+            "index": 1,
+            "ce_id": 646,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 647,
+            "index": 1,
+            "ce_id": 647,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 648,
+            "index": 1,
+            "ce_id": 648,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 649,
+            "index": 1,
+            "ce_id": 649,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 650,
+            "index": 1,
+            "ce_id": 650,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 651,
+            "index": 1,
+            "ce_id": 651,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 652,
+            "index": 1,
+            "ce_id": 652,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 653,
+            "index": 1,
+            "ce_id": 653,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 654,
+            "index": 1,
+            "ce_id": 654,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 655,
+            "index": 1,
+            "ce_id": 655,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 656,
+            "index": 1,
+            "ce_id": 656,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 657,
+            "index": 1,
+            "ce_id": 657,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 658,
+            "index": 1,
+            "ce_id": 658,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 659,
+            "index": 1,
+            "ce_id": 659,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 660,
+            "index": 1,
+            "ce_id": 660,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 661,
+            "index": 1,
+            "ce_id": 661,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 662,
+            "index": 1,
+            "ce_id": 662,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 663,
+            "index": 1,
+            "ce_id": 663,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 664,
+            "index": 1,
+            "ce_id": 664,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 665,
+            "index": 1,
+            "ce_id": 665,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 666,
+            "index": 1,
+            "ce_id": 666,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 667,
+            "index": 1,
+            "ce_id": 667,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 668,
+            "index": 1,
+            "ce_id": 668,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 669,
+            "index": 1,
+            "ce_id": 669,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 670,
+            "index": 1,
+            "ce_id": 670,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 671,
+            "index": 1,
+            "ce_id": 671,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 672,
+            "index": 1,
+            "ce_id": 672,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 673,
+            "index": 1,
+            "ce_id": 673,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 674,
+            "index": 1,
+            "ce_id": 674,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 675,
+            "index": 1,
+            "ce_id": 675,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 676,
+            "index": 1,
+            "ce_id": 676,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 677,
+            "index": 1,
+            "ce_id": 677,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 678,
+            "index": 1,
+            "ce_id": 678,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 679,
+            "index": 1,
+            "ce_id": 679,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 680,
+            "index": 1,
+            "ce_id": 680,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 681,
+            "index": 1,
+            "ce_id": 681,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 682,
+            "index": 1,
+            "ce_id": 682,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 683,
+            "index": 1,
+            "ce_id": 683,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 684,
+            "index": 1,
+            "ce_id": 684,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 685,
+            "index": 1,
+            "ce_id": 685,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 686,
+            "index": 1,
+            "ce_id": 686,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 687,
+            "index": 1,
+            "ce_id": 687,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 688,
+            "index": 1,
+            "ce_id": 688,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 689,
+            "index": 1,
+            "ce_id": 689,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 690,
+            "index": 1,
+            "ce_id": 690,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 691,
+            "index": 1,
+            "ce_id": 691,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 692,
+            "index": 1,
+            "ce_id": 692,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 693,
+            "index": 1,
+            "ce_id": 693,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 694,
+            "index": 1,
+            "ce_id": 694,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 695,
+            "index": 1,
+            "ce_id": 695,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 696,
+            "index": 1,
+            "ce_id": 696,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 697,
+            "index": 1,
+            "ce_id": 697,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 698,
+            "index": 1,
+            "ce_id": 698,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 699,
+            "index": 1,
+            "ce_id": 699,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 700,
+            "index": 1,
+            "ce_id": 700,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 701,
+            "index": 1,
+            "ce_id": 701,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 702,
+            "index": 1,
+            "ce_id": 702,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 703,
+            "index": 1,
+            "ce_id": 703,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 704,
+            "index": 1,
+            "ce_id": 704,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 705,
+            "index": 1,
+            "ce_id": 705,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 706,
+            "index": 1,
+            "ce_id": 706,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 707,
+            "index": 1,
+            "ce_id": 707,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 708,
+            "index": 1,
+            "ce_id": 708,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 709,
+            "index": 1,
+            "ce_id": 709,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 710,
+            "index": 1,
+            "ce_id": 710,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 711,
+            "index": 1,
+            "ce_id": 711,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 712,
+            "index": 1,
+            "ce_id": 712,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 713,
+            "index": 1,
+            "ce_id": 713,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 714,
+            "index": 1,
+            "ce_id": 714,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 715,
+            "index": 1,
+            "ce_id": 715,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 716,
+            "index": 1,
+            "ce_id": 716,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 717,
+            "index": 1,
+            "ce_id": 717,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 718,
+            "index": 1,
+            "ce_id": 718,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 719,
+            "index": 1,
+            "ce_id": 719,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 720,
+            "index": 1,
+            "ce_id": 720,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 721,
+            "index": 1,
+            "ce_id": 721,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 722,
+            "index": 1,
+            "ce_id": 722,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 723,
+            "index": 1,
+            "ce_id": 723,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 724,
+            "index": 1,
+            "ce_id": 724,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 725,
+            "index": 1,
+            "ce_id": 725,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 726,
+            "index": 1,
+            "ce_id": 726,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 727,
+            "index": 1,
+            "ce_id": 727,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 728,
+            "index": 1,
+            "ce_id": 728,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 729,
+            "index": 1,
+            "ce_id": 729,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 730,
+            "index": 1,
+            "ce_id": 730,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 731,
+            "index": 1,
+            "ce_id": 731,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 732,
+            "index": 1,
+            "ce_id": 732,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 733,
+            "index": 1,
+            "ce_id": 733,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 734,
+            "index": 1,
+            "ce_id": 734,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 735,
+            "index": 1,
+            "ce_id": 735,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 736,
+            "index": 1,
+            "ce_id": 736,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 737,
+            "index": 1,
+            "ce_id": 737,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 738,
+            "index": 1,
+            "ce_id": 738,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 739,
+            "index": 1,
+            "ce_id": 739,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 740,
+            "index": 1,
+            "ce_id": 740,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 741,
+            "index": 1,
+            "ce_id": 741,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 742,
+            "index": 1,
+            "ce_id": 742,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 743,
+            "index": 1,
+            "ce_id": 743,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 744,
+            "index": 1,
+            "ce_id": 744,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 745,
+            "index": 1,
+            "ce_id": 745,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 746,
+            "index": 1,
+            "ce_id": 746,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 747,
+            "index": 1,
+            "ce_id": 747,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 748,
+            "index": 1,
+            "ce_id": 748,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 749,
+            "index": 1,
+            "ce_id": 749,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 750,
+            "index": 1,
+            "ce_id": 750,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 751,
+            "index": 1,
+            "ce_id": 751,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 752,
+            "index": 1,
+            "ce_id": 752,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 753,
+            "index": 1,
+            "ce_id": 753,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 754,
+            "index": 1,
+            "ce_id": 754,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 755,
+            "index": 1,
+            "ce_id": 755,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 756,
+            "index": 1,
+            "ce_id": 756,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 757,
+            "index": 1,
+            "ce_id": 757,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 758,
+            "index": 1,
+            "ce_id": 758,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 759,
+            "index": 1,
+            "ce_id": 759,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 760,
+            "index": 1,
+            "ce_id": 760,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 761,
+            "index": 1,
+            "ce_id": 761,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 762,
+            "index": 1,
+            "ce_id": 762,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 763,
+            "index": 1,
+            "ce_id": 763,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 764,
+            "index": 1,
+            "ce_id": 764,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 765,
+            "index": 1,
+            "ce_id": 765,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 766,
+            "index": 1,
+            "ce_id": 766,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 767,
+            "index": 1,
+            "ce_id": 767,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 768,
+            "index": 1,
+            "ce_id": 768,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 769,
+            "index": 1,
+            "ce_id": 769,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 770,
+            "index": 1,
+            "ce_id": 770,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 771,
+            "index": 1,
+            "ce_id": 771,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 772,
+            "index": 1,
+            "ce_id": 772,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 773,
+            "index": 1,
+            "ce_id": 773,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 774,
+            "index": 1,
+            "ce_id": 774,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 775,
+            "index": 1,
+            "ce_id": 775,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 776,
+            "index": 1,
+            "ce_id": 776,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 777,
+            "index": 1,
+            "ce_id": 777,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 778,
+            "index": 1,
+            "ce_id": 778,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 779,
+            "index": 1,
+            "ce_id": 779,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 780,
+            "index": 1,
+            "ce_id": 780,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 781,
+            "index": 1,
+            "ce_id": 781,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 782,
+            "index": 1,
+            "ce_id": 782,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 783,
+            "index": 1,
+            "ce_id": 783,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 784,
+            "index": 1,
+            "ce_id": 784,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 785,
+            "index": 1,
+            "ce_id": 785,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 786,
+            "index": 1,
+            "ce_id": 786,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 787,
+            "index": 1,
+            "ce_id": 787,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 788,
+            "index": 1,
+            "ce_id": 788,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 789,
+            "index": 1,
+            "ce_id": 789,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 790,
+            "index": 1,
+            "ce_id": 790,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 791,
+            "index": 1,
+            "ce_id": 791,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 792,
+            "index": 1,
+            "ce_id": 792,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 793,
+            "index": 1,
+            "ce_id": 793,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 794,
+            "index": 1,
+            "ce_id": 794,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 795,
+            "index": 1,
+            "ce_id": 795,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 796,
+            "index": 1,
+            "ce_id": 796,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 797,
+            "index": 1,
+            "ce_id": 797,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 798,
+            "index": 1,
+            "ce_id": 798,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "まだ何物にも染まらぬ年の初めなればこそ、\n無色透明、真っすぐな眼でご挨拶。\n\nいつか共に仰ぎ見た空のように、\n貴方の征く道が晴れやかなものになりますよう。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 799,
+            "index": 1,
+            "ce_id": 799,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ぺったん　ぺったん\nひとつきごとに\n\nぺったん　ぺったん\n笑顔の輪すえひろがる\n\nそれは平穏という名の―――しあわせのおと。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 800,
+            "index": 1,
+            "ce_id": 800,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ドブネズミと呼ばれていますが\n清潔にさえしていれば\nその愛らしく聡明な本性を\nきっと分かってもらえると思うんです。\n仲良くしてあげてほしいんです。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 801,
+            "index": 1,
+            "ce_id": 801,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "頭脳の回転速度を競うのも良いけれど、\n新春迎えてせっかくの艶やかな装い、\n独楽を回して競うのもまた一興。\n\nされど舞い踊るような美少女たちの立ち居振る舞いに、\nなにとぞ目など回されませぬよう、お気を付けをば。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 802,
+            "index": 1,
+            "ce_id": 802,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "盾は護るためにある。\n盾は負けないためにある。\nしかしそれはその先にある勝利を諸手に掴むため。\n\n曇りなく、信じ、前を視よ。\nさすればその盾は、一切の脅威を通さぬ城壁となる。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 803,
+            "index": 1,
+            "ce_id": 803,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "心を磨き、\n技を極め、\n体を鍛えよ。\n\n偉大なる女王の指針を以て、\n前途の闇然貫き穿つ―――ただ一条の槍となれ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 804,
+            "index": 1,
+            "ce_id": 804,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "泳ぎは魚の、空を飛ぶなら鳥の気持ちに。\n食材をどう扱えばよいか知るためには、\n食材にされる獲物の気持ちに。\n\n命頂く行為を学ぶのですから、\n命賭してそれに臨むのは、当然のことなのです。\n\n……この教室においては。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 805,
+            "index": 1,
+            "ce_id": 805,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "名も知らぬ花の名前を知るとき、\nきみの視界にひとつ、色が増えるでしょう。\n\n雲の行き着く先に辿り着いたとき、\nきみの世界はひとまわり、豊かに広がるでしょう。\n\nそしてその笑顔の数だけ、\n我々はあたたかい気持ちに満たされることでしょう。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 806,
+            "index": 1,
+            "ce_id": 806,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "チョコもドレスも準備万端。\n受け渡しのシミュレーションだってもう完璧。\nあとはほんの少しの勇気だけ。\n\nただあの人がやってくるのは、いつだって突然で。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 807,
+            "index": 1,
+            "ce_id": 807,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "髪には飾りを、肌には輝きを与えましょう。\n支度が整いましたら、こちらの贈り物もお忘れなく。\n\n非常に不本意ながら、お姉様の尊き想いが、\nどうか届きますように―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 808,
+            "index": 1,
+            "ce_id": 808,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "お鍋の中を覗いてみましょう。\nそこは甘くて蕩けるチョコの海。\n\n一緒にいっぱい食べましょう。\n大好きなお友達たちと集まって。\n\nバレンタインは寄せ返す浜辺の砂城、\n思い出に残せるのはいつだって少しだけ。\n\n素敵なお茶会は過ぎ去ってしまうものだけど、\nどうか、甘くて幸せな思い出を。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 809,
+            "index": 1,
+            "ce_id": 809,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "先の見えない逆光の中を征く異聞帯の旅路。\n小さな我が家で出迎えてくれる笑顔と共に、\nありえたかもしれない世界を巡る、その記録。"
+        }
+    ],
+    "is_completed": 0
+}

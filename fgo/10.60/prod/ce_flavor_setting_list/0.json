@@ -1,0 +1,2607 @@
+{
+    "last_cache_load_time": "2023-01-21T04:10:07+09:00",
+    "start_time": "2023-01-20T07:00:00+09:00",
+    "ce_flavor_setting_list": [
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1,
+            "index": 1,
+            "ce_id": 1,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "偉大なるや魔道元帥。\n多くの可能性、多くの未来を守護するもの。\nその在り方は万華鏡の如し。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 2,
+            "index": 1,
+            "ce_id": 2,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "揺籃なれど希望は那由多に。\nいつか宙に羽ばたく時、その成長は多くを認め、多くを\n癒やす。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 3,
+            "index": 1,
+            "ce_id": 3,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "白衣の賢者は嘆き、問いかける。\n今一度、人類に収穫期をと。\n生と死が交差する刹那、人々に芽生えるものは\n略奪に見合うだけの成果と信じて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 4,
+            "index": 1,
+            "ce_id": 4,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "王とは人界より出づるものではなく、\n天界が地上に遣わすもの。\nこうして生まれた者は王聖を持つという。\n\n天性の絶対者、\n太陽の輝きを放つ純白の少年王。\nその王聖は“完遂される理想”。\n\nだが―――その完遂の為に何が\n捧げられるのかを、彼はまだ知らない。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 5,
+            "index": 1,
+            "ce_id": 5,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "卓越した操者の手によらば、\n月霊髄液(ヴォールメン・ハイドラグラム)の\n銀の奔流は剣となり、波濤は盾となり、\n飛沫さえも物見の尖兵となる。\n\nこれこそがアーチボルト家の誇る至上礼装。\n凡百な魔術師には決して辿り着けぬ魔術の最奥。\n下賤な魔術使いのカラクリ仕掛けなど\n所詮は兵器。芸術の前には無価値と知るがいい！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 6,
+            "index": 1,
+            "ce_id": 6,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「記念すべき初めての概念礼装！　しかもバレンタイ\nン！\n　…って思ったらこの扱いってどういう事！？」\n「押忍！　こうなったらラブリーでキューティーに\n　バレンタイン粉砕っす、師匠！」\n「おお……こんなに苦しいのなら、チョコなぞ要らぬ\n……！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 7,
+            "index": 1,
+            "ce_id": 7,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "仲良し姉妹のパティシエさんが楽しくチョコ作りに挑戦\nです！\nチョコペンで大好きなパパママお友達に\nメッセージを書いたら出来上がり。\nこれがホントのバレンタイン。色恋い沙汰とか不純です\nとも！\n\n……でも、後片付けはどうするの？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8,
+            "index": 1,
+            "ce_id": 8,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "Give Me Love Me!\nバレンタイン、それは愛が溢れる素敵な日。\n不届きなショートカットも今日なら多少のお目こぼし。\n本命、友人、気まぐれ付き合い。\n理由はそれぞれあるけれど、チョコの甘さはどれも均\n一。\n道行くアナタ、どうぞお一つお受け取りを。\n\n※メイドさんにはお手を触れぬようお願いいたします。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 9,
+            "index": 1,
+            "ce_id": 9,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "基本こそ最優の証。\n地水火風空を納めるもの、優雅にして華麗なるアベレー\nジ・ワン。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 10,
+            "index": 1,
+            "ce_id": 10,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "空想こそ自由の証。影の虚数はいま、軽やかに駆ける風\nになる。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 11,
+            "index": 1,
+            "ce_id": 11,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "収斂こそ理想の証。\n剣を鍛えるように、己を燃やすように、あなたは鉄を打\nち続ける。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 12,
+            "index": 1,
+            "ce_id": 12,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ノッブ「キャラ多すぎなんじゃが……」\nおき太「こういうのは記念ですよ、記念！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 13,
+            "index": 1,
+            "ce_id": 13,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "共に戦う日が来た二人の悲願の宴。\nおめでとう、桜セイバー。\nおめでとう、魔人アーチャー。\n\nふたりの夢が朝には覚めない事を祈って……！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 14,
+            "index": 1,
+            "ce_id": 14,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "因果が乱れている……欲望が策謀している……\nサーヴァントがモダンなカフェーでワークする事実など\nこの時空には存在しない。\nであれば、何者かの陰謀があるのはこれ明白。この謎を\n解明するため、我々は一路、馬車の道を走るのであっ\nた。\n次回、大正浪漫にぐだおの華が咲き誇る！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 15,
+            "index": 1,
+            "ce_id": 15,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "夜会の灯も暮れた頃、ようやく彼女は現れた。\n艶やかな髪、蕾のような唇、透けるように白い肌。\nその様は絵画の如し。\n我が国において異質なれど、静かに佇む大輪の華。\n\n誰もが息を呑む中で、\nぽつりと空気を読めない青年がひとり。\n\n「でもアレ、背がちょっと高すぎない？\n　ボクの趣味じゃないんだよねぇ」\n\nその青年がどのような目にあったのか、\n夜会に訪れた紳士たちはしたり顔のまま、\n黙して語らなかったという。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 16,
+            "index": 1,
+            "ce_id": 16,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "春の風に誘われて、足は自然と川原へ。\n\n桜並木に舞い散る花びら。\nうららかな光の中で、桜餅で一休み。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 17,
+            "index": 1,
+            "ce_id": 17,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "戦火の炎を巻き上げて、血道を突き進む。\n数多の修羅ひしめく戦場に、\n轟かせし忌み名こそ他化自在天の主。\n\n恐れよ。\n畏れよ。\n\n砲煙弾雨の嵐の中、その魔王はやってくる。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 18,
+            "index": 1,
+            "ce_id": 18,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ゴーレム、石や樹木で構成された人造兵士。\n“先生”に導かれ、より高次な鋳造を目指す日々は、\n少年の瞳に光を宿した。\n\nただ、強い光は時として人の目を眩ませる。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 19,
+            "index": 1,
+            "ce_id": 19,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "晴れ渡る空に舞い散る花弁。\n彼はマスター、そして魔術師として、\n差し出されたあの花を忘れることはなかった。\n\n見届ける、最後まで。例え何があっても―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 20,
+            "index": 1,
+            "ce_id": 20,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "才能だけでは避けられぬ業がある。\n彼女は人として常に向き合い、\n傍らに寄り添う老犬を忘れることはなかった。\n\nその想いは今も胸の内にあたたかく―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 21,
+            "index": 1,
+            "ce_id": 21,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "旅をすると彼女を思い出す。\n約束の日はきっと遙か彼方。\n\nゆらゆらと漂う波のように彷徨い、\nそれすらも良しとして……"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 22,
+            "index": 1,
+            "ce_id": 22,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは夢であり、幻。\n\n目的のためだけに生きてきたその先に、\nあったかもしれない束の間の休息。\n\n起き上がれば、また戦いが始まるのだ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 23,
+            "index": 1,
+            "ce_id": 23,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "何処に行くべきなのか、\nとりあえず前に進んでみよう。\n\n自由に己の赴くままに、\nヒポグリフに乗ってどこまでも！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 24,
+            "index": 1,
+            "ce_id": 24,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "人に祝福あれ。\n願いは幻想を受け止め奇跡に至る。\n肉体よ、今こそ枷から解き放たれよ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 25,
+            "index": 1,
+            "ce_id": 25,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "―――最も弱きものは、いずれ最も強きものに挑む。\n霊子虚構世界で行なわれた聖杯戦争。\nその勝者こそ、名前のない“あなた”である。\n\nやきそばパンの事は聞くな。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 26,
+            "index": 1,
+            "ce_id": 26,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "月の聖杯に存在するもう一つの可能性。\n歩みの果てにある結末を知りながら、それでもあなたは\n進み続けた。\n願いの先に待つ未来と、その結実を信じて。\n\nプレミアロールケーキも信じて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 27,
+            "index": 1,
+            "ce_id": 27,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "正義に取り付かれた男の見た幻。\n黒く濁った聖杯は語る。対価には代償が必要だと。\n愛を歌う、運命の女のように。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 28,
+            "index": 1,
+            "ce_id": 28,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "その起源は切断と結合。\n\n多くのものを切り捨て、\nより多くのものを繋ごうと足掻いてきた。\n\nひび割れた窓に映る残像よ。\nどうか、あの美しい日々のままに。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 29,
+            "index": 1,
+            "ce_id": 29,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "信仰こそ人の証し。\n信念は肉体を鋼に変える。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 30,
+            "index": 1,
+            "ce_id": 30,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "他人を損なう事で利益を得る、あまりにも単純な呪術。\n故に原始の一つ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 31,
+            "index": 1,
+            "ce_id": 31,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "グラデーション・エア。\n自己のイメージからオリジナルの鏡像を魔力によって複\n製する魔術。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 32,
+            "index": 1,
+            "ce_id": 32,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "北欧に伝わるルーン魔術。\n対象の身体活動を低下させる呪い。\n魔力の密度が高いものは弾丸並みの威力を持つ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 33,
+            "index": 1,
+            "ce_id": 33,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "自然の嬰児は呼びかける。\n大気に満ちるマナよ、徒に力を。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 34,
+            "index": 1,
+            "ce_id": 34,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "夜に月あらば湖面に映る真影あり。\n姉妹は互いの力を相乗する。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 35,
+            "index": 1,
+            "ce_id": 35,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ノブレス・オブリージュ。\n優雅である事は支配階級の嗜みである。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 36,
+            "index": 1,
+            "ce_id": 36,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "特異な魔術特性の一つ。\n深層意識をむき出しにし、負の側面を刃とする禁呪。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 37,
+            "index": 1,
+            "ce_id": 37,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "杯に祝福あれ。\n嬰児たちは本能で、主である生命に奉仕する。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 38,
+            "index": 1,
+            "ce_id": 38,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "天に祝福あれ。\n純粋な願いを受け、幻想はその純度を増していく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 39,
+            "index": 1,
+            "ce_id": 39,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "月の聖杯戦争で用いられた新しい魔術。\n当代最先端の魔術師たちの手によって、\n神秘の片鱗は霊子の世界でその輝きを取り戻した。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 40,
+            "index": 1,
+            "ce_id": 40,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "何事も初手が大切、最初の一歩は快活に！\n自然体の一撃は水月にも届くかも……？\nまさにこれ、宗和の心得への入り口なり。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 41,
+            "index": 1,
+            "ce_id": 41,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "栄光は尽きぬ。志あるかぎり蘇る。\nその幹は世界樹のように。\n次代の千年紀を迎える為、\nユグドミレニアの長は多くの同士に手をさしのべる。\n\n黒の陣営に、揺るがしようのない勝利を。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 42,
+            "index": 1,
+            "ce_id": 42,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "既に口頭は過ぎた。\n鉄拳を以て、魔術世界の規律を正し、\n魔術世界の秘宝を護る。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 43,
+            "index": 1,
+            "ce_id": 43,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ノリ・メ・タンゲレ。\n悪魔払いの泥中にあってこそ、聖女の証は立てられる。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 44,
+            "index": 1,
+            "ce_id": 44,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "長い研鑽の末に辿り着いた拳の極北。\nされど、その道程で削ぎ落した意志の欠如故に、\n男は茫漠たる暗殺者でしかありえなかった。\n\nただ喪われるばかりの雨の夜。\nひとりの魔女との邂逅が訪れるまでは。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 45,
+            "index": 1,
+            "ce_id": 45,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "人体はかくも鮮烈で、美しい。\n\n肢体はキャンバス、血は絵具。\n己が振るう刃こそが芸術家の絵筆であると、\n彼は信じて疑わない。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 46,
+            "index": 1,
+            "ce_id": 46,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "幸福とは、\n輝くような陽光の下に在るとは限らない。\n\n彼女にとってはある少女がそうであったように、\n六道の果ての果て、光の届かぬ奈落の底、\n地獄の鬼火に照らされた幸福もまた存在する。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 47,
+            "index": 1,
+            "ce_id": 47,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "人は老い、信念もまた老いる。\n老騎士は語る。あらゆる選択に過ちはない。\n過ちがあるとすれば、それは己が選択を悔い、\n目を背ける事なのだと。\n\n―――我が骸は、どうかイチイの木の下に。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 48,
+            "index": 1,
+            "ce_id": 48,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "遺された躯を加工し、駆使し、使役する魔術系統。\n魔術師の世界ですら忌避される術の数々を、\n男は迷いなく行使する。\nその生が無為に終わろうと、\nその死は決して無益ではないと自嘲るように。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 49,
+            "index": 1,
+            "ce_id": 49,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "大切な人たちを救いたい。\n決して変わらぬ強い想いが胸にはある。\n凡俗と揶揄されても、この意志だけは揺るがない。\nたとえそれが、矛盾に満ちた幻に過ぎぬとしても。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 50,
+            "index": 1,
+            "ce_id": 50,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "アジア圏のゲームチャンプは語る。\n鍛え上げたスキルこそが正道、と。\n\n圧倒的なプレイ時間とやりこみで頂点に君臨する\nトータルチャンプの打倒を目指し、\n天才ゲーム少年は日々腕を磨き続ける。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 51,
+            "index": 1,
+            "ce_id": 51,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "弾丸を込め、照準し、トリガーを引き絞る。\nより迅速に、より正確に、より精妙に。\nただひたすらに兵器としての性能を磨き上げる。\n\n強いあの人は、それだけを求めているから。\nそれ以外を求めるあの人は、弱くなってしまうから。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 52,
+            "index": 1,
+            "ce_id": 52,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "老若男女、千差万別、蝸牛。\n\n生き方、プライド、得意分野に理想の自分。\n主張は色々あるけれど、共通するのは快適な部屋。\n臣民のいない王様は、安寧と引き替えに\nゆるやかな自衰に沈む。\n\n「とドヤ顔で語ったところでジナコさんは優雅に\n　スナックをかじりながらＡＰを消費するのであった！\n　いやー、困るなー、こんなにスタミナを使ってたら\n　骨と皮だけになっちゃうッスー！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 53,
+            "index": 1,
+            "ce_id": 53,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "神話の時代、狩猟を終えた月の女神は泉で身を清めたと\nいう話。\nその気はなくとも覗きは厳禁。\n怒られるのならまだマシで、気に入られたのなら\nご愁傷様―――愛は月より重いかも……？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 54,
+            "index": 1,
+            "ce_id": 54,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "今は失われた一軒家にて。\n月明かりの中、少女の笑顔は宝石のように煌めく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 55,
+            "index": 1,
+            "ce_id": 55,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "それはこの世界にはないイフの話。\n月の海の底の底、七つの試練の彼方の宝。\n光によって象られた疑似霊子の頭脳はあらゆる奇跡を再\n現する。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 56,
+            "index": 1,
+            "ce_id": 56,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ハロウィンの夜に小悪魔踊る。\n可憐な角には幸運を、\n可愛い羽には祝福を。\nさてさて、ショウタイムまであと何歩？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 57,
+            "index": 1,
+            "ce_id": 57,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "カルデア、ただいま改装中……\nハロウィンパーティーの準備は万端。\n今夜は誰が訪ねてきても大丈夫。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 58,
+            "index": 1,
+            "ce_id": 58,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "チェイテの城下町を彩るランタン飾り。\n城主の人形が添えられたツリーは\nただの装飾ではなく、悪霊を退ける力が宿っている。\n……ような気もする。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 59,
+            "index": 1,
+            "ce_id": 59,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "美徳より悪徳に、\n清廉より汚濁に、\n己が心は打ち震える。\n\n罪深さに魂さえねじ切れる。\n神の家に身を置きながら、\nこの体は、あまりにも救いがない。\n\n冬木にて行われた四度目の聖杯戦争。\n苛烈なる激戦の中で、男はその答えを求め続ける。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 60,
+            "index": 1,
+            "ce_id": 60,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "根源への道程は、あまりに遠大で果てが無い。\n故に魔術師は家系を紡ぎ、\n血を受け継ぐことで歩みを重ねる。\n\nそこに「個」が入り込む余地は無く、\n血脈に連なる彼女もまた、\nそれを是とする一員であるはずだった。\n\n―――その在り方を全て覆す感情が存在することを\n彼女はまだ知らない。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 61,
+            "index": 1,
+            "ce_id": 61,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祭りの喧騒は、誰しも心浮き立つもの。\n\n焼きそば、たこ焼き、チョコバナナ、杏子にわた菓子、\nリンゴ飴。色とりどりの出店はどれもとても魅力的。\nお祭りの夜は、まだまだ始まったばかり。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 62,
+            "index": 1,
+            "ce_id": 62,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "王として、民草の祭り事に乗じるのもまた一興。\n\n陽が昇れば朝露と共に消える一夜の栄誉なれど、\nこの一夜にかぎり、王の盃を拝借する機会を与えよう。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 63,
+            "index": 1,
+            "ce_id": 63,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "狙うは大物、大りゅうきん。\n世界と共に金魚もすくう！\n\n決め手は度胸とタイミング。\nポイを水面に差し入れて、さあ果たしてその結果は？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 64,
+            "index": 1,
+            "ce_id": 64,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "夏の夜といえば、やはりこの光と音の饗宴。\n\n夜空に花咲く光の輪に日中の酷暑の名残も忘れ、\n誰もが瞳を奪われる。\n勿論、この一人と一匹も例外なく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 66,
+            "index": 1,
+            "ce_id": 66,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "とある聖杯大戦の折、ルーラーを身体の内に宿した少\n女。\n信仰心篤い敬虔な信徒であるが、\n年頃の少女らしい感性の持ち主でもある。\nその心の動きは後に聖者を動かす原動力となった。\n\nだが―――鏡に映った像は、果たして。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 67,
+            "index": 1,
+            "ce_id": 67,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "女の話をしよう。\n\n『ああ、なんて愛おしい―――』\n\n乳飲み子に語りかけるよう女は言った。\n人類とはみな未熟な獣。\n欲を食べ、欲に溺れ、欲に溶ける泡沫の実。\nとなれば誰が、この巨大な愛を、無量の愛を拒めよう。\n\n大悟も解脱もその指一つで随喜自在。\n行き着く先は殺生院、斯くの如き天上楽土。\n\n『ああ、なんて愛おしい―――\n　私を求める為だけに果てる、七十億の命たち』\n\nその魔性は溺れるような官能を囁く。\n天体を手に、乳飲み子を抱くように。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 68,
+            "index": 1,
+            "ce_id": 68,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "喜びに震えて奏でられる歌。\n勇みに任せて放たれる咆哮。\n\n異なる二本の戦いは、\n穿つほど激しく、そして鮮やかに。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 69,
+            "index": 1,
+            "ce_id": 69,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "その身に赤き竜を宿した王と、\n竜殺しの果てに竜と化した剣士。\n\n聖剣の光輝けば、大剣の剣気が迎え撃つ。\n互いの躍動に応えるが如く。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 70,
+            "index": 1,
+            "ce_id": 70,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "燃える街。\n聖杯探索の長い旅路、グランドオーダー。\n全てはここから始まるのだ。\n\nケルトの魔術師、仮初めのドルイドよ。\n願わくば、全てのマスターに導きを―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 71,
+            "index": 1,
+            "ce_id": 71,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "対峙した瞬間からわかっていた。\n\n殺戮することでしか守れない。\n救済することでしか叶わない。\n\n相容れない信念、\nその果てに見えるものは―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 72,
+            "index": 1,
+            "ce_id": 72,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ハロウィンの夜には、\nカルデア所内にも恐ろしい狼人間が現れるという。\nデンジャラス……\nおお、まさにデンジャラス・ビースト……！\n\n「ところでキミの所感は、フォウ？」\n「フォウ。フォウフォウフォウフォウフォウ」\n（なにかってまずお腹がいいよね。お腹。普段のマシュ\nよりちょっと余分に脂肪がついているだろう？　お団子\nの食べ過ぎを止めなかったボクの采配にキミたちは心の\n底から敬意を払うべきだよ。胸部の破壊力に関しては何\nを今さら、という話さ。ボクは十分に承知していたから\nね。でもちょっと、毛変わりするぐらい驚いた。マシュ\nは着やせするタイプなんだ……危険だね。とても危険\nだ。全体的なカラーはボクの好みからはちょっと外れる\nけど、紫という色が持つ魅力はハロウィンの夜に相応し\nい。高貴かつ淫靡かつ無垢。もうこれは彼女専用のエク\nストラクラスを作るべきではないだろうか？）\n「んー、なに言ってるか分かるのに\n　キミの内面がぜんぜん分からん！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 73,
+            "index": 1,
+            "ce_id": 73,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "満月の夜は、空往く彼女たちの領域。\n\n舞い降りた自称天才魔女と白き眷属がもたらすものは、\n果たして不運か幸運か。\n\n全ては妖艶なる魔女の手の中に。\n\n\n※中世においては魔女とは魔術を使う者の総称であり、\n　性別等は別に関係ありません。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 74,
+            "index": 1,
+            "ce_id": 74,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "その館には、夜ごとにうら若きゲストが訪れ、\n極上の悦びに満ちた歓待を受けるという。\n謎多き伯爵の正体とは……！\n\n「というイメージで衣装を用意してみたんだけど、\n　どうかな？」\n「そのワインがソフトドリンクでなければ、\n　まあそれなりに及第点？\n　ロマニにしては頑張った方だけど、\n　『謎多き伯爵』というフレーズは\n　なんとかならなかったのかい？」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 75,
+            "index": 1,
+            "ce_id": 75,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "人呼んで疾風怒濤のトナカイ戦車。\nお手紙から一日以内の郵便を約束します。\nまた別オプションでツリーの代役もできますので、\nお気軽にお申し付けくださいませ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 76,
+            "index": 1,
+            "ce_id": 76,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "一夜かぎりでもアルバイトでも、\nはたまた向いていなくても、\n帽子をかぶれば素敵なサンタ。\n街に聖者がやってくる！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 77,
+            "index": 1,
+            "ce_id": 77,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "戦いは続きますが、\n今夜ぐらいはロマンチックに。\nプレゼントに想いをこめて―――\n「メリークリスマス、マスター！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 78,
+            "index": 1,
+            "ce_id": 78,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "決して歩みを止めぬ青年に訪れた、暫しの休息。\n\n夢幻に揺らめく到達点に膝が折れそうになっても、\n少女たちが笑って過ごせる時間の尊さを知るからこそ、\n彼は再び歩き出せる。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 79,
+            "index": 1,
+            "ce_id": 79,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "根源を目指す者にとって、人の一生はあまりに短く、\n時間は黄金よりも貴重なもの。\nだから1秒だって無駄になんかできやしない。\n\n聖誕祭やらクリスマスパーティーやらなんていう世間の\n俗事は、魔術師にとっては何の価値も無い。\n\n……いや、別に寂しくなんかないからな？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 80,
+            "index": 1,
+            "ce_id": 80,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "神の家は、何人にも平等に機会を与えたもう。\nましてや今宵は聖誕祭。\n聖なる夜の客人は、暖かく迎え入れましょう。\n\nさあ、どうぞ。\nあなたもこちらへ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 81,
+            "index": 1,
+            "ce_id": 81,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "遠い時代、異なる世界で造られた、\n地球最後のホムンクルス。\n少女は師の使命を遂行する為、月の聖杯戦争に趣いた。\nそれが帰らぬ旅である事を理解しながら、\nただ、運命の星と出逢える事を夢見て。\n\nエルトナム・ラニ＝Ⅷ。\nアトラスの嬰児の魂は、今も月の海の底に。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 82,
+            "index": 1,
+            "ce_id": 82,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "失敗から生まれ、無益ゆえに棄てられた。\nその上で男は己が有用性を示し続け、\n自らの言葉を護り続け、\n弟である王の敵を殺し続けた。\n\n理想の王の影として、ではなく。\n王が治める城の最下層、\n下水の中を這い回る悪鬼のように。\n\nいかに王の懐刀と言われようと、男は己を嗤い続ける。\n糞のような人生だ。\nなら塵のような結末だろう、と。\nけれど、その言葉だけは外れたようだ。\n\nその最期に、蠍は天を見ず。\n同じ地表で抗う、凡庸な星を見た。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 83,
+            "index": 1,
+            "ce_id": 83,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "他者にマスターの権限を委譲するための書。\n作成には令呪一画を消費する。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 84,
+            "index": 1,
+            "ce_id": 84,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "阿蘭若、阿蘭若。\n修行、瞑想は人里離れた静地にて。\n若きにあろうと仏門は等しく厳しく、\nまた、等しく寛い。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 85,
+            "index": 1,
+            "ce_id": 85,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "\n漂白された記憶の水平線。\n血と硝煙に霞む向こう側。\n\n―――硝煙にまみれた魂では、\nもう届かない原初の懐（おもいで）。\n"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 86,
+            "index": 1,
+            "ce_id": 86,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "古今東西、世界のあまねく処に神は在る。\n\n唱える文、教典の言語、主義・教義が違おうと、\n救いと光を求める人の心は等しく、\nそれに応えし真なる神がどこかにおわすはず。\n\n「と考え、巡りに巡ってはや二十年。\n　もはや万策尽きた臥藤門司は心機一転、\n　単身でのヒマラヤ登頂などしてみるのであった！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 87,
+            "index": 1,
+            "ce_id": 87,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "彼女はどこか捉えどころのない女性だった。\n\n悪党は率先して選ぶが正義の味方ではなし、\n冷徹に人を撃っておきながら、\n淡々と人助けを行なった。\n\n殺し屋の理屈で弱き者を嗤いながら、\n強くなることへの代償を嘆いていた。\n\nそして僕にとっては赤の他人で、\n大切な家族だった。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 88,
+            "index": 1,
+            "ce_id": 88,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "グランドオーダーは続くものの、\n新年ぐらいはのんびり休息。\nしかし。燃え尽きた世界を憂うドクターは、\n人類が生み出した至高の発明品に遭遇した。\n\nおお、罪深きもの―――その名はKOTATSU……！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 89,
+            "index": 1,
+            "ce_id": 89,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "邪気を祓い、魔を打ち破る朱塗りの破魔矢。\n肩口の守護獣も勇ましく朝日を睨む。\n\n運命と戦う少年少女に幸がありますように。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 90,
+            "index": 1,
+            "ce_id": 90,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "謹賀新年、おめでとうございます！\n\n晴れ着、門松、お年玉。\n楽しいコトは数有れど、彼女の願いはただひとつ。\nどうかマスターにとって、\n2016年も良き一年でありますように―――！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 91,
+            "index": 1,
+            "ce_id": 91,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "澄み渡った藍色の空に、\n一年で最初の朝日が昇る。\n\nその曙光は格別な美しさなれど、\n照らされた騎士王の顔（かんばせ）もまた―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 92,
+            "index": 1,
+            "ce_id": 92,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "弓持ちの正月といえば、新春に行なう射初の一立ち。\n\n今年の行き先を占う恒例行事にて、\n四射全て皆中なれば、万日安寧間違い無し！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 93,
+            "index": 1,
+            "ce_id": 93,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "弱肉強食。\n自然とは常に強者の力こそがもの言う世界。\n故に、獅子は我が子を千尋の谷に突き落とすという。\n\n　◆\n\n「こちらカルデア管制室。はい。はい。いまモニター、\n　捉えました。状況を報告します。\n　いちアル。\n　にマスタ。\n　さんなすび。\n　これが……これが、新しいオーダーチェンジ……！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 94,
+            "index": 1,
+            "ce_id": 94,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "武芸と魔術の達人である影の国の女王の下には、\n多くの若者が弟子入りせんと集ったという。\n武芸全般、あらゆる戦いに精通した女主人は\n厳しくも高らかに、謳うように教えを説く。\n\n「決死を以て死を超克せよ。\n　何事も死ぬ気でやれ、という事だ。\n　なに、楽に考えろ。\n　出来なければ死ぬだけの話だぞ？」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 95,
+            "index": 1,
+            "ce_id": 95,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "何事も下ごしらえが肝要なり。\nお味噌汁は出汁取りから。\n懇切丁寧、一汁三菜こそ健康の秘訣。\n\nこれぞひとえに主のため。\n縁の下の力持ちこそ、良妻サーヴァントの証です！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 96,
+            "index": 1,
+            "ce_id": 96,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "綴りは美しく、在り方は綾の織物のように。\n正しい射をすれば、必ず中る。\n無我の境地を目指し、\n弓の道の探求者は日々邁進する。\n\nでも息抜きに、乙女ゲームなど嗜んだりする。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 97,
+            "index": 1,
+            "ce_id": 97,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "あけましておめでとうございます。\n決意を新たに、2019年は初詣から！\n\nまずは門出を祝して新年のご挨拶。\nひとそれぞれではありますが、\n絵馬に書いた願い事が叶いますように―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 102,
+            "index": 1,
+            "ce_id": 102,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "冬木の聖杯戦争。\n五百年の業の清算。\n第三魔法に根ざした救済の大儀式。\nその終となる『天の衣』、第二幕。\n\n少女の願いは静かに、爛れ、散りゆく――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 103,
+            "index": 1,
+            "ce_id": 103,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "赤衣の麗人は、祭りの開催を朗々と宣言する。\n\n勇壮なる戦士たちに喝采を。\n誉れ高き勇士たちに祝福を！\n\n無論、光は剣交える勇士たちだけでなく。\nこの場に在る全ての者たちの行く先に、\n華の祝福があらん事を！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 104,
+            "index": 1,
+            "ce_id": 104,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "私の愛し子は、素晴らしい言葉を残した。\n\n『全ての道は、ローマに通ず』\n\n故に「軍団（Legion）」という概念もローマの体\n現であり、私と共にあった群狼たちもまたローマなの\nだ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 105,
+            "index": 1,
+            "ce_id": 105,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "名君と称された在り方は、\n全て狂気の炎の炉に焚べられた。\n\n青白い月光の祝福の下、男は戦い血を流す。\n己自身さえも白い灰となり燃え落ちる、その時まで。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 106,
+            "index": 1,
+            "ce_id": 106,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "とろけるチョコとオレンジの酸味。\n後味は甘く苦く、\n微笑みは熱と期待に蕩けていく。\n\n密やかに流れる、恋人との時間のように。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 107,
+            "index": 1,
+            "ce_id": 107,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "料理担当の少年は、\n日頃の気持ちを込めてチョコレート制作に挑戦中。\n\n加減を知らない仕上がりは、\nできれば笑顔でスルーして。\n熱意やら感謝やら、そんな気持ちの大きさなのです。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 108,
+            "index": 1,
+            "ce_id": 108,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "好きなあの人にブレイブチェイン！\n\nバレンタインはいつだって、恋する人が大正義！\nキュートな天使が、素敵なあなたへチョコをお届け！！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 109,
+            "index": 1,
+            "ce_id": 109,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "柄でもない事だが、\n今日であれば許されるだろう。\n\n普段は言葉にできない感謝を、\n物言わぬ贈り物に込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 110,
+            "index": 1,
+            "ce_id": 110,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「これはどういう事なのかしら……ゴクリ」\n\nその時、彼女は気づいた。\n周囲に起きている異常を。\n必要以上に溢れるチョコレート需要を。\nスイーツというスイーツが常より\n華やかな割引をしている事を！\n\n「大人の女性は慎み深く楽しむもの。\n　率直に言ってチャンスです！」\n\n虎はカロリーとか忘れて戦場にダイブした。\nオーソドックスなチョコレートケーキはもちろん、\nザッハトルテにガトーショコラ、\nブラウニーにチョコボンボン―――\n嗚呼、われ至高の甘味を制覇せん。\n\n「ところで、なんで今日だけこんなイベント？」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 111,
+            "index": 1,
+            "ce_id": 111,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "チョコのひとつやふたつで、\nうろたえるなんてみっともない。\n\n貰えるヤツは貰えるし、ダメなヤツはとことんダメ。\nそれだけのこと、\nあたりまえの現実さ。\n\nま、でもアドバイスの一つぐらいはしてやるよ。\n分かるかい？\n何事も、日頃の努力のたまものなのさ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 112,
+            "index": 1,
+            "ce_id": 112,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "その一枚の肖像画は人類の至宝と称され、\n多くの謎、多くの学説とともに、\n幾千幾万の人々を魅了し続ける。\n\n天才が愛したとされる理想の女性美。\nその謎めいた微笑の裏にあるものは―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 113,
+            "index": 1,
+            "ce_id": 113,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「お手をどうぞ、レディ。\n　では参りましょう、\n  一夜のダンスパーティーへ―――」\n\n退廃不夜城街・冬木に舞い降りた三人の英霊紳士。\nパーティーはじき幕開け。\n心と躰の準備はＯＫ？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 114,
+            "index": 1,
+            "ce_id": 114,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「授業を始めよう。世界地図は持ってきたか？」\n\nイギリスのとある学舎にて。\n世界の果てを夢見る少年は、\nかつて世界を巡ったという教師の教えに目を輝かせる。\n\n「先生！　次は、そうだな…日本の話が聞きたいな！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 115,
+            "index": 1,
+            "ce_id": 115,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「どんな手を使っても、貴様を―――」\n\n兄弟校で互いに生徒会長を務めるアルジュナとカルナは\n文武共に競い合う永遠のライバル。\nある日、誠実なアルジュナの胸に芽生えた、初めての黒\nい感情。\n少しずつ変化していく心の在り方―――\n二人の闘いの結末は、はたして。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 116,
+            "index": 1,
+            "ce_id": 116,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「不埒な悪党は月に代わって成敗ってなぁ！\n　オレたちゃまったくゴールデンだぜ！」\n\n真ん丸月夜に影四つ。\n街から街へと流浪する四匹の浪人が、月の女神に代わっ\nて世直し旅。\n快刀乱麻の痛快世直しファンタジー、開幕！\n\nそれはそれとして熊は役に立たない。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 117,
+            "index": 1,
+            "ce_id": 117,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「キミも一緒にどう？\n　何って……決まっているだろう？\n　ボクたちの気持ちを彩る、このレンズさ」\n\n甘口メガネにクールなメガネ、も一つ危険なセクシーメ\nガネ。\nあなたのタイプはどのメガネ？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 118,
+            "index": 1,
+            "ce_id": 118,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「全部ブチ壊してやるぜェ！　\n　俺たちのオンガクでな！」\n\nハイド(Vo,G)、アーラシュ(B)、\nアストルフォ(Key)からなる3人組バンド。\n2016年3月、カルデアボーイズコレクションにて\nメジャーデビュー。\nなお、ニューシングル「流星一条（ステラ）」の発売と\n同時にアーラシュが脱退するのでは？　\nとの噂が一部メディアにより報じられていた。\n\nだが、デビューライブでオープニングナンバーとなって\n以降、アーラシュの姿は消えたが三曲目にはあわてて\n戻ってくる様子はもはや様式美となっている。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 119,
+            "index": 1,
+            "ce_id": 119,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「不思議なものだ。立場も信条も違う私たちが、\n　穏やかにひとつの席に落ち着くなど」\n\n麗人の呟きに、まったくだと同意する男性ふたり。\n趣味も嗜好も異なる三人は語る。\n生まれながらの偶像、フランスという国に嫁いだ少女の\n在り方を。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 120,
+            "index": 1,
+            "ce_id": 120,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「キミはボクのドラゴン。ウィンク一つでイチコロさ\n★」\n\nオルレアンから飛び出した最強アイドルユニット『ドラ\nバス』こと、\nドラゴン・バスターズがついにデビュー！\nもうワイバーンも怖くない。だってドラバスが護ってく\nれるから！\n\n※弓属性のレディは入場をお断りしております。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 121,
+            "index": 1,
+            "ce_id": 121,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔術師とは生まれついてより“力”ある者、そして、\nいつしか“さらなる力”へと辿り着く者。\n背を向けた裏切り者に魔道の尊さは理解できまい。\n\n「Intensive Einäscherung―――」\n\n防御陣の炎は蛇のようにうねり、\n堕落した醜態への憐憫すら焼き払う。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 122,
+            "index": 1,
+            "ce_id": 122,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "かつてあの男が大いに驚き、胸躍らせた冒険の数々は、\n今もまだ世界中に残っている。\n\nそれを探して旅立とう。\n\n足取りは違くとも、目指し続けていれば\n必ずどこかの海に辿り着くと信じて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 123,
+            "index": 1,
+            "ce_id": 123,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "遠坂家の佳人は、その名を冠した花言葉にあるように\n「穏やかな美」に満ちた女性であり、遠坂時臣との間に\n「豊かな才」を持つ娘たちを授かった。\n\n温和で愛情深い理想の母であるが、魔術師家系の妻とし\nてはあまりにも繊細なその心は、残酷に進む現実の中で\nか細い悲鳴を上げ続けた。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 124,
+            "index": 1,
+            "ce_id": 124,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "何とも争わず、誰も憎まず、\n人より大きな成功を求めず、今日より善い一日を行う。\n平凡で当り障りのない彼の人生。\n挫折による妥協ではなく、初めからそうであろうとして\n生きる難しさを、私たちは知っている。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 125,
+            "index": 1,
+            "ce_id": 125,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "最高位の人形師にして封印指定の対象者。\n鐘の音から逃れながら現代を愉しむ魔術師は、\nこの街で若き日の因縁と出会った。\n『根源』に関わる儀式を前に女主人は何を嘆息する。\n\n「……子供の頃の思い出は精算しておけという事か。\n　まったく、粋な使いを寄こすものさ」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 126,
+            "index": 1,
+            "ce_id": 126,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「AzoLto―――！」\n\nそれは拳闘と音階を混ぜ合わせた、\nちょっとだけ新しい現代魔術。\nジャブ、フック、ストレート。\n狙うは急所、胃部にあご先、左頬。\n踊るようなリズムに乗って、少女の炎は燃えさかる。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 127,
+            "index": 1,
+            "ce_id": 127,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "凶れ、凶れ、凶れ―――禍あれ。\n\n繰り返す言葉は呪いとなって、\n目に見えるもの全てを捻じ曲げ、破壊する。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 128,
+            "index": 1,
+            "ce_id": 128,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "むかし、草原を走る馬に憧れた。\n\n走る事だけが己の価値であるのなら、\n人生はどれほど単純で幸福で、そして残酷だっただろ\nう。\n\n夢の終わりは死ではなく幼年期の終わりである事を、\n走り続ける彼は知らない。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 129,
+            "index": 1,
+            "ce_id": 129,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔術詠唱に革命を！\nまったく老人どもは古くさい。\n印刷技術が神秘を冒し、\n通信技術が神秘を毒しただと？\nコピー、リピート、大いに結構！\n発進した言葉が衆愚によって伝播するように、\n魔術詠唱もまた、一度きりでいいものなのさ！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 130,
+            "index": 1,
+            "ce_id": 130,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「ようこそ、諸君。\n　完璧な謎に支配された箱庭“ベーカー街”へ。」\n\n謎特異点に閉じ込められたマスターたち。\n渡されたのは犯人からの挑戦状。\n\n限られたヒントをもとに、\nサーヴァントたちと協力して謎を解け！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 131,
+            "index": 1,
+            "ce_id": 131,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「此処は王族の眠る聖なる棺である！」\n\n突如カルデアから姿を消したオジマンディアス。\nそんな中、時を同じくして出現したのは―――\n\n―――再びの謎特異点。\n\n世界の崩壊まで残り僅か。\nサーヴァントたちと協力して\nピラミッドとファラオの謎を解け！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 132,
+            "index": 1,
+            "ce_id": 132,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "一拍、無拍、零拍子！\n普段は硬派な彼女でも、お祭りとあらば即・帯刀。\n峰打ちだから首が飛んでもまあ大丈夫。\nゴールドヒロイン・首切りバニー、\n装いも新たにここに遭遇（エンカウント）！\n\n「淑女ですもの、偶には月に跳ねたり致しますわ☆」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 133,
+            "index": 1,
+            "ce_id": 133,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "不倶、金剛、蛇蝎、戴天、頂経、王顕。\n自らを中心とした三重の結界。\nそれは地面と空間、\n平面と立体に張り巡らされた蜘蛛の糸。\nこの円こそ不動の思想。智慧なき者はその身を恥じよ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 134,
+            "index": 1,
+            "ce_id": 134,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "本来、視覚や聴覚が得ている情報。\n知性が持つ未来への展望、予想。\nそれらを統合し、現実の域にまで高めたモノが未来視\nだ。\n彼らは“数分後の未来”を視ているのではなく、\n現実を作り出す“数分後の結果”を視ている。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 135,
+            "index": 1,
+            "ce_id": 135,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "贖罪に惑うものと、その道に寄り添うもの。\nかつて誰かが辿った桜の並木道。\n\n福音は繰り返すように、\n終わった物語をもう一度歩ませる。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 136,
+            "index": 1,
+            "ce_id": 136,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "源平壇ノ浦の合戦にて。\n船から船へ、軽々と跳ねまわる義経。\nその軽快さは幼少の牛若丸時代を彷彿とさせた。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 137,
+            "index": 1,
+            "ce_id": 137,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "天高く跳ね上がる金の化け鯉と坂田金時の図。\n\n急流を登り切ると龍と化すと言われる鯉と、\n健康な男児の象徴であった金時の組み合わせは、\n立身出世や無病息災といった縁起の良い図柄として\n古くから描かれてきた。\n\nでも熊とか別に関係ない。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 138,
+            "index": 1,
+            "ce_id": 138,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "コン、コン、コン。\n仲人狐の鳴き声が祝言代わりに響いたら、\n嫁入り行列は動き出す。\n\n白無垢の花嫁は千本鳥居をくぐり抜け、\n愛しい花婿を目指して歩み往く。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 139,
+            "index": 1,
+            "ce_id": 139,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ここは紀の国、日高川。\n恋し恋しと渦巻く少女は\n金色夜叉か、はたまた大蛇の情念か。\n\n恋慕の炎を撒き散らし、焦がれ焦がるる恋人を、\nどこまでも追いかける。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 140,
+            "index": 1,
+            "ce_id": 140,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "―――もとより勧進帳のあらばこそ。\n\n弁慶は巻物を一巻き取り出すと、\nそれを勧進帳と称して高らかに読み上げた。\n\n朗々たる詠み声が安宅の関に響き、\n男は不動の見得を切る。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 141,
+            "index": 1,
+            "ce_id": 141,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "豪奢な衣装に身を包み、\n繰り出すパーティー会場は遥か大海原。\n\n目も眩む宝物？　もちろん山程ごっそりと。\n響き渡る銃声？　もちろん毎日うんざりと。\n胸焦がす美酒？　もちろん勝利の後にたっぷりと！\n\nなに、選り取り見取りの美女が足りない？\nそこはそれ、\n船長の前じゃたいていの女は逃げだすさ！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 142,
+            "index": 1,
+            "ce_id": 142,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "消えゆく陽の残照を慈しみ、\nもう二度と来ない今日に想いを馳せる。\n\n山の狩人であれ、海洋冒険の一つや二つは経験済み。\n夏の夕暮れにかつての栄光に思いを馳せる。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 143,
+            "index": 1,
+            "ce_id": 143,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "青々とした木々からこぼれる麗らかな陽の光。\n\n浜辺ではしゃぐ仲間たちを見守りながら、\n彼女は木陰で微笑みかける。\n\n夏の楽しみ方は十人十色。\n大人の女はあわてない、あわてない……"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 144,
+            "index": 1,
+            "ce_id": 144,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "プリドゥエンの帆は張った。\n\n此度の遠征は慣れぬ外洋なれど、\nブリテンに名高い円卓の騎士たちに恐れはない。\n\n往く先が広大無辺な大海であろうとも、\n認め、讃え、競い合う友がいるのだから。\n\n「ところでランスロット卿、泳ぎの心得は？」\n「無論あるとも。鎧を脱いでいいのなら\n　ドーバー海峡を泳ぎ切ってみせるよ。\n　そう言うガウェイン卿は？」\n「さすがに海流を泳いだ経験はありませんが、\n　嵐のただ中にある川を横断するぐらいなら」\n「……どちらも中々の技量と見ました。まあ、私は水に\n　濡れたくはないので、基本的にはご婦人が溺れている\n　時にしか飛び込みませんが。ですが、円卓一の水泳の\n　達人と言えば―――」\n｢｢｢間違いなくケイ卿だな。\n　 あれは変態的だ！｣｣｣\n\n蒼天の下、騎士たちの笑い声が木霊する。\nしかし。\n\n「皆さん。ご歓談のところ申し訳ありませんが、船員と\n　しての仕事を理解しているでしょうか？\n　ランスロット卿は帆の張り直しを。\n　ガウェイン卿は昼食の準備を。\n　トリスタンは勝手に持ち込んだ私物について話がある\n　ので船長室に出頭してくださいね（ニコリ）」\n「ああ、私は悲しい……なぜベディヴィエール卿は\n　私の隠し事を的確に見抜くのでしょう……？」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 145,
+            "index": 1,
+            "ce_id": 145,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「肉はいい。インテリジェンスだ。食べれば食べるほど\n　野生の血が騒ぐからな！　そうだろうエレナ君！　\n　ああ、そこの空気を読めないスーツ男はヴィーガン主\n　義だったな。そら、このタマネギでも齧っていたま　\n　え。貧相な肉体には貧相な知性が宿ると言うからな！\n　ハハハハハハ！」\n「は。ついに頭だけでなく心臓にまで毛が生えたと見え\n　るな凡骨。確かに私は菜食主義だがそれは信条であっ\n　て絶対ではない。肉を美味く食べるには野菜を定期的\n　に摂るべきなのだ。肉と野菜の組み合わせこそ旨みが\n　まし、また効率よく栄養を摂取できる。栄養学的に。\n　ところで私はかねてからニホンの黒毛和牛が持つ脳細\n　胞活性化成分に興味があってだね。そこでブラヴァツ\n　キー女史、どうだろう。キミの不思議な円盤でニホン\n　まで買い出しに行く、というのは？」\n「ないわよそんなの。ただ美味しいだけよあれ。\n　頭を良くしたいなら魚を食べなさい、魚を！」\n\n灼熱のサン、もくもくと昇るスモーク、\n永遠に分かりあえないジェントルメン。\n\n金網という銀のフィールドで繰り広げられる、\n絶対に負けられない戦いが、ここにもある。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 146,
+            "index": 1,
+            "ce_id": 146,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "真夏の海辺となれば、これも醍醐味の一つ。\n冷たい氷の欠片をかき集め、特製シロップをかければ夏\nの味覚の出来上がり。\n\n「いわゆるコンセプトフードですね。\n　もちろん、原材料はシャドウサーヴァントではありま\n　せん。ありませんとも。似たような何かですが、\n　我が錬金術の奥義がそれを感じさせませんので。\n　さあどうぞ。味も普通のグレープ味です。\n　―――シロップは自家製ですが、そこはご容赦を。\n　私もデータがとりたいので」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 147,
+            "index": 1,
+            "ce_id": 147,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた人理修復の旅路。\n今は遠いあの日々が、色彩の中に蘇る―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 148,
+            "index": 1,
+            "ce_id": 148,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「フォウフォーウ……！」\n\nクレーンに掴み上げられたぬいぐるみ。\nそれを真剣に見つめる少女の顔つきは険しい。\n傍で眺める少女と一匹は、固唾を飲んで見守っている。\n\nハラハラドキドキの、手に汗握る緊張感。\nゲームセンターでしか味わえない体験が、\nこの一瞬に凝縮されていた。\n\n果たして、ぬいぐるみの運命はいかに。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 149,
+            "index": 1,
+            "ce_id": 149,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "音楽を愛する天才は、音楽ゲームでも\nその才を発揮する。\n華麗な指の動きは迷うことなく鍵盤を叩き、\nメロディを奏でる。\nその横ではただ一人の観客が、\n淀みなく流れる演奏へ静かに耳を傾け――。\n\n――背後では今まさに、美しい旋律を掻き消すであろう\n激奏が始まろうとしていた。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 150,
+            "index": 1,
+            "ce_id": 150,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "筐体を挟んで、\n巨躯の男と団子頭の少女が向かい合っている。\n画面上では先ほどから、激しい攻防戦が繰り広げられて\nいる。\nお互いのライフは共に残りわずか。\n\n巨躯の男から大技が放たれる。\nが、団子頭は一切慌てることはない。\n彼女はフレーム単位でボタンを正しく入力し、\n男の攻撃を完璧にガードする。\nそして次の瞬間、\n←→→Ｐ＋Ｋ！\n彼女の指先で正確なコマンド入力が行われ――\n\nＫ．Ｏ．\n\n勝敗は決した。\n少女は拳を振り上げ、勝どきを上げる。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 151,
+            "index": 1,
+            "ce_id": 151,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "仮初のエンジン音が耳に響く。\n座るシートも、掴むハンドルも、\n遊戯の為に作られた、安全かつ簡潔な娯楽用具。\nだが。\n\n「力みすぎだ黒焦げ女。\n　それではハンドルを引き抜くぞ？」\n「うっさいわね！　敵に塩でも送るつもり？\n　これくらいでちょうどいいの、よっ！」\n\n遊戯であろうとなかろうと、\n２人が手を抜くことは無い。\n騎乗スキルを駆使する騎士王も。\n初心者だが必死にハンドルを回す竜の魔女も。\nただ勝つ為に、戦っている！\n\n決着はもうすぐ。\n敗者と勝者、決まる時は近い。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 152,
+            "index": 1,
+            "ce_id": 152,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "夏の光は全てに等しく降りそそぐ。\n走り疲れた獣にも、\nカタチだけの空洞にも。\n\n寄せては返す波の音。\n椰子の葉を揺らす風と共に、\n彼らのひと夏はゆっくりと過ぎていく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 153,
+            "index": 1,
+            "ce_id": 153,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "夏が来た！\n初めて泳ぐドキドキの海！\n\n冬のあの日、\n夕焼けを見ながら交わした小さな夢が今ここに。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 154,
+            "index": 1,
+            "ce_id": 154,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "夏の陽気ではしゃぐばかりがバカンスにあらず。\n晴天の下、カクテル片手に頭脳戦もおつなもの。\n\n「いや、\n　こんなところで会うとは奇遇だよマスター君。\n　どうかな、一ゲームだけ遊んでいくというのは？\n　根は邪悪だが公正なヴラド公、\n　どんでん返ししか狙っていないウィリアム君、\n　そして楽しいプレイをモットーとするこの私。\n　なあんにも怖いコトなんか起きないヨ？\n　だってアラフィフは嘘つかないからネ！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 155,
+            "index": 1,
+            "ce_id": 155,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "白い甲板に輝く太陽が照り付ける。\n\nどこまでも青い空と爽やかに駆け抜ける風に、\n東西の聖女たちも笑顔が華やぐ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 156,
+            "index": 1,
+            "ce_id": 156,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ついにはじまったカルデアビーチバレー大会。\nやる気と遊び心、そして筋力を持てあました彼らは\n堰を切ったようにチームを組んだ。\n\nだが筋肉といえばアレ。\nアレといえば微笑みマッスル。\n\nテクニック派のアレキ＆侠客の相手は、\nこれまであらゆるボールを弾き返し、\n顔面レシーブさえいとわない超強力レシーバー。\n\n打てば打つほど強くなる壁相手に、\n果たして勝ち目はあるのだろうか―――！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 157,
+            "index": 1,
+            "ce_id": 157,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "夏のバカンスのお供といえば、\nやっぱりつめた～いアイスクリーム！\nコーディネートも夏に合わせてバッチリだし、\nボクたちならどんなライバルも敵じゃあないさ！\nほらほら、デオンもピース、ピース！\n食べ終わったら二人でマスターを誘いに行くぞっ☆\n\n「い、いや、私は涼みに来たのであって、\n　個人的な夏を満喫する気は―――\n　待て、撮るな、写真を王妃に送信するなっ！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 158,
+            "index": 1,
+            "ce_id": 158,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "さんさんと照らす日光は、\n常夜の女主人にとっては最大の天敵。\n\n仰せ付かるは柔肌へのオイル塗り。\n誠心誠意、努めさせていただきます！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 159,
+            "index": 1,
+            "ce_id": 159,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「命を救うためならッ！　私たちは何だってするわッ！\n　何だって！」\n\n\n清涼な癒しを求める場であれど、鮫にクラゲに熱中症。\n夏の海には危険がいっぱい。\nそんな危険からあなたを守る、\nとびっきりのライフセーバーを紹介するぜ！\n\nまずは牛若丸！\n救護船バベッジ号を駆る操船のエキスパートだ！\nでも本人が水上を跳ねた方が早いのは内緒だぜ！\nつぎはジャック！\n傷の手当てならお手の物、鮫に襲われたら呼んでくれ！\n今夜はフカヒレだ！\n最後はナイチンゲール！\n基本的になんでもできるがことごとくやりすぎだ！\n心肺停止した要救護者にマウストゥマウスかと思いきや\n心臓を直に握って蘇生させた事もあるって話さ！\nでも飛行機だけはカンベンな！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 160,
+            "index": 1,
+            "ce_id": 160,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは亜種特異点での旅路。\n戻らぬものを抱えながら、今あるものを精一杯抱きしめ\nて走り続けた、その記録。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 161,
+            "index": 1,
+            "ce_id": 161,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "星の命と共に、人間の歴史は終わった。\n\n理想の王は破れ、棺に落ち、千年の倦怠に沈んだ。\n安定と管理という名の生存では未来は掴めず。\n人々はそもそも、自らの意義を忘れてしまった。\n\nそれが人類に与えられた報酬。\n寂しくはあるが緩やかな終焉なのだと、\nかつての彼であれば受け入れただろう。\n\n―――だが、理想の王は既に地にまみれ。\n敗北を知ったが故、立ち上がる機会を得た。\nその身は朽ち果て、かつて夢見た理想は成し得ないと\n受け入れながら、王は致死の戦いに赴いた。\n\n人々を導くために。\n“生きる”という事の定義を、いま一度、\n人々に問うために。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 162,
+            "index": 1,
+            "ce_id": 162,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "その女は壊れていた。\n最愛の子を失い、己の心を失い、\n真に愛するものならば口にできる、\nという狂気の矛盾を抱えていた。\n\nしかし最期まで。\n飢餓に陥り、痩せ細り、命の灯さえ消えるその時まで。\n意思を練る力さえ尽きたはずの道化は、自らの闇に呑ま\nれることに抗し続けた。\n\n人知れず消えたその女の魂の輝きを、\nただ一人、血に濡れた武人だけが見出していた。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 163,
+            "index": 1,
+            "ce_id": 163,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "月の虚構世界。\nその日常にあった人々。\n\nようやく訪れた夕暮れの先で、少女たちは語らう。\n他愛のない話を。\n\n無邪気に、\n面倒そうに、\nそれでも楽しげに。\n\nずっと、ずっと前から―――\nアナタとお喋りをしたかったとでもいうように。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 164,
+            "index": 1,
+            "ce_id": 164,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "野生のメイド、獅子奮迅の大活躍！\nハロウィンパーティーを彩るのは\n手作りのパンプキンアンデットNECOスイーツ☆\n残さず平らげるのだ、ご主人候補！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 165,
+            "index": 1,
+            "ce_id": 165,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "夜な夜な夢に現れる恐ろしい女悪魔…\nの仮装ではしゃぐ冬の城のお姫さま。\nでも、『おっかない』と『いろっぽい』を\n間違えているような……？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 166,
+            "index": 1,
+            "ce_id": 166,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "厄介ごとでも素敵な奇縁、\n乙女が揃って笑いかければ、\nどんなお化けもイチコロさ！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 167,
+            "index": 1,
+            "ce_id": 167,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ハロウィンは危険がつきもの。\n高度な知識とあらゆるトラブル処理能力を持つ\nカルデア医療班は、今年も厳戒態勢で見回り中。\n\nが。今年は班長の特注衣装が最も危険では？\nという意見が次々と上がってきているという……"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 168,
+            "index": 1,
+            "ce_id": 168,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "日々怪人と呼ばれる彼等こそ、\n今宵の主役となるのがハロウィン・ナイト。\n\n仮装の域を超えたクオリティに子供たちが\n泣きだしてもだいじょうぶ。\n女神の施しは何人にも同様に。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 169,
+            "index": 1,
+            "ce_id": 169,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ハロウィン・パーティーにようこそ☆\n\nあなたを出迎えにやって来たのは、アン＆メアリー。\n可愛い衣装に身を包んだ二人は、\nまるで絵本から飛び出してきたかのよう！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 170,
+            "index": 1,
+            "ce_id": 170,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ハートアンドピース♪\nオーガアンドピース♪\n\nせっかくだから　せっかくだから♪\nみんなで楽しく過ごしましょう♪\n\n楽しい居場所♪　嬉しい居場所♪\nいつまでも終わらない　永遠の楽園　オニランド♪\n\nここは地上に降りた娯楽の殿堂―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 171,
+            "index": 1,
+            "ce_id": 171,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "茜さす町に明かりが灯る。\n\n賑やかな音に耳を傾けながら、\n黄昏に想いを馳せる者が一人。\n\nその瞳は夕陽よりもなお紅く……"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 172,
+            "index": 1,
+            "ce_id": 172,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祭りだ南瓜と嘯いたところで、所詮は鬼の所業。\nどんなトラブルが起こるかわかりゃしねぇ。\n\n自慢のマシンに頼れる相棒を乗せて、\nどんな時だって最速で駆け付ける。\n\nそれがオレたち、足柄ブラザーズ！！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 173,
+            "index": 1,
+            "ce_id": 173,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ノッブ「これカードじゃなくて漫画なんじゃが……」\nおき太「読めなかったらどうしましょう」\nノッブ「是非もないネ！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 174,
+            "index": 1,
+            "ce_id": 174,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これを装備すると「ぐだぐだ本能寺」イベントで\nいいことがありますよ！\nかなり有用なカードみたいですね。\nえ？　イベント以外で効果なし！？　やだー！！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 175,
+            "index": 1,
+            "ce_id": 175,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "この概念礼装は「ぐだぐだ本能寺」イベントで\n装備していると効果を発揮するカードなのじゃ！\n何気にこれはうれしいのう！\nえ？　効果はイベントの間だけ！？　で、あるか。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 178,
+            "index": 1,
+            "ce_id": 178,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ささやかな善意の交換が、暖かな奇跡を呼ぶ。\n誰もが寒空に息をこぼしながら、\n花飾りを手に家路につく。\n\n親愛なる貴方に。聖なる夜に祝福を。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 179,
+            "index": 1,
+            "ce_id": 179,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "少し遅めの合流時間。\n時計塔の針は夜の短さを指し示す。\nツリードレスも華やかに、\n彼女は楽しげに笑いかけた。\n\n「イギリスの夜もいいものね。\n　夜景を楽しんだ後は、孔明に聞いたスラーっていう\n　田舎街に行きましょうか！」\n\n星の輝きを自らにまとう女神は、\nクリスマスの幻想そのもの。\nどんな場所にもひとっ飛び。\n足取りも気持ちも軽やかに、\n全てをきらめきに変えてゆく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 180,
+            "index": 1,
+            "ce_id": 180,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "宴の準備に不足はなかった。\n羊飼いは軽薄そうに見えるだけで、\n何事も完璧な準備をする賢人なのである。\n\n特別な日であれば、ことさらに特別に。\n華やかなひとには豪勢な夜を。\n美しいひとには静かな夜を。\nそして、寂しいひとには温かな思い出を。\n\n「だってみんな僕のアビシャグだよ？\n　最高のもてなしをするのは当然さ」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 181,
+            "index": 1,
+            "ce_id": 181,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "冬といえば雪。\n雪といえば雪だるま。\n雪だるまといえば、女の子も大好き！！\nそして紳士は究極の真理に至る。\n\n「そう。\n　拙者自身が、スノーマンになる事だ……！」\n\n雪だるま爆散まで、あと十秒―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 182,
+            "index": 1,
+            "ce_id": 182,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "まるでクリスマスに舞い降りた奇跡のように、\nメキシコの街に雪が降り積もる。\n\n「悪戯好きの、小さな悪魔の仕業かしら」\nという氷の皇女の呟きは、誰に届くでもなく\n華やかな街の喧騒に溶けていく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 183,
+            "index": 1,
+            "ce_id": 183,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "聖夜に輝く一際大きなツリー。\nそこには天の御使いと見紛う可憐な戦乙女たち。\nクラッカーからプレゼントまで準備も万端！\n\n「贈り物の準備は万端、です」\n「楽しくやろうよ！　ハッピーメリークリスマス！」\n「異郷の祭事ではありますが、いいでしょう。大神の樹\nは此処に。あまねく人々に祝福と加護を」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 184,
+            "index": 1,
+            "ce_id": 184,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "リング上で繰り広げられる闘いの熱狂は、かたや情熱的\nに叫びを重ね、かたや冷静に分析する名レポーターの存\n在があってこその盛り上がり。\n\n観客を更なる熱気の渦に巻き込んでいく、\n彼らもまたリングサイドの戦士である！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 185,
+            "index": 1,
+            "ce_id": 185,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "聖夜は静かに更けていく。\nバーにひとり佇む竜の魔女へ声を掛けたマスターに、\n浮かれている連中を見ていると虫唾が走る、\nというのが彼女の言。\n\n「ところでそのドレスはどのように？」\n「うるさいわ。黒い騎士の王様、いるでしょ？\n　あのいけ好かない女。アイツの買い物に\n　付き合った時のオマケよ、オマケ。\n　おかげでＱＰが底をついたじゃない！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 186,
+            "index": 1,
+            "ce_id": 186,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "暖炉の灯に照らされて、\n彼女は聖夜に愛を編む。\n\n傍にいることを許された、\n唯一人のあなたに向けて―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 187,
+            "index": 1,
+            "ce_id": 187,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ジャイアントスノーマンが消えゆくときに残していった\n贈り物。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 188,
+            "index": 1,
+            "ce_id": 188,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "明けの空に迎春の旗が舞う、\nあでやかな聖女たちの初詣。\n\n訪れる新たな始まりに、\n幸多からんことを祈って。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 189,
+            "index": 1,
+            "ce_id": 189,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "年の初めを迎える君に、\n祝いの言葉を贈ろうか。\n\n明日を夢見る者に微笑みを―――\nブレス・オブ・アヴァロン！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 190,
+            "index": 1,
+            "ce_id": 190,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "犬。それは人類最良の友。\n地上に舞い降りたモフモフの天使。\n\nあなたが愛情をもって接すれば、\n彼らはきっとその気持ちに応え、\nあなたを幸せにしてくれるだろう。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 191,
+            "index": 1,
+            "ce_id": 191,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "コン、と鳴るたび羽根が飛ぶ。\n呼吸が合うほど長く飛ぶ。\n\n打ち損じても大丈夫。\n顔の印だけでなく、笑顔の数も増えるから―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 192,
+            "index": 1,
+            "ce_id": 192,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ビューティフル！　これがお正月の食卓なのですね！\nなるほど、ただ贅をこらすだけでなく、\n日持ちする料理を選ぶことで調理した人間も共に箸を進\nめられるという、実に理にかなった祭日料理です！\nん～、美味しい～！　せっかくごちそうがあるのですか\nら、サプリだけで済ませるとかナイナイ！\nこれが日本の団らん、楽しいお正月！\nナイス私、彷徨海に来た甲斐がありました……！\n\n来年はぜひ、３段お重でお願いします！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 193,
+            "index": 1,
+            "ce_id": 193,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "挽肉になるさだめのかよわき豚と\n心を通わせた1匹のやさしい蜘蛛。\n\nこんなにかわいい豚をソーセージにして\nいいのか？　いいわけがない。\n\n蜘蛛は運命に抗い、人類に反旗を翻した。\n農夫たちの血をすすり、納屋を焼き払え。\n「死にゆく貴様らに言葉は不要だ」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 195,
+            "index": 1,
+            "ce_id": 195,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ジャイアントスノーマンが消えゆくときに残していった\n贈り物。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 197,
+            "index": 1,
+            "ce_id": 197,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "見ませい、この珠玉のスイーツを！\nなんと微笑ましく、また愛らしい世界でしょうか。\nバレンタインが良い催しなのもファラオの威光―――\nでは特にありませんが、祭りであれば\n我々も力を貸さずにはいられません。\n\n……という訳で、ここに我らファラオ女子会の\n神威をもってチョコの王国を作り上げました！\nどうぞこちらへ、我が同盟者。\nこの日の為に召し物も新調したのです。チョコレートの\n味ともども、感想を聞こうではないですか！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 198,
+            "index": 1,
+            "ce_id": 198,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "毎年恒例のバレンタインも、\n彼女たちにとっては初めての催し物。\n\nまだその意味を知る由もなく、\nただただ目の前のチョコレートに舌鼓。\n\n「これがカルデアで流行っているちよこれいと…！\n　なんと甘く華やかなのでしょう。\n　段蔵様も、おひとついかがですか？」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 199,
+            "index": 1,
+            "ce_id": 199,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "バレンタインといえば、\n一年を通して最大級のチョコの祭典。\nヘカテの魔女たちも師弟そろって台所へ。\n文化は違えど料理とあっては腕がなる。\nレシピ本を片手に魔女の薬は現代風にアレンジされる。\n\n甘いミントが混じったチョコは、\n果たして如何なるトラブルを生み出すのか。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 200,
+            "index": 1,
+            "ce_id": 200,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "大切な人に想いをこめて、せいいっぱいのチョコを届け\nよう。\nはずむキモチはハート形。\nとろけて広がる恋の味。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 201,
+            "index": 1,
+            "ce_id": 201,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "破壊の化身たる己が身でなくとも、\n一口に融けていく甘い結晶。\n\n人間の美意識は未だに完全に理解できないが……\n気持ちのやり取りを美しいと感じる心を、\n今の自分は知っている。\n\n―――得る筈のない彼方の記録。\n遠い事象で起きた奇蹟。\n儚くも輝くような、草原に続く私の旅路。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 202,
+            "index": 1,
+            "ce_id": 202,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "互いに何かを贈り合うだけがバレンタインにあらず。\n相棒と二人、ケーキ作りに挑戦するのも\n思い出づくりの形のひとつ。\n\n「誰かと共に料理というのは初めての挑戦でしたが、\n　そう悪くない出来かと」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 203,
+            "index": 1,
+            "ce_id": 203,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 204,
+            "index": 1,
+            "ce_id": 204,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 205,
+            "index": 1,
+            "ce_id": 205,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 206,
+            "index": 1,
+            "ce_id": 206,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 207,
+            "index": 1,
+            "ce_id": 207,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 208,
+            "index": 1,
+            "ce_id": 208,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 209,
+            "index": 1,
+            "ce_id": 209,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        }
+    ],
+    "is_completed": 0
+}

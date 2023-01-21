@@ -1,0 +1,2607 @@
+{
+    "last_cache_load_time": "2023-01-21T04:10:07+09:00",
+    "start_time": "2023-01-20T07:00:00+09:00",
+    "ce_flavor_setting_list": [
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 210,
+            "index": 1,
+            "ce_id": 210,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 211,
+            "index": 1,
+            "ce_id": 211,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 212,
+            "index": 1,
+            "ce_id": 212,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 213,
+            "index": 1,
+            "ce_id": 213,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 214,
+            "index": 1,
+            "ce_id": 214,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 215,
+            "index": 1,
+            "ce_id": 215,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 216,
+            "index": 1,
+            "ce_id": 216,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 217,
+            "index": 1,
+            "ce_id": 217,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 218,
+            "index": 1,
+            "ce_id": 218,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 219,
+            "index": 1,
+            "ce_id": 219,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 220,
+            "index": 1,
+            "ce_id": 220,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 221,
+            "index": 1,
+            "ce_id": 221,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 222,
+            "index": 1,
+            "ce_id": 222,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 223,
+            "index": 1,
+            "ce_id": 223,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 224,
+            "index": 1,
+            "ce_id": 224,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 225,
+            "index": 1,
+            "ce_id": 225,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 226,
+            "index": 1,
+            "ce_id": 226,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 227,
+            "index": 1,
+            "ce_id": 227,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 228,
+            "index": 1,
+            "ce_id": 228,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 229,
+            "index": 1,
+            "ce_id": 229,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 230,
+            "index": 1,
+            "ce_id": 230,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 231,
+            "index": 1,
+            "ce_id": 231,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 232,
+            "index": 1,
+            "ce_id": 232,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 233,
+            "index": 1,
+            "ce_id": 233,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 234,
+            "index": 1,
+            "ce_id": 234,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 235,
+            "index": 1,
+            "ce_id": 235,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 236,
+            "index": 1,
+            "ce_id": 236,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 237,
+            "index": 1,
+            "ce_id": 237,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 238,
+            "index": 1,
+            "ce_id": 238,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 239,
+            "index": 1,
+            "ce_id": 239,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 240,
+            "index": 1,
+            "ce_id": 240,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 241,
+            "index": 1,
+            "ce_id": 241,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 242,
+            "index": 1,
+            "ce_id": 242,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 243,
+            "index": 1,
+            "ce_id": 243,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 244,
+            "index": 1,
+            "ce_id": 244,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 245,
+            "index": 1,
+            "ce_id": 245,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 246,
+            "index": 1,
+            "ce_id": 246,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 247,
+            "index": 1,
+            "ce_id": 247,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 248,
+            "index": 1,
+            "ce_id": 248,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 249,
+            "index": 1,
+            "ce_id": 249,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 250,
+            "index": 1,
+            "ce_id": 250,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 251,
+            "index": 1,
+            "ce_id": 251,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 252,
+            "index": 1,
+            "ce_id": 252,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 253,
+            "index": 1,
+            "ce_id": 253,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 254,
+            "index": 1,
+            "ce_id": 254,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 255,
+            "index": 1,
+            "ce_id": 255,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 256,
+            "index": 1,
+            "ce_id": 256,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 257,
+            "index": 1,
+            "ce_id": 257,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 258,
+            "index": 1,
+            "ce_id": 258,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 259,
+            "index": 1,
+            "ce_id": 259,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 260,
+            "index": 1,
+            "ce_id": 260,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 261,
+            "index": 1,
+            "ce_id": 261,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 262,
+            "index": 1,
+            "ce_id": 262,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 263,
+            "index": 1,
+            "ce_id": 263,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 264,
+            "index": 1,
+            "ce_id": 264,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 265,
+            "index": 1,
+            "ce_id": 265,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 266,
+            "index": 1,
+            "ce_id": 266,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 267,
+            "index": 1,
+            "ce_id": 267,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "鮮やかに彩られた英霊たちの勇姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 268,
+            "index": 1,
+            "ce_id": 268,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "試行錯誤17回、\n特異点での材料探し27回を経て完成しました。\nバレンタイン、おめでとうございますマスター。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 269,
+            "index": 1,
+            "ce_id": 269,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "絶えぬ憎悪がこの胸にはあった。\n救われるべき者たちが救われぬ道を行き、\n救いようのない者たちが生を謳歌するこの世界に。\n\nけれど瞼を閉じれば見えてしまうのだ。\n憎むべき彼らすら極々ありきたりの人間であり、ありき\nたりの存在であるという事実が理解できてしまう。\n\nならば善も、悪も、慈しむべき者も、憎むべき者も、\nすべてを悲しみ、深く、深く愛そう。\n\n胸にある憎悪を封じたまま。\n世の歪みから人々を救うため。\n―――たとえ自らの心が歪もうとも。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 270,
+            "index": 1,
+            "ce_id": 270,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "その樹は、いずれ腐るのだと奴等はいった。\n輝かしく広がるはずであった血脈の枝葉は、\nまるで剪定されるかのように手折られた。\n\nゆえに新たな種を植えるしか、男に道はなかった。\nそれを希望などと美しい言葉では着飾るまい。\nだが、己を排斥した者共に報いる一矢にしてみせよう。\n\nやがて育つ、黄金の樹の下で。\n男はただ前を見据えていた。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 271,
+            "index": 1,
+            "ce_id": 271,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "生きる意味など持つ必要はない。\n自らが考え行動する必要もない。\nただ産まれ、ただ消費されるだけの存在。\n\nそれが彼女たちの、そして「彼」の運命のはずだった。\nそうであるはずだったのだ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 272,
+            "index": 1,
+            "ce_id": 272,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "おっと、また敵か。\n影のサーヴァントよりマシだけどよ。\n\nにしても、駆け出しマスターとそのサーヴァントか。\n見所はあるが、まだまだだな。\n\n「気を抜くなよ、お嬢ちゃん」\n「はい！」\n\n少しむずがゆいが、後輩を指導するのも\n先輩の務めってやつだ。\nまあ、背中ぐらいは押してやらねぇとな。\n\n――炎に覆われた地方都市。\nルーンの使い手たる男は多彩な魔術で敵を屠り、\nその知恵を以て、少年少女たちを導く。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 273,
+            "index": 1,
+            "ce_id": 273,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "私は聖女などではありません。\n\n主の声を聴き、なすべき事をなしただけなのです。\nですがそれによって『竜の魔女』が\n現れたのだというのなら。\n\n――再び旗を掲げましょう。\n私は一人ではなく、共に戦う仲間がいるのですから。\n\nでは行きましょう。此度の戦いを終わらせに！\n\n――中世、百年戦争の時代。\n聖女と呼ばれた少女は再び立ち上がる。\n眼前に迫る飛竜と、その先にいるであろう\n魔女を打ち倒すために。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 274,
+            "index": 1,
+            "ce_id": 274,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "うむ、なんと力強い拳であろうか！\n実に惜しい、我が軍に勧誘したいところだ。\n\nしかし――これは余の愛するローマを蹂躙するもの。\n倒すべき敵である。\n\nならば余は皇帝として、\nその悉くを蹴散らしてくれようぞ。\nまずは眼下の敵が、剣で切れるかどうか、であるな！\n\n――栄華極まる古代ローマ帝国。\n赤き剣を携えし皇帝は跳躍する。\n守るべきローマの為、迫りくる侵略者を迎え撃つ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 275,
+            "index": 1,
+            "ce_id": 275,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ははっ！　いいねぇ、なんて状況だい！\n\n周りは嵐。面舵取るのも大変だってのに、\n目の前には亡霊ときた！\n\nこんな命がけの航海、この先あるかもわからないね。\n\nだったら、せいぜい愉しもうじゃないか。\nさあ、ワイルドハントの始まりだ！\n\n――雷雲渦巻く大海原。\n逃げ場のない船上でありながら女海賊は狼狽えない。\n彼女にとって難航海は、刹那的快楽の一つなのだから。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 276,
+            "index": 1,
+            "ce_id": 276,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "そらよっ！　\nったく、何処からともなく湧いてきやがる。\nでもまあ、お前らは俺に壊される運命だ。\n\n父上の愛したブリテンの都市。\n此処を、ロンディニウムを汚すのは許さねぇ。\n\nそれをしていいのはな――この俺だけだ！\n\n――魔霧漂う夜の都市。\n苛烈なる赤雷を迸らせ、騎士は獰猛に笑う。\n襲い来る人形達へと狙いを定めながら。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 277,
+            "index": 1,
+            "ce_id": 277,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "陽の煌きが波に攫われる頃、\nふいに差し出された、貴方の手。\n\n潮の香りと頬をくすぐる風、\n手を取れば、海はすぐそこに―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 278,
+            "index": 1,
+            "ce_id": 278,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「カフェ・キャメロットへ、ようこそ。\n　特別な時間を、貴方に……」\n\n柔らかな物腰のマスターが営むそのカフェは、\n街角の外れにある隠れた名店。\n\n時には世界的なVIPもお忍びで来店するとか…？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 279,
+            "index": 1,
+            "ce_id": 279,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「夢のステージを君に聴かせよう……\n　スター・オブ・キャメロット、アーサー！」\n\n彼こそが、キャメロットプロダクションの敏腕プロ\nデューサーに招かれ登場した伝説的スター。\n\n今宵、永久の輝きをあなたに。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 280,
+            "index": 1,
+            "ce_id": 280,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "終局を迎える聖杯戦争。\n\n歪んだ運命により、少女は昏い闇へと溺れ。\n少年は過酷な戦いに身を投じる。\n\n「俺は、桜にとっての正義の味方になる」\n\n激しい風に抗い、運命に挑む少年の願いは、\n少女に届くのか。\n最後の戦いが、遂に幕を上げる。\n\nこの風を越えて、前へ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 281,
+            "index": 1,
+            "ce_id": 281,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "かつては心を凍らせた彼女は、\nかけがえの無い存在となった少女と共に願うのだ。\n\n笑顔を交わせる今日を生きたい。\n諦めていた明日を生きたい。\n――そして明後日もその先も。\n\nこの身に刻まれた運命が、いつか未来を鎖すとしても。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 282,
+            "index": 1,
+            "ce_id": 282,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "傀儡であることに憂いも迷いも存在しない。\nそれこそが己が存在意義なれば。\n\n我こそはエインズワースの第一の牙。\n我が前に立つことは、必滅の定めと知れ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 283,
+            "index": 1,
+            "ce_id": 283,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「田中はやってやるですよー！」\n\n自由奔放、天真爛漫。\n常に明るい笑顔を振りまいて、彼女は大きく胸を張る。\n記憶も根拠も無いけど（多分）大丈夫！！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 284,
+            "index": 1,
+            "ce_id": 284,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「この場で引導を渡してあげるわ」\n\nかつてのマジカルルビーのマスター。\n身体強化を用いた近接戦闘は、苛烈にして超強力。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 285,
+            "index": 1,
+            "ce_id": 285,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「私の輝かしい未来のために・・・\n  ここで散りなさい！」\n\nかつてのマジカルサファイアのマスター。\n多重魔法陣の展開による砲撃は、鮮烈にして超強力。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 286,
+            "index": 1,
+            "ce_id": 286,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「どうぞ、遠慮なく切り札を。\n　勝負はその瞬間につくでしょう」\n\nかつてはとあるカードを回収していた封印指定執行者。\nその特殊武装は知らぬものにとって\n必殺の運命となる。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 287,
+            "index": 1,
+            "ce_id": 287,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「わたし、愛と正義のマジカルステッキ、\n　マジカルルビーと申します！\n　親しみを込めてルビーちゃんとお呼び下さい！\n　元々は別のマスターにお仕えしておりましたが、\n　そのお方があまりにもあんまりだったので、\n　もう速攻で契約は破棄しまして・・・\n　そして！　そう忘れもしないあの夜！\n　キュートでリリカルなマスターと運命的な出会いを\n　迎えたのです！\n　あ、映像見ます？　ちなみに場所はお風呂なので、\n　それはもうすっごい映像が――」　"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 288,
+            "index": 1,
+            "ce_id": 288,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔術を好きにはなれなかった。\n魔術師の世界に夢中になることはできなかった。\n諦観と責務で学んでいたものだった。\n\nそれでも、この場所で―――\n母が遺してくれたガーデンで、指輪に請う。\n喩え何もできなくとも、戦いを選ぶことはできるのだか\nら。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 289,
+            "index": 1,
+            "ce_id": 289,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "こんにちは　ご機嫌いかが\nこんにちは　はじめまして\n\n一緒にランチはどうかしら\nお腹いっぱいになったなら\nお昼寝しましょう　木の上で\n\n風が吹いたら　揺れるのよ\n枝が折れたら　落ちちゃうの\n\nその時あなたも揺りかごも　\nみんなそろって真っ逆さま"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 290,
+            "index": 1,
+            "ce_id": 290,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "黄金樹の名の下に、花開いた二つの家系。\n\n黒魔術のアイスコル。\n錬金術のムジーク。\n\nある世界の聖杯大戦に参戦した二人の当主は、共に自ら\nが描いたものとは真逆の結果を得ることになった。\n\nひとりは、その内に秘めた昏い我欲故に。\nひとりは、自身すら気付いていなかった善良さ故に。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 291,
+            "index": 1,
+            "ce_id": 291,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "乾杯の合図は、\nマスターが扉を開けた時。\n\n今日という日を迎えられたことに、\n心より感謝と祝福を―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 292,
+            "index": 1,
+            "ce_id": 292,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "爽やかに晴れた夏の午後、\nとある邸宅ではパーティーが開かれていた。\n\nそよぐ風と木漏れ日に照らされて彼女は微笑んだ。\nこの先に迎えるはずの輝かしい未来に向けて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 293,
+            "index": 1,
+            "ce_id": 293,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "さぁ！　特別なお祭りへ出掛けよう。\n\nきらめく花火とキラキラ輝くデコレーション。\n今宵は心ゆくまで楽しもう。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 294,
+            "index": 1,
+            "ce_id": 294,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "夏だろうがびいちだろうが画狂の筆は休まない。\n今しか描けない何かが此処にある。\n\nけれど名前を呼べば、ほら、振り向き微笑んで……\nまた絵筆を踊らせる仕事に戻るのだ。あたぼうよ！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 295,
+            "index": 1,
+            "ce_id": 295,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "晴れた夏の日には、\nプールサイドで語らうのもまた楽しい。\n\n傍らに美味い酒があれば尚良し。\nそう、この世から少しだけ浮き上がるために。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 296,
+            "index": 1,
+            "ce_id": 296,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "水面に黄昏の風が吹く。\n蝙蝠の衣が舞った刹那、確かに見た。\n\n三角に尖った…黄金色の…。\n化かされたような夏の幻。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 297,
+            "index": 1,
+            "ce_id": 297,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "翠緑色の海にぷかぷか揺られながら、\nひんやり甘いパンケーキはいかが？\n\n水底に星、さざ波の音楽。\n髪そよがせ、うなじを焦がす太陽の指先。\n\nあなたと一緒に、いつか、どこかで―――\nあり得たかもしれない、そんな夏の日盛りの夢。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 298,
+            "index": 1,
+            "ce_id": 298,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "真夏の海に清風が流れ込む。\n大波、荒波、なんのその。\nその勢いは留まることを知らない。\n\n自然に溶け込む泰然自若こそ、また剣豪の証たれば。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 299,
+            "index": 1,
+            "ce_id": 299,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "身体の芯に響く音と華やかな光が、\n会場を鮮やかに染め上げてゆく。\n\n目の前で踊る彼女たちは、夏に咲き乱れる花のよう。\nサバフェスの夜はまだまだ、これから―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 300,
+            "index": 1,
+            "ce_id": 300,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "弾ける鍵盤と鳴り響く金管、\n鼓動に合わせて打たれる衝動。\n\n重なり合う音色は豊かな旋律となって、\n紅の空にこだましてゆく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 301,
+            "index": 1,
+            "ce_id": 301,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「新刊？　信じられんが間に合ったようだ！\n　何冊書いたか分からんからな、\n　目についた適当なものを持っていけ！\n　代金？　そんなものは俺たちがつけられるか。\n　本読みとしての貴様の良識に聞くがいい！\n　まあ、それはそれとして印刷代として、\n　最低100ＢＢ＄はもらっておくが」\n\nやけっぱちに笑う童話作家と、\nやりきった顔で居眠りする劇作家のテーブルには\n投げ銭入れの箱が置かれていた。\nお代はアナタの度胸次第というコトらしい。\nそれはそれとして、この作家たち、もしかして\n一冊一冊違う本を書いていらっしゃる……？\n\n「ん？　水着に着替えないのかだと？\n　バカめ、オレが海になんぞ入ってみろ、\n　人魚に引き込まれるのがオチに決まっているだろ\n　う！」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 302,
+            "index": 1,
+            "ce_id": 302,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "さぁ、どなた様も楽しんで！\n\n勝つも負けるも時の運、挑むも退くもあなた次第。\n勝利の女神の祝福を、今宵掴むは誰の手か。\n\nご武運をお祈りいたします！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 303,
+            "index": 1,
+            "ce_id": 303,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "気付けば日が暮れていた。\n\n晴れやかな太陽の下の喧噪は嘘のように過ぎ去り、\n街の夕闇に絢爛と輝くその少し前。\n\n紫の瞳が、艶やかにゆらめく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 304,
+            "index": 1,
+            "ce_id": 304,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "お客様のご要望ならばどこまでも。\n今年の閻魔亭は、夏季限定で特製寿司セットを提供中。\n\n世界中のセレブも唸る絶品料理は、\n夏バテ気味の女神様さえ興味津々。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 305,
+            "index": 1,
+            "ce_id": 305,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "宵闇が宴を告げる。\n\n光を纏いし水面に映るは、\n親しき人の微笑み、それとも神の気紛れか。\n\n滴る恵みを飲み干して、共に宴の輪の中へ。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 306,
+            "index": 1,
+            "ce_id": 306,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "人の願いは今ここに。\n史上最大のショーの始まりだ！\n\n案内は可能性の男ことナポレオンと伝説の竜狩り。\n海原もまた草原という解釈でなぜか泳げる、\nマレンゴより意味不明な自称・飛将軍だ！！\n\nなぁに誰も観たことが無い空前の体験が、\nお前たちを待っているさ。\n\nなんたってオレの辞書には、\n『不可能』ってのが無いそうだからな！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 307,
+            "index": 1,
+            "ce_id": 307,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "羊が一匹、羊が二匹………\n水辺に揺蕩うハンモックに身を委ねて少年はまどろむ。\n\nここはかつての故郷からほど遠いけれど、\n太陽神の恩恵と兄の温かさだけは、\nいつだって今だって何も変わらない。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 308,
+            "index": 1,
+            "ce_id": 308,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "治療を妨げることは、誰であろうと許しません。\n\nええ。それが人であれ魔物であれ、\n障害になるのであれば排除します。\n\n……ですが、応急処置では\n根本的な解決にはなりえない。\nやはり病原そのものを切除するほかないでしょう。\nその為にも、全力を尽くして敵を倒し――\n\n「その死を以て、病を根絶させます！」\n\n\n――侵略されたるアメリカの大地。\n戦場と化した開拓の街を彼女はひた走る。\n一人でも多くの命を救うために。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 309,
+            "index": 1,
+            "ce_id": 309,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "歴史とは時代と人が創り出す織り物。\n\n愛が織糸となり、希望が織り手となって、\n輝く未来へ続いていく。\n\n―――さあ、君も歴史を紡ぐ旅に出よう。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 310,
+            "index": 1,
+            "ce_id": 310,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "照り付ける太陽。\n焦げたアスファルトの匂い。\n\n工具片手に奮闘は続く。\n旅はまだまだ始まったばかり！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 311,
+            "index": 1,
+            "ce_id": 311,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "『私の愛すべき新生カルデア、その食堂のゴージャスな\nレシピを盗みだし、堂々と利用しているダイナーが観測\nされた。暇を持てあました我々はこれを簡易特異点と\nし、新生カルデアベースにおける新レイシフトを果敢に\nも実行したのであった……！』\n\n　　　ムジーク戦記13章／不死鳥は13度羽ばたく\n　　　　　　　　　　　　　　　　　　　　　より抜粋\n\n\n\n「ふふふ。たまに乗る二輪も悪くはない。まあ、私の好\nみはレーサータイプのマシンなのだがね。\n　ところで噂のダイナーはまだかなピカタ君！\n　フォウ君もそろそろご機嫌ナナメなのだがね！」\n「だから、オレはムニエルだっつーの！\n（でも確かに妙だな。もうまる２日は走ってるぞ……っ\nていうかこの店の名前、異世界食堂チーフレッドって…\n…）…………なあおっさん。\n　ここ地球じゃない、とか言ったら信じる？」\n「え？　……はハは、なニを馬鹿なコとを。\n　そういえば一向に通信は回復しないしさきほど遠くに\nティラノザウルスっぽいものが見えたしそもそも太陽が\n二つあるようにしか見えないが、そんなのは私の気のせ\nいだともそうだよねフィッシュ＆チップス君！？」"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 312,
+            "index": 1,
+            "ce_id": 312,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "終わりなき聖杯戦争。\n召喚されし一騎当千のサーヴァント達。\n今ここより、全てが始まる――。\nこの聖杯戦争は終焉なき物語。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 313,
+            "index": 1,
+            "ce_id": 313,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "終わりなき聖杯戦争。\n召喚されし一騎当千のサーヴァント達。\n今ここより、全てが始まる――。\nこの聖杯戦争は終焉なき物語。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 314,
+            "index": 1,
+            "ce_id": 314,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "終わりなき聖杯戦争。\n召喚されし一騎当千のサーヴァント達。\n今ここより、全てが始まる――。\nこの聖杯戦争は終焉なき物語。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 315,
+            "index": 1,
+            "ce_id": 315,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "終わりなき聖杯戦争。\n召喚されし一騎当千のサーヴァント達。\n今ここより、全てが始まる――。\nこの聖杯戦争は終焉なき物語。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 316,
+            "index": 1,
+            "ce_id": 316,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "終わりなき聖杯戦争。\n召喚されし一騎当千のサーヴァント達。\n今ここより、全てが始まる――。\nこの聖杯戦争は終焉なき物語。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 317,
+            "index": 1,
+            "ce_id": 317,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "終わりなき聖杯戦争。\n召喚されし一騎当千のサーヴァント達。\n今ここより、全てが始まる――。\nこの聖杯戦争は終焉なき物語。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 318,
+            "index": 1,
+            "ce_id": 318,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "終わりなき聖杯戦争。\n召喚されし一騎当千のサーヴァント達。\n今ここより、全てが始まる――。\nこの聖杯戦争は終焉なき物語。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 319,
+            "index": 1,
+            "ce_id": 319,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "終わりなき聖杯戦争。\n召喚されし一騎当千のサーヴァント達。\n今ここより、全てが始まる――。\nこの聖杯戦争は終焉なき物語。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 320,
+            "index": 1,
+            "ce_id": 320,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "終わりなき聖杯戦争。\n召喚されし一騎当千のサーヴァント達。\n今ここより、全てが始まる――。\nこの聖杯戦争は終焉なき物語。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 321,
+            "index": 1,
+            "ce_id": 321,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "終わりなき聖杯戦争。\n召喚されし一騎当千のサーヴァント達。\n今ここより、全てが始まる――。\nこの聖杯戦争は終焉なき物語。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 322,
+            "index": 1,
+            "ce_id": 322,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「あぁ、まるで地上の星空のようです！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 323,
+            "index": 1,
+            "ce_id": 323,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「素敵な花畑じゃないか！\n　ところで美しいご婦人はどこに？」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 324,
+            "index": 1,
+            "ce_id": 324,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「マスター、手をかしてくださらない？」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 325,
+            "index": 1,
+            "ce_id": 325,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「どうした武蔵坊、ペースが落ちているのではない\nか？」\n「むぅん！　まだまだ！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 326,
+            "index": 1,
+            "ce_id": 326,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「ちゃんマスー！　とりま撮っとく？」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 327,
+            "index": 1,
+            "ce_id": 327,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「おかあさんは、いないかー！！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 328,
+            "index": 1,
+            "ce_id": 328,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「あら、その程度？\n　ロシアの冬は、もっと厳しいのだけれど」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 329,
+            "index": 1,
+            "ce_id": 329,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「夢幻の渡しと言うのなら、\n　この拳舞、主人の夢に捧げよう」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 330,
+            "index": 1,
+            "ce_id": 330,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「これは……！　まさに幻術要らずでございます」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 331,
+            "index": 1,
+            "ce_id": 331,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「華厳だなんて、うんうん、ありがたい滝ね！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 332,
+            "index": 1,
+            "ce_id": 332,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「ふふ。\n　これほど穏やかで楽しい道は、そうないかと」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 333,
+            "index": 1,
+            "ce_id": 333,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「現世の地下も、中々のものなのだわ！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 334,
+            "index": 1,
+            "ce_id": 334,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「心が落ち着きます。\n　ここには善い光がある」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 335,
+            "index": 1,
+            "ce_id": 335,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「眠らぬ街の人々に、尊敬と、祝福を」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。\n\nLicensed by TOKYO TOWER"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 336,
+            "index": 1,
+            "ce_id": 336,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「いいね、趣きバッチリ！\n　フィレンツェみたい！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 337,
+            "index": 1,
+            "ce_id": 337,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「さあ行きますよ、主殿！\n　滑走（パラレルターン）！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 338,
+            "index": 1,
+            "ce_id": 338,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「良い。実に壮観だ。\n　これが自然と人による力とは、見入ってしまうな？」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 339,
+            "index": 1,
+            "ce_id": 339,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「あと、ちょっとだけ。\n　夕紅を一緒にみるのでち」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 340,
+            "index": 1,
+            "ce_id": 340,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「このあと？　鯖江にいくわ。\n　項羽様とペアメガネよ」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 341,
+            "index": 1,
+            "ce_id": 341,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「キレイで大きい！\n　座るのに、ちょうどいいね」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 342,
+            "index": 1,
+            "ce_id": 342,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「ふわふわで……とても落ち着きます……」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 343,
+            "index": 1,
+            "ce_id": 343,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「合掌か。\n　この国では祈り、という意味もあるらしいね？」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 344,
+            "index": 1,
+            "ce_id": 344,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「こっからってのはとと様も描いてねぇだろぉ？」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 345,
+            "index": 1,
+            "ce_id": 345,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「いつ見ても花火はいいねェ！\n　咲き散りやがれェ！！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 346,
+            "index": 1,
+            "ce_id": 346,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「そうだ。\n　いつか、姉様たちと」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 347,
+            "index": 1,
+            "ce_id": 347,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「ここからの琵琶湖もマジ最高っしょ。\n　ほらマスター、はやく一緒に撮るし！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 348,
+            "index": 1,
+            "ce_id": 348,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「飲み足りひんなぁ」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 349,
+            "index": 1,
+            "ce_id": 349,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「お好み焼きを食べるぞ、マスター」\n「待ちなさい。\n　今夜は串カツと決めた筈です」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 350,
+            "index": 1,
+            "ce_id": 350,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「たまには外も楽しいかも。\n　マーちゃんがいればね♪」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 351,
+            "index": 1,
+            "ce_id": 351,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「我が心は、不動」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 352,
+            "index": 1,
+            "ce_id": 352,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「またかくれんぼで遊びますか？\n　ますたぁ？」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 353,
+            "index": 1,
+            "ce_id": 353,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「もう夜が明けます。\n　メジェド様と共に、歩きませい！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 354,
+            "index": 1,
+            "ce_id": 354,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「浮かれてる、だと？　刺されてぇのか」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 355,
+            "index": 1,
+            "ce_id": 355,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「うふふっ、物語がはじまりそうな場所ですね」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 356,
+            "index": 1,
+            "ce_id": 356,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「あぁ、素晴らしい場所ですね。\n　マスター、次はどこにいきましょうか」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 357,
+            "index": 1,
+            "ce_id": 357,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「いやはや絶景かな。\n　うむ、今回は気長に待つとしよう」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 358,
+            "index": 1,
+            "ce_id": 358,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「遅いぞ、マスター。\n　下りも競争するか？」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 359,
+            "index": 1,
+            "ce_id": 359,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「む、閃いた！\n　今日中にうどん100杯目指しちゃおっか！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 360,
+            "index": 1,
+            "ce_id": 360,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「え、デジャヴ？\n　気のせいだニャ！　ぷは！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 361,
+            "index": 1,
+            "ce_id": 361,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「時代は変わるちゅうても、ここは変わらんのう」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 362,
+            "index": 1,
+            "ce_id": 362,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「絶品でした！\n　マスター、もう一杯いきましょう！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 363,
+            "index": 1,
+            "ce_id": 363,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「そうね！\n　この景色、ひとりじめはもったいないもの！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 364,
+            "index": 1,
+            "ce_id": 364,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「さぁ、咲き誇りましょう！\n　ヴィヴ・ラ・フランス！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 365,
+            "index": 1,
+            "ce_id": 365,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「心地よい熱さです。\n　信仰はこのような場所でこそ篤くなりましょう」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 366,
+            "index": 1,
+            "ce_id": 366,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「つ……い……た……！　ゥ～♪」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 367,
+            "index": 1,
+            "ce_id": 367,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「ようやくのハネムーンだな、我が愛」\n「こんな人前で……困ってしまいます……」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 368,
+            "index": 1,
+            "ce_id": 368,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「■■ー！　■■■■■ーーー！！！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 369,
+            "index": 1,
+            "ce_id": 369,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "「ハッハッ……ハレルヤ！\n　ハッハッ……ハレルヤ！」\n\nunder the same sky―――\nあなたが生きる、この世界に。\n\nいつか終わるから、この一瞬は美しい。\n変えられないから、その選択は尊い。\n歩んできた旅路を、どうか忘れないで。\n物語は、あなたのそばにあり続けるから。\nＦＧＯ５周年、その感謝を込めて。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 370,
+            "index": 1,
+            "ce_id": 370,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 371,
+            "index": 1,
+            "ce_id": 371,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 372,
+            "index": 1,
+            "ce_id": 372,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 373,
+            "index": 1,
+            "ce_id": 373,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 374,
+            "index": 1,
+            "ce_id": 374,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 375,
+            "index": 1,
+            "ce_id": 375,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 376,
+            "index": 1,
+            "ce_id": 376,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 377,
+            "index": 1,
+            "ce_id": 377,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 378,
+            "index": 1,
+            "ce_id": 378,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 379,
+            "index": 1,
+            "ce_id": 379,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 380,
+            "index": 1,
+            "ce_id": 380,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 381,
+            "index": 1,
+            "ce_id": 381,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 382,
+            "index": 1,
+            "ce_id": 382,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 383,
+            "index": 1,
+            "ce_id": 383,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 384,
+            "index": 1,
+            "ce_id": 384,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 385,
+            "index": 1,
+            "ce_id": 385,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 386,
+            "index": 1,
+            "ce_id": 386,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 387,
+            "index": 1,
+            "ce_id": 387,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 388,
+            "index": 1,
+            "ce_id": 388,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 389,
+            "index": 1,
+            "ce_id": 389,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 390,
+            "index": 1,
+            "ce_id": 390,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 391,
+            "index": 1,
+            "ce_id": 391,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 392,
+            "index": 1,
+            "ce_id": 392,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 393,
+            "index": 1,
+            "ce_id": 393,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 394,
+            "index": 1,
+            "ce_id": 394,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 395,
+            "index": 1,
+            "ce_id": 395,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 396,
+            "index": 1,
+            "ce_id": 396,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 397,
+            "index": 1,
+            "ce_id": 397,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 398,
+            "index": 1,
+            "ce_id": 398,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 399,
+            "index": 1,
+            "ce_id": 399,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 400,
+            "index": 1,
+            "ce_id": 400,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 401,
+            "index": 1,
+            "ce_id": 401,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 402,
+            "index": 1,
+            "ce_id": 402,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 403,
+            "index": 1,
+            "ce_id": 403,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 404,
+            "index": 1,
+            "ce_id": 404,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 405,
+            "index": 1,
+            "ce_id": 405,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 406,
+            "index": 1,
+            "ce_id": 406,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 407,
+            "index": 1,
+            "ce_id": 407,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 408,
+            "index": 1,
+            "ce_id": 408,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 409,
+            "index": 1,
+            "ce_id": 409,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        }
+    ],
+    "is_completed": 0
+}
