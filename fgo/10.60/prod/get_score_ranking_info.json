@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-21T04:10:23+09:00",
+    "last_cache_load_time": "2023-01-22T04:10:19+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -928,67 +928,67 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-01-21T04:00:11+09:00",
+            "update_time": "2023-01-22T04:00:10+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 21745,
-                    "name": "ＳＳＲＢ所属のマスター",
-                    "gw_rank": 21,
+                    "score": 24005,
+                    "name": "ＷａｎＷａｎＯ",
+                    "gw_rank": 23,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 1873,
-                        "title_word_id_0": 2603,
+                        "title_word_id_1": 53,
+                        "title_word_id_0": 1317,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1271,
-                        "title_plate_id": 39
+                        "title_word_id_2": 35,
+                        "title_plate_id": 99
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 38445,
-                    "name": "藤丸 立香",
-                    "gw_rank": 16,
+                    "score": 41845,
+                    "name": "姫しずか",
+                    "gw_rank": 25,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 1001,
-                        "title_word_id_0": 1001,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 1553,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 339,
+                        "title_word_id_2": 1335,
                         "title_plate_id": 5
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 64785,
-                    "name": "シュテル",
+                    "score": 71230,
+                    "name": "±±±±±±±±±±",
                     "gw_rank": 21,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 300,
-                        "title_word_id_0": 2082,
+                        "title_word_id_1": 1985,
+                        "title_word_id_0": 264,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 303,
-                        "title_plate_id": 77
+                        "title_word_id_2": 271,
+                        "title_plate_id": 4
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 98330,
-                    "name": "グエル",
-                    "gw_rank": 26,
+                    "score": 104480,
+                    "name": "里見　治紀",
+                    "gw_rank": 23,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 109,
+                        "title_word_id_1": 231,
+                        "title_word_id_0": 2759,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1767,
-                        "title_plate_id": 230
+                        "title_word_id_2": 2769,
+                        "title_plate_id": 354
                     }
                 }
             ]
