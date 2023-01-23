@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-22T04:10:19+09:00",
+    "last_cache_load_time": "2023-01-23T04:10:23+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -928,67 +928,67 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-01-22T04:00:10+09:00",
+            "update_time": "2023-01-23T04:00:10+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 24005,
-                    "name": "ＷａｎＷａｎＯ",
-                    "gw_rank": 23,
+                    "score": 25775,
+                    "name": "しろたま",
+                    "gw_rank": 17,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 53,
-                        "title_word_id_0": 1317,
+                        "title_word_id_1": 11,
+                        "title_word_id_0": 11,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 35,
-                        "title_plate_id": 99
+                        "title_word_id_2": 11,
+                        "title_plate_id": 8
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 41845,
-                    "name": "姫しずか",
-                    "gw_rank": 25,
+                    "score": 44150,
+                    "name": "東京都港区芝５丁目２９－",
+                    "gw_rank": 20,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 1553,
+                        "title_word_id_1": 1062,
+                        "title_word_id_0": 1766,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1335,
-                        "title_plate_id": 5
+                        "title_word_id_2": 1151,
+                        "title_plate_id": 227
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 71230,
-                    "name": "±±±±±±±±±±",
-                    "gw_rank": 21,
+                    "score": 74590,
+                    "name": "◇Jormungand◇",
+                    "gw_rank": 19,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 1985,
-                        "title_word_id_0": 264,
+                        "title_word_id_1": 4,
+                        "title_word_id_0": 2643,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 271,
-                        "title_plate_id": 4
+                        "title_word_id_2": 2183,
+                        "title_plate_id": 226
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 104480,
-                    "name": "里見　治紀",
-                    "gw_rank": 23,
+                    "score": 117530,
+                    "name": "藤丸 立香",
+                    "gw_rank": 26,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 231,
-                        "title_word_id_0": 2759,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2769,
-                        "title_plate_id": 354
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 }
             ]
