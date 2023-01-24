@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-23T04:10:23+09:00",
+    "last_cache_load_time": "2023-01-24T04:10:26+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -928,52 +928,52 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-01-23T04:00:10+09:00",
+            "update_time": "2023-01-24T04:00:09+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 25775,
-                    "name": "しろたま",
-                    "gw_rank": 17,
+                    "score": 26345,
+                    "name": "テツ",
+                    "gw_rank": 20,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 11,
-                        "title_word_id_0": 11,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 11,
-                        "title_plate_id": 8
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 44150,
-                    "name": "東京都港区芝５丁目２９－",
-                    "gw_rank": 20,
+                    "score": 45175,
+                    "name": "たゆたふ",
+                    "gw_rank": 18,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 1062,
-                        "title_word_id_0": 1766,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 2752,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1151,
-                        "title_plate_id": 227
+                        "title_word_id_2": 0,
+                        "title_plate_id": 354
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 74590,
-                    "name": "◇Jormungand◇",
-                    "gw_rank": 19,
+                    "score": 76480,
+                    "name": "み",
+                    "gw_rank": 26,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 4,
-                        "title_word_id_0": 2643,
+                        "title_word_id_1": 2197,
+                        "title_word_id_0": 0,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2183,
-                        "title_plate_id": 226
+                        "title_word_id_2": 682,
+                        "title_plate_id": 75
                     }
                 },
                 {
