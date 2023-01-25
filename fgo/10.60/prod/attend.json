@@ -899,6 +899,42 @@
             "sub_id_1": -1,
             "sub_id_0": -1,
             "priority": 2
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 40,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 50,
+            "priority": 0
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 41,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 50,
+            "priority": 1
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 42,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 50,
+            "priority": 2
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 43,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 50,
+            "priority": 3
         }
     ],
     "costume_news_url": "",
@@ -1109,9 +1145,41 @@
             "data_type": 0,
             "end_time": "2023-02-16T10:00:00+09:00",
             "message": "<CAMPAIGN_EMPHASIS>フランケンシュタイン（クリスマス）強化時の獲得経験値２倍！<DEFAULT_COLOR>"
+        },
+        {
+            "start_time": "2023-01-26T10:00:00+09:00",
+            "banner_extend_info_id": 40,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-02-16T10:00:00+09:00",
+            "message": "イベントアイテム交換にアイテム追加！"
+        },
+        {
+            "start_time": "2023-01-26T10:00:00+09:00",
+            "banner_extend_info_id": 41,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-02-16T10:00:00+09:00",
+            "message": "イベントミッションが開放！"
+        },
+        {
+            "start_time": "2023-01-26T10:00:00+09:00",
+            "banner_extend_info_id": 42,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-02-16T10:00:00+09:00",
+            "message": "高難易度クエスト追加！"
+        },
+        {
+            "start_time": "2023-01-26T10:00:00+09:00",
+            "banner_extend_info_id": 43,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-02-16T10:00:00+09:00",
+            "message": "高難易度ミッション追加！"
         }
     ],
-    "atnd_lut": "2023-01-24T04:10:02+09:00",
+    "atnd_lut": "2023-01-25T04:10:02+09:00",
     "menu_button_extend_info_list": [
         {
             "start_time": "2022-12-15T10:00:00+09:00",
