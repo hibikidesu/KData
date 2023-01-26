@@ -20723,6 +20723,54 @@
             "openType": 1
         },
         {
+            "gid": "bm_064_0035",
+            "albumID": 1035,
+            "trackNo": 35,
+            "title": "Summerblue",
+            "artist": "Toby Fox & Camellia",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0036",
+            "albumID": 1035,
+            "trackNo": 36,
+            "title": "あるビー！ feat.ころねぽち",
+            "artist": "ヒゲドライバー",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0037",
+            "albumID": 1035,
+            "trackNo": 37,
+            "title": "DIAMOND JACKAL",
+            "artist": "Akira Complex",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0038",
+            "albumID": 1035,
+            "trackNo": 38,
+            "title": "Fading Stars",
+            "artist": "Nhato",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0039",
+            "albumID": 1035,
+            "trackNo": 39,
+            "title": "Peaktime Booster",
+            "artist": "らっぷびと Prod. by RoughSketch & NUE",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0040",
+            "albumID": 1035,
+            "trackNo": 40,
+            "title": "LOUDER ROLLING THUNDER",
+            "artist": "BEMANI Sound Team \"Dustup Vs. L.E.D.-G\"",
+            "openType": 1
+        },
+        {
             "gid": "bs_001_0001",
             "albumID": 8000,
             "trackNo": 1,
@@ -22152,6 +22200,30 @@
             "trackNo": 165,
             "title": "Tropical White",
             "artist": "星宮とと+TEMPLIME",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0166",
+            "albumID": 3000,
+            "trackNo": 166,
+            "title": "Jumbo Drill",
+            "artist": "Nizikawa",
+            "openType": 0
+        },
+        {
+            "gid": "ds_001_0167",
+            "albumID": 3000,
+            "trackNo": 167,
+            "title": "黒髪乱れし修羅となりて (STARDOM Remix)",
+            "artist": "Endorfin.",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0168",
+            "albumID": 3000,
+            "trackNo": 168,
+            "title": "音楽 (STARDOM Remix)",
+            "artist": "cosMo＠暴走P",
             "openType": 1
         },
         {
@@ -43800,6 +43872,30 @@
             "trackNo": 43,
             "title": "mariposa",
             "artist": "BEMANI Sound Team \"S-C-U\"",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0044",
+            "albumID": 5002,
+            "trackNo": 44,
+            "title": "Storm of Suspicion",
+            "artist": "BEMANI Sound Team \"S-C-U\"",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0045",
+            "albumID": 5002,
+            "trackNo": 45,
+            "title": "Forgery",
+            "artist": "BEMANI Sound Team \"Trance Liquid\"",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0046",
+            "albumID": 5002,
+            "trackNo": 46,
+            "title": "交響詩 「魔女狩り」",
+            "artist": "削除",
             "openType": 1
         },
         {
@@ -66352,6 +66448,22 @@
             "trackNo": 15,
             "title": "スターチューン",
             "artist": "コバヤシユウヤ(IOSYS) feat.まるもこ",
+            "openType": 1
+        },
+        {
+            "gid": "da_001_0016",
+            "albumID": 14000,
+            "trackNo": 16,
+            "title": "FIRE VOLCANO",
+            "artist": "SOUND HOLIC feat. Nana Takahashi",
+            "openType": 1
+        },
+        {
+            "gid": "da_001_0017",
+            "albumID": 14000,
+            "trackNo": 17,
+            "title": "Shoot me down feat. 式部めぐり",
+            "artist": "IOSYS TRAX",
             "openType": 1
         }
     ]

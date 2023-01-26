@@ -4184,6 +4184,81 @@
             "mp_gid": "dr_011_0024",
             "mp_flag": 0,
             "is_new": 1
+        },
+        {
+            "mp_gid": "bm_064_0035",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "bm_064_0036",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "bm_064_0037",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "bm_064_0038",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "bm_064_0039",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "bm_064_0040",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ds_001_0166",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ds_001_0167",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ds_001_0168",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ns_003_0034",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ns_003_0044",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ns_003_0045",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "ns_003_0046",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "da_001_0016",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "da_001_0017",
+            "mp_flag": 0,
+            "is_new": 1
         }
     ]
 }
