@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-25T04:10:19+09:00",
+    "last_cache_load_time": "2023-01-26T04:10:24+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -928,67 +928,67 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-01-25T04:00:11+09:00",
+            "update_time": "2023-01-26T04:00:12+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 26795,
-                    "name": "ケルト　ザ　リッパー",
-                    "gw_rank": 17,
+                    "score": 27815,
+                    "name": "メイベル　レイベール",
+                    "gw_rank": 24,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 985,
-                        "title_word_id_0": 1504,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 869,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 267,
-                        "title_plate_id": 63
+                        "title_word_id_2": 1956,
+                        "title_plate_id": 137
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 46600,
-                    "name": "たゆたふ",
-                    "gw_rank": 17,
+                    "score": 48195,
+                    "name": "!?!?!?!?!?!?",
+                    "gw_rank": 22,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2752,
+                        "title_word_id_1": 13,
+                        "title_word_id_0": 1061,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 354
+                        "title_plate_id": 229
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 77680,
-                    "name": "ＢＡＳＴＡＲＤ",
-                    "gw_rank": 23,
+                    "score": 81175,
+                    "name": "藤丸 立香",
+                    "gw_rank": 20,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 4,
-                        "title_word_id_0": 2208,
+                        "title_word_id_1": 1985,
+                        "title_word_id_0": 514,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 203,
-                        "title_plate_id": 76
+                        "title_word_id_2": 515,
+                        "title_plate_id": 4
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 122365,
-                    "name": "Ｔａｋｅ",
+                    "score": 126630,
+                    "name": "里見　治紀",
                     "gw_rank": 23,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2724,
+                        "title_word_id_1": 231,
+                        "title_word_id_0": 2759,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 186
+                        "title_word_id_2": 2769,
+                        "title_plate_id": 354
                     }
                 }
             ]

@@ -1,6 +1,14 @@
 {
-    "last_cache_load_time": "2023-01-25T04:10:09+09:00",
+    "last_cache_load_time": "2023-01-26T04:10:12+09:00",
     "content_pr_setting_list": [
+        {
+            "start_time": "2023-01-26T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 61,
+            "horizontal_priority": 5,
+            "end_time": "2023-03-09T10:00:00+09:00"
+        },
         {
             "start_time": "2023-01-19T10:00:00+09:00",
             "vertical_priority": 30,
