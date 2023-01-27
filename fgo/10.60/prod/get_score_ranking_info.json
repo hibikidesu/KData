@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-26T04:10:24+09:00",
+    "last_cache_load_time": "2023-01-27T04:10:18+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -928,67 +928,67 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-01-26T04:00:12+09:00",
+            "update_time": "2023-01-27T04:00:10+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 27815,
-                    "name": "メイベル　レイベール",
-                    "gw_rank": 24,
+                    "score": 28195,
+                    "name": "▲†▲",
+                    "gw_rank": 22,
                     "border_disp_rank": 500,
                     "title_equip": {
                         "title_word_id_1": 7,
-                        "title_word_id_0": 869,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1956,
-                        "title_plate_id": 137
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 48195,
-                    "name": "!?!?!?!?!?!?",
-                    "gw_rank": 22,
+                    "score": 50055,
+                    "name": "ＴＡＫＥＳＨＯＷ＠ＮＨＫ",
+                    "gw_rank": 23,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 13,
-                        "title_word_id_0": 1061,
+                        "title_word_id_1": 355,
+                        "title_word_id_0": 227,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 229
+                        "title_word_id_2": 354,
+                        "title_plate_id": 108
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 81175,
-                    "name": "藤丸 立香",
-                    "gw_rank": 20,
+                    "score": 82035,
+                    "name": "推しパは最強！！",
+                    "gw_rank": 23,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 1985,
-                        "title_word_id_0": 514,
+                        "title_word_id_1": 475,
+                        "title_word_id_0": 997,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 515,
-                        "title_plate_id": 4
+                        "title_word_id_2": 13,
+                        "title_plate_id": 115
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 126630,
-                    "name": "里見　治紀",
+                    "score": 126650,
+                    "name": "Ｔａｋｅ",
                     "gw_rank": 23,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 231,
-                        "title_word_id_0": 2759,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 2724,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2769,
-                        "title_plate_id": 354
+                        "title_word_id_2": 0,
+                        "title_plate_id": 186
                     }
                 }
             ]
