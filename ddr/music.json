@@ -3492,6 +3492,23 @@
         "stage": 3
     },
     {
+        "mcode": 37229,
+        "basename": "lits",
+        "title": "little steps",
+        "title_sort": "littlesteps",
+        "artist": "Freeman",
+        "bpmmax": 155,
+        "bpmmin": 155,
+        "level_str": "3 6 11 15 0 0 6 11 15 0",
+        "music_pack_no": 19,
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 16
+    },
+    {
         "mcode": 37231,
         "basename": "ifly",
         "title": "I'm Flying Away",
@@ -3591,6 +3608,23 @@
         "limited_cha": 1,
         "bemaniflag": 32,
         "stage": 17
+    },
+    {
+        "mcode": 37241,
+        "basename": "ucha",
+        "title": "Such A Feeling",
+        "title_sort": "suchafeeling",
+        "artist": "U1",
+        "bpmmax": 120,
+        "bpmmin": 120,
+        "level_str": "3 6 11 14 0 0 6 11 14 0",
+        "music_pack_no": 19,
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 16
     },
     {
         "mcode": 37251,
@@ -5348,6 +5382,23 @@
         "stage": 5
     },
     {
+        "mcode": 37518,
+        "basename": "bewi",
+        "title": "Be With You (Still Miss you)",
+        "title_sort": "bewithyou'stillmissyou'",
+        "artist": "nc ft. Eddie Kay",
+        "bpmmax": 116,
+        "bpmmin": 116,
+        "level_str": "1 5 8 12 0 0 5 9 12 0",
+        "music_pack_no": 19,
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 2
+    },
+    {
         "mcode": 37520,
         "basename": "ropp1",
         "title": "roppongi EVOLVED ver.A",
@@ -5580,6 +5631,22 @@
         "ac_seriesid": 14,
         "movie": 1,
         "stage": 2
+    },
+    {
+        "mcode": 37544,
+        "basename": "jena",
+        "title": "On the Night of a Still Wind",
+        "title_sort": "onthenightofastillwind",
+        "artist": "Jena Rose",
+        "bpmmax": 155,
+        "bpmmin": 155,
+        "level_str": "3 6 11 14 0 0 6 11 14 0",
+        "music_pack_no": 19,
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1
     },
     {
         "mcode": 37545,
