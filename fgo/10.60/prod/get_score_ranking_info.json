@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-29T04:10:18+09:00",
+    "last_cache_load_time": "2023-01-30T04:10:24+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -928,67 +928,67 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-01-29T04:00:10+09:00",
+            "update_time": "2023-01-30T04:00:10+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 30630,
-                    "name": "gt-tamo",
-                    "gw_rank": 18,
+                    "score": 32870,
+                    "name": "デビルゆーゆ",
+                    "gw_rank": 19,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 1077,
-                        "title_word_id_0": 0,
+                        "title_word_id_1": 8,
+                        "title_word_id_0": 2485,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2203,
-                        "title_plate_id": 149
+                        "title_word_id_2": 2716,
+                        "title_plate_id": 94
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 53745,
-                    "name": "ネイル＠弱くてすまない",
-                    "gw_rank": 20,
+                    "score": 56160,
+                    "name": "雑草",
+                    "gw_rank": 22,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 1581,
-                        "title_word_id_0": 682,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 45,
+                        "title_disp_type": 2,
                         "title_word_id_2": 0,
                         "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 91085,
-                    "name": "美刀",
-                    "gw_rank": 24,
+                    "score": 97230,
+                    "name": "モノリス",
+                    "gw_rank": 20,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1621,
+                        "title_word_id_1": 5,
+                        "title_word_id_0": 171,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1335,
-                        "title_plate_id": 75
+                        "title_word_id_2": 367,
+                        "title_plate_id": 5
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 145245,
-                    "name": "絶剣",
-                    "gw_rank": 27,
+                    "score": 153455,
+                    "name": "里見　治紀",
+                    "gw_rank": 24,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2509,
+                        "title_word_id_1": 231,
+                        "title_word_id_0": 2759,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 94
+                        "title_word_id_2": 2769,
+                        "title_plate_id": 354
                     }
                 }
             ]
