@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2023-01-30T04:10:06+09:00",
+    "last_cache_load_time": "2023-01-30T17:40:34+09:00",
     "synths_skl_mtrl_setting_list": [
         {
             "skill_level": 1,
@@ -715,6 +715,139 @@
             ],
             "qp_amount": 20000000,
             "svt_id": 151
+        },
+        {
+            "skill_level": 1,
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 4,
+                    "idx_in_category": 6
+                }
+            ],
+            "qp_amount": 200000,
+            "svt_id": 152
+        },
+        {
+            "skill_level": 2,
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 4,
+                    "idx_in_category": 6
+                }
+            ],
+            "qp_amount": 400000,
+            "svt_id": 152
+        },
+        {
+            "skill_level": 3,
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 4,
+                    "idx_in_category": 13
+                }
+            ],
+            "qp_amount": 1200000,
+            "svt_id": 152
+        },
+        {
+            "skill_level": 4,
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 4,
+                    "idx_in_category": 13
+                },
+                {
+                    "amount": 15,
+                    "category_id": 2,
+                    "idx_in_category": 43
+                }
+            ],
+            "qp_amount": 1600000,
+            "svt_id": 152
+        },
+        {
+            "skill_level": 5,
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 4,
+                    "idx_in_category": 20
+                },
+                {
+                    "amount": 29,
+                    "category_id": 2,
+                    "idx_in_category": 43
+                }
+            ],
+            "qp_amount": 4000000,
+            "svt_id": 152
+        },
+        {
+            "skill_level": 6,
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 4,
+                    "idx_in_category": 20
+                },
+                {
+                    "amount": 15,
+                    "category_id": 2,
+                    "idx_in_category": 30
+                }
+            ],
+            "qp_amount": 5000000,
+            "svt_id": 152
+        },
+        {
+            "skill_level": 7,
+            "material_list": [
+                {
+                    "amount": 29,
+                    "category_id": 2,
+                    "idx_in_category": 30
+                },
+                {
+                    "amount": 6,
+                    "category_id": 2,
+                    "idx_in_category": 45
+                }
+            ],
+            "qp_amount": 10000000,
+            "svt_id": 152
+        },
+        {
+            "skill_level": 8,
+            "material_list": [
+                {
+                    "amount": 18,
+                    "category_id": 2,
+                    "idx_in_category": 45
+                },
+                {
+                    "amount": 10,
+                    "category_id": 2,
+                    "idx_in_category": 39
+                }
+            ],
+            "qp_amount": 12000000,
+            "svt_id": 152
+        },
+        {
+            "skill_level": 9,
+            "material_list": [
+                {
+                    "amount": 1,
+                    "category_id": 2,
+                    "idx_in_category": 27
+                }
+            ],
+            "qp_amount": 20000000,
+            "svt_id": 152
         },
         {
             "skill_level": 1,

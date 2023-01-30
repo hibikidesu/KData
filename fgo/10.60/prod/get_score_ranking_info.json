@@ -877,7 +877,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-01-30T04:10:24+09:00",
+    "last_cache_load_time": "2023-01-30T17:40:48+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2022-11-01T07:00:00+09:00",
@@ -928,37 +928,37 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-01-30T04:00:10+09:00",
+            "update_time": "2023-01-30T17:00:08+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 32870,
-                    "name": "デビルゆーゆ",
-                    "gw_rank": 19,
+                    "score": 32905,
+                    "name": "ＴＡＳＥ",
+                    "gw_rank": 25,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 2485,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 1170,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2716,
-                        "title_plate_id": 94
+                        "title_word_id_2": 1864,
+                        "title_plate_id": 163
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 56160,
-                    "name": "雑草",
+                    "score": 56770,
+                    "name": "右利き",
                     "gw_rank": 22,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 45,
-                        "title_disp_type": 2,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
+                        "title_word_id_1": 2337,
+                        "title_word_id_0": 2787,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2034,
+                        "title_plate_id": 349
                     }
                 },
                 {

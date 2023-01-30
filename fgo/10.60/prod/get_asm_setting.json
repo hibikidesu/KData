@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2023-01-30T04:10:06+09:00",
+    "last_cache_load_time": "2023-01-30T17:40:34+09:00",
     "asm_setting_list": [
         {
             "material_list": [
@@ -389,6 +389,79 @@
             ],
             "qp_amount": 3000000,
             "svt_id": 151,
+            "limit_count": 3
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 6
+                }
+            ],
+            "qp_amount": 100000,
+            "svt_id": 152,
+            "limit_count": 0
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 3,
+                    "idx_in_category": 6
+                },
+                {
+                    "amount": 22,
+                    "category_id": 2,
+                    "idx_in_category": 30
+                }
+            ],
+            "qp_amount": 300000,
+            "svt_id": 152,
+            "limit_count": 1
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 5,
+                    "category_id": 3,
+                    "idx_in_category": 13
+                },
+                {
+                    "amount": 29,
+                    "category_id": 2,
+                    "idx_in_category": 43
+                },
+                {
+                    "amount": 15,
+                    "category_id": 2,
+                    "idx_in_category": 33
+                }
+            ],
+            "qp_amount": 1000000,
+            "svt_id": 152,
+            "limit_count": 2
+        },
+        {
+            "material_list": [
+                {
+                    "amount": 12,
+                    "category_id": 3,
+                    "idx_in_category": 13
+                },
+                {
+                    "amount": 29,
+                    "category_id": 2,
+                    "idx_in_category": 33
+                },
+                {
+                    "amount": 8,
+                    "category_id": 2,
+                    "idx_in_category": 42
+                }
+            ],
+            "qp_amount": 3000000,
+            "svt_id": 152,
             "limit_count": 3
         },
         {
