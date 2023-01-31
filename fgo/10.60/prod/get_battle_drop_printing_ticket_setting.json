@@ -1,6 +1,85 @@
 {
-    "last_cache_load_time": "2023-01-30T17:40:42+09:00",
+    "last_cache_load_time": "2023-01-31T04:10:11+09:00",
     "battle_drop_printing_ticket_setting_list": [
+        {
+            "start_time": "2022-12-26T10:00:00+09:00",
+            "battle_internal_id": 0,
+            "battle_type": 0,
+            "lottery_option": 0,
+            "end_time": "2023-02-02T07:00:00+09:00",
+            "icon_list": [
+                {
+                    "icon_id": 3742,
+                    "icon_type": 5
+                },
+                {
+                    "icon_id": 3741,
+                    "icon_type": 5
+                },
+                {
+                    "icon_id": 1072,
+                    "icon_type": 5
+                },
+                {
+                    "icon_id": 1070,
+                    "icon_type": 5
+                },
+                {
+                    "icon_id": 1071,
+                    "icon_type": 5
+                }
+            ]
+        },
+        {
+            "start_time": "2022-12-15T10:00:00+09:00",
+            "battle_internal_id": 6,
+            "battle_type": 0,
+            "lottery_option": 1,
+            "end_time": "2023-01-19T10:00:00+09:00",
+            "icon_list": [
+                {
+                    "icon_id": 3257,
+                    "icon_type": 5
+                },
+                {
+                    "icon_id": 3258,
+                    "icon_type": 5
+                },
+                {
+                    "icon_id": 3259,
+                    "icon_type": 5
+                },
+                {
+                    "icon_id": 3242,
+                    "icon_type": 5
+                },
+                {
+                    "icon_id": 3243,
+                    "icon_type": 5
+                }
+            ]
+        },
+        {
+            "start_time": "2023-01-19T10:00:00+09:00",
+            "battle_internal_id": 7,
+            "battle_type": 0,
+            "lottery_option": 1,
+            "end_time": "2023-02-16T10:00:00+09:00",
+            "icon_list": [
+                {
+                    "icon_id": 3134,
+                    "icon_type": 5
+                },
+                {
+                    "icon_id": 3124,
+                    "icon_type": 5
+                },
+                {
+                    "icon_id": 3125,
+                    "icon_type": 5
+                }
+            ]
+        },
         {
             "start_time": "2022-12-15T10:00:00+09:00",
             "battle_internal_id": 114,
@@ -1404,85 +1483,6 @@
                 },
                 {
                     "icon_id": 1411,
-                    "icon_type": 5
-                }
-            ]
-        },
-        {
-            "start_time": "2022-12-26T10:00:00+09:00",
-            "battle_internal_id": 0,
-            "battle_type": 0,
-            "lottery_option": 0,
-            "end_time": "2023-02-02T07:00:00+09:00",
-            "icon_list": [
-                {
-                    "icon_id": 3742,
-                    "icon_type": 5
-                },
-                {
-                    "icon_id": 3741,
-                    "icon_type": 5
-                },
-                {
-                    "icon_id": 1072,
-                    "icon_type": 5
-                },
-                {
-                    "icon_id": 1070,
-                    "icon_type": 5
-                },
-                {
-                    "icon_id": 1071,
-                    "icon_type": 5
-                }
-            ]
-        },
-        {
-            "start_time": "2022-12-15T10:00:00+09:00",
-            "battle_internal_id": 6,
-            "battle_type": 0,
-            "lottery_option": 1,
-            "end_time": "2023-01-19T10:00:00+09:00",
-            "icon_list": [
-                {
-                    "icon_id": 3257,
-                    "icon_type": 5
-                },
-                {
-                    "icon_id": 3258,
-                    "icon_type": 5
-                },
-                {
-                    "icon_id": 3259,
-                    "icon_type": 5
-                },
-                {
-                    "icon_id": 3242,
-                    "icon_type": 5
-                },
-                {
-                    "icon_id": 3243,
-                    "icon_type": 5
-                }
-            ]
-        },
-        {
-            "start_time": "2023-01-19T10:00:00+09:00",
-            "battle_internal_id": 7,
-            "battle_type": 0,
-            "lottery_option": 1,
-            "end_time": "2023-02-16T10:00:00+09:00",
-            "icon_list": [
-                {
-                    "icon_id": 3134,
-                    "icon_type": 5
-                },
-                {
-                    "icon_id": 3124,
-                    "icon_type": 5
-                },
-                {
-                    "icon_id": 3125,
                     "icon_type": 5
                 }
             ]
