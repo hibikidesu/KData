@@ -2,14 +2,28 @@
     "last_cache_load_time": "2023-01-31T14:04:55+09:00",
     "shop_info_data": [
         {
-            "shop_id": 81,
-            "start_time": "2022-12-26T07:00:00+09:00",
+            "shop_id": 82,
+            "start_time": "2023-02-02T10:00:00+09:00",
             "money_list": [
                 {
-                    "terminal_disp_position": -1,
+                    "terminal_disp_position": 1,
                     "money_id": 0,
                     "shop_disp_position": 0,
-                    "icon_id": 120,
+                    "icon_id": 122,
+                    "icon_type": 0
+                },
+                {
+                    "terminal_disp_position": 3,
+                    "money_id": 1,
+                    "shop_disp_position": 1,
+                    "icon_id": 121,
+                    "icon_type": 0
+                },
+                {
+                    "terminal_disp_position": -1,
+                    "money_id": 2,
+                    "shop_disp_position": 2,
+                    "icon_id": 124,
                     "icon_type": 0
                 }
             ],
@@ -20,15 +34,15 @@
                 }
             ],
             "banner_id": -1,
-            "shop_type": 10,
-            "end_time": "2023-03-02T10:00:00+09:00",
-            "tab_name": "お正月CP",
+            "shop_type": 0,
+            "end_time": "2023-03-30T10:00:00+09:00",
+            "tab_name": "",
             "sort_index": 0,
-            "bgm_id": -1,
+            "bgm_id": 5,
             "background_id": -1
         }
     ],
-    "shop_product_data_list_size": 17,
+    "shop_product_data_list_size": 1,
     "shop_id_list": [
         3,
         30,

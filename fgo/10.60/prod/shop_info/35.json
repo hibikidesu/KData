@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2023-01-25T04:03:01+09:00",
+    "last_cache_load_time": "2023-01-31T14:04:55+09:00",
     "shop_info_data": [
         {
             "shop_id": 35,
@@ -45,62 +45,51 @@
     "shop_product_data_list_size": 128,
     "shop_id_list": [
         3,
-        14,
-        16,
         30,
         33,
         35,
         36,
         37,
-        38,
         50,
         51,
         60,
+        65,
+        66,
+        67,
         74,
         76,
-        77,
         78,
         79,
         80,
-        81
+        81,
+        82,
+        83
     ],
     "is_product_completed": 0,
     "each_shop_last_cache_load_time_list": [
         {
             "shop_id": 3,
-            "last_cache_load_time": "2022-12-22T18:36:53+09:00"
-        },
-        {
-            "shop_id": 14,
-            "last_cache_load_time": "2022-12-21T20:31:17+09:00"
-        },
-        {
-            "shop_id": 16,
-            "last_cache_load_time": "2022-03-16T14:45:23+09:00"
+            "last_cache_load_time": "2023-01-31T14:04:23+09:00"
         },
         {
             "shop_id": 30,
-            "last_cache_load_time": "2022-12-22T18:23:37+09:00"
+            "last_cache_load_time": "2023-01-31T14:04:10+09:00"
         },
         {
             "shop_id": 33,
-            "last_cache_load_time": "2022-12-22T18:23:37+09:00"
+            "last_cache_load_time": "2023-01-31T14:04:10+09:00"
         },
         {
             "shop_id": 35,
-            "last_cache_load_time": "2023-01-25T04:03:01+09:00"
+            "last_cache_load_time": "2023-01-31T14:02:20+09:00"
         },
         {
             "shop_id": 36,
-            "last_cache_load_time": "2023-01-25T04:03:01+09:00"
+            "last_cache_load_time": "2023-01-31T14:02:20+09:00"
         },
         {
             "shop_id": 37,
-            "last_cache_load_time": "2023-01-25T04:03:01+09:00"
-        },
-        {
-            "shop_id": 38,
-            "last_cache_load_time": "2023-01-11T04:03:01+09:00"
+            "last_cache_load_time": "2023-01-31T14:02:20+09:00"
         },
         {
             "shop_id": 50,
@@ -112,35 +101,51 @@
         },
         {
             "shop_id": 60,
-            "last_cache_load_time": "2022-12-22T18:36:53+09:00"
+            "last_cache_load_time": "2023-01-31T14:04:23+09:00"
+        },
+        {
+            "shop_id": 65,
+            "last_cache_load_time": "2023-01-31T14:04:23+09:00"
+        },
+        {
+            "shop_id": 66,
+            "last_cache_load_time": "2023-01-31T14:04:23+09:00"
+        },
+        {
+            "shop_id": 67,
+            "last_cache_load_time": "2023-01-31T14:04:23+09:00"
         },
         {
             "shop_id": 74,
-            "last_cache_load_time": "2022-12-22T18:23:37+09:00"
+            "last_cache_load_time": "2023-01-31T14:04:10+09:00"
         },
         {
             "shop_id": 76,
-            "last_cache_load_time": "2022-12-22T18:23:37+09:00"
-        },
-        {
-            "shop_id": 77,
-            "last_cache_load_time": "2022-12-25T18:12:07+09:00"
+            "last_cache_load_time": "2023-01-31T14:04:10+09:00"
         },
         {
             "shop_id": 78,
-            "last_cache_load_time": "2022-12-22T18:23:37+09:00"
+            "last_cache_load_time": "2023-01-31T14:04:10+09:00"
         },
         {
             "shop_id": 79,
-            "last_cache_load_time": "2022-12-22T18:25:01+09:00"
+            "last_cache_load_time": "2023-01-31T14:04:10+09:00"
         },
         {
             "shop_id": 80,
-            "last_cache_load_time": "2022-12-22T18:36:53+09:00"
+            "last_cache_load_time": "2023-01-31T14:04:10+09:00"
         },
         {
             "shop_id": 81,
             "last_cache_load_time": "2022-12-25T18:12:07+09:00"
+        },
+        {
+            "shop_id": 82,
+            "last_cache_load_time": "2023-01-31T14:04:55+09:00"
+        },
+        {
+            "shop_id": 83,
+            "last_cache_load_time": "2023-01-31T14:04:23+09:00"
         }
     ],
     "shop_product_data_list": []
