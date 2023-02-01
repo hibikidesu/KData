@@ -1,6 +1,20 @@
 {
-    "last_cache_load_time": "2023-01-31T04:10:16+09:00",
+    "last_cache_load_time": "2023-02-01T04:10:16+09:00",
     "coop_party_list": [
+        {
+            "coop_party_id": 68,
+            "party_02": 213,
+            "party_01": 213,
+            "player_name": "",
+            "party_03": 213
+        },
+        {
+            "coop_party_id": 69,
+            "party_02": 212,
+            "party_01": 212,
+            "player_name": "",
+            "party_03": 212
+        },
         {
             "coop_party_id": 0,
             "party_02": 0,
@@ -476,20 +490,6 @@
             "party_01": 211,
             "player_name": "",
             "party_03": 211
-        },
-        {
-            "coop_party_id": 68,
-            "party_02": 213,
-            "party_01": 213,
-            "player_name": "",
-            "party_03": 213
-        },
-        {
-            "coop_party_id": 69,
-            "party_02": 212,
-            "party_01": 212,
-            "player_name": "",
-            "party_03": 212
         },
         {
             "coop_party_id": 70,
@@ -4481,7 +4481,7 @@
             "coop_party_lot_id": 336
         }
     ],
-    "ctrl_id": 2508,
+    "ctrl_id": 2565,
     "coop_quest_setting_list": [
         {
             "is_time_attack_battle": 0,

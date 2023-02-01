@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2022-12-22T16:01:41+09:00",
+    "last_cache_load_time": "2023-01-31T14:38:53+09:00",
     "sp_cos_point_boost_list": [
         {
             "shop_id": 3,
@@ -108,23 +108,59 @@
             "credit": 3,
             "icon_id": 13,
             "icon_type": 0
+        },
+        {
+            "shop_id": 3,
+            "start_time": "2023-03-01T07:00:00+09:00",
+            "boost_rate": 500,
+            "product_id": 127,
+            "end_time": "2023-04-01T07:00:00+09:00",
+            "spiritual_costume_point_boost_id": 3,
+            "warning_start_time": "2023-03-27T07:00:00+09:00",
+            "credit": 10,
+            "icon_id": 15,
+            "icon_type": 0
+        },
+        {
+            "shop_id": 3,
+            "start_time": "2023-03-01T07:00:00+09:00",
+            "boost_rate": 250,
+            "product_id": 128,
+            "end_time": "2023-04-01T07:00:00+09:00",
+            "spiritual_costume_point_boost_id": 2,
+            "warning_start_time": "2023-03-27T07:00:00+09:00",
+            "credit": 5,
+            "icon_id": 14,
+            "icon_type": 0
+        },
+        {
+            "shop_id": 3,
+            "start_time": "2023-03-01T07:00:00+09:00",
+            "boost_rate": 150,
+            "product_id": 129,
+            "end_time": "2023-04-01T07:00:00+09:00",
+            "spiritual_costume_point_boost_id": 1,
+            "warning_start_time": "2023-03-27T07:00:00+09:00",
+            "credit": 3,
+            "icon_id": 13,
+            "icon_type": 0
         }
     ],
     "sp_cos_point_list": [
         {
             "start_time": "2001-01-01T07:00:00+09:00",
-            "end_time": "2023-01-01T07:00:00+09:00",
-            "item_idx_in_category": 13
-        },
-        {
-            "start_time": "2023-01-01T07:00:00+09:00",
             "end_time": "2023-02-01T07:00:00+09:00",
             "item_idx_in_category": 2
         },
         {
             "start_time": "2023-02-01T07:00:00+09:00",
-            "end_time": "2030-01-01T07:00:00+09:00",
+            "end_time": "2023-03-01T07:00:00+09:00",
             "item_idx_in_category": 3
+        },
+        {
+            "start_time": "2023-03-01T07:00:00+09:00",
+            "end_time": "2030-01-01T07:00:00+09:00",
+            "item_idx_in_category": 4
         }
     ],
     "sp_cos_ticket_list": [
@@ -864,6 +900,11 @@
             "spiritual_costume_ticket_id": 147
         },
         {
+            "asset_sub_id": 6,
+            "svt_id": 131,
+            "spiritual_costume_ticket_id": 148
+        },
+        {
             "asset_sub_id": 9,
             "svt_id": 4,
             "spiritual_costume_ticket_id": 149
@@ -902,20 +943,24 @@
             "asset_sub_id": 11,
             "svt_id": 102,
             "spiritual_costume_ticket_id": 156
+        },
+        {
+            "asset_sub_id": 10,
+            "svt_id": 91,
+            "spiritual_costume_ticket_id": 157
+        },
+        {
+            "asset_sub_id": 11,
+            "svt_id": 91,
+            "spiritual_costume_ticket_id": 158
+        },
+        {
+            "asset_sub_id": 12,
+            "svt_id": 91,
+            "spiritual_costume_ticket_id": 159
         }
     ],
     "sp_cos_info_list": [
-        {
-            "costume_type": 1,
-            "start_time": "2022-01-01T07:00:00+09:00",
-            "asset_sub_id": 6,
-            "end_time": "2029-01-01T07:00:00+09:00",
-            "name": "蘇りし王の基板",
-            "costume_id": 3,
-            "description": "バビロンに君臨する王の姿。\nその正体は―――",
-            "svt_id": 120,
-            "limit_count": 0
-        },
         {
             "costume_type": 2,
             "start_time": "2019-12-01T07:00:00+09:00",
@@ -1182,17 +1227,6 @@
         },
         {
             "costume_type": 2,
-            "start_time": "2022-07-01T07:00:00+09:00",
-            "asset_sub_id": 9,
-            "end_time": "2029-01-01T07:00:00+09:00",
-            "name": "カラーバリエーションＣ",
-            "costume_id": 4,
-            "description": "アストルフォの\nカラーバリエーションＣです。",
-            "svt_id": 117,
-            "limit_count": 3
-        },
-        {
-            "costume_type": 2,
             "start_time": "2019-07-04T07:00:00+09:00",
             "asset_sub_id": 6,
             "end_time": "2029-01-01T07:00:00+09:00",
@@ -1388,17 +1422,6 @@
             "description": "髪をサイドにまとめ上げた転身霊衣\n意識して、女性的な魅力にやや寄せている",
             "svt_id": 26,
             "limit_count": 1
-        },
-        {
-            "costume_type": 2,
-            "start_time": "2022-07-01T07:00:00+09:00",
-            "asset_sub_id": 8,
-            "end_time": "2029-01-01T07:00:00+09:00",
-            "name": "カラーバリエーションＢ",
-            "costume_id": 4,
-            "description": "アストルフォの\nカラーバリエーションＢです。",
-            "svt_id": 117,
-            "limit_count": 3
         },
         {
             "costume_type": 2,
@@ -1798,17 +1821,6 @@
         },
         {
             "costume_type": 2,
-            "start_time": "2022-07-01T07:00:00+09:00",
-            "asset_sub_id": 7,
-            "end_time": "2029-01-01T07:00:00+09:00",
-            "name": "カラーバリエーションＡ",
-            "costume_id": 4,
-            "description": "アストルフォの\nカラーバリエーションＡです。",
-            "svt_id": 117,
-            "limit_count": 3
-        },
-        {
-            "costume_type": 2,
             "start_time": "2019-07-04T07:00:00+09:00",
             "asset_sub_id": 6,
             "end_time": "2029-01-01T07:00:00+09:00",
@@ -2004,17 +2016,6 @@
             "description": "ＯＮＥＯＮＥ☆新選組一番隊隊長推参！\n壬生狼なのにわんわんとはこれ如何に？",
             "svt_id": 70,
             "limit_count": 0
-        },
-        {
-            "costume_type": 2,
-            "start_time": "2022-09-01T07:00:00+09:00",
-            "asset_sub_id": 8,
-            "end_time": "2029-01-01T07:00:00+09:00",
-            "name": "カラーバリエーションＣ",
-            "costume_id": 3,
-            "description": "謎のヒロインＸＸの\nカラーバリエーションＣです。",
-            "svt_id": 115,
-            "limit_count": 3
         },
         {
             "costume_type": 2,
@@ -2215,17 +2216,6 @@
             "limit_count": 3
         },
         {
-            "costume_type": 1,
-            "start_time": "2021-12-01T07:00:00+09:00",
-            "asset_sub_id": 6,
-            "end_time": "2029-01-01T07:00:00+09:00",
-            "name": "エンジェル・ブレス",
-            "costume_id": 3,
-            "description": "凸凹聖歌隊の装い。\nみんなで歌うと楽しいね！とご満悦の様子。",
-            "svt_id": 117,
-            "limit_count": 0
-        },
-        {
             "costume_type": 2,
             "start_time": "2020-10-01T07:00:00+09:00",
             "asset_sub_id": 6,
@@ -2376,6 +2366,39 @@
             "name": "赤雷の叡智（第３段階）",
             "costume_id": 4,
             "description": "地上で見つけた赤い叡智の結晶\nなぜかしら、やけにしっくりくるのだわ！",
+            "svt_id": 91,
+            "limit_count": 3
+        },
+        {
+            "costume_type": 2,
+            "start_time": "2023-03-01T07:00:00+09:00",
+            "asset_sub_id": 10,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "name": "カラーバリエーションＡ",
+            "costume_id": 5,
+            "description": "エレシュキガルの\nカラーバリエーションＡです。",
+            "svt_id": 91,
+            "limit_count": 3
+        },
+        {
+            "costume_type": 2,
+            "start_time": "2023-03-01T07:00:00+09:00",
+            "asset_sub_id": 11,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "name": "カラーバリエーションＢ",
+            "costume_id": 5,
+            "description": "エレシュキガルの\nカラーバリエーションＢです。",
+            "svt_id": 91,
+            "limit_count": 3
+        },
+        {
+            "costume_type": 2,
+            "start_time": "2023-03-01T07:00:00+09:00",
+            "asset_sub_id": 12,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "name": "カラーバリエーションＣ",
+            "costume_id": 5,
+            "description": "エレシュキガルの\nカラーバリエーションＣです。",
             "svt_id": 91,
             "limit_count": 3
         },
@@ -2620,6 +2643,83 @@
             "description": "謎のヒロインＸＸの\nカラーバリエーションＢです。",
             "svt_id": 115,
             "limit_count": 3
+        },
+        {
+            "costume_type": 2,
+            "start_time": "2022-09-01T07:00:00+09:00",
+            "asset_sub_id": 8,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "name": "カラーバリエーションＣ",
+            "costume_id": 3,
+            "description": "謎のヒロインＸＸの\nカラーバリエーションＣです。",
+            "svt_id": 115,
+            "limit_count": 3
+        },
+        {
+            "costume_type": 1,
+            "start_time": "2021-12-01T07:00:00+09:00",
+            "asset_sub_id": 6,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "name": "エンジェル・ブレス",
+            "costume_id": 3,
+            "description": "凸凹聖歌隊の装い。\nみんなで歌うと楽しいね！とご満悦の様子。",
+            "svt_id": 117,
+            "limit_count": 0
+        },
+        {
+            "costume_type": 2,
+            "start_time": "2022-07-01T07:00:00+09:00",
+            "asset_sub_id": 7,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "name": "カラーバリエーションＡ",
+            "costume_id": 4,
+            "description": "アストルフォの\nカラーバリエーションＡです。",
+            "svt_id": 117,
+            "limit_count": 3
+        },
+        {
+            "costume_type": 2,
+            "start_time": "2022-07-01T07:00:00+09:00",
+            "asset_sub_id": 8,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "name": "カラーバリエーションＢ",
+            "costume_id": 4,
+            "description": "アストルフォの\nカラーバリエーションＢです。",
+            "svt_id": 117,
+            "limit_count": 3
+        },
+        {
+            "costume_type": 2,
+            "start_time": "2022-07-01T07:00:00+09:00",
+            "asset_sub_id": 9,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "name": "カラーバリエーションＣ",
+            "costume_id": 4,
+            "description": "アストルフォの\nカラーバリエーションＣです。",
+            "svt_id": 117,
+            "limit_count": 3
+        },
+        {
+            "costume_type": 1,
+            "start_time": "2022-01-01T07:00:00+09:00",
+            "asset_sub_id": 6,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "name": "蘇りし王の基板",
+            "costume_id": 3,
+            "description": "バビロンに君臨する王の姿。\nその正体は―――",
+            "svt_id": 120,
+            "limit_count": 0
+        },
+        {
+            "costume_type": 1,
+            "start_time": "2023-03-01T07:00:00+09:00",
+            "asset_sub_id": 6,
+            "end_time": "2029-01-01T07:00:00+09:00",
+            "name": "万能天使系後輩☆",
+            "costume_id": 3,
+            "description": "白衣の天使、ＢＢちゃん登場～☆\n悩める心と体をクレンザー！　です♥",
+            "svt_id": 131,
+            "limit_count": 0
         }
     ]
 }

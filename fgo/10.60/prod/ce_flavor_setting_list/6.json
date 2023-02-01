@@ -1,6 +1,6 @@
 {
-    "last_cache_load_time": "2023-01-31T04:10:06+09:00",
-    "start_time": "2023-01-30T07:00:00+09:00",
+    "last_cache_load_time": "2023-02-01T04:10:06+09:00",
+    "start_time": "2023-01-31T07:00:00+09:00",
     "ce_flavor_setting_list": [
         {
             "text_id": 1,
@@ -63,6 +63,591 @@
             "ce_flavor_id": 1223,
             "index": 1,
             "ce_id": 1223,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1224,
+            "index": 1,
+            "ce_id": 1224,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1225,
+            "index": 1,
+            "ce_id": 1225,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1226,
+            "index": 1,
+            "ce_id": 1226,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1227,
+            "index": 1,
+            "ce_id": 1227,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1228,
+            "index": 1,
+            "ce_id": 1228,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1229,
+            "index": 1,
+            "ce_id": 1229,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1230,
+            "index": 1,
+            "ce_id": 1230,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1231,
+            "index": 1,
+            "ce_id": 1231,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1232,
+            "index": 1,
+            "ce_id": 1232,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1233,
+            "index": 1,
+            "ce_id": 1233,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1234,
+            "index": 1,
+            "ce_id": 1234,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1235,
+            "index": 1,
+            "ce_id": 1235,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1236,
+            "index": 1,
+            "ce_id": 1236,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1237,
+            "index": 1,
+            "ce_id": 1237,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1238,
+            "index": 1,
+            "ce_id": 1238,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1239,
+            "index": 1,
+            "ce_id": 1239,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1240,
+            "index": 1,
+            "ce_id": 1240,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1241,
+            "index": 1,
+            "ce_id": 1241,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1242,
+            "index": 1,
+            "ce_id": 1242,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1243,
+            "index": 1,
+            "ce_id": 1243,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1244,
+            "index": 1,
+            "ce_id": 1244,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1245,
+            "index": 1,
+            "ce_id": 1245,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1246,
+            "index": 1,
+            "ce_id": 1246,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1247,
+            "index": 1,
+            "ce_id": 1247,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1248,
+            "index": 1,
+            "ce_id": 1248,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1249,
+            "index": 1,
+            "ce_id": 1249,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1250,
+            "index": 1,
+            "ce_id": 1250,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1251,
+            "index": 1,
+            "ce_id": 1251,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1252,
+            "index": 1,
+            "ce_id": 1252,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1253,
+            "index": 1,
+            "ce_id": 1253,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1254,
+            "index": 1,
+            "ce_id": 1254,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1255,
+            "index": 1,
+            "ce_id": 1255,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1256,
+            "index": 1,
+            "ce_id": 1256,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1257,
+            "index": 1,
+            "ce_id": 1257,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1258,
+            "index": 1,
+            "ce_id": 1258,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1259,
+            "index": 1,
+            "ce_id": 1259,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1260,
+            "index": 1,
+            "ce_id": 1260,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "まさかの白昼堂々と。\n間違ってもそこに愛なんてないはずで。\n\n甘い微笑みに期待してはならない。\n熱に蕩けても残るのは苦い後味だろう。\n\nわかっている、わかっているはずなのに―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1261,
+            "index": 1,
+            "ce_id": 1261,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "長い永い夢を見ている。\n\nなめらかなクリームに苦くて甘いビターチョコ、\n滴る果実は、酸味と色味のアクセント。\n\n遠い目覚めを待ちながら今はまだ微睡みの時。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1262,
+            "index": 1,
+            "ce_id": 1262,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "何事にも準備は万全であれ。\n乙女の一大決心ならばなお一層に。\n\nだがしかし、\n前日のしかも深夜になってはたと気付くのである。\n\nわたし……もしかしてやり過ぎた！？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1263,
+            "index": 1,
+            "ce_id": 1263,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "カルデア商事は繁忙期であった。\n\n次から次へと湧いてくるエネミー、減っていくばかりの\nＨＰ、ＱＰも底を突きかけた頃……\n\nその手に包まれた菓子のなんと甘やかなことか。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1264,
+            "index": 1,
+            "ce_id": 1264,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ふわふわのお菓子はいかが？\n淹れたての紅茶も一緒にどうぞ。\n\nおもてなし日和ね、と神妃は微笑む。\n生きとし生けるもの全てを讃えるように。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1265,
+            "index": 1,
+            "ce_id": 1265,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "『人の慣習など知った事ではないわ』\nそう彼女は呟いて自室の扉を閉じた。\n\nけれど暫くすると退屈しのぎの名目で、\n何やら思索に耽っている様子。\n\n果たして、いつになったら\n彼女は妥協と見栄を天秤にかけられるのか。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1266,
+            "index": 1,
+            "ce_id": 1266,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1267,
+            "index": 1,
+            "ce_id": 1267,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1268,
+            "index": 1,
+            "ce_id": 1268,
             "conditional_text": "公開出来ない時のテキストですよ(礼装)",
             "priority": 1,
             "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
