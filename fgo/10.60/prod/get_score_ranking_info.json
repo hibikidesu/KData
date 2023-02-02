@@ -817,7 +817,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-02-01T11:16:21+09:00",
+    "last_cache_load_time": "2023-02-02T04:10:20+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-01-05T10:00:00+09:00",
@@ -858,67 +858,67 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-02-01T11:00:08+09:00",
+            "update_time": "2023-02-02T04:00:12+09:00",
             "score_ranking_id": 15,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 33815,
-                    "name": "Jormungand発動",
+                    "score": 34730,
+                    "name": "とりから",
                     "gw_rank": 20,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 6,
-                        "title_word_id_0": 2643,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 349,
-                        "title_plate_id": 226
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 59615,
-                    "name": "蒼紅",
-                    "gw_rank": 21,
+                    "score": 61125,
+                    "name": "吾ももっと遊びたい",
+                    "gw_rank": 18,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 259,
-                        "title_plate_id": 3
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 101395,
-                    "name": "推しパは最強！！",
-                    "gw_rank": 23,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 475,
-                        "title_word_id_0": 997,
+                        "title_word_id_1": 1084,
+                        "title_word_id_0": 29,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 13,
-                        "title_plate_id": 115
+                        "title_plate_id": 150
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 160955,
-                    "name": "絶剣",
-                    "gw_rank": 27,
+                    "score": 101465,
+                    "name": "四つ葉のくろーばー",
+                    "gw_rank": 23,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 357,
+                        "title_word_id_0": 1031,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 18,
+                        "title_plate_id": 16
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 162375,
+                    "name": "ガンダム　ルブリス",
+                    "gw_rank": 31,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2509,
+                        "title_word_id_1": 1064,
+                        "title_word_id_0": 1063,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 94
+                        "title_plate_id": 77
                     }
                 }
             ]

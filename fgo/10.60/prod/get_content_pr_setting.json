@@ -1,6 +1,22 @@
 {
-    "last_cache_load_time": "2023-02-01T11:16:11+09:00",
+    "last_cache_load_time": "2023-02-02T04:10:08+09:00",
     "content_pr_setting_list": [
+        {
+            "start_time": "2023-02-02T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 156,
+            "horizontal_priority": 11,
+            "end_time": "2023-03-16T10:00:00+09:00"
+        },
+        {
+            "start_time": "2023-02-02T10:00:00+09:00",
+            "vertical_priority": 30,
+            "data_set_type": 2,
+            "data_id": 157,
+            "horizontal_priority": 12,
+            "end_time": "2023-03-01T10:00:00+09:00"
+        },
         {
             "start_time": "2023-01-26T10:00:00+09:00",
             "vertical_priority": 30,
@@ -72,6 +88,14 @@
             "data_id": 122,
             "horizontal_priority": 21,
             "end_time": "2023-02-02T10:00:00+09:00"
+        },
+        {
+            "start_time": "2023-02-02T10:00:00+09:00",
+            "vertical_priority": 40,
+            "data_set_type": 3,
+            "data_id": 2,
+            "horizontal_priority": 24,
+            "end_time": "2023-02-16T10:00:00+09:00"
         },
         {
             "start_time": "2023-01-19T10:00:00+09:00",

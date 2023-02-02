@@ -1,6 +1,42 @@
 {
-    "last_cache_load_time": "2023-02-01T11:16:10+09:00",
+    "last_cache_load_time": "2023-02-02T04:10:08+09:00",
     "pr_setting_list": [
+        {
+            "start_time": "2023-02-02T10:00:00+09:00",
+            "popup_image_id": -1,
+            "disp_type": 0,
+            "pr_type": 1,
+            "data_id": 423,
+            "end_time": "2023-03-16T10:00:00+09:00",
+            "singularity_id": -1,
+            "message": "",
+            "lottery_type": 6,
+            "lineup_id": 232
+        },
+        {
+            "start_time": "2023-02-02T10:00:00+09:00",
+            "popup_image_id": 230,
+            "disp_type": 0,
+            "pr_type": 3,
+            "data_id": 428,
+            "end_time": "2023-03-16T07:00:00+09:00",
+            "singularity_id": -1,
+            "message": "",
+            "lottery_type": -1,
+            "lineup_id": -1
+        },
+        {
+            "start_time": "2023-02-02T10:00:00+09:00",
+            "popup_image_id": -1,
+            "disp_type": 0,
+            "pr_type": 1,
+            "data_id": 424,
+            "end_time": "2023-03-01T10:00:00+09:00",
+            "singularity_id": -1,
+            "message": "",
+            "lottery_type": 6,
+            "lineup_id": 231
+        },
         {
             "start_time": "2023-02-01T07:00:00+09:00",
             "popup_image_id": 221,
@@ -120,54 +156,6 @@
             "message": "",
             "lottery_type": 6,
             "lineup_id": 223
-        },
-        {
-            "start_time": "2022-12-26T10:00:00+09:00",
-            "popup_image_id": 219,
-            "disp_type": 0,
-            "pr_type": 3,
-            "data_id": 412,
-            "end_time": "2023-02-02T07:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": -1,
-            "lineup_id": -1
-        },
-        {
-            "start_time": "2022-12-22T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 264,
-            "end_time": "2023-02-02T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 222
-        },
-        {
-            "start_time": "2022-12-15T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 262,
-            "end_time": "2023-02-02T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 221
-        },
-        {
-            "start_time": "2022-12-15T10:00:00+09:00",
-            "popup_image_id": 216,
-            "disp_type": 0,
-            "pr_type": 3,
-            "data_id": 410,
-            "end_time": "2023-02-02T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": -1,
-            "lineup_id": -1
         }
     ]
 }
