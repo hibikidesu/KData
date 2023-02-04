@@ -62,6 +62,771 @@
             "sub_id_1": -1,
             "sub_id_0": -1,
             "priority": 1
+        },
+        {
+            "banner_kind": 100,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": -1,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 0,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 1,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 2,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 3,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 4,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 5,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 6,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 7,
+            "priority": 0
+        },
+        {
+            "banner_kind": 200,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 8,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 1,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 4,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 7,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 10,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 13,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 16,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 19,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 22,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 69,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 72,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 75,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 78,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 81,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 84,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 87,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 91,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 108,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 111,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 114,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 117,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 120,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 123,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 126,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 129,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 132,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 136,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 137,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 196,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 197,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 198,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 199,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 200,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 201,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 202,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 203,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 205,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 278,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 279,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 280,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 281,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 282,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 283,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 285,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 378,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 379,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 380,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 381,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 382,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 383,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 384,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 457,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 458,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 459,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 460,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 461,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 462,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 463,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 465,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 609,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 610,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 611,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 612,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 613,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 614,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 615,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 617,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 642,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 643,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 644,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 645,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 646,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 647,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 648,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 649,
+            "priority": 0
+        },
+        {
+            "banner_kind": 400,
+            "banner_extend_info_id": 54,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 651,
+            "priority": 0
         }
     ],
     "costume_news_url": "",
@@ -208,9 +973,17 @@
             "data_type": 1,
             "end_time": "2023-03-16T07:00:00+09:00",
             "message": ""
+        },
+        {
+            "start_time": "2023-02-05T07:00:00+09:00",
+            "banner_extend_info_id": 54,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-03-02T07:00:00+09:00",
+            "message": "<CAMPAIGN_EMPHASIS>クエスト開始＆コンティニュー消費ＧＰ ５０％ＤＯＷＮ！<DEFAULT_COLOR>"
         }
     ],
-    "atnd_lut": "2023-02-03T09:00:25+09:00",
+    "atnd_lut": "2023-02-04T04:10:01+09:00",
     "menu_button_extend_info_list": [
         {
             "start_time": "2022-12-15T10:00:00+09:00",
