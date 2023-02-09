@@ -1,6 +1,18 @@
 {
-    "last_cache_load_time": "2023-02-08T04:10:07+09:00",
+    "last_cache_load_time": "2023-02-09T04:10:13+09:00",
     "pr_setting_list": [
+        {
+            "start_time": "2023-02-09T10:00:00+09:00",
+            "popup_image_id": -1,
+            "disp_type": 0,
+            "pr_type": 1,
+            "data_id": 425,
+            "end_time": "2023-03-23T10:00:00+09:00",
+            "singularity_id": -1,
+            "message": "",
+            "lottery_type": 6,
+            "lineup_id": 234
+        },
         {
             "start_time": "2023-02-02T10:00:00+09:00",
             "popup_image_id": -1,
@@ -96,66 +108,6 @@
             "message": "",
             "lottery_type": -1,
             "lineup_id": -1
-        },
-        {
-            "start_time": "2023-01-12T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 416,
-            "end_time": "2023-02-09T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 226
-        },
-        {
-            "start_time": "2023-01-12T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 189,
-            "end_time": "2023-02-09T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 227
-        },
-        {
-            "start_time": "2023-01-05T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 415,
-            "end_time": "2023-02-09T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 225
-        },
-        {
-            "start_time": "2023-01-01T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 414,
-            "end_time": "2023-02-09T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 224
-        },
-        {
-            "start_time": "2022-12-26T07:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 413,
-            "end_time": "2023-02-09T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 223
         }
     ]
 }
