@@ -16059,6 +16059,23 @@
         "stage": 3
     },
     {
+        "mcode": 38578,
+        "basename": "inst",
+        "title": "insist",
+        "title_sort": "insist",
+        "artist": "Tomoyuki Uchida feat.\u79cb\u6210",
+        "bpmmax": 136,
+        "bpmmin": 136,
+        "level_str": "2 7 12 15 0 0 7 12 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "bemaniflag": 1024,
+        "stage": 17
+    },
+    {
         "mcode": 38579,
         "basename": "resp",
         "title": "\u30ea\u30b9\u30da\u30af\u98a8\u795e",
@@ -16114,5 +16131,22 @@
         "limited_cha": 1,
         "eventno_1": 66,
         "stage": 3
+    },
+    {
+        "mcode": 38582,
+        "basename": "mull",
+        "title": "\u307f\u3085\u3001\u307f\u3085\u3001M\u00fcll\u308b",
+        "title_sort": "\u30df\u30e6\u30df\u30e6mull\u30eb",
+        "artist": " \u6708\u4e43 \uff06 BEMANI Sound Team \"\u5287\u56e3\u30ec\u30b3\u30fc\u30c9\"",
+        "bpmmax": 150,
+        "bpmmin": 150,
+        "level_str": "3 7 11 13 0 0 7 11 13 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "eventno_1": 67,
+        "stage": 5
     }
 ]
