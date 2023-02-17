@@ -26,7 +26,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -911,7 +911,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -1166,7 +1166,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -1346,7 +1346,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -4046,7 +4046,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 2,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -4061,7 +4061,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -4211,7 +4211,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -4256,7 +4256,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -4391,7 +4391,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -4424,6 +4424,21 @@
             "sort": 0,
             "version": 1,
             "use_stamina": 20
+        },
+        {
+            "fumen_id": "0885e9d5-1769-4963-9b37-f6ea278d73eb",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060252,
+            "comment": "",
+            "level": 50,
+            "kind": 1,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 25
         },
         {
             "fumen_id": "0888232c-5598-4977-a87f-a10888c32d8c",
@@ -5096,7 +5111,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -5471,7 +5486,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -5921,7 +5936,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -6851,7 +6866,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -7046,7 +7061,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -7091,7 +7106,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -7361,7 +7376,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -7421,7 +7436,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -7556,7 +7571,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -7736,7 +7751,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -8426,7 +8441,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -8666,7 +8681,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -9056,7 +9071,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -9341,7 +9356,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -9371,7 +9386,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -9521,7 +9536,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -10256,7 +10271,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -10706,7 +10721,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -11546,7 +11561,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -11606,7 +11621,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -11891,7 +11906,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -12491,7 +12506,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -13286,7 +13301,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -13811,7 +13826,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -14081,7 +14096,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -15326,7 +15341,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -15728,6 +15743,21 @@
             "comment": "",
             "level": 94,
             "kind": 3,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
+        },
+        {
+            "fumen_id": "1e95f9ec-e001-4cdf-930e-60e9f18cc6ad",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060251,
+            "comment": "",
+            "level": 80,
+            "kind": 2,
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
@@ -16346,7 +16376,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -18101,7 +18131,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -18326,7 +18356,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -18386,7 +18416,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -18776,7 +18806,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -19196,7 +19226,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -19736,7 +19766,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -19777,6 +19807,21 @@
             "music_id": 351580301,
             "comment": "",
             "level": 80,
+            "kind": 3,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
+        },
+        {
+            "fumen_id": "25d3b978-7e1b-4aab-8260-89a2c35a9846",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060234,
+            "comment": "",
+            "level": 92,
             "kind": 3,
             "long_flag": false,
             "seq_kind": 2,
@@ -19961,7 +20006,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -20441,7 +20486,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -21116,7 +21161,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -22211,7 +22256,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -22376,7 +22421,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -22466,7 +22511,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -22991,7 +23036,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -23006,7 +23051,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -23516,7 +23561,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -25361,7 +25406,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -25601,7 +25646,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -26441,7 +26486,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -27581,7 +27626,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -28046,7 +28091,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -29741,7 +29786,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -29831,7 +29876,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -30176,7 +30221,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -30239,6 +30284,21 @@
             "sort": 0,
             "version": 1,
             "use_stamina": 25
+        },
+        {
+            "fumen_id": "3b2a4318-a655-4f70-b425-e4b492e1b813",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060252,
+            "comment": "",
+            "level": 80,
+            "kind": 2,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
         },
         {
             "fumen_id": "3b2af09e-7541-495d-b85b-30618895982a",
@@ -33221,7 +33281,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -33581,7 +33641,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -33641,7 +33701,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -33896,7 +33956,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -34271,7 +34331,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -34376,7 +34436,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -34421,7 +34481,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -34466,7 +34526,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -34751,7 +34811,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -35146,6 +35206,21 @@
             "use_stamina": 20
         },
         {
+            "fumen_id": "4481fc95-8732-430b-bc1d-253c3ba3298b",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060237,
+            "comment": "",
+            "level": 70,
+            "kind": 2,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
+        },
+        {
             "fumen_id": "4482cae8-02a9-4e83-b955-5d11ce82ee8c",
             "fumen_name": "Lab\u30bd\u30fc\u30b9\u8b5c\u9762",
             "player_id": "KONAMI",
@@ -35306,7 +35381,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -35576,7 +35651,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -36416,7 +36491,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -36896,7 +36971,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -37001,7 +37076,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -37121,7 +37196,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -37481,7 +37556,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -37634,6 +37709,21 @@
             "sort": 0,
             "version": 1,
             "use_stamina": 30
+        },
+        {
+            "fumen_id": "493aa87a-77b2-49fe-b300-e768cb379435",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060234,
+            "comment": "",
+            "level": 40,
+            "kind": 1,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 25
         },
         {
             "fumen_id": "4945f8be-66ee-4555-ad68-3dbdcc4f9841",
@@ -38246,7 +38336,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -38861,7 +38951,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -39056,7 +39146,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -39119,6 +39209,21 @@
             "sort": 0,
             "version": 1,
             "use_stamina": 25
+        },
+        {
+            "fumen_id": "4c4e93e7-742a-4a61-8cb9-f95a6382272c",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060251,
+            "comment": "",
+            "level": 10,
+            "kind": 100,
+            "long_flag": false,
+            "seq_kind": 3,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 20
         },
         {
             "fumen_id": "4c59cc6b-d927-4d84-883c-93ddb8aefebb",
@@ -40226,7 +40331,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -40271,7 +40376,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -41276,7 +41381,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -42101,7 +42206,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -42596,7 +42701,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -43046,7 +43151,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -43936,6 +44041,21 @@
             "use_stamina": 20
         },
         {
+            "fumen_id": "565564bc-6d2b-4f5d-8448-156455d9731d",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060251,
+            "comment": "",
+            "level": 106,
+            "kind": 3,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
+        },
+        {
             "fumen_id": "565f503c-ef81-47f7-8d70-35e2b4cf2a9d",
             "fumen_name": "Lab\u30bd\u30fc\u30b9\u8b5c\u9762",
             "player_id": "KONAMI",
@@ -44606,7 +44726,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -44741,7 +44861,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -45041,7 +45161,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -45551,7 +45671,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -45686,7 +45806,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -47306,7 +47426,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -47966,7 +48086,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -48281,7 +48401,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 3,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -48296,7 +48416,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 2,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -49661,7 +49781,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -49916,7 +50036,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -50096,7 +50216,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -50951,7 +51071,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -51671,7 +51791,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -51806,7 +51926,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -52126,6 +52246,21 @@
             "use_stamina": 30
         },
         {
+            "fumen_id": "668aaa48-89b6-417a-b0f4-2983ac6d116c",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060235,
+            "comment": "",
+            "level": 98,
+            "kind": 3,
+            "long_flag": true,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
+        },
+        {
             "fumen_id": "668c901c-2682-472a-a41e-030cbba7fd20",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
@@ -52211,7 +52346,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -52826,7 +52961,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -52946,7 +53081,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -53471,7 +53606,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -53801,7 +53936,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -55751,7 +55886,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -55766,7 +55901,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -55901,7 +56036,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -56201,7 +56336,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -56261,7 +56396,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -56906,7 +57041,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -58106,7 +58241,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -58331,7 +58466,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -58526,7 +58661,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -58556,7 +58691,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -58586,7 +58721,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -59411,7 +59546,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -61946,7 +62081,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -62576,7 +62711,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -62606,7 +62741,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -62696,7 +62831,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -62861,7 +62996,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -62921,7 +63056,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -62936,7 +63071,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -63761,7 +63896,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -63881,7 +64016,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -65501,7 +65636,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -65621,7 +65756,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -65741,7 +65876,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -66161,7 +66296,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -66641,7 +66776,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 3,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -67031,7 +67166,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -67106,7 +67241,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -67751,7 +67886,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -67766,7 +67901,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -71126,7 +71261,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -71651,7 +71786,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 3,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -71966,7 +72101,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -72526,6 +72661,21 @@
             "use_stamina": 30
         },
         {
+            "fumen_id": "8f435393-91e0-41d7-b6a2-2daa16d38084",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060237,
+            "comment": "",
+            "level": 40,
+            "kind": 1,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 25
+        },
+        {
             "fumen_id": "8f463bf7-a984-43c4-87b3-6246783da252",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
@@ -73031,7 +73181,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -73736,7 +73886,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -73976,7 +74126,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -74156,7 +74306,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -74741,7 +74891,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -75851,7 +76001,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -76706,7 +76856,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -77981,7 +78131,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -79256,7 +79406,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -81521,7 +81671,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -82166,7 +82316,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -82226,7 +82376,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -82301,7 +82451,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -82481,7 +82631,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -82721,7 +82871,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -82901,7 +83051,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -84161,7 +84311,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -84371,7 +84521,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -84431,7 +84581,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -84626,7 +84776,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -84701,7 +84851,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -84716,7 +84866,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -84896,7 +85046,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -86201,7 +86351,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -87731,7 +87881,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -88646,7 +88796,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -88931,7 +89081,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -88946,7 +89096,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -89456,7 +89606,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -89636,7 +89786,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -91016,7 +91166,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -91196,7 +91346,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -91871,7 +92021,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -91931,7 +92081,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -92216,7 +92366,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -92921,7 +93071,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -93011,7 +93161,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -94336,6 +94486,21 @@
             "use_stamina": 20
         },
         {
+            "fumen_id": "b99a2939-8aff-4a19-8661-747ec5451a36",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060236,
+            "comment": "",
+            "level": 80,
+            "kind": 2,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
+        },
+        {
             "fumen_id": "b9baff31-8ea3-4fe1-a6ac-c9e6cc3ac0b5",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
@@ -94451,7 +94616,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -95066,7 +95231,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -95801,7 +95966,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 2,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -96821,7 +96986,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -97346,7 +97511,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -97379,6 +97544,21 @@
             "sort": 0,
             "version": 1,
             "use_stamina": 20
+        },
+        {
+            "fumen_id": "bfa9f676-498d-4ce5-a263-cdf0818a884d",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060251,
+            "comment": "",
+            "level": 60,
+            "kind": 1,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 25
         },
         {
             "fumen_id": "bfb04a36-18ed-4eb5-8f07-78c8e655b2b4",
@@ -97946,7 +98126,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -97991,7 +98171,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -98441,7 +98621,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -99596,7 +99776,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -99626,7 +99806,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -99731,7 +99911,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -100181,7 +100361,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -100976,7 +101156,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -101906,7 +102086,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -102866,7 +103046,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -103096,6 +103276,21 @@
             "use_stamina": 25
         },
         {
+            "fumen_id": "cb64acd4-ea49-41ec-88c6-6644a8cda6d5",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060252,
+            "comment": "",
+            "level": 10,
+            "kind": 100,
+            "long_flag": false,
+            "seq_kind": 3,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 20
+        },
+        {
             "fumen_id": "cb6621ea-1f72-4524-8f4f-7bb694f93e3a",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
@@ -103301,7 +103496,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -103841,7 +104036,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -104021,7 +104216,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -104201,7 +104396,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -104891,7 +105086,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -105146,7 +105341,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -105221,7 +105416,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -105941,7 +106136,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -106214,6 +106409,21 @@
             "sort": 0,
             "version": 1,
             "use_stamina": 20
+        },
+        {
+            "fumen_id": "d23125bf-f4a2-443c-bb08-fb3912698f18",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060237,
+            "comment": "",
+            "level": 104,
+            "kind": 3,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
         },
         {
             "fumen_id": "d231c7c0-68ac-440d-90e3-002946b1983b",
@@ -106844,6 +107054,21 @@
             "sort": 0,
             "version": 1,
             "use_stamina": 20
+        },
+        {
+            "fumen_id": "d348aa79-e445-4774-862b-36124b1c0804",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060235,
+            "comment": "",
+            "level": 70,
+            "kind": 2,
+            "long_flag": true,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
         },
         {
             "fumen_id": "d34abb05-0929-4ecc-8ac4-f96d2b7e42a2",
@@ -108581,7 +108806,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -108821,7 +109046,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -109541,7 +109766,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -109826,7 +110051,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -110006,7 +110231,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -110186,7 +110411,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -110801,7 +111026,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -111716,7 +111941,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -112586,7 +112811,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -112886,7 +113111,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -113141,7 +113366,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -113741,7 +113966,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -113846,7 +114071,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -114116,7 +114341,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -115436,7 +115661,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -116156,7 +116381,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -116561,7 +116786,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -116681,7 +116906,22 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 25
+        },
+        {
+            "fumen_id": "e6453f06-8076-4ab4-9418-7eec5a8cf23a",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060236,
+            "comment": "",
+            "level": 50,
+            "kind": 1,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -116711,7 +116951,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -116831,7 +117071,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -117856,6 +118096,21 @@
             "use_stamina": 25
         },
         {
+            "fumen_id": "e7d34082-f2ee-4b42-a747-6ddb691fbae6",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060236,
+            "comment": "",
+            "level": 104,
+            "kind": 3,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
+        },
+        {
             "fumen_id": "e7d67afb-0a7c-43a5-86ca-a3be77646dbc",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
@@ -118331,7 +118586,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -118646,7 +118901,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -118991,7 +119246,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -120011,7 +120266,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -120086,7 +120341,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -120149,6 +120404,21 @@
             "sort": 0,
             "version": 1,
             "use_stamina": 20
+        },
+        {
+            "fumen_id": "ec92282d-af5c-4d68-9064-4bfc7757c290",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060234,
+            "comment": "",
+            "level": 70,
+            "kind": 2,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
         },
         {
             "fumen_id": "ec9542b3-8019-49c8-b402-d0c51a95e802",
@@ -120431,7 +120701,7 @@
             "long_flag": false,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -120551,7 +120821,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -120686,7 +120956,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -121406,7 +121676,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -121826,7 +122096,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -122551,6 +122821,21 @@
             "use_stamina": 20
         },
         {
+            "fumen_id": "f1790e80-e3c2-483e-a3d0-876f70039f93",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060252,
+            "comment": "",
+            "level": 107,
+            "kind": 3,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
+        },
+        {
             "fumen_id": "f1851106-1c5b-45e6-9da8-756ac4d7b725",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
@@ -122936,7 +123221,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -123131,7 +123416,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -125096,7 +125381,7 @@
             "long_flag": true,
             "seq_kind": 1,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 20
         },
@@ -125666,7 +125951,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },
@@ -126461,7 +126746,7 @@
             "long_flag": true,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 30
         },
@@ -129151,6 +129436,21 @@
             "use_stamina": 30
         },
         {
+            "fumen_id": "ff1f94b1-02d2-4ed5-ae09-65d7df94bb77",
+            "fumen_name": "\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060235,
+            "comment": "",
+            "level": 30,
+            "kind": 1,
+            "long_flag": true,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 20
+        },
+        {
             "fumen_id": "ff201c2b-5b31-4b96-9072-039f1051fb90",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
@@ -129446,7 +129746,7 @@
             "long_flag": false,
             "seq_kind": 2,
             "quatable": true,
-            "sort": 1,
+            "sort": 0,
             "version": 1,
             "use_stamina": 25
         },

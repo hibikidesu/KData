@@ -13159,7 +13159,7 @@
             "artist": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u2661Prim\u59eb",
             "artist_kana": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u30d7\u30ea\u30e0\u30d2\u30e1",
             "disp_title": "\u30e4\u30de\u30c8\u306a\u3067\u306a\u3067<sprite name=\"heart\">\u304b\u3050\u3084\u59eb",
-            "disp_artist": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af<sprite name=\"heart\">Prim\u59eb",
+            "disp_artist": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u2661Prim\u59eb",
             "genre": [
                 7
             ],
@@ -17812,8 +17812,8 @@
                 7
             ],
             "bpm": [
-                152,
-                152
+                151,
+                151
             ],
             "artist_texture": "Konami/AssetBundles/Playables/Textures/Artists/artist_id100001104.psd",
             "title_texture": "Konami/AssetBundles/Playables/Textures/Titles/music_id100001104.psd",
@@ -28338,7 +28338,7 @@
             "artist": "CANVAS feat. Quim\u00e4r",
             "artist_kana": "\u30ad\u30e3\u30f3\u30d0\u30b9\u30d5\u30a3\u30fc\u30c1\u30e3\u30ea\u30f3\u30b0\u30ad\u30e1\u30e9",
             "disp_title": "\u592a\u967d\u306e\u6ef4",
-            "disp_artist": "CANVAS feat. Quim<sprite name=\"auml\">r",
+            "disp_artist": "CANVAS feat. Quim\u00e4r",
             "genre": [
                 7
             ],
@@ -45673,7 +45673,7 @@
             "artist": "RoughSketch & CANVAS feat. Quim\u00e4r",
             "artist_kana": "\u30e9\u30d5\u30b9\u30b1\u30c3\u30c1\u30a2\u30f3\u30c9\u30ad\u30e3\u30f3\u30d0\u30b9\u30d5\u30e5\u30fc\u30c1\u30e3\u30ea\u30f3\u30b0\u30ad\u30e1\u30e9",
             "disp_title": "Poem",
-            "disp_artist": "RoughSketch & CANVAS feat. Quim<sprite name=\"auml\">r",
+            "disp_artist": "RoughSketch & CANVAS feat. Quim\u00e4r",
             "genre": [
                 5
             ],
@@ -51407,7 +51407,7 @@
             "artist": "\u3055\u3093\u307f\u3085\u301c",
             "artist_kana": "\u30b5\u30f3\u30df\u30e5\u30fc",
             "disp_title": "\u30c8\u30b2\u30c8\u30b2",
-            "disp_artist": "\u3055\u3093\u307f\u3085<sprite name=\"tilde\">",
+            "disp_artist": "\u3055\u3093\u307f\u3085\u301c",
             "genre": [
                 1
             ],
@@ -51445,7 +51445,7 @@
             "artist": "\u3055\u3093\u307f\u3085\u301c",
             "artist_kana": "\u30b5\u30f3\u30df\u30e5\u30fc",
             "disp_title": "\u306f\u3058\u307e\u308a\u306e\u30e1\u30ed\u30c7\u30a3",
-            "disp_artist": "\u3055\u3093\u307f\u3085<sprite name=\"tilde\">",
+            "disp_artist": "\u3055\u3093\u307f\u3085\u301c",
             "genre": [
                 1
             ],
@@ -51483,7 +51483,7 @@
             "artist": "\u3055\u3093\u307f\u3085\u301c",
             "artist_kana": "\u30b5\u30f3\u30df\u30e5\u30fc",
             "disp_title": "\u305d\u3063\u3068\u3001\u304e\u3085\u3063\u3068\u3001\u3082\u3063\u3068\u3001\u305a\u3063\u3068",
-            "disp_artist": "\u3055\u3093\u307f\u3085<sprite name=\"tilde\">",
+            "disp_artist": "\u3055\u3093\u307f\u3085\u301c",
             "genre": [
                 1
             ],
@@ -51521,7 +51521,7 @@
             "artist": "\u3055\u3093\u307f\u3085\u301c",
             "artist_kana": "\u30b5\u30f3\u30df\u30e5\u30fc",
             "disp_title": "\u307f\u3093\u306a\u306e\u592a\u967d",
-            "disp_artist": "\u3055\u3093\u307f\u3085<sprite name=\"tilde\">",
+            "disp_artist": "\u3055\u3093\u307f\u3085\u301c",
             "genre": [
                 1
             ],
@@ -68540,7 +68540,7 @@
             "artist": "\u3068\u308a\u3077\u308b\u2663\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
             "artist_kana": "\u30c8\u30ea\u30d7\u30eb\u30d5\u30a3\u30fc\u30ea\u30f3\u30b0\u30ef\u30af\u30a4\u30e6\u30a6\u30ab\u30ca\u30b6\u30ef\u30de\u30a4\u30a4\u30de\u30e0\u30e9\u30a2\u30e4\u30ab",
             "disp_title": "\u30af\u30ed\u30fc\u30d0\u30fc<sprite name=\"clubs\">\u304b\u304f\u3081\u30fc\u3057\u3087\u3093",
-            "disp_artist": "\u3068\u308a\u3077\u308b<sprite name=\"clubs\">\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
+            "disp_artist": "\u3068\u308a\u3077\u308b\u2663\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
             "genre": [
                 2
             ],
@@ -68578,7 +68578,7 @@
             "artist": "\u3068\u308a\u3077\u308b\u2663\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
             "artist_kana": "\u30c8\u30ea\u30d7\u30eb\u30d5\u30a3\u30fc\u30ea\u30f3\u30b0\u30ef\u30af\u30a4\u30e6\u30a6\u30ab\u30ca\u30b6\u30ef\u30de\u30a4\u30a4\u30de\u30e0\u30e9\u30a2\u30e4\u30ab",
             "disp_title": "\u30b9\u30af\u30fc\u30eb\u306f\u3044\u305f\u3063\u3061\uff01",
-            "disp_artist": "\u3068\u308a\u3077\u308b<sprite name=\"clubs\">\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
+            "disp_artist": "\u3068\u308a\u3077\u308b\u2663\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
             "genre": [
                 2
             ],
@@ -68616,7 +68616,7 @@
             "artist": "\u3068\u308a\u3077\u308b\u2663\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
             "artist_kana": "\u30c8\u30ea\u30d7\u30eb\u30d5\u30a3\u30fc\u30ea\u30f3\u30b0\u30ef\u30af\u30a4\u30e6\u30a6\u30ab\u30ca\u30b6\u30ef\u30de\u30a4\u30a4\u30de\u30e0\u30e9\u30a2\u30e4\u30ab",
             "disp_title": "\u3050\u30fc\u3061\u3087\u304d\u30d1\u30ec\u30fc\u30c9",
-            "disp_artist": "\u3068\u308a\u3077\u308b<sprite name=\"clubs\">\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
+            "disp_artist": "\u3068\u308a\u3077\u308b\u2663\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
             "genre": [
                 2
             ],
@@ -68654,7 +68654,7 @@
             "artist": "\u3068\u308a\u3077\u308b\u2663\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
             "artist_kana": "\u30c8\u30ea\u30d7\u30eb\u30d5\u30a3\u30fc\u30ea\u30f3\u30b0\u30ef\u30af\u30a4\u30e6\u30a6\u30ab\u30ca\u30b6\u30ef\u30de\u30a4\u30a4\u30de\u30e0\u30e9\u30a2\u30e4\u30ab",
             "disp_title": "\u3071\u3058\u3083\u307eParty",
-            "disp_artist": "\u3068\u308a\u3077\u308b<sprite name=\"clubs\">\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
+            "disp_artist": "\u3068\u308a\u3077\u308b\u2663\u3075\u3043\u30fc\u308a\u3093\u3050(\u548c\u4e45\u4e95 \u512a\uff0f\u91d1\u6fa4\u307e\u3044\uff0f\u4eca\u6751\u5f69\u590f)",
             "genre": [
                 2
             ],
@@ -69155,8 +69155,8 @@
                 1
             ],
             "bpm": [
-                115,
-                115
+                114,
+                114
             ],
             "artist_texture": "Konami/AssetBundles/Playables/Textures/Artists/artist_id321400101.psd",
             "title_texture": "Konami/AssetBundles/Playables/Textures/Titles/music_id321400101.psd",
@@ -69269,8 +69269,8 @@
                 1
             ],
             "bpm": [
-                115,
-                115
+                114,
+                114
             ],
             "artist_texture": "Konami/AssetBundles/Playables/Textures/Artists/artist_id321400104.psd",
             "title_texture": "Konami/AssetBundles/Playables/Textures/Titles/music_id321400104.psd",
@@ -69916,7 +69916,7 @@
                 1
             ],
             "bpm": [
-                158,
+                157,
                 186
             ],
             "artist_texture": "Konami/AssetBundles/Playables/Textures/Artists/artist_id321450302.psd",
@@ -70823,7 +70823,7 @@
             "artist": "MA\u2661chu\u2661RI",
             "artist_kana": "\u30de\u30c1\u30e5\u30ea",
             "disp_title": "M\u2606O\u2606S\u2606O\u4e71\u821e",
-            "disp_artist": "MA<sprite name=\"heart\">chu<sprite name=\"heart\">RI",
+            "disp_artist": "MA\u2661chu\u2661RI",
             "genre": [
                 2
             ],
@@ -78119,10 +78119,10 @@
             "music_id": 351580301,
             "title": "\u304a\u306b\u3051\u3082\u3060\u3093\u3059",
             "title_kana": "\u30aa\u30cb\u30b1\u30e2\u30c0\u30f3\u30b9",
-            "artist": "\u3044\u308d\u306f\u306b\u307b\u3078\u3063\u3068 \u3042\u3084\u3075\u3076\u307f\uff08\u767d\u4e0a\u30d5\u30d6\u30ad\u3001\u767e\u9b3c\u3042\u3084\u3081\u3001\u5927\u795e\u30df\u30aa\uff09",
-            "artist_kana": "\u30a4\u30ed\u30cf\u30cb\u30db\u30d8\u30c3\u30c8\u30a2\u30e4\u30d5\u30d6\u30df\u30b7\u30e9\u30ab\u30df\u30d5\u30d6\u30ad\u30ca\u30ad\u30ea\u30a2\u30e4\u30e1\u30aa\u30aa\u30ab\u30df\u30df\u30aa",
+            "artist": "\u3044\u308d\u306f\u306b\u307b\u3078\u3063\u3068 \u3042\u3084\u3075\u3076\u307f",
+            "artist_kana": "\u30a4\u30ed\u30cf\u30cb\u30db\u30d8\u30c3\u30c8\u30a2\u30e4\u30d5\u30d6\u30df",
             "disp_title": "\u304a\u306b\u3051\u3082\u3060\u3093\u3059",
-            "disp_artist": "\u3044\u308d\u306f\u306b\u307b\u3078\u3063\u3068 \u3042\u3084\u3075\u3076\u307f\uff08\u767d\u4e0a\u30d5\u30d6\u30ad\u3001\u767e\u9b3c\u3042\u3084\u3081\u3001\u5927\u795e\u30df\u30aa\uff09",
+            "disp_artist": "\u3044\u308d\u306f\u306b\u307b\u3078\u3063\u3068 \u3042\u3084\u3075\u3076\u307f",
             "genre": [
                 5
             ],
