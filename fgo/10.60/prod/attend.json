@@ -809,6 +809,42 @@
             "sub_id_1": -1,
             "sub_id_0": -1,
             "priority": 3
+        },
+        {
+            "banner_kind": 101,
+            "banner_extend_info_id": 46,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": -1,
+            "priority": 3
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 50,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 52,
+            "priority": 0
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 51,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 52,
+            "priority": 0
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 52,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 52,
+            "priority": 0
         }
     ],
     "costume_news_url": "",
@@ -947,9 +983,41 @@
             "data_type": 0,
             "end_time": "2023-03-16T10:00:00+09:00",
             "message": "<CAMPAIGN_EMPHASIS>鈴鹿御前〔サンタ〕強化時の獲得経験値２倍！<DEFAULT_COLOR>"
+        },
+        {
+            "start_time": "2023-02-22T07:00:00+09:00",
+            "banner_extend_info_id": 46,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-03-16T07:00:00+09:00",
+            "message": "連勝ボーナス実施中！"
+        },
+        {
+            "start_time": "2023-02-22T10:00:00+09:00",
+            "banner_extend_info_id": 50,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-03-16T10:00:00+09:00",
+            "message": "新たな「雑念退治」クエスト登場！"
+        },
+        {
+            "start_time": "2023-02-22T10:00:00+09:00",
+            "banner_extend_info_id": 51,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-03-16T10:00:00+09:00",
+            "message": "イベントアイテム交換にアイテム追加！"
+        },
+        {
+            "start_time": "2023-02-22T10:00:00+09:00",
+            "banner_extend_info_id": 52,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-03-16T10:00:00+09:00",
+            "message": "イベントミッションが開放！"
         }
     ],
-    "atnd_lut": "2023-02-20T04:10:02+09:00",
+    "atnd_lut": "2023-02-21T04:10:02+09:00",
     "menu_button_extend_info_list": [
         {
             "start_time": "2022-12-15T10:00:00+09:00",
