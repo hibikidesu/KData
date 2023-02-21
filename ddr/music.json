@@ -15545,6 +15545,22 @@
         "stage": 16
     },
     {
+        "mcode": 38536,
+        "basename": "sect",
+        "title": "Sector",
+        "title_sort": "sector",
+        "artist": "RYOQUCHA",
+        "bpmmax": 160,
+        "bpmmin": 80,
+        "level_str": "5 8 12 16 0 0 8 12 16 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 15
+    },
+    {
         "mcode": 38538,
         "basename": "rena2",
         "title": "\u604b\u611b\u89b3\u6e2c -2021\u771f\u590f\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0 ver.-",
