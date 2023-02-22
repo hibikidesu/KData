@@ -516,6 +516,11 @@
             "category": 7
         },
         {
+            "albumID": 4036,
+            "title": "GITADORA FUZZ-UP",
+            "category": 7
+        },
+        {
             "albumID": 5000,
             "title": "NOSTALGIA ORIGINAL SOUNDTRACK",
             "category": 8
@@ -20771,6 +20776,38 @@
             "openType": 1
         },
         {
+            "gid": "bm_064_0041",
+            "albumID": 1035,
+            "trackNo": 41,
+            "title": "楽園追放",
+            "artist": "中山真斗 feat. CHAN",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0042",
+            "albumID": 1035,
+            "trackNo": 42,
+            "title": "ちょえちょえまぎか",
+            "artist": "Pizuya's Cell",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0043",
+            "albumID": 1035,
+            "trackNo": 43,
+            "title": "ONE AND ONLY",
+            "artist": "Yuta Imai",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0044",
+            "albumID": 1035,
+            "trackNo": 44,
+            "title": "Super Freak",
+            "artist": "Hommarju",
+            "openType": 1
+        },
+        {
             "gid": "bs_001_0001",
             "albumID": 8000,
             "trackNo": 1,
@@ -22224,6 +22261,22 @@
             "trackNo": 168,
             "title": "音楽 (STARDOM Remix)",
             "artist": "cosMo＠暴走P",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0169",
+            "albumID": 3000,
+            "trackNo": 169,
+            "title": "Tropical Juice",
+            "artist": "NATSUMI",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0170",
+            "albumID": 3000,
+            "trackNo": 170,
+            "title": "Linkage",
+            "artist": "DJ WILDPARTY feat. Yosumi",
             "openType": 1
         },
         {
@@ -36744,6 +36797,182 @@
             "trackNo": 55,
             "title": "VOLAQUAS -GITADO ROCK ver.-",
             "artist": "BEMANI Sound Team \"DJ TOTTO VS 兎々\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0001",
+            "albumID": 4036,
+            "trackNo": 1,
+            "title": "Black Apple",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0002",
+            "albumID": 4036,
+            "trackNo": 2,
+            "title": "空に触れる",
+            "artist": "BEMANI Sound Team \"あさき\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0003",
+            "albumID": 4036,
+            "trackNo": 3,
+            "title": "パレットナイトフロウ",
+            "artist": "駄々子",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0004",
+            "albumID": 4036,
+            "trackNo": 4,
+            "title": "血塗られたかくれんぼ",
+            "artist": "犬神凶子＆BEMANI Sound Team \"劇団レコード\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0005",
+            "albumID": 4036,
+            "trackNo": 5,
+            "title": "ロマンティックのかけら",
+            "artist": "AiLi",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0006",
+            "albumID": 4036,
+            "trackNo": 6,
+            "title": "GLACIER EXPRESS",
+            "artist": "山本真央樹",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0007",
+            "albumID": 4036,
+            "trackNo": 7,
+            "title": "Sugar Holic Candy Magic",
+            "artist": "かゆき+うぐ",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0008",
+            "albumID": 4036,
+            "trackNo": 8,
+            "title": "レジスタンス",
+            "artist": "OSTER project feat. かなたん",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0009",
+            "albumID": 4036,
+            "trackNo": 9,
+            "title": "Beep Beep Inside",
+            "artist": "ino.",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0010",
+            "albumID": 4036,
+            "trackNo": 10,
+            "title": "MY ENDING",
+            "artist": "あべち feat.スーパージン",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0011",
+            "albumID": 4036,
+            "trackNo": 11,
+            "title": "FOR YOUR BRAVE!!",
+            "artist": "Maro feat.藤城 リエ",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0012",
+            "albumID": 4036,
+            "trackNo": 12,
+            "title": "テレキミ",
+            "artist": "SHIN feat.TeamMiA",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0013",
+            "albumID": 4036,
+            "trackNo": 13,
+            "title": "WONDER",
+            "artist": "MiA feat.綾野ましろ",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0014",
+            "albumID": 4036,
+            "trackNo": 14,
+            "title": "Break Of Day",
+            "artist": "good-cool ft. Pete Klassen",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0015",
+            "albumID": 4036,
+            "trackNo": 15,
+            "title": "FUZZ-UP",
+            "artist": "BEMANI Sound Team \"Yvya\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0016",
+            "albumID": 4036,
+            "trackNo": 16,
+            "title": "Q転直下",
+            "artist": "Masahiro \"Godspeed\" Aoki",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0017",
+            "albumID": 4036,
+            "trackNo": 17,
+            "title": "ENCOUNT",
+            "artist": "RENO feat.ピコ",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0018",
+            "albumID": 4036,
+            "trackNo": 18,
+            "title": "GLOW DOMINATE THE DARKNESS",
+            "artist": "SOUND HOLIC Vs. T.Kakuta feat. Nana Takahashi",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0019",
+            "albumID": 4036,
+            "trackNo": 19,
+            "title": "シュボレアちゃん星の交信",
+            "artist": "工藤吉三（ベイシスケイプ）",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0020",
+            "albumID": 4036,
+            "trackNo": 20,
+            "title": "What's up?",
+            "artist": "ひまわり＊パンチ",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0021",
+            "albumID": 4036,
+            "trackNo": 21,
+            "title": "恋はToxic! feat.Lilymone",
+            "artist": "Mitsuyo",
+            "openType": 1
+        },
+        {
+            "gid": "gd_053_0022",
+            "albumID": 4036,
+            "trackNo": 22,
+            "title": "Behind the song of stars",
+            "artist": "かゆき",
             "openType": 1
         },
         {
@@ -58107,6 +58336,46 @@
             "openType": 1
         },
         {
+            "gid": "pm_061_0013",
+            "albumID": 2029,
+            "trackNo": 13,
+            "title": "ホムンクルスレシピ",
+            "artist": "アマギセーラ",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0014",
+            "albumID": 2029,
+            "trackNo": 14,
+            "title": "脳ミソ de 向上",
+            "artist": "豚乙女",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0015",
+            "albumID": 2029,
+            "trackNo": 15,
+            "title": "HAGURUMA",
+            "artist": "School",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0016",
+            "albumID": 2029,
+            "trackNo": 16,
+            "title": "東京メモリー",
+            "artist": "暁(from My Complex of Academy)",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0017",
+            "albumID": 2029,
+            "trackNo": 17,
+            "title": "明滅の果てに",
+            "artist": "ELFENSJoN",
+            "openType": 1
+        },
+        {
             "gid": "rb_001_0001",
             "albumID": 7000,
             "trackNo": 1,
@@ -65851,6 +66120,78 @@
             "openType": 1
         },
         {
+            "gid": "dr_018_0049",
+            "albumID": 12010,
+            "trackNo": 49,
+            "title": "little steps",
+            "artist": "Freeman",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0050",
+            "albumID": 12010,
+            "trackNo": 50,
+            "title": "Such A Feeling",
+            "artist": "U1",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0051",
+            "albumID": 12010,
+            "trackNo": 51,
+            "title": "Be With You (Still Miss you)",
+            "artist": "nc ft. Eddie Kay",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0052",
+            "albumID": 12010,
+            "trackNo": 52,
+            "title": "On the Night of a Still Wind",
+            "artist": "Jena Rose",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0053",
+            "albumID": 12010,
+            "trackNo": 53,
+            "title": "Lose Your Sense",
+            "artist": "ZxNX",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0054",
+            "albumID": 12010,
+            "trackNo": 54,
+            "title": "TAKE ME HIGHER",
+            "artist": "DJ Shimamura",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0055",
+            "albumID": 12010,
+            "trackNo": 55,
+            "title": "Sector",
+            "artist": "RYOQUCHA",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0056",
+            "albumID": 12010,
+            "trackNo": 56,
+            "title": "Snow Garland Fairy",
+            "artist": "BEMANI Sound Team \"KE!JU\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0057",
+            "albumID": 12010,
+            "trackNo": 57,
+            "title": "みゅ、みゅ、Müllる",
+            "artist": "月乃 ＆ BEMANI Sound Team \"劇団レコード\"",
+            "openType": 1
+        },
+        {
             "gid": "sv_101_0001",
             "albumID": 13000,
             "trackNo": 1,
@@ -66560,6 +66901,14 @@
             "trackNo": 17,
             "title": "Shoot me down feat. 式部めぐり",
             "artist": "IOSYS TRAX",
+            "openType": 1
+        },
+        {
+            "gid": "da_001_0018",
+            "albumID": 14000,
+            "trackNo": 18,
+            "title": "Come aROUND",
+            "artist": "nora2r meets TRIΔNGLE",
             "openType": 1
         }
     ]
