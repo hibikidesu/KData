@@ -817,7 +817,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-02-24T04:10:18+09:00",
+    "last_cache_load_time": "2023-02-25T04:10:22+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-01-05T10:00:00+09:00",
@@ -860,134 +860,12 @@
         {
             "update_time": "2023-02-02T11:00:08+09:00",
             "score_ranking_id": 15,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 34730,
-                    "name": "とりから",
-                    "gw_rank": 20,
-                    "border_disp_rank": 500,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 61125,
-                    "name": "吾ももっと遊びたい",
-                    "gw_rank": 18,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 1084,
-                        "title_word_id_0": 29,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 13,
-                        "title_plate_id": 150
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 101465,
-                    "name": "四つ葉のくろーばー",
-                    "gw_rank": 23,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 357,
-                        "title_word_id_0": 1031,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 18,
-                        "title_plate_id": 16
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 162375,
-                    "name": "ガンダム　ルブリス",
-                    "gw_rank": 31,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 1064,
-                        "title_word_id_0": 1063,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 77
-                    }
-                }
-            ]
+            "border_data_list": []
         },
         {
             "update_time": "2023-01-19T11:00:11+09:00",
             "score_ranking_id": 16,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 22,
-                    "name": "リコリス",
-                    "gw_rank": 14,
-                    "border_disp_rank": 1200,
-                    "title_equip": {
-                        "title_word_id_1": 1079,
-                        "title_word_id_0": 250,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 60
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 49,
-                    "name": "もる",
-                    "gw_rank": 23,
-                    "border_disp_rank": 600,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 5,
-                    "name": "三式機械",
-                    "gw_rank": 23,
-                    "border_disp_rank": 2500,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 93
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 112,
-                    "name": "５Å",
-                    "gw_rank": 19,
-                    "border_disp_rank": 150,
-                    "title_equip": {
-                        "title_word_id_1": 1122,
-                        "title_word_id_0": 177,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 13,
-                        "title_plate_id": 29
-                    }
-                }
-            ]
+            "border_data_list": []
         },
         {
             "update_time": "2001-01-01T00:00:00+09:00",
