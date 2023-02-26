@@ -1,41 +1,41 @@
 [
     {
-        "recommended_id": 1033,
+        "recommended_id": 1034,
         "type": 1,
         "message": "",
         "reward_id": 101,
-        "start_date": "2023-02-26 00:00:00",
-        "end_date": "2023-02-26 23:59:59",
+        "start_date": "2023-02-27 00:00:00",
+        "end_date": "2023-02-27 23:59:59",
         "recommended_music_list": [
             {
                 "recommended_no": 2,
-                "music_id": 23018
+                "music_id": 15058
             },
             {
                 "recommended_no": 1,
-                "music_id": 28022
+                "music_id": 25048
             },
             {
                 "recommended_no": 0,
-                "music_id": 28079
+                "music_id": 26048
             }
         ]
     },
     {
-        "recommended_id": 5132,
+        "recommended_id": 5133,
         "type": 2,
-        "message": "ハードな楽曲を揃えました！",
+        "message": "オシャレな曲をセレクト♪",
         "reward_id": 0,
-        "start_date": "2023-02-20 00:00:00",
-        "end_date": "2023-02-26 23:59:59",
+        "start_date": "2023-02-27 00:00:00",
+        "end_date": "2023-03-05 23:59:59",
         "recommended_music_list": [
             {
                 "recommended_no": 1,
-                "music_id": 21063
+                "music_id": 16042
             },
             {
                 "recommended_no": 0,
-                "music_id": 27051
+                "music_id": 19048
             }
         ]
     }
