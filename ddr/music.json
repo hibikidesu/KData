@@ -6166,6 +6166,24 @@
         "stage": 4
     },
     {
+        "mcode": 37630,
+        "basename": "hlim",
+        "title": "HOT LIMIT",
+        "title_sort": "hotlimit",
+        "artist": "",
+        "bpmmax": 139,
+        "bpmmin": 139,
+        "level_str": "1 5 8 11 0 0 5 8 11 0",
+        "editable": false,
+        "is_konaste_music": true,
+        "is_streaming": true,
+        "seriesid": 1,
+        "ac_seriesid": 0,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 1
+    },
+    {
         "mcode": 37638,
         "basename": "goru",
         "title": "GOLD RUSH",
