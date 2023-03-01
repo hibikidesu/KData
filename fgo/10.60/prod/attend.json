@@ -845,6 +845,15 @@
             "sub_id_1": -1,
             "sub_id_0": 52,
             "priority": 0
+        },
+        {
+            "banner_kind": 101,
+            "banner_extend_info_id": 45,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": -1,
+            "priority": 2
         }
     ],
     "costume_news_url": "",
@@ -1015,9 +1024,17 @@
             "data_type": 0,
             "end_time": "2023-03-16T10:00:00+09:00",
             "message": "イベントミッションが開放！"
+        },
+        {
+            "start_time": "2023-03-02T10:00:00+09:00",
+            "banner_extend_info_id": 45,
+            "image_data_id": 27,
+            "data_type": 1,
+            "end_time": "2023-03-30T10:00:00+09:00",
+            "message": ""
         }
     ],
-    "atnd_lut": "2023-02-28T04:10:02+09:00",
+    "atnd_lut": "2023-03-01T04:10:01+09:00",
     "menu_button_extend_info_list": [
         {
             "start_time": "2022-12-15T10:00:00+09:00",
