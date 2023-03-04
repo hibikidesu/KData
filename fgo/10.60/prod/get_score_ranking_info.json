@@ -817,7 +817,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-03-03T04:10:16+09:00",
+    "last_cache_load_time": "2023-03-04T04:10:24+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-01-05T10:00:00+09:00",
@@ -868,103 +868,103 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-03-03T04:00:04+09:00",
+            "update_time": "2023-03-04T04:00:05+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 1280,
-                    "name": "ハベトロイド",
-                    "gw_rank": 13,
+                    "score": 3265,
+                    "name": "ケイ◎下手でごめん",
+                    "gw_rank": 22,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 36,
-                        "title_word_id_0": 0,
+                        "title_word_id_1": 296,
+                        "title_word_id_0": 47,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 57,
+                        "title_plate_id": 222
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 6830,
+                    "name": "ゆずりは",
+                    "gw_rank": 21,
+                    "border_disp_rank": 200,
+                    "title_equip": {
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 1451,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 25
+                        "title_plate_id": 323
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 4000,
-                    "name": "しゃらしゃーしか",
-                    "gw_rank": 16,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 5,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 17,
-                        "title_plate_id": 225
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 8545,
-                    "name": "空き缶",
-                    "gw_rank": 19,
+                    "score": 12530,
+                    "name": "アルバス・ダンブルドア",
+                    "gw_rank": 25,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 17,
+                        "title_word_id_0": 82,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 5,
+                        "title_plate_id": 362
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 13830,
-                    "name": "ＦＹＫ＠太ももｆｇｏａｃ",
-                    "gw_rank": 24,
+                    "score": 20955,
+                    "name": "Rsion",
+                    "gw_rank": 26,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 2649,
+                        "title_word_id_0": 2286,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 67
+                        "title_word_id_2": 2086,
+                        "title_plate_id": 77
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-03-03T04:00:06+09:00",
+            "update_time": "2023-03-04T04:00:08+09:00",
             "score_ranking_id": 18,
             "border_data_list": [
                 {
-                    "exist": 0,
-                    "score": -1,
-                    "name": "",
-                    "gw_rank": -1,
+                    "exist": 1,
+                    "score": 1,
+                    "name": "ヴァイス",
+                    "gw_rank": 8,
                     "border_disp_rank": 1200,
                     "title_equip": {
-                        "title_word_id_1": -1,
-                        "title_word_id_0": -1,
-                        "title_integrated_id": -1,
-                        "title_disp_type": -1,
-                        "title_word_id_2": -1,
-                        "title_plate_id": -1
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 2,
-                    "name": "理",
-                    "gw_rank": 10,
-                    "border_disp_rank": 600,
-                    "title_equip": {
                         "title_word_id_1": 7,
-                        "title_word_id_0": 113,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
                         "title_plate_id": 25
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 6,
+                    "name": "ドンキーコング",
+                    "gw_rank": 21,
+                    "border_disp_rank": 600,
+                    "title_equip": {
+                        "title_word_id_1": 1624,
+                        "title_word_id_0": 682,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 222
                     }
                 },
                 {
@@ -984,17 +984,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 12,
-                    "name": "Ｎuｊaｂeｓ",
+                    "score": 20,
+                    "name": "テラ",
                     "gw_rank": 21,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 268,
+                        "title_word_id_0": 0,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 60
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
                     }
                 }
             ]
