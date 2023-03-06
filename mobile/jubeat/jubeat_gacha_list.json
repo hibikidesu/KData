@@ -98,39 +98,6 @@
         "sort_id": 2
     },
     {
-        "gacha_id": 76,
-        "gacha_type": 1,
-        "name": "jubeat\uff08\u30e6\u30d3\u30fc\u30c8\uff09",
-        "disp_name": "jubeat\uff08\u30e6\u30d3\u30fc\u30c8\uff09",
-        "comment": "",
-        "new_flag": 1,
-        "gacha_item_num": 4,
-        "limit_type": 0,
-        "limit_num": 0,
-        "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/76_jacket.png",
-        "gacha_big_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/76_jacket.png",
-        "accessibility": 1,
-        "price_type": [
-            1
-        ],
-        "gacha_1_price": 1000,
-        "gacha_10_price": 10000,
-        "gacha_1_flg": 1,
-        "gacha_10_flg": 1,
-        "music_list": [
-            100060195,
-            100060196,
-            100060197,
-            100060198
-        ],
-        "extra_time_type": 0,
-        "start_time": 1657069200,
-        "end_time": 5711734800,
-        "playable_date": 0,
-        "10_disp_flg": 1,
-        "sort_id": 2
-    },
-    {
         "gacha_id": 68,
         "gacha_type": 1,
         "name": "SOUND VOLTEX",
@@ -2478,6 +2445,39 @@
         "sort_id": 59
     },
     {
+        "gacha_id": 76,
+        "gacha_type": 1,
+        "name": "jubeat\uff08\u30e6\u30d3\u30fc\u30c8\uff09",
+        "disp_name": "jubeat\uff08\u30e6\u30d3\u30fc\u30c8\uff09",
+        "comment": "",
+        "new_flag": 1,
+        "gacha_item_num": 4,
+        "limit_type": 0,
+        "limit_num": 0,
+        "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/76_jacket.png",
+        "gacha_big_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/76_jacket.png",
+        "accessibility": 1,
+        "price_type": [
+            1
+        ],
+        "gacha_1_price": 1000,
+        "gacha_10_price": 10000,
+        "gacha_1_flg": 1,
+        "gacha_10_flg": 1,
+        "music_list": [
+            100060195,
+            100060196,
+            100060197,
+            100060198
+        ],
+        "extra_time_type": 0,
+        "start_time": 1657069200,
+        "end_time": 5711734800,
+        "playable_date": 0,
+        "10_disp_flg": 1,
+        "sort_id": 60
+    },
+    {
         "gacha_id": 10,
         "gacha_type": 1,
         "name": "jubeat festo",
@@ -2632,7 +2632,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 60
+        "sort_id": 61
     },
     {
         "gacha_id": 9,
@@ -2719,7 +2719,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 61
+        "sort_id": 62
     },
     {
         "gacha_id": 8,
@@ -2826,7 +2826,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 62
+        "sort_id": 63
     },
     {
         "gacha_id": 7,
@@ -2890,7 +2890,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 63
+        "sort_id": 64
     },
     {
         "gacha_id": 6,
@@ -2963,7 +2963,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 64
+        "sort_id": 65
     },
     {
         "gacha_id": 5,
@@ -3159,7 +3159,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 65
+        "sort_id": 66
     },
     {
         "gacha_id": 4,
@@ -3223,7 +3223,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 66
+        "sort_id": 67
     },
     {
         "gacha_id": 3,
@@ -3275,7 +3275,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 67
+        "sort_id": 68
     },
     {
         "gacha_id": 2,
@@ -3325,7 +3325,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 68
+        "sort_id": 69
     },
     {
         "gacha_id": 1,
@@ -3374,6 +3374,6 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 69
+        "sort_id": 70
     }
 ]

@@ -3172,7 +3172,7 @@
                 },
                 {
                     "music_id": 130005,
-                    "music_title": "Milchstrase",
+                    "music_title": "Milchstra\u00dfe",
                     "disp_music_title": "Milchstra<sprite name=\"Eszett\">e",
                     "music_title_kana": "\u30df\u30eb\u30d2\u30b7\u30e5\u30c8\u30e9\u30a2\u30bb",
                     "artist": "Buluka & Nilo",
@@ -3678,7 +3678,7 @@
                 },
                 {
                     "music_id": 140023,
-                    "music_title": "Chloe",
+                    "music_title": "Chlo\u00e9",
                     "disp_music_title": "Chlo<sprite name=\"eacute\">",
                     "music_title_kana": "\u30af\u30ed\u30a8",
                     "artist": "DJ Totoriott",
@@ -5810,8 +5810,8 @@
                     "music_title": "\u592a\u967d\u306e\u6ef4",
                     "disp_music_title": "\u592a\u967d\u306e\u6ef4",
                     "music_title_kana": "\u30bf\u30a4\u30e8\u30a6\u30ce\u30b7\u30ba\u30af",
-                    "artist": "CANVAS feat. Quimar",
-                    "disp_artist": "CANVAS feat. Quimar",
+                    "artist": "CANVAS feat. Quim\u00e4r",
+                    "disp_artist": "CANVAS feat. Quim<sprite name=\"auml\">r",
                     "artist_kana": "\u30ad\u30e3\u30f3\u30d0\u30b9\u30d5\u30a3\u30fc\u30c1\u30e3\u30ea\u30f3\u30b0\u30ad\u30e1\u30e9",
                     "genre": 0,
                     "sound": "Konami/AssetBundles/Album/MusicPlayer/Audio/180054.bytes",
