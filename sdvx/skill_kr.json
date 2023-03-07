@@ -399,8 +399,8 @@
         "skill_level": 5,
         "skill_name_id": 5,
         "matching_assist": true,
-        "clear_rate": 5925,
-        "avg_score": 23222384,
+        "clear_rate": 6000,
+        "avg_score": 23322490,
         "tracks": [
             {
                 "track_no": 0,
@@ -430,7 +430,7 @@
         "skill_name_id": 5,
         "matching_assist": true,
         "clear_rate": 10000,
-        "avg_score": 28364112,
+        "avg_score": 28226996,
         "tracks": [
             {
                 "track_no": 0,
