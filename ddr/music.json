@@ -16182,5 +16182,23 @@
         "limited_cha": 1,
         "eventno_1": 67,
         "stage": 5
+    },
+    {
+        "mcode": 38584,
+        "basename": "phlo",
+        "title": "Phlox",
+        "title_sort": "phlox",
+        "artist": "Sota Fujimori 2nd Season",
+        "bpmmax": 185,
+        "bpmmin": 185,
+        "level_str": "4 7 11 15 0 0 7 11 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "bemaniflag": 264,
+        "movie": 1,
+        "stage": 5
     }
 ]
