@@ -1,5 +1,15 @@
 [
     {
+        "id": 195,
+        "category": 5,
+        "title": "メンテナンスのお知らせ",
+        "start_date": "2023-03-10 17:30:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_mainte.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/2023031000_maintenance_info.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
         "id": 194,
         "category": 2,
         "title": "jubeat festo アルバムに楽曲追加！",
