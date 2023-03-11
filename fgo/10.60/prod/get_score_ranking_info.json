@@ -817,7 +817,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-03-11T04:10:25+09:00",
+    "last_cache_load_time": "2023-03-12T04:10:21+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-01-05T10:00:00+09:00",
@@ -868,57 +868,57 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-03-11T04:00:08+09:00",
+            "update_time": "2023-03-12T04:00:09+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 14505,
-                    "name": "アリシア［オルタ］",
-                    "gw_rank": 24,
+                    "score": 17415,
+                    "name": "藤丸 立香",
+                    "gw_rank": 21,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 53,
-                        "title_word_id_0": 419,
+                        "title_word_id_1": 2619,
+                        "title_word_id_0": 239,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 211,
+                        "title_word_id_2": 2265,
+                        "title_plate_id": 218
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 28195,
+                    "name": "ろい",
+                    "gw_rank": 20,
+                    "border_disp_rank": 200,
+                    "title_equip": {
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2,
                         "title_plate_id": 258
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 24475,
-                    "name": "立香精フジマル",
-                    "gw_rank": 21,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 48,
-                        "title_word_id_0": 258,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 258,
-                        "title_plate_id": 24
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 41270,
-                    "name": "クリプター　ムニエル",
-                    "gw_rank": 21,
+                    "score": 45205,
+                    "name": "脊髄反射・島津ホグワーツ",
+                    "gw_rank": 25,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 483,
-                        "title_word_id_0": 59,
+                        "title_word_id_1": 2466,
+                        "title_word_id_0": 0,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1215,
-                        "title_plate_id": 8
+                        "title_word_id_2": 0,
+                        "title_plate_id": 230
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 63275,
+                    "score": 65475,
                     "name": "crimson gale",
                     "gw_rank": 25,
                     "border_disp_rank": 10,
@@ -934,45 +934,60 @@
             ]
         },
         {
-            "update_time": "2023-03-11T04:00:13+09:00",
+            "update_time": "2023-03-12T04:00:13+09:00",
             "score_ranking_id": 18,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 16,
-                    "name": "最強御坂ゾーン",
-                    "gw_rank": 20,
+                    "score": 20,
+                    "name": "りなまるおるた",
+                    "gw_rank": 19,
                     "border_disp_rank": 1200,
                     "title_equip": {
-                        "title_word_id_1": 227,
-                        "title_word_id_0": 0,
+                        "title_word_id_1": 8,
+                        "title_word_id_0": 1578,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 79,
-                        "title_plate_id": 52
+                        "title_word_id_2": 28,
+                        "title_plate_id": 62
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 34,
-                    "name": "感度３０００倍",
-                    "gw_rank": 20,
+                    "score": 41,
+                    "name": "空白　カーマガチ恋勢",
+                    "gw_rank": 19,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 4,
-                        "title_word_id_0": 770,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 20,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 312,
+                        "title_word_id_2": 2753,
+                        "title_plate_id": 363
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 4,
+                    "name": "生きた化石",
+                    "gw_rank": 19,
+                    "border_disp_rank": 2500,
+                    "title_equip": {
+                        "title_word_id_1": 10,
+                        "title_word_id_0": 312,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 38,
                         "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 3,
-                    "name": "じら",
-                    "gw_rank": 9,
-                    "border_disp_rank": 2500,
+                    "score": 82,
+                    "name": "まりお",
+                    "gw_rank": 21,
+                    "border_disp_rank": 150,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
@@ -980,21 +995,6 @@
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
                         "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 73,
-                    "name": "てのり大河～☆",
-                    "gw_rank": 18,
-                    "border_disp_rank": 150,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 2111,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 662,
-                        "title_plate_id": 69
                     }
                 }
             ]
