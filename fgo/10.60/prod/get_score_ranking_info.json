@@ -817,7 +817,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-03-13T14:40:52+09:00",
+    "last_cache_load_time": "2023-03-14T04:10:15+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-01-05T10:00:00+09:00",
@@ -868,103 +868,103 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-03-13T14:00:07+09:00",
+            "update_time": "2023-03-14T04:00:13+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 19540,
-                    "name": "雑穀",
-                    "gw_rank": 18,
+                    "score": 20220,
+                    "name": "ナポレオンの股下３０ｍ",
+                    "gw_rank": 20,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 973,
-                        "title_word_id_0": 2174,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 2360,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2336,
+                        "title_word_id_2": 2519,
+                        "title_plate_id": 214
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 33775,
+                    "name": "ぴよりん",
+                    "gw_rank": 28,
+                    "border_disp_rank": 200,
+                    "title_equip": {
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 11,
+                        "title_disp_type": 2,
+                        "title_word_id_2": 0,
                         "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 32485,
-                    "name": "ヒノ！！",
-                    "gw_rank": 21,
-                    "border_disp_rank": 200,
+                    "score": 54450,
+                    "name": "モノリス",
+                    "gw_rank": 22,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 5,
+                        "title_word_id_0": 171,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 367,
+                        "title_plate_id": 5
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 77300,
+                    "name": "真・英雄王ずらマル",
+                    "gw_rank": 26,
+                    "border_disp_rank": 10,
+                    "title_equip": {
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 23,
+                        "title_disp_type": 2,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
+                    }
+                }
+            ]
+        },
+        {
+            "update_time": "2023-03-14T04:00:17+09:00",
+            "score_ranking_id": 18,
+            "border_data_list": [
+                {
+                    "exist": 1,
+                    "score": 24,
+                    "name": "藤丸 立香",
+                    "gw_rank": 22,
+                    "border_disp_rank": 1200,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_plate_id": 63
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 52955,
-                    "name": "Ｈｅａｒｔ",
-                    "gw_rank": 25,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 579,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1667,
-                        "title_plate_id": 72
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 73155,
-                    "name": "シュン",
-                    "gw_rank": 21,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 312,
-                        "title_word_id_0": 2370,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2369,
-                        "title_plate_id": 323
-                    }
-                }
-            ]
-        },
-        {
-            "update_time": "2023-03-13T14:00:11+09:00",
-            "score_ranking_id": 18,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 23,
-                    "name": "やっぱりアキ",
+                    "score": 49,
+                    "name": "カナシミノハテニ",
                     "gw_rank": 20,
-                    "border_disp_rank": 1200,
-                    "title_equip": {
-                        "title_word_id_1": 4,
-                        "title_word_id_0": 268,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 268,
-                        "title_plate_id": 8
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 47,
-                    "name": "サンシャン",
-                    "gw_rank": 18,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 2127,
+                        "title_word_id_1": 396,
+                        "title_word_id_0": 955,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 74
+                        "title_word_id_2": 1717,
+                        "title_plate_id": 65
                     }
                 },
                 {
@@ -984,17 +984,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 97,
-                    "name": "スリザリンが嫌なら薩摩藩",
-                    "gw_rank": 25,
+                    "score": 100,
+                    "name": "ゼロ",
+                    "gw_rank": 18,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 1187,
-                        "title_word_id_0": 701,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 36,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1048,
-                        "title_plate_id": 95
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 }
             ]
