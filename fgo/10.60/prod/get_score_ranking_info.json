@@ -817,7 +817,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-03-14T04:10:15+09:00",
+    "last_cache_load_time": "2023-03-15T04:10:16+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-01-05T10:00:00+09:00",
@@ -868,34 +868,34 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-03-14T04:00:13+09:00",
+            "update_time": "2023-03-15T04:00:09+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 20220,
-                    "name": "ナポレオンの股下３０ｍ",
-                    "gw_rank": 20,
+                    "score": 21260,
+                    "name": "群青",
+                    "gw_rank": 17,
                     "border_disp_rank": 500,
                     "title_equip": {
                         "title_word_id_1": 7,
-                        "title_word_id_0": 2360,
+                        "title_word_id_0": 2592,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2519,
-                        "title_plate_id": 214
+                        "title_word_id_2": 97,
+                        "title_plate_id": 357
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 33775,
-                    "name": "ぴよりん",
-                    "gw_rank": 28,
+                    "score": 35545,
+                    "name": "タムタムさん",
+                    "gw_rank": 24,
                     "border_disp_rank": 200,
                     "title_equip": {
                         "title_word_id_1": 0,
                         "title_word_id_0": 0,
-                        "title_integrated_id": 11,
+                        "title_integrated_id": 38,
                         "title_disp_type": 2,
                         "title_word_id_2": 0,
                         "title_plate_id": 25
@@ -903,98 +903,98 @@
                 },
                 {
                     "exist": 1,
-                    "score": 54450,
-                    "name": "モノリス",
+                    "score": 56495,
+                    "name": "カオスヘッド",
                     "gw_rank": 22,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 5,
-                        "title_word_id_0": 171,
+                        "title_word_id_1": 258,
+                        "title_word_id_0": 2212,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 367,
-                        "title_plate_id": 5
+                        "title_word_id_2": 0,
+                        "title_plate_id": 76
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 77300,
-                    "name": "真・英雄王ずらマル",
+                    "score": 79420,
+                    "name": "グルコサミン菌",
                     "gw_rank": 26,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 23,
-                        "title_disp_type": 2,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 67,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 96,
+                        "title_plate_id": 34
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-03-14T04:00:17+09:00",
+            "update_time": "2023-03-15T04:00:13+09:00",
             "score_ranking_id": 18,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 24,
-                    "name": "藤丸 立香",
-                    "gw_rank": 22,
+                    "score": 25,
+                    "name": "運命両断剣",
+                    "gw_rank": 18,
                     "border_disp_rank": 1200,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 228,
+                        "title_word_id_0": 1506,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 63
+                        "title_word_id_2": 40,
+                        "title_plate_id": 229
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 49,
-                    "name": "カナシミノハテニ",
-                    "gw_rank": 20,
+                    "score": 52,
+                    "name": "リラックマ量産型",
+                    "gw_rank": 18,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 396,
-                        "title_word_id_0": 955,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 65,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1717,
-                        "title_plate_id": 65
+                        "title_word_id_2": 475,
+                        "title_plate_id": 72
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 5,
-                    "name": "ちょれぼっくり",
+                    "score": 6,
+                    "name": "鮮血滴る血肉",
                     "gw_rank": 19,
                     "border_disp_rank": 2500,
                     "title_equip": {
-                        "title_word_id_1": 12,
-                        "title_word_id_0": 33,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 204,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2242,
-                        "title_plate_id": 199
+                        "title_word_id_2": 0,
+                        "title_plate_id": 348
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 100,
-                    "name": "ゼロ",
-                    "gw_rank": 18,
+                    "score": 107,
+                    "name": "ユメ",
+                    "gw_rank": 22,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 36,
+                        "title_word_id_1": 468,
+                        "title_word_id_0": 682,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 189,
+                        "title_plate_id": 50
                     }
                 }
             ]
