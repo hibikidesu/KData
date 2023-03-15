@@ -976,6 +976,11 @@
             "category": 3
         },
         {
+            "albumID": 12013,
+            "title": "DanceDanceRevolution X2 Original Soundtrack",
+            "category": 3
+        },
+        {
             "albumID": 13000,
             "title": "SOUND VOLTEX ULTIMATE TRACKS Dimension Gates Ω -Phase.1-",
             "category": 4
@@ -65157,6 +65162,222 @@
             "trackNo": 36,
             "title": "on the bounce",
             "artist": "neuras",
+            "openType": 1
+        },
+        {
+            "gid": "dr_011_0037",
+            "albumID": 12012,
+            "trackNo": 37,
+            "title": "Trigger",
+            "artist": "sonic-coll.",
+            "openType": 1
+        },
+        {
+            "gid": "dr_011_0038",
+            "albumID": 12012,
+            "trackNo": 38,
+            "title": "Dance Floor",
+            "artist": "neuras feat. Yurai",
+            "openType": 1
+        },
+        {
+            "gid": "dr_011_0039",
+            "albumID": 12012,
+            "trackNo": 39,
+            "title": "凛として咲く花の如く",
+            "artist": "紅色リトマス",
+            "openType": 1
+        },
+        {
+            "gid": "dr_011_0040",
+            "albumID": 12012,
+            "trackNo": 40,
+            "title": "零 - ZERO -",
+            "artist": "ＴЁЯＲＡ",
+            "openType": 1
+        },
+        {
+            "gid": "dr_011_0041",
+            "albumID": 12012,
+            "trackNo": 41,
+            "title": "Blue Rain",
+            "artist": "dj TAKA VS Ryu☆",
+            "openType": 1
+        },
+        {
+            "gid": "dr_011_0042",
+            "albumID": 12012,
+            "trackNo": 42,
+            "title": "Chance and Dice",
+            "artist": "日本少年",
+            "openType": 1
+        },
+        {
+            "gid": "dr_011_0043",
+            "albumID": 12012,
+            "trackNo": 43,
+            "title": "PARANOiA(X-Special)",
+            "artist": "180",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0044",
+            "albumID": 12012,
+            "trackNo": 44,
+            "title": "TRIP MACHINE(X-Special)",
+            "artist": "DE-SIRE",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0045",
+            "albumID": 12012,
+            "trackNo": 45,
+            "title": "PARANOiA MAX～DIRTY MIX～(X-Special)",
+            "artist": "190",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0046",
+            "albumID": 12012,
+            "trackNo": 46,
+            "title": "SP-TRIP MACHINE～JUNGLE MIX～(X-Special)",
+            "artist": "DE-SIRE",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0047",
+            "albumID": 12012,
+            "trackNo": 47,
+            "title": "PARANOiA Rebirth(X-Special)",
+            "artist": "190'",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0048",
+            "albumID": 12012,
+            "trackNo": 48,
+            "title": "AFRONOVA(X-Special)",
+            "artist": "RE-VENGE",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0049",
+            "albumID": 12012,
+            "trackNo": 49,
+            "title": "PARANOIA EVOLUTION(X-Special)",
+            "artist": "200",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0050",
+            "albumID": 12012,
+            "trackNo": 50,
+            "title": "TRIP MACHINE CLIMAX(X-Special)",
+            "artist": "DE-SIRE",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0051",
+            "albumID": 12012,
+            "trackNo": 51,
+            "title": "PARANOiA ETERNAL(X-Special)",
+            "artist": "STM 200",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0052",
+            "albumID": 12012,
+            "trackNo": 52,
+            "title": "Healing Vision(X-Special)",
+            "artist": "DE-SIRE",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0053",
+            "albumID": 12012,
+            "trackNo": 53,
+            "title": "CANDY☆(X-Special)",
+            "artist": "Luv UNLIMITED",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0054",
+            "albumID": 12012,
+            "trackNo": 54,
+            "title": "MAX 300(X-Special)",
+            "artist": "Ω",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0055",
+            "albumID": 12012,
+            "trackNo": 55,
+            "title": "MAXX UNLIMITED(X-Special)",
+            "artist": "Z",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0056",
+            "albumID": 12012,
+            "trackNo": 56,
+            "title": "革命(X-Special)",
+            "artist": "dj TAKA with NAOKI",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0057",
+            "albumID": 12012,
+            "trackNo": 57,
+            "title": "The legend of MAX(X-Special)",
+            "artist": "ZZ",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0058",
+            "albumID": 12012,
+            "trackNo": 58,
+            "title": "DanceDanceRevolution(X-Special)",
+            "artist": "DDR ALL STARS",
+            "openType": 0
+        },
+        {
+            "gid": "dr_011_0059",
+            "albumID": 12012,
+            "trackNo": 42,
+            "title": "A Geisha's Dream",
+            "artist": "NAOKI feat. SMiLE.dk",
+            "openType": 1
+        },
+        {
+            "gid": "dr_012_0001",
+            "albumID": 12013,
+            "trackNo": 1,
+            "title": "Pluto The First",
+            "artist": "WHITE WALL",
+            "openType": 1
+        },
+        {
+            "gid": "dr_012_0002",
+            "albumID": 12013,
+            "trackNo": 2,
+            "title": "resonance",
+            "artist": "NAOKI-EX",
+            "openType": 0
+        },
+        {
+            "gid": "dr_012_0003",
+            "albumID": 12013,
+            "trackNo": 3,
+            "title": "in love wit you",
+            "artist": "Kotaro feat. Aya",
+            "openType": 1
+        },
+        {
+            "gid": "dr_012_0004",
+            "albumID": 12013,
+            "trackNo": 4,
+            "title": "real-high-SPEED",
+            "artist": "Makoto feat. SK",
             "openType": 1
         },
         {
