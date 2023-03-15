@@ -817,7 +817,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-03-15T04:10:16+09:00",
+    "last_cache_load_time": "2023-03-16T04:10:16+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-01-05T10:00:00+09:00",
@@ -868,103 +868,103 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-03-15T04:00:09+09:00",
+            "update_time": "2023-03-16T04:00:14+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 21260,
-                    "name": "群青",
-                    "gw_rank": 17,
+                    "score": 22075,
+                    "name": "翡翠",
+                    "gw_rank": 15,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 2592,
+                        "title_word_id_1": 1349,
+                        "title_word_id_0": 142,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 97,
-                        "title_plate_id": 357
+                        "title_word_id_2": 13,
+                        "title_plate_id": 360
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 35545,
-                    "name": "タムタムさん",
-                    "gw_rank": 24,
+                    "score": 36885,
+                    "name": "アイアムハヤスギル",
+                    "gw_rank": 19,
                     "border_disp_rank": 200,
                     "title_equip": {
+                        "title_word_id_1": 10,
+                        "title_word_id_0": 374,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2190,
+                        "title_plate_id": 79
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 58030,
+                    "name": "見るんじゃねえ",
+                    "gw_rank": 18,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 1787,
+                        "title_word_id_0": 339,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 14,
+                        "title_plate_id": 83
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 86970,
+                    "name": "Ｓｙｎｏ",
+                    "gw_rank": 25,
+                    "border_disp_rank": 10,
+                    "title_equip": {
+                        "title_word_id_1": 2576,
+                        "title_word_id_0": 140,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 99
+                    }
+                }
+            ]
+        },
+        {
+            "update_time": "2023-03-16T04:00:18+09:00",
+            "score_ranking_id": 18,
+            "border_data_list": [
+                {
+                    "exist": 1,
+                    "score": 26,
+                    "name": "オリヴィエ",
+                    "gw_rank": 23,
+                    "border_disp_rank": 1200,
+                    "title_equip": {
                         "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 38,
-                        "title_disp_type": 2,
+                        "title_word_id_0": 81,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
                         "title_word_id_2": 0,
                         "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 56495,
-                    "name": "カオスヘッド",
-                    "gw_rank": 22,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 258,
-                        "title_word_id_0": 2212,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 76
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 79420,
-                    "name": "グルコサミン菌",
-                    "gw_rank": 26,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 67,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 96,
-                        "title_plate_id": 34
-                    }
-                }
-            ]
-        },
-        {
-            "update_time": "2023-03-15T04:00:13+09:00",
-            "score_ranking_id": 18,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 25,
-                    "name": "運命両断剣",
-                    "gw_rank": 18,
-                    "border_disp_rank": 1200,
-                    "title_equip": {
-                        "title_word_id_1": 228,
-                        "title_word_id_0": 1506,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 40,
-                        "title_plate_id": 229
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 52,
-                    "name": "リラックマ量産型",
-                    "gw_rank": 18,
+                    "score": 54,
+                    "name": "戻ったり戻らなかったり",
+                    "gw_rank": 19,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 65,
+                        "title_word_id_1": 13,
+                        "title_word_id_0": 33,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 475,
-                        "title_plate_id": 72
+                        "title_word_id_2": 16,
+                        "title_plate_id": 25
                     }
                 },
                 {
@@ -984,17 +984,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 107,
-                    "name": "ユメ",
-                    "gw_rank": 22,
+                    "score": 114,
+                    "name": "ナハト",
+                    "gw_rank": 21,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 468,
-                        "title_word_id_0": 682,
+                        "title_word_id_1": 1499,
+                        "title_word_id_0": 239,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 189,
-                        "title_plate_id": 50
+                        "title_word_id_2": 1233,
+                        "title_plate_id": 29
                     }
                 }
             ]
