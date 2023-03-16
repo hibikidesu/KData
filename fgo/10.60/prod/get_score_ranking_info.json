@@ -817,7 +817,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-03-16T04:10:16+09:00",
+    "last_cache_load_time": "2023-03-17T04:10:15+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-01-05T10:00:00+09:00",
@@ -868,73 +868,73 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-03-16T04:00:14+09:00",
+            "update_time": "2023-03-17T04:00:09+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 22075,
-                    "name": "翡翠",
-                    "gw_rank": 15,
+                    "score": 22555,
+                    "name": "Ｉ　ａｍ　ａｔｏｍｉｃ",
+                    "gw_rank": 21,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 1349,
-                        "title_word_id_0": 142,
+                        "title_word_id_1": 1681,
+                        "title_word_id_0": 1682,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 13,
-                        "title_plate_id": 360
+                        "title_word_id_2": 1400,
+                        "title_plate_id": 175
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 36885,
-                    "name": "アイアムハヤスギル",
+                    "score": 37750,
+                    "name": "ｖｉｏｌａ",
                     "gw_rank": 19,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 10,
-                        "title_word_id_0": 374,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2190,
-                        "title_plate_id": 79
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 58030,
-                    "name": "見るんじゃねえ",
-                    "gw_rank": 18,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 1787,
-                        "title_word_id_0": 339,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 14,
-                        "title_plate_id": 83
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 86970,
-                    "name": "Ｓｙｎｏ",
-                    "gw_rank": 25,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 2576,
-                        "title_word_id_0": 140,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 2315,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 99
+                        "title_plate_id": 202
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 59600,
+                    "name": "柴崎芦花＠邪ンヌlove",
+                    "gw_rank": 29,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 715,
+                        "title_word_id_0": 1415,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 709,
+                        "title_plate_id": 75
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 93925,
+                    "name": "禿しい闘いになりそうだ",
+                    "gw_rank": 21,
+                    "border_disp_rank": 10,
+                    "title_equip": {
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 2541,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 363
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-03-16T04:00:18+09:00",
+            "update_time": "2023-03-16T11:00:11+09:00",
             "score_ranking_id": 18,
             "border_data_list": [
                 {
