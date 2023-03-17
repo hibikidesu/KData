@@ -817,7 +817,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-03-17T04:10:15+09:00",
+    "last_cache_load_time": "2023-03-18T04:10:21+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-01-05T10:00:00+09:00",
@@ -868,67 +868,67 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-03-17T04:00:09+09:00",
+            "update_time": "2023-03-18T04:00:11+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 22555,
-                    "name": "Ｉ　ａｍ　ａｔｏｍｉｃ",
+                    "score": 23660,
+                    "name": "カーマちゃんがんばる",
                     "gw_rank": 21,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 1681,
-                        "title_word_id_0": 1682,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1400,
-                        "title_plate_id": 175
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 37750,
-                    "name": "ｖｉｏｌａ",
-                    "gw_rank": 19,
+                    "score": 38895,
+                    "name": "久保帯人",
+                    "gw_rank": 23,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2315,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 202
+                        "title_word_id_2": 2,
+                        "title_plate_id": 27
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 59600,
-                    "name": "柴崎芦花＠邪ンヌlove",
-                    "gw_rank": 29,
+                    "score": 60785,
+                    "name": "rE:CRe@T0RS",
+                    "gw_rank": 26,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 715,
-                        "title_word_id_0": 1415,
+                        "title_word_id_1": 2337,
+                        "title_word_id_0": 1541,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 709,
-                        "title_plate_id": 75
+                        "title_word_id_2": 610,
+                        "title_plate_id": 123
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 93925,
-                    "name": "禿しい闘いになりそうだ",
-                    "gw_rank": 21,
+                    "score": 94580,
+                    "name": "フジ",
+                    "gw_rank": 24,
                     "border_disp_rank": 10,
                     "title_equip": {
                         "title_word_id_1": 0,
-                        "title_word_id_0": 2541,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 21,
+                        "title_disp_type": 2,
                         "title_word_id_2": 0,
-                        "title_plate_id": 363
+                        "title_plate_id": 25
                     }
                 }
             ]
