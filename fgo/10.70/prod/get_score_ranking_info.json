@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-03-20T04:10:44+09:00",
+    "last_cache_load_time": "2023-03-21T04:10:45+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -789,67 +789,67 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-03-20T04:00:15+09:00",
+            "update_time": "2023-03-21T04:00:11+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 27585,
-                    "name": "アーク",
+                    "score": 28695,
+                    "name": "Ｈika",
                     "gw_rank": 21,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 27,
-                        "title_word_id_0": 571,
+                        "title_word_id_1": 6,
+                        "title_word_id_0": 475,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 475,
-                        "title_plate_id": 25
+                        "title_word_id_2": 337,
+                        "title_plate_id": 72
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 45605,
-                    "name": "ウコンたれ蔵",
-                    "gw_rank": 21,
+                    "score": 47320,
+                    "name": "ガラムマサラが第七位",
+                    "gw_rank": 22,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 1830,
-                        "title_word_id_0": 1827,
+                        "title_word_id_1": 919,
+                        "title_word_id_0": 2437,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 38,
-                        "title_plate_id": 57
+                        "title_word_id_2": 0,
+                        "title_plate_id": 224
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 74045,
-                    "name": "Ｐｏｃｋｙ",
-                    "gw_rank": 25,
+                    "score": 77655,
+                    "name": "肥前忠広",
+                    "gw_rank": 23,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 1873,
-                        "title_word_id_0": 2101,
+                        "title_word_id_1": 1064,
+                        "title_word_id_0": 583,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 302,
-                        "title_plate_id": 185
+                        "title_word_id_2": 0,
+                        "title_plate_id": 1
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 114210,
-                    "name": "真・英雄王ずらマル",
-                    "gw_rank": 26,
+                    "score": 121300,
+                    "name": "狐滅隊頭領　ＪＩＪＩ",
+                    "gw_rank": 29,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 23,
-                        "title_disp_type": 2,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
+                        "title_word_id_1": 16,
+                        "title_word_id_0": 2520,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 1225,
+                        "title_plate_id": 159
                     }
                 }
             ]
@@ -921,45 +921,30 @@
             ]
         },
         {
-            "update_time": "2023-03-20T04:00:17+09:00",
+            "update_time": "2023-03-21T04:00:15+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 56660,
-                    "name": "ＯＧ",
-                    "gw_rank": 21,
+                    "score": 53360,
+                    "name": "鉄砕",
+                    "gw_rank": 16,
                     "border_disp_rank": 300,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 1559,
+                        "title_word_id_1": 392,
+                        "title_word_id_0": 1068,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 0,
-                    "score": -1,
-                    "name": "",
-                    "gw_rank": -1,
-                    "border_disp_rank": 3000,
-                    "title_equip": {
-                        "title_word_id_1": -1,
-                        "title_word_id_0": -1,
-                        "title_integrated_id": -1,
-                        "title_disp_type": -1,
-                        "title_word_id_2": -1,
-                        "title_plate_id": -1
+                        "title_plate_id": 73
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 89360,
-                    "name": "藤丸 立香",
-                    "gw_rank": 19,
-                    "border_disp_rank": 1000,
+                    "score": 216610,
+                    "name": "＊＊＊＊",
+                    "gw_rank": 10,
+                    "border_disp_rank": 3000,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
@@ -971,17 +956,32 @@
                 },
                 {
                     "exist": 1,
-                    "score": 27240,
-                    "name": "緋天　御剣",
-                    "gw_rank": 15,
-                    "border_disp_rank": 10,
+                    "score": 84230,
+                    "name": "８３１",
+                    "gw_rank": 16,
+                    "border_disp_rank": 1000,
                     "title_equip": {
                         "title_word_id_1": 7,
-                        "title_word_id_0": 114,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2597,
-                        "title_plate_id": 326
+                        "title_word_id_2": 2,
+                        "title_plate_id": 75
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 24880,
+                    "name": "らるきい",
+                    "gw_rank": 21,
+                    "border_disp_rank": 10,
+                    "title_equip": {
+                        "title_word_id_1": 4,
+                        "title_word_id_0": 22,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 488,
+                        "title_plate_id": 323
                     }
                 }
             ]
