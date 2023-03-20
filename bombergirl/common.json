@@ -1,10 +1,10 @@
 {
     "messages": [
         {
-            "msg_id": 132,
+            "msg_id": 133,
             "tag": "GAME",
-            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=131,2022,162;MatchingType=1;TeamSyncType=1;",
-            "till_time": 1678842000000
+            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=102,4,132;MatchingType=1;TeamSyncType=1;",
+            "till_time": 9223372036825200000
         },
         {
             "msg_id": 200,
@@ -31,10 +31,10 @@
             "till_time": 9223372036825200000
         },
         {
-            "msg_id": 14,
+            "msg_id": 15,
             "tag": "R_MAP",
-            "message": "Map=131,2022,162;",
-            "till_time": 1678842000000
+            "message": "Map=102,4,132;",
+            "till_time": 1679850000000
         },
         {
             "msg_id": 232,
@@ -174,7 +174,7 @@
         },
         {
             "type": 5,
-            "phase": 24
+            "phase": 22
         },
         {
             "type": 7,
@@ -224,94 +224,90 @@
     "event_info": [
         {
             "type": 5,
-            "phase": 24,
-            "str_date": "3/1(水)10:00 am ～ 3/15(水) 9:59 am"
+            "phase": 22,
+            "str_date": "3/15(水)10:00 am ～ 3/29(水) 9:59 am"
         }
     ],
     "gacha": {
-        "id": 24,
+        "id": 22,
         "items": [
             {
-                "item_id": 7,
+                "item_id": 9,
                 "pick_rate": 1
             },
             {
-                "item_id": 8,
+                "item_id": 919,
                 "pick_rate": 1
             },
             {
-                "item_id": 2707,
+                "item_id": 1499,
                 "pick_rate": 1
             },
             {
-                "item_id": 866,
+                "item_id": 864,
                 "pick_rate": 1
             },
             {
-                "item_id": 874,
+                "item_id": 1106,
                 "pick_rate": 1
             },
             {
-                "item_id": 2040,
+                "item_id": 871,
                 "pick_rate": 1
             },
             {
-                "item_id": 877,
+                "item_id": 1448,
                 "pick_rate": 1
             },
             {
-                "item_id": 1108,
+                "item_id": 922,
                 "pick_rate": 1
             },
             {
-                "item_id": 2710,
+                "item_id": 1309,
                 "pick_rate": 1
             },
             {
-                "item_id": 1307,
+                "item_id": 1502,
                 "pick_rate": 1
             },
             {
-                "item_id": 1308,
+                "item_id": 2033,
                 "pick_rate": 1
             },
             {
-                "item_id": 1305,
+                "item_id": 2029,
                 "pick_rate": 1
             },
             {
-                "item_id": 1306,
+                "item_id": 2030,
                 "pick_rate": 1
             },
             {
-                "item_id": 883,
+                "item_id": 2023,
                 "pick_rate": 1
             },
             {
-                "item_id": 884,
+                "item_id": 2024,
                 "pick_rate": 1
             },
             {
-                "item_id": 886,
+                "item_id": 2031,
                 "pick_rate": 1
             },
             {
-                "item_id": 887,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 888,
+                "item_id": 2032,
                 "pick_rate": 1
             }
         ],
         "pick_rate": [
             {
                 "rare": 2,
-                "pick_rate": 8
+                "pick_rate": 10
             },
             {
                 "rare": 3,
-                "pick_rate": 35
+                "pick_rate": 30
             },
             {
                 "rare": 4,
