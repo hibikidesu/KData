@@ -1,0 +1,1385 @@
+{
+    "last_cache_load_time": "2023-03-20T04:10:36+09:00",
+    "start_time": "2023-03-19T07:00:00+09:00",
+    "ce_flavor_setting_list": [
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1219,
+            "index": 1,
+            "ce_id": 1219,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "白く淡く降り積もる雪。\n郷愁に彩られた温泉街を歩く。\n\nかけられた声へ振り向くと、\n煌びやかな女神たちが待っている。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1220,
+            "index": 1,
+            "ce_id": 1220,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "剣にも鍛錬が必要なように、\n歌にもトレーニングが必須！\n\n女王直々の指導は厳しいが、\nこれも暁の華となるため……！\n\nほら、そこの竜の魔女さんも！！\nやる気出してくださいね！？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1221,
+            "index": 1,
+            "ce_id": 1221,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1222,
+            "index": 1,
+            "ce_id": 1222,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1223,
+            "index": 1,
+            "ce_id": 1223,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1224,
+            "index": 1,
+            "ce_id": 1224,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1225,
+            "index": 1,
+            "ce_id": 1225,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1226,
+            "index": 1,
+            "ce_id": 1226,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1227,
+            "index": 1,
+            "ce_id": 1227,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1228,
+            "index": 1,
+            "ce_id": 1228,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1229,
+            "index": 1,
+            "ce_id": 1229,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1230,
+            "index": 1,
+            "ce_id": 1230,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1231,
+            "index": 1,
+            "ce_id": 1231,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1232,
+            "index": 1,
+            "ce_id": 1232,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1233,
+            "index": 1,
+            "ce_id": 1233,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1234,
+            "index": 1,
+            "ce_id": 1234,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1235,
+            "index": 1,
+            "ce_id": 1235,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1236,
+            "index": 1,
+            "ce_id": 1236,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1237,
+            "index": 1,
+            "ce_id": 1237,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1238,
+            "index": 1,
+            "ce_id": 1238,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1239,
+            "index": 1,
+            "ce_id": 1239,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1240,
+            "index": 1,
+            "ce_id": 1240,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1241,
+            "index": 1,
+            "ce_id": 1241,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1242,
+            "index": 1,
+            "ce_id": 1242,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1243,
+            "index": 1,
+            "ce_id": 1243,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1244,
+            "index": 1,
+            "ce_id": 1244,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1245,
+            "index": 1,
+            "ce_id": 1245,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1246,
+            "index": 1,
+            "ce_id": 1246,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1247,
+            "index": 1,
+            "ce_id": 1247,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1248,
+            "index": 1,
+            "ce_id": 1248,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1249,
+            "index": 1,
+            "ce_id": 1249,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1250,
+            "index": 1,
+            "ce_id": 1250,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1251,
+            "index": 1,
+            "ce_id": 1251,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1252,
+            "index": 1,
+            "ce_id": 1252,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1253,
+            "index": 1,
+            "ce_id": 1253,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1254,
+            "index": 1,
+            "ce_id": 1254,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1255,
+            "index": 1,
+            "ce_id": 1255,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1256,
+            "index": 1,
+            "ce_id": 1256,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1257,
+            "index": 1,
+            "ce_id": 1257,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1258,
+            "index": 1,
+            "ce_id": 1258,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1259,
+            "index": 1,
+            "ce_id": 1259,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "祝・「Fate/Grand Order」六周年！！\n\n記念すべき日だからこそ、英霊たちと共に、\n歩んできたその道程に想いを馳せる。\n\nそして、新たな心躍る旅を目指して、\nその歩みは進んでいく。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1260,
+            "index": 1,
+            "ce_id": 1260,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "まさかの白昼堂々と。\n間違ってもそこに愛なんてないはずで。\n\n甘い微笑みに期待してはならない。\n熱に蕩けても残るのは苦い後味だろう。\n\nわかっている、わかっているはずなのに―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1261,
+            "index": 1,
+            "ce_id": 1261,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "長い永い夢を見ている。\n\nなめらかなクリームに苦くて甘いビターチョコ、\n滴る果実は、酸味と色味のアクセント。\n\n遠い目覚めを待ちながら今はまだ微睡みの時。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1262,
+            "index": 1,
+            "ce_id": 1262,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "何事にも準備は万全であれ。\n乙女の一大決心ならばなお一層に。\n\nだがしかし、\n前日のしかも深夜になってはたと気付くのである。\n\nわたし……もしかしてやり過ぎた！？"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1263,
+            "index": 1,
+            "ce_id": 1263,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "カルデア商事は繁忙期であった。\n\n次から次へと湧いてくるエネミー、減っていくばかりの\nＨＰ、ＱＰも底を突きかけた頃……\n\nその手に包まれた菓子のなんと甘やかなことか。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1264,
+            "index": 1,
+            "ce_id": 1264,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ふわふわのお菓子はいかが？\n淹れたての紅茶も一緒にどうぞ。\n\nおもてなし日和ね、と神妃は微笑む。\n生きとし生けるもの全てを讃えるように。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1265,
+            "index": 1,
+            "ce_id": 1265,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "『人の慣習など知った事ではないわ』\nそう彼女は呟いて自室の扉を閉じた。\n\nけれど暫くすると退屈しのぎの名目で、\n何やら思索に耽っている様子。\n\n果たして、いつになったら\n彼女は妥協と見栄を天秤にかけられるのか。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1266,
+            "index": 1,
+            "ce_id": 1266,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1267,
+            "index": 1,
+            "ce_id": 1267,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1268,
+            "index": 1,
+            "ce_id": 1268,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1269,
+            "index": 1,
+            "ce_id": 1269,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "シミュレーションの結果が淡々と読み上げられる。\n本当によく今までやってこれたものだ。\n\nマスターと魔術師はイコールではない。\n適性はあっても、技術はまた別の話だ。\n\nけど、だからこそ教え甲斐もある。\nＡチームの連中にはまだまだ遠いけどな―――"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1270,
+            "index": 1,
+            "ce_id": 1270,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "良い作戦は良い会議から。\n\n今のカルデアでは、\n美味しいサンドやコーヒーを片手に、\n思い付いたことを互いに話していくことも多い。\n\n良いひらめきが生まれることもあれば、\nただ楽しい時間を過ごすだけのこともあり。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1271,
+            "index": 1,
+            "ce_id": 1271,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "いくつもの旅路を越えて、\nいくつもの出逢いを重ね、\n大切な戦利品が、箱いっぱいに、胸いっぱいに。\n\nときに収まりきらなくなって溢れることもあるけれど、\n少しずつゆっくりと、皆と一緒に整理なんかして。\n\nそれはまだ見ぬ冒険のための準備。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1272,
+            "index": 1,
+            "ce_id": 1272,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "現地調査と意気込んで来たものの。\n\nどこまでも続く氷山に照りつける太陽、\n何もないが故に探索は難航しそうです。\n\nでも大丈夫！　何があっても、\nこの拳で守ってみせます、マスター！"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1273,
+            "index": 1,
+            "ce_id": 1273,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "英雄王たるもの祭りの運営に抜かりはない。\n地球側の英雄王、ユニヴァース側の英雄王、\n宇宙は違えど両者徹底した仕事ぶりである。\n\nなお……\n地球側からは、名誉会長と豊穣の女神も\n駆り出されている模様。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1274,
+            "index": 1,
+            "ce_id": 1274,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "人里離れた山奥に、可憐なる花ひっそりと二輪。\n\n乱世の喧騒どこへやら、耳に届くは川のせせらぎと木立\nのそよぎ。\n\n戦鼓を打つなど誠に無粋。\n打つべきはそう、小気味良く鳴る舌鼓。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1275,
+            "index": 1,
+            "ce_id": 1275,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "偉大な英霊の荘厳美麗なる姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1276,
+            "index": 1,
+            "ce_id": 1276,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "偉大な英霊の荘厳美麗なる姿。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1277,
+            "index": 1,
+            "ce_id": 1277,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1278,
+            "index": 1,
+            "ce_id": 1278,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 1279,
+            "index": 1,
+            "ce_id": 1279,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "これは、あなたとサーヴァントの絆の証。\n共に歩んだ大切な記憶。"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8000,
+            "index": 1,
+            "ce_id": 8000,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8001,
+            "index": 1,
+            "ce_id": 8001,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8002,
+            "index": 1,
+            "ce_id": 8002,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8003,
+            "index": 1,
+            "ce_id": 8003,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱に防御力ダウンを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8004,
+            "index": 1,
+            "ce_id": 8004,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "クイックカード耐性をダウンする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8005,
+            "index": 1,
+            "ce_id": 8005,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "アーツカード耐性をダウンする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8006,
+            "index": 1,
+            "ce_id": 8006,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "バスターカード耐性をダウンする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8007,
+            "index": 1,
+            "ce_id": 8007,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8008,
+            "index": 1,
+            "ce_id": 8008,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8009,
+            "index": 1,
+            "ce_id": 8009,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8010,
+            "index": 1,
+            "ce_id": 8010,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "クー・フーリン〔オルタ〕にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8011,
+            "index": 1,
+            "ce_id": 8011,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "クー・フーリン〔オルタ〕にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8012,
+            "index": 1,
+            "ce_id": 8012,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "クー・フーリン〔オルタ〕にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8013,
+            "index": 1,
+            "ce_id": 8013,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "スノーマンに死亡時に相手に無敵貫通を付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8014,
+            "index": 1,
+            "ce_id": 8014,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "行動不能耐性、強化解除耐性を付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8015,
+            "index": 1,
+            "ce_id": 8015,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ターゲット集中＆NPチャージをする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8016,
+            "index": 1,
+            "ce_id": 8016,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "15秒毎にNPを100％増やす礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8017,
+            "index": 1,
+            "ce_id": 8017,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に敵全体のQuick性能をアップする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8018,
+            "index": 1,
+            "ce_id": 8018,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に敵全体のArts性能をアップする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8019,
+            "index": 1,
+            "ce_id": 8019,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に敵全体のBuster性能をアップする礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8020,
+            "index": 1,
+            "ce_id": 8020,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "強化解除耐性を付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8021,
+            "index": 1,
+            "ce_id": 8021,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8022,
+            "index": 1,
+            "ce_id": 8022,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8023,
+            "index": 1,
+            "ce_id": 8023,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱にガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8024,
+            "index": 1,
+            "ce_id": 8024,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "魔神柱に防御力ダウンを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8025,
+            "index": 1,
+            "ce_id": 8025,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8026,
+            "index": 1,
+            "ce_id": 8026,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8027,
+            "index": 1,
+            "ce_id": 8027,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ガッツを付与する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8028,
+            "index": 1,
+            "ce_id": 8028,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に味方の強化を解除する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8029,
+            "index": 1,
+            "ce_id": 8029,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "ArtsとBuster耐性アップ＆Quick耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8030,
+            "index": 1,
+            "ce_id": 8030,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "QuickとBuster耐性アップ＆Arts耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8031,
+            "index": 1,
+            "ce_id": 8031,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "QuickとArts耐性アップ＆Buster耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8032,
+            "index": 1,
+            "ce_id": 8032,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "登場時に敵全体のQuick性能アップ + 登場時に味方全体のArtsとBuster耐性アップ＆Quick耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8033,
+            "index": 1,
+            "ce_id": 8033,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "登場時に敵全体のAuick性能アップ + 登場時に味方全体のQuickとBuster耐性アップ＆Arts耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8034,
+            "index": 1,
+            "ce_id": 8034,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "登場時に敵全体のBuster性能アップ + 登場時に味方全体のQuickとArts耐性アップ＆Quick耐性ダウン"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8035,
+            "index": 1,
+            "ce_id": 8035,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に味方の強化を解除する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8036,
+            "index": 1,
+            "ce_id": 8036,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に味方の強化を解除する礼装です"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8037,
+            "index": 1,
+            "ce_id": 8037,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に範囲内の味方全体の強化状態を解除する"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8038,
+            "index": 1,
+            "ce_id": 8038,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に範囲内の敵全体の弱体状態を解除する"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8039,
+            "index": 1,
+            "ce_id": 8039,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に範囲内の味方全体の強化状態を解除する"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8040,
+            "index": 1,
+            "ce_id": 8040,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "登場時に範囲内の敵全体のスター発生率をアップ＆一定時間ごとにスター獲得状態を付与"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8041,
+            "index": 1,
+            "ce_id": 8041,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に範囲内の味方全体の強化状態を解除する"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8042,
+            "index": 1,
+            "ce_id": 8042,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に範囲内の味方全体の強化状態を解除する"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 8043,
+            "index": 1,
+            "ce_id": 8043,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "死亡時に範囲内の味方全体の強化状態を解除する"
+        },
+        {
+            "text_id": 1,
+            "condition0": {
+                "condition": 1,
+                "value": 0
+            },
+            "ce_flavor_id": 9001,
+            "index": 1,
+            "ce_id": 9001,
+            "conditional_text": "公開出来ない時のテキストですよ(礼装)",
+            "priority": 1,
+            "flavor_text": "自身のパーティの攻撃の威力を200％アップする礼装です"
+        }
+    ],
+    "is_completed": 1
+}
