@@ -16276,5 +16276,39 @@
         "bemaniflag": 264,
         "movie": 1,
         "stage": 5
+    },
+    {
+        "mcode": 38586,
+        "basename": "chap",
+        "title": "chaplet",
+        "title_sort": "chaplet",
+        "artist": "DJ TOTTO",
+        "bpmmax": 200,
+        "bpmmin": 100,
+        "level_str": "3 8 12 17 0 0 8 13 17 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "eventno_1": 68,
+        "stage": 16
+    },
+    {
+        "mcode": 38587,
+        "basename": "spri",
+        "title": "spring pony",
+        "title_sort": "springpony",
+        "artist": "S-C-U",
+        "bpmmax": 150,
+        "bpmmin": 150,
+        "level_str": "2 6 12 15 0 0 7 12 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "eventno_1": 68,
+        "stage": 5
     }
 ]
