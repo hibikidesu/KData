@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-03-22T04:10:41+09:00",
+    "last_cache_load_time": "2023-03-23T04:10:47+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -789,59 +789,59 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-03-22T04:00:11+09:00",
+            "update_time": "2023-03-23T04:00:11+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 30610,
-                    "name": "つたやど",
-                    "gw_rank": 22,
+                    "score": 31195,
+                    "name": "ひこじろ",
+                    "gw_rank": 19,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 1575,
-                        "title_word_id_0": 629,
+                        "title_word_id_1": 1511,
+                        "title_word_id_0": 1341,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 133,
-                        "title_plate_id": 24
+                        "title_word_id_2": 0,
+                        "title_plate_id": 175
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 51255,
-                    "name": "没タルタルソース",
-                    "gw_rank": 22,
+                    "score": 52935,
+                    "name": "うどん氏",
+                    "gw_rank": 23,
                     "border_disp_rank": 200,
                     "title_equip": {
                         "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 66,
-                        "title_disp_type": 2,
+                        "title_word_id_0": 2318,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
                         "title_word_id_2": 0,
+                        "title_plate_id": 13
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 85055,
+                    "name": "バランスのいい山本",
+                    "gw_rank": 22,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2,
                         "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 84065,
-                    "name": "氷",
-                    "gw_rank": 21,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 2726,
-                        "title_word_id_0": 955,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 291,
-                        "title_plate_id": 48
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 130435,
+                    "score": 138240,
                     "name": "藤丸 立香",
-                    "gw_rank": 25,
+                    "gw_rank": 26,
                     "border_disp_rank": 10,
                     "title_equip": {
                         "title_word_id_1": 7,
@@ -921,29 +921,29 @@
             ]
         },
         {
-            "update_time": "2023-03-22T04:00:15+09:00",
+            "update_time": "2023-03-23T04:00:16+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 45400,
-                    "name": "ラルド",
-                    "gw_rank": 11,
+                    "score": 44950,
+                    "name": "ＲＲ_るる",
+                    "gw_rank": 25,
                     "border_disp_rank": 300,
                     "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 475,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 2033,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 220,
-                        "title_plate_id": 17
+                        "title_word_id_2": 0,
+                        "title_plate_id": 92
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 186030,
-                    "name": "ユノっち",
-                    "gw_rank": 1,
+                    "score": 175720,
+                    "name": "クロカ",
+                    "gw_rank": 11,
                     "border_disp_rank": 3000,
                     "title_equip": {
                         "title_word_id_1": 7,
@@ -956,32 +956,32 @@
                 },
                 {
                     "exist": 1,
-                    "score": 76390,
-                    "name": "花京院の魂",
-                    "gw_rank": 19,
+                    "score": 74400,
+                    "name": "天龍寺",
+                    "gw_rank": 11,
                     "border_disp_rank": 1000,
                     "title_equip": {
-                        "title_word_id_1": 52,
-                        "title_word_id_0": 1560,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 196,
-                        "title_plate_id": 62
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 24070,
-                    "name": "キャス狐",
-                    "gw_rank": 27,
+                    "score": 23770,
+                    "name": "澁谷かのん",
+                    "gw_rank": 16,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 15,
-                        "title_word_id_0": 59,
+                        "title_word_id_1": 1484,
+                        "title_word_id_0": 0,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 60,
-                        "title_plate_id": 77
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
                     }
                 }
             ]
