@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-03-23T04:10:47+09:00",
+    "last_cache_load_time": "2023-03-24T04:10:40+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -789,67 +789,67 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-03-23T04:00:11+09:00",
+            "update_time": "2023-03-24T04:00:11+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 31195,
-                    "name": "ひこじろ",
-                    "gw_rank": 19,
+                    "score": 32485,
+                    "name": "逆夢",
+                    "gw_rank": 23,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 1511,
-                        "title_word_id_0": 1341,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 175
+                        "title_word_id_2": 2,
+                        "title_plate_id": 1
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 52935,
-                    "name": "うどん氏",
-                    "gw_rank": 23,
+                    "score": 54050,
+                    "name": "半欠片",
+                    "gw_rank": 21,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2318,
+                        "title_word_id_1": 436,
+                        "title_word_id_0": 1004,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 13
+                        "title_word_id_2": 930,
+                        "title_plate_id": 2
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 85055,
-                    "name": "バランスのいい山本",
-                    "gw_rank": 22,
+                    "score": 87515,
+                    "name": "全身全霊全年齢イッテツ",
+                    "gw_rank": 27,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 2316,
+                        "title_word_id_0": 1581,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 13,
+                        "title_plate_id": 63
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 138240,
-                    "name": "藤丸 立香",
-                    "gw_rank": 26,
+                    "score": 138420,
+                    "name": "狐滅隊頭領　ＪＩＪＩ",
+                    "gw_rank": 29,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 16,
+                        "title_word_id_0": 2520,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 1225,
+                        "title_plate_id": 159
                     }
                 }
             ]
@@ -921,52 +921,52 @@
             ]
         },
         {
-            "update_time": "2023-03-23T04:00:16+09:00",
+            "update_time": "2023-03-24T04:00:14+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 44950,
-                    "name": "ＲＲ_るる",
-                    "gw_rank": 25,
+                    "score": 43880,
+                    "name": "暁　切歌",
+                    "gw_rank": 24,
                     "border_disp_rank": 300,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2033,
+                        "title_word_id_1": 2337,
+                        "title_word_id_0": 24,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 92
+                        "title_word_id_2": 14,
+                        "title_plate_id": 227
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 175720,
-                    "name": "クロカ",
-                    "gw_rank": 11,
+                    "score": 167990,
+                    "name": "孝之進",
+                    "gw_rank": 16,
                     "border_disp_rank": 3000,
                     "title_equip": {
-                        "title_word_id_1": 7,
+                        "title_word_id_1": 1716,
                         "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 2183,
+                        "title_plate_id": 356
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 74400,
-                    "name": "天龍寺",
-                    "gw_rank": 11,
+                    "score": 72840,
+                    "name": "まも",
+                    "gw_rank": 6,
                     "border_disp_rank": 1000,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 36,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_plate_id": 223
                     }
                 },
                 {
