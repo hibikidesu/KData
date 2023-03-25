@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-03-25T04:10:44+09:00",
+    "last_cache_load_time": "2023-03-26T04:10:40+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -789,67 +789,67 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-03-25T04:00:12+09:00",
+            "update_time": "2023-03-26T04:00:10+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 34010,
-                    "name": "ヤキニククン",
+                    "score": 35950,
+                    "name": "ミエナイチカラ",
                     "gw_rank": 23,
                     "border_disp_rank": 500,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 29,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1214,
-                        "title_plate_id": 62
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 54715,
-                    "name": "スリザリンが嫌なら薩摩藩",
-                    "gw_rank": 26,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 1187,
-                        "title_word_id_0": 701,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1048,
-                        "title_plate_id": 95
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 90640,
-                    "name": "藤丸 立香",
-                    "gw_rank": 23,
-                    "border_disp_rank": 50,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_plate_id": 1
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 145870,
-                    "name": "しのふみ",
-                    "gw_rank": 25,
-                    "border_disp_rank": 10,
+                    "score": 58390,
+                    "name": "アスカ＠茨木童子推し",
+                    "gw_rank": 22,
+                    "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 6,
-                        "title_word_id_0": 2514,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 2128,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1269,
-                        "title_plate_id": 263
+                        "title_word_id_2": 1097,
+                        "title_plate_id": 150
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 97070,
+                    "name": "さだみちゅ応援団でちゅ",
+                    "gw_rank": 19,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 966,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 72,
+                        "title_plate_id": 30
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 152245,
+                    "name": "告白実行委員会",
+                    "gw_rank": 30,
+                    "border_disp_rank": 10,
+                    "title_equip": {
+                        "title_word_id_1": 35,
+                        "title_word_id_0": 83,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 18,
+                        "title_plate_id": 352
                     }
                 }
             ]
@@ -921,67 +921,67 @@
             ]
         },
         {
-            "update_time": "2023-03-25T04:00:17+09:00",
+            "update_time": "2023-03-26T04:00:13+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 42770,
-                    "name": "水瀬Alisa",
-                    "gw_rank": 19,
+                    "score": 41090,
+                    "name": "邪神ちゃんのパンケーキ♪",
+                    "gw_rank": 18,
                     "border_disp_rank": 300,
                     "title_equip": {
-                        "title_word_id_1": 2792,
-                        "title_word_id_0": 440,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 1478,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2337,
-                        "title_plate_id": 363
+                        "title_word_id_2": 981,
+                        "title_plate_id": 83
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 161430,
-                    "name": "牙狼",
-                    "gw_rank": 10,
+                    "score": 150210,
+                    "name": "れっくす先生",
+                    "gw_rank": 11,
                     "border_disp_rank": 3000,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 1316,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 189,
+                        "title_plate_id": 36
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 72030,
-                    "name": "出雲",
-                    "gw_rank": 11,
+                    "score": 69540,
+                    "name": "ブエナビスタ",
+                    "gw_rank": 10,
                     "border_disp_rank": 1000,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 19,
+                        "title_word_id_0": 1117,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 59,
+                        "title_plate_id": 323
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 23770,
-                    "name": "澁谷かのん",
-                    "gw_rank": 16,
+                    "score": 22840,
+                    "name": "マクベス",
+                    "gw_rank": 11,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 1484,
-                        "title_word_id_0": 0,
+                        "title_word_id_1": 178,
+                        "title_word_id_0": 2264,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
+                        "title_word_id_2": 34,
+                        "title_plate_id": 204
                     }
                 }
             ]
