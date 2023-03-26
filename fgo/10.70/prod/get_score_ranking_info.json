@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-03-26T04:10:40+09:00",
+    "last_cache_load_time": "2023-03-27T04:10:46+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -789,67 +789,67 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-03-26T04:00:10+09:00",
+            "update_time": "2023-03-27T04:00:09+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 35950,
-                    "name": "ミエナイチカラ",
-                    "gw_rank": 23,
+                    "score": 37770,
+                    "name": "ＲＥ：ｌ　ＡＭ",
+                    "gw_rank": 21,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 1833,
+                        "title_word_id_0": 2172,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 1
+                        "title_word_id_2": 0,
+                        "title_plate_id": 362
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 58390,
-                    "name": "アスカ＠茨木童子推し",
-                    "gw_rank": 22,
+                    "score": 61770,
+                    "name": "葉山陽和",
+                    "gw_rank": 21,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 2128,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 1295,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1097,
-                        "title_plate_id": 150
+                        "title_word_id_2": 725,
+                        "title_plate_id": 63
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 97070,
-                    "name": "さだみちゅ応援団でちゅ",
-                    "gw_rank": 19,
+                    "score": 102670,
+                    "name": "新鯖１体目配布希望",
+                    "gw_rank": 18,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 966,
+                        "title_word_id_1": 13,
+                        "title_word_id_0": 1789,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 72,
-                        "title_plate_id": 30
+                        "title_word_id_2": 13,
+                        "title_plate_id": 62
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 152245,
-                    "name": "告白実行委員会",
-                    "gw_rank": 30,
+                    "score": 158360,
+                    "name": "（－∧－）ムムムッ！",
+                    "gw_rank": 24,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 35,
-                        "title_word_id_0": 83,
+                        "title_word_id_1": 338,
+                        "title_word_id_0": 338,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 18,
-                        "title_plate_id": 352
+                        "title_word_id_2": 338,
+                        "title_plate_id": 223
                     }
                 }
             ]
@@ -921,67 +921,67 @@
             ]
         },
         {
-            "update_time": "2023-03-26T04:00:13+09:00",
+            "update_time": "2023-03-27T04:00:14+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 41090,
-                    "name": "邪神ちゃんのパンケーキ♪",
-                    "gw_rank": 18,
+                    "score": 39540,
+                    "name": "ＳＰＥＬＬ ＭＡＧＩＣ",
+                    "gw_rank": 21,
                     "border_disp_rank": 300,
                     "title_equip": {
                         "title_word_id_1": 0,
-                        "title_word_id_0": 1478,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 981,
-                        "title_plate_id": 83
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 75,
+                        "title_disp_type": 2,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 150210,
-                    "name": "れっくす先生",
-                    "gw_rank": 11,
+                    "score": 142920,
+                    "name": "ソラ",
+                    "gw_rank": 16,
                     "border_disp_rank": 3000,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 1316,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 189,
-                        "title_plate_id": 36
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 69540,
-                    "name": "ブエナビスタ",
-                    "gw_rank": 10,
+                    "score": 67580,
+                    "name": "リム（Ｌｉｍ）",
+                    "gw_rank": 11,
                     "border_disp_rank": 1000,
                     "title_equip": {
-                        "title_word_id_1": 19,
-                        "title_word_id_0": 1117,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1014,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 59,
+                        "title_word_id_2": 2,
                         "title_plate_id": 323
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 22840,
-                    "name": "マクベス",
-                    "gw_rank": 11,
+                    "score": 21400,
+                    "name": "ヒノ！！",
+                    "gw_rank": 20,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 178,
-                        "title_word_id_0": 2264,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 34,
-                        "title_plate_id": 204
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 }
             ]
