@@ -35,69 +35,6 @@
         "sort_id": 1
     },
     {
-        "gacha_id": 66,
-        "gacha_type": 1,
-        "name": "DanceDanceRevolution",
-        "disp_name": "DanceDanceRevolution",
-        "comment": "",
-        "new_flag": 1,
-        "gacha_item_num": 34,
-        "limit_type": 0,
-        "limit_num": 0,
-        "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/66_jacket.png",
-        "gacha_big_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/66_jacket.png",
-        "accessibility": 1,
-        "price_type": [
-            1
-        ],
-        "gacha_1_price": 1000,
-        "gacha_10_price": 10000,
-        "gacha_1_flg": 1,
-        "gacha_10_flg": 1,
-        "music_list": [
-            100000119,
-            100000512,
-            100000622,
-            100000625,
-            100000648,
-            100000649,
-            100000654,
-            100000660,
-            100000662,
-            100000666,
-            100000667,
-            100000670,
-            100000684,
-            100000911,
-            100000931,
-            100000955,
-            100000980,
-            100000981,
-            100000982,
-            100000983,
-            100060079,
-            100060080,
-            100060081,
-            100060125,
-            100060170,
-            100060208,
-            100060242,
-            100060243,
-            100060244,
-            100060245,
-            100060246,
-            100060247,
-            100060248,
-            100060249
-        ],
-        "extra_time_type": 0,
-        "start_time": 1656032400,
-        "end_time": 5711734800,
-        "playable_date": 0,
-        "10_disp_flg": 1,
-        "sort_id": 2
-    },
-    {
         "gacha_id": 68,
         "gacha_type": 1,
         "name": "SOUND VOLTEX",
@@ -591,7 +528,7 @@
         "disp_name": "\u5b9a\u756aJPOP",
         "comment": "",
         "new_flag": 1,
-        "gacha_item_num": 14,
+        "gacha_item_num": 16,
         "limit_type": 0,
         "limit_num": 0,
         "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/31_jacket.png",
@@ -1255,7 +1192,7 @@
         "disp_name": "JPOP",
         "comment": "",
         "new_flag": 1,
-        "gacha_item_num": 47,
+        "gacha_item_num": 49,
         "limit_type": 0,
         "limit_num": 0,
         "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/30_jacket.png",
@@ -2155,7 +2092,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 53
+        "sort_id": 55
     },
     {
         "gacha_id": 74,
@@ -2185,7 +2122,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 0,
-        "sort_id": 54
+        "sort_id": 56
     },
     {
         "gacha_id": 72,
@@ -2215,7 +2152,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 0,
-        "sort_id": 55
+        "sort_id": 57
     },
     {
         "gacha_id": 61,
@@ -2283,7 +2220,70 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 56
+        "sort_id": 58
+    },
+    {
+        "gacha_id": 66,
+        "gacha_type": 1,
+        "name": "DanceDanceRevolution",
+        "disp_name": "DanceDanceRevolution",
+        "comment": "",
+        "new_flag": 1,
+        "gacha_item_num": 34,
+        "limit_type": 0,
+        "limit_num": 0,
+        "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/66_jacket.png",
+        "gacha_big_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/66_jacket.png",
+        "accessibility": 1,
+        "price_type": [
+            1
+        ],
+        "gacha_1_price": 1000,
+        "gacha_10_price": 10000,
+        "gacha_1_flg": 1,
+        "gacha_10_flg": 1,
+        "music_list": [
+            100000119,
+            100000512,
+            100000622,
+            100000625,
+            100000648,
+            100000649,
+            100000654,
+            100000660,
+            100000662,
+            100000666,
+            100000667,
+            100000670,
+            100000684,
+            100000911,
+            100000931,
+            100000955,
+            100000980,
+            100000981,
+            100000982,
+            100000983,
+            100060079,
+            100060080,
+            100060081,
+            100060125,
+            100060170,
+            100060208,
+            100060242,
+            100060243,
+            100060244,
+            100060245,
+            100060246,
+            100060247,
+            100060248,
+            100060249
+        ],
+        "extra_time_type": 0,
+        "start_time": 1656032400,
+        "end_time": 5711734800,
+        "playable_date": 0,
+        "10_disp_flg": 1,
+        "sort_id": 59
     },
     {
         "gacha_id": 60,
@@ -2292,7 +2292,7 @@
         "disp_name": "M<sprite name=\"Uacute\">SECA",
         "comment": "",
         "new_flag": 1,
-        "gacha_item_num": 9,
+        "gacha_item_num": 15,
         "limit_type": 0,
         "limit_num": 0,
         "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/60_jacket.png",
@@ -2320,7 +2320,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 57
+        "sort_id": 60
     },
     {
         "gacha_id": 59,
@@ -2329,7 +2329,7 @@
         "disp_name": "REFLEC BEAT",
         "comment": "",
         "new_flag": 1,
-        "gacha_item_num": 46,
+        "gacha_item_num": 51,
         "limit_type": 0,
         "limit_num": 0,
         "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/59_jacket.png",
@@ -2395,7 +2395,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 58
+        "sort_id": 61
     },
     {
         "gacha_id": 69,
@@ -2442,7 +2442,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 59
+        "sort_id": 62
     },
     {
         "gacha_id": 76,
@@ -2475,7 +2475,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 60
+        "sort_id": 63
     },
     {
         "gacha_id": 10,
@@ -2484,7 +2484,7 @@
         "disp_name": "jubeat festo",
         "comment": "",
         "new_flag": 1,
-        "gacha_item_num": 128,
+        "gacha_item_num": 129,
         "limit_type": 0,
         "limit_num": 0,
         "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/10_jacket.png",
@@ -2632,7 +2632,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 61
+        "sort_id": 65
     },
     {
         "gacha_id": 9,
@@ -2719,7 +2719,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 62
+        "sort_id": 66
     },
     {
         "gacha_id": 8,
@@ -2826,7 +2826,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 63
+        "sort_id": 67
     },
     {
         "gacha_id": 7,
@@ -2890,7 +2890,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 64
+        "sort_id": 68
     },
     {
         "gacha_id": 6,
@@ -2963,7 +2963,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 65
+        "sort_id": 69
     },
     {
         "gacha_id": 5,
@@ -3159,7 +3159,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 66
+        "sort_id": 70
     },
     {
         "gacha_id": 4,
@@ -3223,7 +3223,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 67
+        "sort_id": 71
     },
     {
         "gacha_id": 3,
@@ -3275,7 +3275,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 68
+        "sort_id": 72
     },
     {
         "gacha_id": 2,
@@ -3325,7 +3325,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 69
+        "sort_id": 73
     },
     {
         "gacha_id": 1,
@@ -3374,6 +3374,6 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 70
+        "sort_id": 74
     }
 ]
