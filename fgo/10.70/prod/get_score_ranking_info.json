@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-03-29T04:10:39+09:00",
+    "last_cache_load_time": "2023-03-30T04:10:44+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -789,67 +789,67 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-03-29T04:00:09+09:00",
+            "update_time": "2023-03-30T04:00:12+09:00",
             "score_ranking_id": 17,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 39920,
-                    "name": "Ｃｈｕ！ＱＰなくてごめん",
-                    "gw_rank": 22,
+                    "score": 40935,
+                    "name": "完全無欠のバーサーカー",
+                    "gw_rank": 24,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 2271,
+                        "title_word_id_0": 436,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 160,
+                        "title_plate_id": 368
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 64545,
-                    "name": "ぽりん",
+                    "score": 66155,
+                    "name": "Ardyn",
                     "gw_rank": 21,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 2276,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 0,
+                        "title_plate_id": 8
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 109310,
-                    "name": "新鯖１体目配布希望",
-                    "gw_rank": 19,
+                    "score": 111800,
+                    "name": "さだみちゅ応援団でちゅ",
+                    "gw_rank": 20,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 13,
-                        "title_word_id_0": 1789,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 966,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 13,
-                        "title_plate_id": 62
+                        "title_word_id_2": 72,
+                        "title_plate_id": 30
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 174800,
-                    "name": "フジ",
-                    "gw_rank": 24,
+                    "score": 187080,
+                    "name": "狐滅隊頭領　ＪＩＪＩ",
+                    "gw_rank": 30,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 21,
-                        "title_disp_type": 2,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
+                        "title_word_id_1": 16,
+                        "title_word_id_0": 2520,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 1225,
+                        "title_plate_id": 159
                     }
                 }
             ]
@@ -921,7 +921,7 @@
             ]
         },
         {
-            "update_time": "2023-03-29T04:00:12+09:00",
+            "update_time": "2023-03-30T04:00:17+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
@@ -941,32 +941,32 @@
                 },
                 {
                     "exist": 1,
-                    "score": 135380,
-                    "name": "五壱与",
-                    "gw_rank": 21,
+                    "score": 133020,
+                    "name": "茜",
+                    "gw_rank": 1,
                     "border_disp_rank": 3000,
                     "title_equip": {
-                        "title_word_id_1": 34,
-                        "title_word_id_0": 34,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 67
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 66130,
-                    "name": "ガンボーイｍｋ２",
-                    "gw_rank": 11,
+                    "score": 65840,
+                    "name": "鵺っち",
+                    "gw_rank": 12,
                     "border_disp_rank": 1000,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2272,
+                        "title_word_id_1": 13,
+                        "title_word_id_0": 73,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 131
+                        "title_word_id_2": 704,
+                        "title_plate_id": 25
                     }
                 },
                 {
