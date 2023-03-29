@@ -827,6 +827,24 @@
             "sub_id_1": -1,
             "sub_id_0": -1,
             "priority": 0
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 61,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 53,
+            "priority": 1
+        },
+        {
+            "banner_kind": 104,
+            "banner_extend_info_id": 62,
+            "sub_id_3": -1,
+            "sub_id_2": -1,
+            "sub_id_1": -1,
+            "sub_id_0": 53,
+            "priority": 2
         }
     ],
     "costume_news_url": "",
@@ -976,6 +994,22 @@
             "data_type": 0,
             "end_time": "2023-05-18T10:00:00+09:00",
             "message": "<CAMPAIGN_EMPHASIS>★５サーヴァント交換期間中！<DEFAULT_COLOR>"
+        },
+        {
+            "start_time": "2023-03-30T07:00:00+09:00",
+            "banner_extend_info_id": 61,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-04-20T10:00:00+09:00",
+            "message": "イベントミッションが開放！"
+        },
+        {
+            "start_time": "2023-03-30T07:00:00+09:00",
+            "banner_extend_info_id": 62,
+            "image_data_id": -1,
+            "data_type": 0,
+            "end_time": "2023-04-20T10:00:00+09:00",
+            "message": "高難易度クエスト追加！"
         }
     ],
     "atnd_lut": "2023-03-29T04:10:27+09:00",
