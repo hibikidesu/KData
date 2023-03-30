@@ -22285,6 +22285,22 @@
             "openType": 1
         },
         {
+            "gid": "ds_001_0171",
+            "albumID": 3000,
+            "trackNo": 171,
+            "title": "Lose Control",
+            "artist": "Hommarju",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0172",
+            "albumID": 3000,
+            "trackNo": 172,
+            "title": "Love You",
+            "artist": "BEMANI Sound Team \"KE!JU\" ",
+            "openType": 0
+        },
+        {
             "gid": "ev_001_0001",
             "albumID": 10000,
             "trackNo": 1,
@@ -41381,6 +41397,30 @@
             "openType": 1
         },
         {
+            "gid": "jb_019_0016",
+            "albumID": 6017,
+            "trackNo": 16,
+            "title": "怪獣大戦争",
+            "artist": "BEMANI Sound Team \"桃山珍太郎\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0017",
+            "albumID": 6017,
+            "trackNo": 17,
+            "title": "manticore",
+            "artist": "BEMANI Sound Team \"Amber\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0018",
+            "albumID": 6017,
+            "trackNo": 18,
+            "title": "After Rain",
+            "artist": "PIKASONIC",
+            "openType": 1
+        },
+        {
             "gid": "ms_001_0001",
             "albumID": 9000,
             "trackNo": 1,
@@ -44130,6 +44170,46 @@
             "trackNo": 46,
             "title": "交響詩 「魔女狩り」",
             "artist": "削除",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0047",
+            "albumID": 5002,
+            "trackNo": 47,
+            "title": "nostos algos",
+            "artist": "BEMANI Sound Team \"Setaria Virtuoso\"",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0048",
+            "albumID": 5002,
+            "trackNo": 48,
+            "title": "Ave",
+            "artist": "アリスシャッハと魔法の楽団",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0049",
+            "albumID": 5002,
+            "trackNo": 49,
+            "title": "終曲「黒の狂」",
+            "artist": "BEMANI Sound Team \"Akhuta Works\"",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0050",
+            "albumID": 5002,
+            "trackNo": 50,
+            "title": "終曲・改「三儀の凱奏」",
+            "artist": "BEMANI Sound Team \"Akhuta Works\"",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0051",
+            "albumID": 5002,
+            "trackNo": 51,
+            "title": "Audite Nostalgia",
+            "artist": "BEMANI Sound Team \"猫叉Virtuoso\"",
             "openType": 1
         },
         {
@@ -67130,6 +67210,46 @@
             "trackNo": 18,
             "title": "Come aROUND",
             "artist": "nora2r meets TRIΔNGLE",
+            "openType": 1
+        },
+        {
+            "gid": "da_001_0019",
+            "albumID": 14000,
+            "trackNo": 19,
+            "title": "",
+            "artist": "",
+            "openType": 0
+        },
+        {
+            "gid": "da_001_0020",
+            "albumID": 14000,
+            "trackNo": 20,
+            "title": "",
+            "artist": "",
+            "openType": 0
+        },
+        {
+            "gid": "da_001_0021",
+            "albumID": 14000,
+            "trackNo": 21,
+            "title": "Funky Street",
+            "artist": "BEMANI Sound Team \"Sota F.\"",
+            "openType": 1
+        },
+        {
+            "gid": "da_001_0022",
+            "albumID": 14000,
+            "trackNo": 22,
+            "title": "Prettiful!",
+            "artist": "BlackY",
+            "openType": 1
+        },
+        {
+            "gid": "da_001_0023",
+            "albumID": 14000,
+            "trackNo": 23,
+            "title": "Acid,Tribal & Dance",
+            "artist": "Relect",
             "openType": 1
         }
     ]
