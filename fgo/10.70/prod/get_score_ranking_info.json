@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-03-31T04:10:42+09:00",
+    "last_cache_load_time": "2023-04-01T04:10:44+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -921,52 +921,52 @@
             ]
         },
         {
-            "update_time": "2023-03-31T04:00:08+09:00",
+            "update_time": "2023-04-01T04:00:10+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 37520,
-                    "name": "ともまさお",
-                    "gw_rank": 19,
+                    "score": 36760,
+                    "name": "リア",
+                    "gw_rank": 23,
                     "border_disp_rank": 300,
                     "title_equip": {
-                        "title_word_id_1": 6,
-                        "title_word_id_0": 189,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 2733,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 50,
-                        "title_plate_id": 38
+                        "title_word_id_2": 0,
+                        "title_plate_id": 323
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 128660,
-                    "name": "ＤＯＯＭ",
-                    "gw_rank": 10,
+                    "score": 124010,
+                    "name": "那須",
+                    "gw_rank": 11,
                     "border_disp_rank": 3000,
                     "title_equip": {
-                        "title_word_id_1": 160,
-                        "title_word_id_0": 226,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 91,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1453,
-                        "title_plate_id": 141
+                        "title_word_id_2": 2214,
+                        "title_plate_id": 39
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 63270,
-                    "name": "アズキ",
-                    "gw_rank": 17,
+                    "score": 60950,
+                    "name": "エデンの女王",
+                    "gw_rank": 26,
                     "border_disp_rank": 1000,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 2094,
+                        "title_word_id_1": 6,
+                        "title_word_id_0": 2119,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 51
+                        "title_word_id_2": 2651,
+                        "title_plate_id": 129
                     }
                 },
                 {
