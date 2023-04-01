@@ -132,30 +132,6 @@
             "message": "",
             "lottery_type": 6,
             "lineup_id": 240
-        },
-        {
-            "start_time": "2023-03-01T07:00:00+09:00",
-            "popup_image_id": 229,
-            "disp_type": 0,
-            "pr_type": 3,
-            "data_id": 422,
-            "end_time": "2023-04-01T07:00:00+09:00",
-            "singularity_id": -1,
-            "message": "交換期間：２０２３年３月１日（水）７：００ ～ ２０２３年４月１日（土）６：５９まで",
-            "lottery_type": -1,
-            "lineup_id": -1
-        },
-        {
-            "start_time": "2023-03-01T07:00:00+09:00",
-            "popup_image_id": 228,
-            "disp_type": 0,
-            "pr_type": 3,
-            "data_id": 421,
-            "end_time": "2023-04-01T07:00:00+09:00",
-            "singularity_id": -1,
-            "message": "交換期間：２０２３年３月１日（水）７：００ ～ ２０２３年４月１日（土）６：５９まで",
-            "lottery_type": -1,
-            "lineup_id": -1
         }
     ]
 }
