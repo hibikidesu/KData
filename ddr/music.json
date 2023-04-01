@@ -15623,6 +15623,22 @@
         "stage": 28
     },
     {
+        "mcode": 38530,
+        "basename": "abil",
+        "title": "Ability",
+        "title_sort": "ability",
+        "artist": "Stessie",
+        "bpmmax": 154,
+        "bpmmin": 154,
+        "level_str": "2 5 11 16 0 0 5 11 16 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 15
+    },
+    {
         "mcode": 38532,
         "basename": "takh",
         "title": "TAKE ME HIGHER",
