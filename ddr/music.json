@@ -16326,5 +16326,24 @@
         "limited_cha": 1,
         "eventno_1": 68,
         "stage": 5
+    },
+    {
+        "mcode": 38590,
+        "basename": "souv",
+        "title": "SOUVENIR",
+        "title_sort": "souvenir",
+        "artist": "",
+        "bpmmax": 158,
+        "bpmmin": 158,
+        "level_str": "2 4 7 12 0 0 3 7 12 0",
+        "editable": false,
+        "is_konaste_music": true,
+        "is_streaming": true,
+        "seriesid": 1,
+        "ac_seriesid": 0,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 2,
+        "stage": 16
     }
 ]
