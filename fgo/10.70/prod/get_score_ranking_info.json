@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-04-02T04:10:41+09:00",
+    "last_cache_load_time": "2023-04-03T04:10:44+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -921,67 +921,67 @@
             ]
         },
         {
-            "update_time": "2023-04-02T04:00:08+09:00",
+            "update_time": "2023-04-03T04:00:09+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 35240,
-                    "name": "藤丸 立香",
-                    "gw_rank": 20,
+                    "score": 33450,
+                    "name": "シノノメ",
+                    "gw_rank": 13,
                     "border_disp_rank": 300,
                     "title_equip": {
-                        "title_word_id_1": 270,
-                        "title_word_id_0": 73,
+                        "title_word_id_1": 2094,
+                        "title_word_id_0": 1725,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2762,
-                        "title_plate_id": 368
+                        "title_word_id_2": 2273,
+                        "title_plate_id": 372
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 116350,
-                    "name": "マリーwith新潟",
-                    "gw_rank": 20,
+                    "score": 110010,
+                    "name": "綾地",
+                    "gw_rank": 16,
                     "border_disp_rank": 3000,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1689,
+                        "title_word_id_1": 33,
+                        "title_word_id_0": 29,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 717,
-                        "title_plate_id": 103
+                        "title_word_id_2": 13,
+                        "title_plate_id": 325
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 57280,
-                    "name": "Ｔａｋａ",
-                    "gw_rank": 16,
+                    "score": 54770,
+                    "name": "ＧＲＡＭ",
+                    "gw_rank": 7,
                     "border_disp_rank": 1000,
                     "title_equip": {
-                        "title_word_id_1": 2753,
-                        "title_word_id_0": 110,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 216,
-                        "title_plate_id": 363
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 16250,
-                    "name": "光コヤン速いすごい",
-                    "gw_rank": 16,
+                    "score": 13670,
+                    "name": "聖少女　ジャンヌ・ダルク",
+                    "gw_rank": 29,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 1484,
-                        "title_word_id_0": 0,
+                        "title_word_id_1": 596,
+                        "title_word_id_0": 755,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
+                        "title_word_id_2": 596,
+                        "title_plate_id": 108
                     }
                 }
             ]
