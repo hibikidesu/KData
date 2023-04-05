@@ -1,5 +1,15 @@
 [
     {
+        "id": 201,
+        "category": 2,
+        "title": "kors k アルバム追加！",
+        "start_date": "2023-04-05 11:14:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230405_0_info_album.html",
+        "pick_up_flg": 1,
+        "view_flg": 0
+    },
+    {
         "id": 199,
         "category": 5,
         "title": "【終了】メンテナンスのお知らせ",
