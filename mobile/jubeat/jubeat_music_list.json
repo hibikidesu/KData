@@ -47947,6 +47947,44 @@
             "disp_tonefuse": 0
         },
         {
+            "music_id": 311590001,
+            "title": "Pure Rude",
+            "title_kana": "\u30d4\u30e5\u30a2\u30eb\u30fc\u30c9",
+            "artist": "kors k",
+            "artist_kana": "\u30b3\u30fc\u30b9\u30b1",
+            "disp_title": "Pure Rude",
+            "disp_artist": "kors k",
+            "genre": [
+                1
+            ],
+            "bpm": [
+                175,
+                175
+            ],
+            "artist_texture": "Konami/AssetBundles/Playables/Textures/Artists/artist_id311590001.psd",
+            "title_texture": "Konami/AssetBundles/Playables/Textures/Titles/music_id311590001.psd",
+            "big_jacket": "Konami/AssetBundles/Playables/Textures/Jackets/311590001_jacket.png",
+            "small_jacket": "Konami/AssetBundles/Playables/Textures/Jackets/311590001_jacket.png",
+            "preview_sound": "Konami/AssetBundles/Playables/Audio/Previews/311590001_preview.wav",
+            "sound": "Konami/AssetBundles/Playables/Audio/Fulls/311590001_bgm.wav",
+            "music_disable": 0,
+            "copyright": "Licensed by S2TB Recording",
+            "music_release": 0,
+            "bsc_release": 0,
+            "adv_release": 0,
+            "ext_release": 0,
+            "edit_release": 0,
+            "edit_pack_release": 0,
+            "jacket_disable": 1,
+            "start_date": 1680660000,
+            "end_date": 4775986800,
+            "get_date": 0,
+            "playable_date": 0,
+            "play_capability": 1,
+            "streaming_kind": 1,
+            "disp_tonefuse": 0
+        },
+        {
             "music_id": 321020001,
             "title": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed feat.sayurina \uff5e\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed\uff5e",
             "title_kana": "\u30c8\u30ca\u30ea\u30ce\u30c8\u30c8\u30ed\u30d5\u30a3\u30fc\u30c1\u30e3\u30ea\u30f3\u30b0\u30b5\u30e6\u30ea\u30ca\u30c8\u30ca\u30ea\u30ce\u30c8\u30c8\u30ed",
