@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-04-04T04:10:44+09:00",
+    "last_cache_load_time": "2023-04-05T04:10:38+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -921,52 +921,52 @@
             ]
         },
         {
-            "update_time": "2023-04-04T04:00:12+09:00",
+            "update_time": "2023-04-05T04:00:09+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 33310,
-                    "name": "クラーリタ・ヴィサス",
-                    "gw_rank": 23,
+                    "score": 33270,
+                    "name": "バージル",
+                    "gw_rank": 12,
                     "border_disp_rank": 300,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2561,
+                        "title_word_id_1": 19,
+                        "title_word_id_0": 36,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 59,
+                        "title_plate_id": 99
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 106580,
+                    "name": "イーボン∀",
+                    "gw_rank": 15,
+                    "border_disp_rank": 3000,
+                    "title_equip": {
+                        "title_word_id_1": 1655,
+                        "title_word_id_0": 2456,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 13,
+                        "title_plate_id": 60
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 53540,
+                    "name": "あなたのうしろに",
+                    "gw_rank": 12,
+                    "border_disp_rank": 1000,
+                    "title_equip": {
+                        "title_word_id_1": 16,
+                        "title_word_id_0": 24,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 6
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 108430,
-                    "name": "高坂",
-                    "gw_rank": 17,
-                    "border_disp_rank": 3000,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 97,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 374,
-                        "title_plate_id": 1
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 54310,
-                    "name": "★矧音☆　",
-                    "gw_rank": 17,
-                    "border_disp_rank": 1000,
-                    "title_equip": {
-                        "title_word_id_1": 13,
-                        "title_word_id_0": 722,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 14,
-                        "title_plate_id": 368
+                        "title_plate_id": 83
                     }
                 },
                 {
