@@ -1,1 +1,110 @@
-{}
+[
+    {
+        "item_id": 1,
+        "name": "jBlock",
+        "comment": "七色の光を放つ不思議なブロック。\nアイテム交換やスタミナの回復などに使用する。",
+        "ability": 1,
+        "value": 0,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/jblock.png"
+    },
+    {
+        "item_id": 2,
+        "name": "jBlock",
+        "comment": "七色の光を放つ不思議なブロック。\nアイテム交換やスタミナの回復などに使用する。",
+        "ability": 1,
+        "value": 0,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/jblock.png"
+    },
+    {
+        "item_id": 3,
+        "name": "コイン",
+        "comment": "金色に輝く魅惑のコイン。\n集めて「楽曲ガチャ」を回そう！",
+        "ability": 3,
+        "value": 0,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/Coin.png"
+    },
+    {
+        "item_id": 4,
+        "name": "コイン",
+        "comment": "金色に輝く魅惑のコイン。\n集めて「楽曲ガチャ」を回そう！",
+        "ability": 3,
+        "value": 0,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/Coin.png"
+    },
+    {
+        "item_id": 13,
+        "name": "ミュージックプレイヤーチケット",
+        "comment": "jubeatシリーズサウンドトラックの\n収録楽曲(一部)が聴ける。\n「ミュージックプレーヤー」を30日間利用できる。",
+        "ability": 600,
+        "value": 0,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/MusicPlayerTicket.png"
+    },
+    {
+        "item_id": 14,
+        "name": "スタミナ50",
+        "comment": "飲むともう少しだけ頑張れる、赤い缶の飲み物。\nスタミナを50回復できる。",
+        "ability": 200,
+        "value": 50,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/StaminaDrink.png"
+    },
+    {
+        "item_id": 15,
+        "name": "スタミナ50",
+        "comment": "飲むともう少しだけ頑張れる、赤い缶の飲み物。\nスタミナを50回復できる。",
+        "ability": 200,
+        "value": 50,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/StaminaDrink.png"
+    },
+    {
+        "item_id": 26,
+        "name": "ガチャチケット1連",
+        "comment": "キラリと光る貴重なチケット。\n「楽曲ガチャ」のシングルガチャを回すことができる。",
+        "ability": 300,
+        "value": 1,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/GachaTicket_Single.png"
+    },
+    {
+        "item_id": 27,
+        "name": "ガチャチケット10連",
+        "comment": "キラキラ輝く憧れのチケット。\n「楽曲ガチャ」の10連ガチャを回すことができる。",
+        "ability": 300,
+        "value": 10,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/GachaTicket_10stations.png"
+    },
+    {
+        "item_id": 49,
+        "name": "ピックアップガチャチケット",
+        "comment": "ツヤツヤ光るめずらしいチケット。\n「ピックアップガチャ」を回すことができる。",
+        "ability": 301,
+        "value": 1,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/GachaTicket_Pickup.png"
+    },
+    {
+        "item_id": 50,
+        "name": "ピックアップガチャチケット",
+        "comment": "ツヤツヤ光るめずらしいチケット。\n「ピックアップガチャ」を回すことができる。",
+        "ability": 301,
+        "value": 1,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/GachaTicket_Pickup.png"
+    },
+    {
+        "item_id": 100,
+        "name": "スキップチケット",
+        "comment": "しっとりとした手触りのチケット。\n楽曲プレーをスキップできる。",
+        "ability": 400,
+        "value": 0,
+        "accessibility": 1,
+        "icon_path": "Konami/AssetBundles/Items/PlaySkipTicket.png"
+    }
+]
