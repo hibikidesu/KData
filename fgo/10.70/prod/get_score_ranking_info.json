@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-04-07T04:10:40+09:00",
+    "last_cache_load_time": "2023-04-08T04:10:46+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -921,52 +921,52 @@
             ]
         },
         {
-            "update_time": "2023-04-07T04:00:08+09:00",
+            "update_time": "2023-04-08T04:00:13+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 33030,
-                    "name": "三式機械",
-                    "gw_rank": 21,
+                    "score": 32700,
+                    "name": "GENDEN",
+                    "gw_rank": 22,
                     "border_disp_rank": 300,
+                    "title_equip": {
+                        "title_word_id_1": 59,
+                        "title_word_id_0": 31,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 34,
+                        "title_plate_id": 33
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 103630,
+                    "name": "マーク",
+                    "gw_rank": 8,
+                    "border_disp_rank": 3000,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 93
+                        "title_plate_id": 103
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 104690,
-                    "name": "マドルチェ",
+                    "score": 52470,
+                    "name": "ＣＤ",
                     "gw_rank": 21,
-                    "border_disp_rank": 3000,
-                    "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 2481,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1034,
-                        "title_plate_id": 62
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 52750,
-                    "name": "北公園散歩隊",
-                    "gw_rank": 20,
                     "border_disp_rank": 1000,
                     "title_equip": {
                         "title_word_id_1": 7,
-                        "title_word_id_0": 2128,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1648,
-                        "title_plate_id": 184
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
