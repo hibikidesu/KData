@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-04-08T04:10:46+09:00",
+    "last_cache_load_time": "2023-04-09T04:10:40+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -921,44 +921,44 @@
             ]
         },
         {
-            "update_time": "2023-04-08T04:00:13+09:00",
+            "update_time": "2023-04-09T04:00:09+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 32700,
-                    "name": "GENDEN",
+                    "score": 32250,
+                    "name": "夏凜",
                     "gw_rank": 22,
                     "border_disp_rank": 300,
                     "title_equip": {
-                        "title_word_id_1": 59,
-                        "title_word_id_0": 31,
+                        "title_word_id_1": 2337,
+                        "title_word_id_0": 0,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 34,
-                        "title_plate_id": 33
+                        "title_word_id_2": 2000,
+                        "title_plate_id": 72
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 103630,
-                    "name": "マーク",
-                    "gw_rank": 8,
+                    "score": 101100,
+                    "name": "野望チャンス",
+                    "gw_rank": 16,
                     "border_disp_rank": 3000,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 103
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 75,
+                        "title_disp_type": 2,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 52470,
-                    "name": "ＣＤ",
-                    "gw_rank": 21,
+                    "score": 50910,
+                    "name": "ぐだ子",
+                    "gw_rank": 22,
                     "border_disp_rank": 1000,
                     "title_equip": {
                         "title_word_id_1": 7,
@@ -971,17 +971,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 13670,
-                    "name": "聖少女　ジャンヌ・ダルク",
-                    "gw_rank": 29,
+                    "score": 12250,
+                    "name": "炎哮獅子咬",
+                    "gw_rank": 23,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 596,
-                        "title_word_id_0": 755,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 596,
-                        "title_plate_id": 108
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 61,
+                        "title_disp_type": 2,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
                     }
                 }
             ]
