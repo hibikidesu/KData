@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-04-09T04:10:40+09:00",
+    "last_cache_load_time": "2023-04-10T04:10:44+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -921,45 +921,15 @@
             ]
         },
         {
-            "update_time": "2023-04-09T04:00:09+09:00",
+            "update_time": "2023-04-10T04:00:13+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 32250,
-                    "name": "夏凜",
-                    "gw_rank": 22,
+                    "score": 31900,
+                    "name": "ホクホク",
+                    "gw_rank": 17,
                     "border_disp_rank": 300,
-                    "title_equip": {
-                        "title_word_id_1": 2337,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2000,
-                        "title_plate_id": 72
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 101100,
-                    "name": "野望チャンス",
-                    "gw_rank": 16,
-                    "border_disp_rank": 3000,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 75,
-                        "title_disp_type": 2,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 50910,
-                    "name": "ぐだ子",
-                    "gw_rank": 22,
-                    "border_disp_rank": 1000,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
@@ -971,17 +941,47 @@
                 },
                 {
                     "exist": 1,
-                    "score": 12250,
-                    "name": "炎哮獅子咬",
+                    "score": 97830,
+                    "name": "ベル",
+                    "gw_rank": 13,
+                    "border_disp_rank": 3000,
+                    "title_equip": {
+                        "title_word_id_1": 5,
+                        "title_word_id_0": 7,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 16,
+                        "title_plate_id": 67
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 49700,
+                    "name": "金剛",
                     "gw_rank": 23,
+                    "border_disp_rank": 1000,
+                    "title_equip": {
+                        "title_word_id_1": 9,
+                        "title_word_id_0": 6,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 7,
+                        "title_plate_id": 25
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 8920,
+                    "name": "リコオルタ",
+                    "gw_rank": 22,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 61,
-                        "title_disp_type": 2,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
+                        "title_word_id_1": 541,
+                        "title_word_id_0": 744,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 855,
+                        "title_plate_id": 276
                     }
                 }
             ]
