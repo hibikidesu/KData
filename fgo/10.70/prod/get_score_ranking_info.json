@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-04-10T04:10:44+09:00",
+    "last_cache_load_time": "2023-04-11T04:10:46+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -921,52 +921,52 @@
             ]
         },
         {
-            "update_time": "2023-04-10T04:00:13+09:00",
+            "update_time": "2023-04-11T04:00:08+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 31900,
-                    "name": "ホクホク",
-                    "gw_rank": 17,
+                    "score": 31740,
+                    "name": "千",
+                    "gw_rank": 9,
                     "border_disp_rank": 300,
+                    "title_equip": {
+                        "title_word_id_1": 2843,
+                        "title_word_id_0": 2842,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 368
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 96840,
+                    "name": "Ｍｒ・ＷｌＮ",
+                    "gw_rank": 14,
+                    "border_disp_rank": 3000,
+                    "title_equip": {
+                        "title_word_id_1": 243,
+                        "title_word_id_0": 29,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2765,
+                        "title_plate_id": 363
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 49310,
+                    "name": "ショウ",
+                    "gw_rank": 13,
+                    "border_disp_rank": 1000,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 97830,
-                    "name": "ベル",
-                    "gw_rank": 13,
-                    "border_disp_rank": 3000,
-                    "title_equip": {
-                        "title_word_id_1": 5,
-                        "title_word_id_0": 7,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 16,
-                        "title_plate_id": 67
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 49700,
-                    "name": "金剛",
-                    "gw_rank": 23,
-                    "border_disp_rank": 1000,
-                    "title_equip": {
-                        "title_word_id_1": 9,
-                        "title_word_id_0": 6,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 7,
-                        "title_plate_id": 25
+                        "title_plate_id": 55
                     }
                 },
                 {
