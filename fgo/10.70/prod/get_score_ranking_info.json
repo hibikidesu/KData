@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-04-12T04:10:42+09:00",
+    "last_cache_load_time": "2023-04-13T04:10:46+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -921,7 +921,7 @@
             ]
         },
         {
-            "update_time": "2023-04-12T04:00:08+09:00",
+            "update_time": "2023-04-13T04:00:11+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
@@ -941,32 +941,32 @@
                 },
                 {
                     "exist": 1,
-                    "score": 95920,
-                    "name": "神威",
-                    "gw_rank": 9,
+                    "score": 95560,
+                    "name": "藤丸 立香",
+                    "gw_rank": 13,
                     "border_disp_rank": 3000,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 15,
+                        "title_word_id_0": 178,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 361
+                        "title_word_id_2": 2597,
+                        "title_plate_id": 354
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 48590,
-                    "name": "giru",
-                    "gw_rank": 21,
+                    "score": 48320,
+                    "name": "藤丸 立香",
+                    "gw_rank": 12,
                     "border_disp_rank": 1000,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 159,
+                        "title_word_id_0": 227,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 34,
+                        "title_plate_id": 198
                     }
                 },
                 {
