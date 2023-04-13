@@ -16294,6 +16294,23 @@
         "stage": 5
     },
     {
+        "mcode": 38585,
+        "basename": "adrn",
+        "title": "\u30a2\u30c9\u30ec\u30ca\u30ea\u30f3",
+        "title_sort": "\u30a2\u30c8\u30ec\u30ca\u30ea\u30f3",
+        "artist": "U1 overground",
+        "bpmmax": 140,
+        "bpmmin": 70,
+        "level_str": "2 5 10 15 0 0 5 10 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "bemaniflag": 136,
+        "stage": 15
+    },
+    {
         "mcode": 38586,
         "basename": "chap",
         "title": "chaplet",
