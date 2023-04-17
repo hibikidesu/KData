@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-04-16T04:10:43+09:00",
+    "last_cache_load_time": "2023-04-17T04:10:45+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -921,52 +921,52 @@
             ]
         },
         {
-            "update_time": "2023-04-16T04:00:09+09:00",
+            "update_time": "2023-04-17T04:00:11+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 31050,
-                    "name": "（゜～゜）",
-                    "gw_rank": 13,
+                    "score": 30690,
+                    "name": "あずにゃん",
+                    "gw_rank": 7,
                     "border_disp_rank": 300,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 32,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 76
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 92970,
-                    "name": "ユシケ",
-                    "gw_rank": 9,
-                    "border_disp_rank": 3000,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_plate_id": 77
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 47300,
-                    "name": "マロン",
-                    "gw_rank": 8,
-                    "border_disp_rank": 1000,
+                    "score": 91230,
+                    "name": "マル・デ・タコ",
+                    "gw_rank": 15,
+                    "border_disp_rank": 3000,
                     "title_equip": {
-                        "title_word_id_1": 1984,
-                        "title_word_id_0": 22,
+                        "title_word_id_1": 320,
+                        "title_word_id_0": 230,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 13,
-                        "title_plate_id": 60
+                        "title_word_id_2": 2726,
+                        "title_plate_id": 2
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 46860,
+                    "name": "フジキチＶ・。・Ｖ",
+                    "gw_rank": 24,
+                    "border_disp_rank": 1000,
+                    "title_equip": {
+                        "title_word_id_1": 8,
+                        "title_word_id_0": 1413,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2113,
+                        "title_plate_id": 150
                     }
                 },
                 {
