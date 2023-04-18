@@ -1,27 +1,5 @@
 [
     {
-        "recommended_id": 1084,
-        "type": 1,
-        "message": "",
-        "reward_id": 101,
-        "start_date": "2023-04-18 00:00:00",
-        "end_date": "2023-04-18 23:59:59",
-        "recommended_music_list": [
-            {
-                "recommended_no": 0,
-                "music_id": 4005
-            },
-            {
-                "recommended_no": 2,
-                "music_id": 17007
-            },
-            {
-                "recommended_no": 1,
-                "music_id": 17054
-            }
-        ]
-    },
-    {
         "recommended_id": 5140,
         "type": 2,
         "message": "かわいい曲でオススメです♪",
