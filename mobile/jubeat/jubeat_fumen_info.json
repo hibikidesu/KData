@@ -496,6 +496,21 @@
             "use_stamina": 30
         },
         {
+            "fumen_id": "0122db74-8ed6-4f83-bb0e-bd9182b12429",
+            "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
+            "player_id": "KONAMI",
+            "music_id": 221430001,
+            "comment": "",
+            "level": 10,
+            "kind": 1,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 20
+        },
+        {
             "fumen_id": "0137fb7b-6862-4326-9c04-dd56ec0c54ec",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
@@ -29026,6 +29041,21 @@
             "use_stamina": 25
         },
         {
+            "fumen_id": "3830edef-03e9-4234-8837-dbaeef815f93",
+            "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
+            "player_id": "KONAMI",
+            "music_id": 221430001,
+            "comment": "",
+            "level": 90,
+            "kind": 3,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
+        },
+        {
             "fumen_id": "383397c2-1b23-4f93-bb02-59c6bcb33e18",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
@@ -41995,6 +42025,21 @@
             "kind": 1,
             "long_flag": true,
             "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 20
+        },
+        {
+            "fumen_id": "5242400a-48ce-49c6-8c1c-3e8ecd6d44dc",
+            "fumen_name": "Lab\u30bd\u30fc\u30b9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 221380301,
+            "comment": "",
+            "level": 10,
+            "kind": 100,
+            "long_flag": false,
+            "seq_kind": 3,
             "quatable": true,
             "sort": 0,
             "version": 1,
@@ -62011,6 +62056,21 @@
             "use_stamina": 20
         },
         {
+            "fumen_id": "797b0a5a-5df3-4b64-80a0-92841c952a74",
+            "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
+            "player_id": "KONAMI",
+            "music_id": 221380301,
+            "comment": "",
+            "level": 70,
+            "kind": 2,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
+        },
+        {
             "fumen_id": "798207aa-7aa8-4537-92eb-b27045cb2256",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
@@ -63089,6 +63149,21 @@
             "sort": 0,
             "version": 1,
             "use_stamina": 20
+        },
+        {
+            "fumen_id": "7ba1ebc6-2d87-4783-a610-50233079de7b",
+            "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
+            "player_id": "KONAMI",
+            "music_id": 221380301,
+            "comment": "",
+            "level": 90,
+            "kind": 3,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 30
         },
         {
             "fumen_id": "7ba7850f-77b2-4fe8-aa30-77907cd02c46",
@@ -67720,6 +67795,21 @@
             "kind": 1,
             "long_flag": false,
             "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 20
+        },
+        {
+            "fumen_id": "845f2a34-40b9-4eb9-b49e-2cb48f145b60",
+            "fumen_name": "Lab\u30bd\u30fc\u30b9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 221430001,
+            "comment": "",
+            "level": 10,
+            "kind": 100,
+            "long_flag": false,
+            "seq_kind": 3,
             "quatable": true,
             "sort": 0,
             "version": 1,
@@ -104161,6 +104251,21 @@
             "use_stamina": 20
         },
         {
+            "fumen_id": "cce12f5d-b0fc-4b40-bf65-0f8da313b08a",
+            "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
+            "player_id": "KONAMI",
+            "music_id": 221380301,
+            "comment": "",
+            "level": 30,
+            "kind": 1,
+            "long_flag": false,
+            "seq_kind": 1,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 20
+        },
+        {
             "fumen_id": "ccec951c-7ecd-4b42-80ed-b80952f6e534",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
@@ -107429,6 +107534,21 @@
             "sort": 0,
             "version": 1,
             "use_stamina": 30
+        },
+        {
+            "fumen_id": "d3f2b1cf-738c-41f6-aa37-dc0158a8b0d9",
+            "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
+            "player_id": "KONAMI",
+            "music_id": 221430001,
+            "comment": "",
+            "level": 40,
+            "kind": 2,
+            "long_flag": false,
+            "seq_kind": 2,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 25
         },
         {
             "fumen_id": "d3f2d718-533d-474b-baec-621725b9e373",
