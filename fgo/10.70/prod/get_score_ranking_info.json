@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-04-18T04:10:47+09:00",
+    "last_cache_load_time": "2023-04-19T04:10:39+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -921,52 +921,52 @@
             ]
         },
         {
-            "update_time": "2023-04-18T04:00:13+09:00",
+            "update_time": "2023-04-19T04:00:09+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 30440,
-                    "name": "ホワイト　グリント",
-                    "gw_rank": 17,
+                    "score": 30390,
+                    "name": "ＤＢＤＢＤ",
+                    "gw_rank": 27,
                     "border_disp_rank": 300,
                     "title_equip": {
-                        "title_word_id_1": 1539,
-                        "title_word_id_0": 333,
+                        "title_word_id_1": 11,
+                        "title_word_id_0": 11,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 94,
-                        "title_plate_id": 367
+                        "title_word_id_2": 11,
+                        "title_plate_id": 67
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 90900,
-                    "name": "てあいああるあさん",
-                    "gw_rank": 13,
+                    "score": 90040,
+                    "name": "葉路",
+                    "gw_rank": 8,
                     "border_disp_rank": 3000,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 9,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 363
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 46700,
-                    "name": "ロマン",
-                    "gw_rank": 10,
-                    "border_disp_rank": 1000,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_plate_id": 38
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 46530,
+                    "name": "エル",
+                    "gw_rank": 19,
+                    "border_disp_rank": 1000,
+                    "title_equip": {
+                        "title_word_id_1": 22,
+                        "title_word_id_0": 31,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 17,
+                        "title_plate_id": 60
                     }
                 },
                 {
