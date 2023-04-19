@@ -12664,7 +12664,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 18,
-        "limited_cha": 1,
         "stage": 30
     },
     {
@@ -12751,7 +12750,7 @@
         "artist": "Blacklolita",
         "bpmmax": 150,
         "bpmmin": 150,
-        "level_str": "2 7 11 15 0 0 7 11 15 0",
+        "level_str": "\u06fdu\u05dd{\u04fdu\u05dd{",
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 18,
@@ -14118,7 +14117,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 11,
         "limited_cha": 1,
         "stage": 31
     },
@@ -14677,7 +14675,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 12,
+        "limited": 11,
         "limited_cha": 1,
         "stage": 15
     },
@@ -15634,7 +15632,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
+        "limited": 14,
         "limited_cha": 1,
         "stage": 15
     },
@@ -15650,7 +15648,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 13,
+        "limited": 12,
         "limited_cha": 1,
         "stage": 16
     },
@@ -15666,7 +15664,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 14,
+        "limited": 13,
         "limited_cha": 1,
         "stage": 15
     },
@@ -16324,6 +16322,7 @@
         "ac_seriesid": 20,
         "limited": 2,
         "limited_cha": 1,
+        "bemaniflag": 24,
         "eventno_1": 68,
         "stage": 16
     },
@@ -16341,6 +16340,7 @@
         "ac_seriesid": 20,
         "limited": 2,
         "limited_cha": 1,
+        "bemaniflag": 26,
         "eventno_1": 68,
         "stage": 5
     },
