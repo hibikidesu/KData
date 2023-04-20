@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-04-19T04:10:39+09:00",
+    "last_cache_load_time": "2023-04-20T04:10:45+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -921,29 +921,29 @@
             ]
         },
         {
-            "update_time": "2023-04-19T04:00:09+09:00",
+            "update_time": "2023-04-20T04:00:11+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 30390,
-                    "name": "ＤＢＤＢＤ",
-                    "gw_rank": 27,
+                    "score": 30350,
+                    "name": "藤丸 立香",
+                    "gw_rank": 21,
                     "border_disp_rank": 300,
                     "title_equip": {
-                        "title_word_id_1": 11,
-                        "title_word_id_0": 11,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 11,
-                        "title_plate_id": 67
+                        "title_word_id_2": 2,
+                        "title_plate_id": 66
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 90040,
-                    "name": "葉路",
-                    "gw_rank": 8,
+                    "score": 89460,
+                    "name": "カイト",
+                    "gw_rank": 6,
                     "border_disp_rank": 3000,
                     "title_equip": {
                         "title_word_id_1": 7,
@@ -951,22 +951,22 @@
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 38
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 46530,
-                    "name": "エル",
-                    "gw_rank": 19,
+                    "score": 46170,
+                    "name": "みどりむし",
+                    "gw_rank": 22,
                     "border_disp_rank": 1000,
                     "title_equip": {
-                        "title_word_id_1": 22,
-                        "title_word_id_0": 31,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 2864,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 17,
-                        "title_plate_id": 60
+                        "title_word_id_2": 452,
+                        "title_plate_id": 368
                     }
                 },
                 {

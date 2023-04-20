@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2023-04-18T19:31:42+09:00",
+    "last_cache_load_time": "2023-04-19T19:39:33+09:00",
     "shop_info_data": [
         {
             "shop_id": 84,
@@ -22,7 +22,7 @@
             "banner_id": -1,
             "shop_type": 9,
             "end_time": "2023-05-18T10:00:00+09:00",
-            "tab_name": "★５(ＳＳＲ)",
+            "tab_name": "赫き獣と焔の使命",
             "sort_index": 0,
             "bgm_id": -1,
             "background_id": -1
@@ -111,7 +111,7 @@
         },
         {
             "shop_id": 84,
-            "last_cache_load_time": "2023-03-15T13:48:07+09:00"
+            "last_cache_load_time": "2023-04-19T19:39:33+09:00"
         }
     ],
     "shop_product_data_list": []

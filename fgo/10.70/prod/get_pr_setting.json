@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2023-04-19T04:10:32+09:00",
+    "last_cache_load_time": "2023-04-20T04:10:38+09:00",
     "pr_setting_list": [
         {
             "start_time": "2023-04-13T10:00:00+09:00",
@@ -74,18 +74,6 @@
             "lineup_id": 246
         },
         {
-            "start_time": "2023-03-30T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 1,
-            "end_time": "2023-04-20T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 247
-        },
-        {
             "start_time": "2023-03-23T10:00:00+09:00",
             "popup_image_id": -1,
             "disp_type": 0,
@@ -98,18 +86,6 @@
             "lineup_id": 244
         },
         {
-            "start_time": "2023-03-23T10:00:00+09:00",
-            "popup_image_id": -1,
-            "disp_type": 0,
-            "pr_type": 1,
-            "data_id": 229,
-            "end_time": "2023-04-20T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": 6,
-            "lineup_id": 245
-        },
-        {
             "start_time": "2023-03-16T10:00:00+09:00",
             "popup_image_id": -1,
             "disp_type": 0,
@@ -120,18 +96,6 @@
             "message": "",
             "lottery_type": 6,
             "lineup_id": 243
-        },
-        {
-            "start_time": "2023-03-16T10:00:00+09:00",
-            "popup_image_id": 236,
-            "disp_type": 0,
-            "pr_type": 3,
-            "data_id": 432,
-            "end_time": "2023-04-20T10:00:00+09:00",
-            "singularity_id": -1,
-            "message": "",
-            "lottery_type": -1,
-            "lineup_id": -1
         },
         {
             "start_time": "2023-03-09T10:00:00+09:00",
