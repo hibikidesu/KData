@@ -1008,34 +1008,6 @@
         "ifs_ver": 1
     },
     {
-        "id": 2292,
-        "diff": [
-            0,
-            220,
-            370,
-            690,
-            845,
-            0,
-            130,
-            335,
-            610,
-            720,
-            0,
-            300,
-            465,
-            640,
-            730
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
-        "ifs_ver": 1
-    },
-    {
         "id": 1727,
         "diff": [
             0,
@@ -3360,34 +3332,6 @@
         "ifs_ver": 1
     },
     {
-        "id": 1723,
-        "diff": [
-            0,
-            340,
-            610,
-            775,
-            0,
-            0,
-            375,
-            490,
-            760,
-            0,
-            0,
-            375,
-            530,
-            800,
-            0
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
-        "ifs_ver": 1
-    },
-    {
         "id": 2046,
         "diff": [
             0,
@@ -3719,34 +3663,6 @@
         "is_cont": true,
         "is_secret": false,
         "is_hot": false,
-        "data_ver": 115,
-        "knst_pack": 0,
-        "ifs_ver": 1
-    },
-    {
-        "id": 1720,
-        "diff": [
-            0,
-            395,
-            620,
-            840,
-            0,
-            0,
-            435,
-            485,
-            590,
-            0,
-            0,
-            355,
-            525,
-            710,
-            0
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
         "data_ver": 115,
         "knst_pack": 0,
         "ifs_ver": 1
@@ -7336,34 +7252,6 @@
         "ifs_ver": 1
     },
     {
-        "id": 537,
-        "diff": [
-            0,
-            620,
-            765,
-            840,
-            0,
-            0,
-            365,
-            620,
-            735,
-            0,
-            0,
-            415,
-            530,
-            730,
-            0
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
-        "ifs_ver": 1
-    },
-    {
         "id": 12,
         "diff": [
             0,
@@ -7980,34 +7868,6 @@
         "ifs_ver": 1
     },
     {
-        "id": 2037,
-        "diff": [
-            0,
-            225,
-            420,
-            745,
-            0,
-            0,
-            230,
-            455,
-            730,
-            0,
-            0,
-            405,
-            720,
-            840,
-            0
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
-        "ifs_ver": 1
-    },
-    {
         "id": 600,
         "diff": [
             0,
@@ -8481,34 +8341,6 @@
         "is_hot": true,
         "data_ver": 202,
         "knst_pack": 9,
-        "ifs_ver": 1
-    },
-    {
-        "id": 2552,
-        "diff": [
-            0,
-            315,
-            420,
-            690,
-            835,
-            0,
-            335,
-            430,
-            675,
-            835,
-            0,
-            255,
-            425,
-            650,
-            770
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 119,
-        "knst_pack": 0,
         "ifs_ver": 1
     },
     {
@@ -8988,34 +8820,6 @@
         "ifs_ver": 1
     },
     {
-        "id": 2213,
-        "diff": [
-            0,
-            330,
-            670,
-            805,
-            0,
-            0,
-            385,
-            675,
-            775,
-            0,
-            0,
-            315,
-            450,
-            785,
-            0
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
-        "ifs_ver": 1
-    },
-    {
         "id": 1721,
         "diff": [
             0,
@@ -9461,34 +9265,6 @@
         "is_hot": true,
         "data_ver": 115,
         "knst_pack": 3,
-        "ifs_ver": 1
-    },
-    {
-        "id": 2020,
-        "diff": [
-            0,
-            255,
-            445,
-            795,
-            980,
-            0,
-            185,
-            480,
-            780,
-            985,
-            0,
-            395,
-            600,
-            875,
-            991
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
         "ifs_ver": 1
     },
     {
@@ -11645,34 +11421,6 @@
         "is_hot": true,
         "data_ver": 207,
         "knst_pack": 20,
-        "ifs_ver": 1
-    },
-    {
-        "id": 1007,
-        "diff": [
-            0,
-            370,
-            500,
-            630,
-            750,
-            0,
-            315,
-            425,
-            545,
-            680,
-            0,
-            375,
-            570,
-            690,
-            850
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 117,
-        "knst_pack": 0,
         "ifs_ver": 1
     },
     {
@@ -13888,34 +13636,6 @@
         "ifs_ver": 1
     },
     {
-        "id": 2260,
-        "diff": [
-            0,
-            230,
-            350,
-            590,
-            765,
-            0,
-            115,
-            455,
-            600,
-            700,
-            0,
-            150,
-            470,
-            670,
-            785
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
-        "ifs_ver": 1
-    },
-    {
         "id": 1110,
         "diff": [
             0,
@@ -15033,34 +14753,6 @@
         "is_hot": true,
         "data_ver": 202,
         "knst_pack": 13,
-        "ifs_ver": 1
-    },
-    {
-        "id": 2551,
-        "diff": [
-            0,
-            145,
-            300,
-            495,
-            680,
-            0,
-            175,
-            310,
-            470,
-            660,
-            0,
-            250,
-            520,
-            675,
-            840
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 121,
-        "knst_pack": 0,
         "ifs_ver": 1
     },
     {
@@ -18452,34 +18144,6 @@
         "ifs_ver": 1
     },
     {
-        "id": 2360,
-        "diff": [
-            0,
-            200,
-            340,
-            520,
-            695,
-            0,
-            235,
-            345,
-            530,
-            665,
-            0,
-            240,
-            495,
-            705,
-            815
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
-        "ifs_ver": 1
-    },
-    {
         "id": 2137,
         "diff": [
             0,
@@ -21025,34 +20689,6 @@
         "is_hot": true,
         "data_ver": 115,
         "knst_pack": 4,
-        "ifs_ver": 1
-    },
-    {
-        "id": 1709,
-        "diff": [
-            0,
-            350,
-            575,
-            725,
-            0,
-            0,
-            340,
-            595,
-            700,
-            0,
-            0,
-            455,
-            585,
-            840,
-            0
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
         "ifs_ver": 1
     },
     {
@@ -24864,34 +24500,6 @@
         "ifs_ver": 1
     },
     {
-        "id": 2225,
-        "diff": [
-            0,
-            330,
-            535,
-            765,
-            920,
-            0,
-            345,
-            480,
-            770,
-            840,
-            0,
-            405,
-            590,
-            795,
-            971
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
-        "ifs_ver": 1
-    },
-    {
         "id": 1704,
         "diff": [
             0,
@@ -25393,34 +25001,6 @@
         "is_hot": true,
         "data_ver": 202,
         "knst_pack": 9,
-        "ifs_ver": 1
-    },
-    {
-        "id": 1821,
-        "diff": [
-            0,
-            275,
-            545,
-            670,
-            0,
-            0,
-            330,
-            530,
-            630,
-            0,
-            0,
-            445,
-            660,
-            915,
-            0
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
         "ifs_ver": 1
     },
     {
@@ -29481,34 +29061,6 @@
         "is_hot": true,
         "data_ver": 115,
         "knst_pack": 5,
-        "ifs_ver": 1
-    },
-    {
-        "id": 2554,
-        "diff": [
-            0,
-            285,
-            425,
-            705,
-            850,
-            0,
-            275,
-            400,
-            685,
-            780,
-            0,
-            270,
-            400,
-            640,
-            830
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 120,
-        "knst_pack": 0,
         "ifs_ver": 1
     },
     {
