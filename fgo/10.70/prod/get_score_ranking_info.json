@@ -757,7 +757,7 @@
             "icon_type": 6
         }
     ],
-    "last_cache_load_time": "2023-04-20T04:10:45+09:00",
+    "last_cache_load_time": "2023-04-21T04:10:44+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-03-02T10:00:00+09:00",
@@ -791,137 +791,15 @@
         {
             "update_time": "2023-03-30T11:00:06+09:00",
             "score_ranking_id": 17,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 40935,
-                    "name": "完全無欠のバーサーカー",
-                    "gw_rank": 24,
-                    "border_disp_rank": 500,
-                    "title_equip": {
-                        "title_word_id_1": 2271,
-                        "title_word_id_0": 436,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 160,
-                        "title_plate_id": 368
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 66155,
-                    "name": "Ardyn",
-                    "gw_rank": 21,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2276,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 8
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 111800,
-                    "name": "さだみちゅ応援団でちゅ",
-                    "gw_rank": 20,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 966,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 72,
-                        "title_plate_id": 30
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 187080,
-                    "name": "狐滅隊頭領　ＪＩＪＩ",
-                    "gw_rank": 30,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 16,
-                        "title_word_id_0": 2520,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1225,
-                        "title_plate_id": 159
-                    }
-                }
-            ]
+            "border_data_list": []
         },
         {
             "update_time": "2023-03-16T11:00:11+09:00",
             "score_ranking_id": 18,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 26,
-                    "name": "オリヴィエ",
-                    "gw_rank": 23,
-                    "border_disp_rank": 1200,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 81,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 54,
-                    "name": "戻ったり戻らなかったり",
-                    "gw_rank": 19,
-                    "border_disp_rank": 600,
-                    "title_equip": {
-                        "title_word_id_1": 13,
-                        "title_word_id_0": 33,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 16,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 6,
-                    "name": "鮮血滴る血肉",
-                    "gw_rank": 19,
-                    "border_disp_rank": 2500,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 204,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 348
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 114,
-                    "name": "ナハト",
-                    "gw_rank": 21,
-                    "border_disp_rank": 150,
-                    "title_equip": {
-                        "title_word_id_1": 1499,
-                        "title_word_id_0": 239,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1233,
-                        "title_plate_id": 29
-                    }
-                }
-            ]
+            "border_data_list": []
         },
         {
-            "update_time": "2023-04-20T04:00:11+09:00",
+            "update_time": "2023-04-20T11:00:06+09:00",
             "score_ranking_id": 19,
             "border_data_list": [
                 {
