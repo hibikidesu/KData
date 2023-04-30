@@ -2,7 +2,6 @@
     "events": [
         "BLASTER_ABLE",
         "BLASTER_BONUS_ENABLE 16",
-        "BLASTER_BONUS_ENABLE 20",
         "CLOUD_LINK_ENABLE",
         "CREW_SELECT_ABLE",
         "SKILL_ANALYZER_ABLE",
