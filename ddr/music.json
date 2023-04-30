@@ -16345,6 +16345,25 @@
         "stage": 5
     },
     {
+        "mcode": 38588,
+        "basename": "suim",
+        "title": "\u3059\u3044\u307f\u3093\u4e0d\u8db3",
+        "title_sort": "\u30b9\u30a4\u30df\u30f3\u30d5\u30bd\u30af",
+        "artist": "\u30d1\u30fc\u30ad\u30c3\u30c4",
+        "bpmmax": 142,
+        "bpmmin": 142,
+        "level_str": "2 3 7 10 0 0 3 6 10 0",
+        "editable": false,
+        "is_konaste_music": true,
+        "is_streaming": true,
+        "seriesid": 1,
+        "ac_seriesid": 0,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 2,
+        "stage": 16
+    },
+    {
         "mcode": 38590,
         "basename": "souv",
         "title": "SOUVENIR",
