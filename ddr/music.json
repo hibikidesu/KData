@@ -15653,6 +15653,22 @@
         "stage": 16
     },
     {
+        "mcode": 38534,
+        "basename": "saeu",
+        "title": "SURVIVAL AT THE END OF THE UNIVERSE",
+        "title_sort": "survivalattheendoftheuniverse",
+        "artist": "Akira Complex",
+        "bpmmax": 200,
+        "bpmmin": 150,
+        "level_str": "5 9 14 16 0 0 9 14 17 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 31
+    },
+    {
         "mcode": 38536,
         "basename": "sect",
         "title": "Sector",
