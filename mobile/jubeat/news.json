@@ -10,16 +10,6 @@
         "view_flg": 0
     },
     {
-        "id": 207,
-        "category": 1,
-        "title": "2周年カウントダウンログインボーナス！",
-        "start_date": "2023-04-27 10:00:00",
-        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_event.png",
-        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230427_0_info_event.html",
-        "pick_up_flg": 1,
-        "view_flg": 0
-    },
-    {
         "id": 205,
         "category": 2,
         "title": "pop'n music アルバム追加！",
