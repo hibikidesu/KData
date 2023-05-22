@@ -16380,6 +16380,23 @@
         "stage": 16
     },
     {
+        "mcode": 38589,
+        "basename": "youh",
+        "title": "\u7f8a\u76ae\u7d19\u306e\u4e0a\u306e\u9280\u6cb3",
+        "title_sort": "\u30e8\u30a6\u30d2\u30b7\u30ce\u30a6\u30a8\u30ce\u30ad\u30f3\u30ab",
+        "artist": "OSTER project feat. \u305d\u3089\u3053",
+        "bpmmax": 196,
+        "bpmmin": 196,
+        "level_str": "3 6 10 14 0 0 6 10 14 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "bemaniflag": 1026,
+        "stage": 16
+    },
+    {
         "mcode": 38590,
         "basename": "souv",
         "title": "SOUVENIR",
