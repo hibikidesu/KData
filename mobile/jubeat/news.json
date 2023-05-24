@@ -10,6 +10,16 @@
         "view_flg": 0
     },
     {
+        "id": 210,
+        "category": 2,
+        "title": "jubeat Ave. アルバム追加！",
+        "start_date": "2023-05-24 13:25:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230524_0_info_album.html",
+        "pick_up_flg": 1,
+        "view_flg": 0
+    },
+    {
         "id": 208,
         "category": 2,
         "title": "かめりあ アルバム追加！",
