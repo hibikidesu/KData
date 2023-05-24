@@ -35,6 +35,51 @@
         "sort_id": 1
     },
     {
+        "gacha_id": 78,
+        "gacha_type": 1,
+        "name": "jubeat Ave.",
+        "disp_name": "jubeat Ave.",
+        "comment": "",
+        "new_flag": 1,
+        "gacha_item_num": 16,
+        "limit_type": 0,
+        "limit_num": 0,
+        "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/78_jacket.png",
+        "gacha_big_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/78_jacket.png",
+        "accessibility": 1,
+        "price_type": [
+            1
+        ],
+        "gacha_1_price": 1000,
+        "gacha_10_price": 10000,
+        "gacha_1_flg": 1,
+        "gacha_10_flg": 1,
+        "music_list": [
+            100060231,
+            100060261,
+            100060262,
+            100060263,
+            100060264,
+            100060265,
+            100060266,
+            100060267,
+            100060268,
+            100060270,
+            100060271,
+            100060272,
+            100060273,
+            100060274,
+            100060293,
+            100060294
+        ],
+        "extra_time_type": 0,
+        "start_time": 1684890000,
+        "end_time": 5711734800,
+        "playable_date": 0,
+        "10_disp_flg": 1,
+        "sort_id": 2
+    },
+    {
         "gacha_id": 63,
         "gacha_type": 1,
         "name": "pop'n music",
@@ -2474,7 +2519,8 @@
             100060179,
             100060202,
             100060203,
-            100060204
+            100060204,
+            100060293
         ],
         "extra_time_type": 0,
         "start_time": 1640134800,
@@ -2549,7 +2595,8 @@
             100060098,
             100060199,
             100060200,
-            100060201
+            100060201,
+            100060294
         ],
         "extra_time_type": 0,
         "start_time": 1648602000,
