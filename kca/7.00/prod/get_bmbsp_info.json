@@ -35,7 +35,16 @@
             "end_time": "2023-06-12T07:00:00+09:00",
             "period_id": 253,
             "exercise_solo_play_count": 6
+        },
+        {
+            "exercise_raid_reward_num": 1,
+            "start_time": "2023-06-12T07:00:00+09:00",
+            "exercise_solo_reward_num": 1,
+            "exercise_raid_play_count": 3,
+            "end_time": "2023-06-19T07:00:00+09:00",
+            "period_id": 254,
+            "exercise_solo_play_count": 6
         }
     ],
-    "bmbspi_lut": "2023-05-28T04:25:49+09:00"
+    "bmbspi_lut": "2023-05-29T04:25:59+09:00"
 }
