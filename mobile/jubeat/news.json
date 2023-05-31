@@ -1,5 +1,15 @@
 [
     {
+        "id": 211,
+        "category": 1,
+        "title": "きまぐれ！スペシャルミッションスタート！",
+        "start_date": "2023-05-31 10:29:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_event.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230531_0_info_event.html",
+        "pick_up_flg": 1,
+        "view_flg": 0
+    },
+    {
         "id": 210,
         "category": 2,
         "title": "jubeat Ave. アルバム追加！",
