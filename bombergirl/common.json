@@ -31,6 +31,12 @@
             "till_time": 9223372036825200000
         },
         {
+            "msg_id": 19,
+            "tag": "R_MAP",
+            "message": "Map=101,40,84;",
+            "till_time": 1686099600000
+        },
+        {
             "msg_id": 232,
             "tag": "KSNET",
             "message": "wifi_check=0;",
