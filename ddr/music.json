@@ -15790,6 +15790,22 @@
         "stage": 15
     },
     {
+        "mcode": 38537,
+        "basename": "jdan",
+        "title": "Jungle Dance",
+        "title_sort": "jungledance",
+        "artist": "NATSUMI",
+        "bpmmax": 155,
+        "bpmmin": 155,
+        "level_str": "3 7 12 16 0 0 7 12 16 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 15
+    },
+    {
         "mcode": 38538,
         "basename": "rena2",
         "title": "\u604b\u611b\u89b3\u6e2c -2021\u771f\u590f\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0 ver.-",
