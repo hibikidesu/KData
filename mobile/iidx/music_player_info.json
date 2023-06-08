@@ -4086,61 +4086,6 @@
             "is_new": 0
         },
         {
-            "mp_gid": "dr_012_0021",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_012_0022",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_012_0035",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_012_0036",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_012_0037",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_012_0038",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_012_0040",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_012_0041",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_012_0042",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_012_0043",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_012_0044",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
             "mp_gid": "dr_018_0064",
             "mp_flag": 0,
             "is_new": 1
@@ -4162,6 +4107,66 @@
         },
         {
             "mp_gid": "bm_064_0051",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0049",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0051",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0052",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0053",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0058",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0060",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0061",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0062",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0063",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0064",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0065",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_012_0067",
             "mp_flag": 0,
             "is_new": 1
         }
