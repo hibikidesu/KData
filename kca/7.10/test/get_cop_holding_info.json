@@ -1,0 +1,19 @@
+{
+    "cop_ctrl_str_lst": [
+        "2099-12-31T23:59:59+09:00",
+        "2099-12-31T23:59:59+09:00",
+        "2099-12-31T23:59:59+09:00",
+        "2099-12-31T23:59:59+09:00",
+        "2099-12-31T23:59:59+09:00"
+    ],
+    "cop_ctrl_int_lst": [
+        -1,
+        -1,
+        0
+    ],
+    "cop_srt_cnt_prize_data_lst": [],
+    "cop_rwrd_indv_data_lst_lst": [],
+    "cophi_lut": "2023-06-20T11:36:30+09:00",
+    "cop_rwrd_indv_enty_lst_lst": [],
+    "cop_area_data_lst_lst": []
+}
