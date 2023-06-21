@@ -16696,5 +16696,22 @@
         "limited_cha": 1,
         "bemaniflag": 81,
         "stage": 31
+    },
+    {
+        "mcode": 38610,
+        "basename": "mtpn",
+        "title": "\u30e1\u30f3\u30bf\u30f3\u30d4\u30f3\u30c9\u30e9\u30c9\u30e9",
+        "title_sort": "\u30e1\u30f3\u30bf\u30f3\u30d2\u30f3\u30c8\u30e9\u30c8\u30e9",
+        "artist": "enzo + O2i3",
+        "bpmmax": 185,
+        "bpmmin": 93,
+        "level_str": "2 7 11 16 0 0 7 11 16 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "bemaniflag": 576,
+        "stage": 3
     }
 ]
