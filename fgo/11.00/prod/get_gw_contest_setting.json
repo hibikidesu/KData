@@ -1,0 +1,45 @@
+{
+    "season_and_contest_relation": [
+        {
+            "gw_contest_id": 11,
+            "season_id": 6
+        },
+        {
+            "gw_contest_id": 12,
+            "season_id": 6
+        }
+    ],
+    "last_cache_load_time": "2023-06-21T04:13:09+09:00",
+    "gw_contest_setting_list": [
+        {
+            "gw_contest_id": 11,
+            "division": 0,
+            "start_time": "2023-04-27T10:00:00+09:00",
+            "score_ranking_id": 21,
+            "contest_target": 0,
+            "end_time": "2023-05-25T10:00:00+09:00",
+            "name": "ＧＷスパークスバトル シーズン6",
+            "disp_sprite_id": -1
+        },
+        {
+            "gw_contest_id": 12,
+            "division": 1,
+            "start_time": "2023-04-27T10:00:00+09:00",
+            "score_ranking_id": 22,
+            "contest_target": 1,
+            "end_time": "2023-05-11T10:00:00+09:00",
+            "name": "ＧＷスパークスバトル シーズン6",
+            "disp_sprite_id": -1
+        }
+    ],
+    "season_list": [
+        {
+            "start_time": "2023-04-27T10:00:00+09:00",
+            "end_time": "2023-05-25T10:00:00+09:00",
+            "disp_name": "シーズン6",
+            "disp_number": 6,
+            "season_id": 6,
+            "disp_sprite_id": 1
+        }
+    ]
+}
