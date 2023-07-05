@@ -39,8 +39,8 @@
         "skill_level": 1,
         "skill_name_id": 1,
         "matching_assist": true,
-        "clear_rate": 9213,
-        "avg_score": 27716732,
+        "clear_rate": 9217,
+        "avg_score": 27726365,
         "tracks": [
             {
                 "track_no": 0,
@@ -69,8 +69,8 @@
         "skill_level": 1,
         "skill_name_id": 1,
         "matching_assist": true,
-        "clear_rate": 8593,
-        "avg_score": 25852735,
+        "clear_rate": 8695,
+        "avg_score": 26066144,
         "tracks": [
             {
                 "track_no": 0,
@@ -129,8 +129,8 @@
         "skill_level": 2,
         "skill_name_id": 2,
         "matching_assist": true,
-        "clear_rate": 9803,
-        "avg_score": 28787172,
+        "clear_rate": 9807,
+        "avg_score": 28794415,
         "tracks": [
             {
                 "track_no": 0,
@@ -160,7 +160,7 @@
         "skill_name_id": 2,
         "matching_assist": true,
         "clear_rate": 10000,
-        "avg_score": 29568523,
+        "avg_score": 29550031,
         "tracks": [
             {
                 "track_no": 0,
@@ -250,7 +250,7 @@
         "skill_name_id": 3,
         "matching_assist": true,
         "clear_rate": 10000,
-        "avg_score": 28882277,
+        "avg_score": 28926912,
         "tracks": [
             {
                 "track_no": 0,
@@ -339,8 +339,8 @@
         "skill_level": 4,
         "skill_name_id": 4,
         "matching_assist": true,
-        "clear_rate": 9259,
-        "avg_score": 27603784,
+        "clear_rate": 9310,
+        "avg_score": 27695657,
         "tracks": [
             {
                 "track_no": 0,
@@ -369,8 +369,8 @@
         "skill_level": 5,
         "skill_name_id": 5,
         "matching_assist": true,
-        "clear_rate": 6718,
-        "avg_score": 26004569,
+        "clear_rate": 6717,
+        "avg_score": 25975098,
         "tracks": [
             {
                 "track_no": 0,
@@ -399,8 +399,8 @@
         "skill_level": 5,
         "skill_name_id": 5,
         "matching_assist": true,
-        "clear_rate": 6153,
-        "avg_score": 23294735,
+        "clear_rate": 6000,
+        "avg_score": 23046889,
         "tracks": [
             {
                 "track_no": 0,
@@ -429,8 +429,8 @@
         "skill_level": 5,
         "skill_name_id": 5,
         "matching_assist": true,
-        "clear_rate": 7575,
-        "avg_score": 24477319,
+        "clear_rate": 7142,
+        "avg_score": 23697024,
         "tracks": [
             {
                 "track_no": 0,
@@ -459,8 +459,8 @@
         "skill_level": 6,
         "skill_name_id": 6,
         "matching_assist": true,
-        "clear_rate": 7734,
-        "avg_score": 24310696,
+        "clear_rate": 7751,
+        "avg_score": 24436005,
         "tracks": [
             {
                 "track_no": 0,
@@ -489,8 +489,8 @@
         "skill_level": 6,
         "skill_name_id": 6,
         "matching_assist": true,
-        "clear_rate": 6282,
-        "avg_score": 23071307,
+        "clear_rate": 6250,
+        "avg_score": 22993807,
         "tracks": [
             {
                 "track_no": 0,
@@ -549,8 +549,8 @@
         "skill_level": 7,
         "skill_name_id": 7,
         "matching_assist": true,
-        "clear_rate": 8320,
-        "avg_score": 26573644,
+        "clear_rate": 8333,
+        "avg_score": 26585968,
         "tracks": [
             {
                 "track_no": 0,
@@ -609,8 +609,8 @@
         "skill_level": 7,
         "skill_name_id": 7,
         "matching_assist": true,
-        "clear_rate": 7142,
-        "avg_score": 23651836,
+        "clear_rate": 7254,
+        "avg_score": 23811105,
         "tracks": [
             {
                 "track_no": 0,
@@ -669,8 +669,8 @@
         "skill_level": 8,
         "skill_name_id": 8,
         "matching_assist": false,
-        "clear_rate": 5949,
-        "avg_score": 23375857,
+        "clear_rate": 6000,
+        "avg_score": 23439221,
         "tracks": [
             {
                 "track_no": 0,
@@ -699,8 +699,8 @@
         "skill_level": 8,
         "skill_name_id": 8,
         "matching_assist": false,
-        "clear_rate": 6451,
-        "avg_score": 23746246,
+        "clear_rate": 6363,
+        "avg_score": 23563214,
         "tracks": [
             {
                 "track_no": 0,
@@ -820,7 +820,7 @@
         "skill_name_id": 10,
         "matching_assist": false,
         "clear_rate": 8020,
-        "avg_score": 25777209,
+        "avg_score": 25710454,
         "tracks": [
             {
                 "track_no": 0,
@@ -849,8 +849,8 @@
         "skill_level": 10,
         "skill_name_id": 10,
         "matching_assist": false,
-        "clear_rate": 8283,
-        "avg_score": 25216215,
+        "clear_rate": 8298,
+        "avg_score": 25260248,
         "tracks": [
             {
                 "track_no": 0,
@@ -879,8 +879,8 @@
         "skill_level": 10,
         "skill_name_id": 10,
         "matching_assist": false,
-        "clear_rate": 7642,
-        "avg_score": 25200460,
+        "clear_rate": 7619,
+        "avg_score": 25165143,
         "tracks": [
             {
                 "track_no": 0,
@@ -909,8 +909,8 @@
         "skill_level": 11,
         "skill_name_id": 11,
         "matching_assist": false,
-        "clear_rate": 7155,
-        "avg_score": 24117995,
+        "clear_rate": 7179,
+        "avg_score": 24092863,
         "tracks": [
             {
                 "track_no": 0,
@@ -939,8 +939,8 @@
         "skill_level": 11,
         "skill_name_id": 11,
         "matching_assist": false,
-        "clear_rate": 6315,
-        "avg_score": 22045404,
+        "clear_rate": 6288,
+        "avg_score": 21975168,
         "tracks": [
             {
                 "track_no": 0,
@@ -969,8 +969,8 @@
         "skill_level": 11,
         "skill_name_id": 11,
         "matching_assist": false,
-        "clear_rate": 7272,
-        "avg_score": 24338839,
+        "clear_rate": 7352,
+        "avg_score": 24168714,
         "tracks": [
             {
                 "track_no": 0,
@@ -999,8 +999,8 @@
         "skill_level": 11,
         "skill_name_id": 11,
         "matching_assist": false,
-        "clear_rate": 7142,
-        "avg_score": 23524839,
+        "clear_rate": 6896,
+        "avg_score": 22880259,
         "tracks": [
             {
                 "track_no": 0,
@@ -1029,8 +1029,8 @@
         "skill_level": 12,
         "skill_name_id": 12,
         "matching_assist": false,
-        "clear_rate": 4578,
-        "avg_score": 22442055,
+        "clear_rate": 4588,
+        "avg_score": 22383151,
         "tracks": [
             {
                 "track_no": 0,
@@ -1059,8 +1059,8 @@
         "skill_level": 12,
         "skill_name_id": 12,
         "matching_assist": false,
-        "clear_rate": 4833,
-        "avg_score": 23472107,
+        "clear_rate": 4918,
+        "avg_score": 23566624,
         "tracks": [
             {
                 "track_no": 0,
@@ -1089,8 +1089,8 @@
         "skill_level": 12,
         "skill_name_id": 12,
         "matching_assist": false,
-        "clear_rate": 4666,
-        "avg_score": 23813686,
+        "clear_rate": 5000,
+        "avg_score": 24153800,
         "tracks": [
             {
                 "track_no": 0,
@@ -1119,8 +1119,8 @@
         "skill_level": 12,
         "skill_name_id": 12,
         "matching_assist": false,
-        "clear_rate": 4666,
-        "avg_score": 21154320,
+        "clear_rate": 4705,
+        "avg_score": 21397019,
         "tracks": [
             {
                 "track_no": 0,
