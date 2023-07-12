@@ -15764,6 +15764,22 @@
         "stage": 15
     },
     {
+        "mcode": 38531,
+        "basename": "ravi",
+        "title": "Rave in the Shell",
+        "title_sort": "raveintheshell",
+        "artist": "yadosan",
+        "bpmmax": 300,
+        "bpmmin": 75,
+        "level_str": "3 7 12 16 0 0 7 12 16 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 29
+    },
+    {
         "mcode": 38532,
         "basename": "takh",
         "title": "TAKE ME HIGHER",
