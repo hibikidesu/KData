@@ -6501,6 +6501,16 @@
             "is_new": 0
         },
         {
+            "music_id": 30043,
+            "lock_type": 3,
+            "is_new": 1
+        },
+        {
+            "music_id": 30044,
+            "lock_type": 3,
+            "is_new": 1
+        },
+        {
             "music_id": 30047,
             "lock_type": 3,
             "is_new": 0
@@ -6536,9 +6546,19 @@
             "is_new": 0
         },
         {
+            "music_id": 30068,
+            "lock_type": 3,
+            "is_new": 1
+        },
+        {
             "music_id": 30070,
             "lock_type": 3,
             "is_new": 0
+        },
+        {
+            "music_id": 30073,
+            "lock_type": 3,
+            "is_new": 1
         },
         {
             "music_id": 30074,
