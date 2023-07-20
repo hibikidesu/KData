@@ -12183,25 +12183,25 @@
                 "icon_id": 1
             },
             {
+                "user_id": 432366,
+                "name": "naly",
+                "rank": 98,
+                "point": 80,
+                "icon_id": 7
+            },
+            {
                 "user_id": 359634,
                 "name": "tr",
-                "rank": 98,
+                "rank": 99,
                 "point": 79,
                 "icon_id": 2
             },
             {
                 "user_id": 418087,
                 "name": "iiv",
-                "rank": 99,
-                "point": 79,
-                "icon_id": 19
-            },
-            {
-                "user_id": 34712,
-                "name": "CAPYBARA",
                 "rank": 100,
                 "point": 79,
-                "icon_id": 29
+                "icon_id": 19
             }
         ]
     },
