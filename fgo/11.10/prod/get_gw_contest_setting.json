@@ -1,0 +1,45 @@
+{
+    "season_and_contest_relation": [
+        {
+            "gw_contest_id": 13,
+            "season_id": 7
+        },
+        {
+            "gw_contest_id": 14,
+            "season_id": 7
+        }
+    ],
+    "last_cache_load_time": "2023-07-24T04:12:02+09:00",
+    "gw_contest_setting_list": [
+        {
+            "gw_contest_id": 13,
+            "division": 0,
+            "start_time": "2023-08-24T10:00:00+09:00",
+            "score_ranking_id": 23,
+            "contest_target": 0,
+            "end_time": "2023-09-14T10:00:00+09:00",
+            "name": "ＧＷスパークスバトル シーズン7",
+            "disp_sprite_id": -1
+        },
+        {
+            "gw_contest_id": 14,
+            "division": 1,
+            "start_time": "2023-08-24T10:00:00+09:00",
+            "score_ranking_id": 24,
+            "contest_target": 1,
+            "end_time": "2023-09-07T10:00:00+09:00",
+            "name": "ＧＷスパークスバトル シーズン7",
+            "disp_sprite_id": -1
+        }
+    ],
+    "season_list": [
+        {
+            "start_time": "2023-08-24T10:00:00+09:00",
+            "end_time": "2023-09-14T10:00:00+09:00",
+            "disp_name": "シーズン7",
+            "disp_number": 7,
+            "season_id": 7,
+            "disp_sprite_id": 1
+        }
+    ]
+}
