@@ -1,10 +1,10 @@
 {
     "messages": [
         {
-            "msg_id": 141,
+            "msg_id": 142,
             "tag": "GAME",
-            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=2051,4,83;MatchingType=1;TeamSyncType=1;",
-            "till_time": 1689728400000
+            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=161,132,2103;MatchingType=1;TeamSyncType=1;",
+            "till_time": 9223372036825200000
         },
         {
             "msg_id": 200,
@@ -29,6 +29,12 @@
             "tag": "GACHA",
             "message": "tuika_gacha_rate=0,-2,-1,1,1,1;",
             "till_time": 9223372036825200000
+        },
+        {
+            "msg_id": 22,
+            "tag": "R_MAP",
+            "message": "Map=161,132,2103;",
+            "till_time": 1690822800000
         },
         {
             "msg_id": 232,
@@ -168,7 +174,7 @@
         },
         {
             "type": 5,
-            "phase": 16
+            "phase": 6
         },
         {
             "type": 7,
@@ -217,29 +223,32 @@
         {
             "type": 10,
             "phase": 1
-        },
-        {
-            "type": 101,
-            "phase": 3
         }
     ],
     "event_info": [
         {
             "type": 5,
-            "phase": 16,
-            "str_date": "7/5(水)10:00 am ～7/19(水) 9:59 am"
-        },
-        {
-            "type": 101,
-            "phase": 3,
-            "str_date": "6/7(水) 10:00 am ～ 7/19(水) 9:59 am"
+            "phase": 6,
+            "str_date": "7/19(水)10:00 am ～8/3(木) 8:59 am"
         }
     ],
     "gacha": {
-        "id": 16,
+        "id": 6,
         "items": [
             {
-                "item_id": 1312,
+                "item_id": 6,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 8,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 919,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1151,
                 "pick_rate": 1
             },
             {
@@ -251,7 +260,55 @@
                 "pick_rate": 1
             },
             {
-                "item_id": 1315,
+                "item_id": 2460,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2707,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 864,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1106,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 866,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 868,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2245,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 877,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1108,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 922,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1309,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1154,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2652,
                 "pick_rate": 1
             },
             {
@@ -263,38 +320,18 @@
                 "pick_rate": 1
             },
             {
-                "item_id": 866,
+                "item_id": 2463,
                 "pick_rate": 1
             },
             {
-                "item_id": 1422,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1420,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1421,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1412,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1413,
+                "item_id": 2710,
                 "pick_rate": 1
             }
         ],
         "pick_rate": [
             {
                 "rare": 3,
-                "pick_rate": 25
-            },
-            {
-                "rare": 4,
-                "pick_rate": 25
+                "pick_rate": 35
             },
             {
                 "rare": 5,
