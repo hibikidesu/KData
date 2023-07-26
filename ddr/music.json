@@ -16889,6 +16889,23 @@
         "stage": 3
     },
     {
+        "mcode": 38613,
+        "basename": "tknt",
+        "title": "\u3068\u3053\u306b\u3083\u3064\u2606\u30c8\u30ed\u30d4\u30ab\u30eb",
+        "title_sort": "\u30c8\u30b3\u30cb\u30e4\u30c4\u30c8\u30ed\u30d2\u30ab\u30eb",
+        "artist": "Dormir",
+        "bpmmax": 132,
+        "bpmmin": 132,
+        "level_str": "3 7 12 15 0 0 6 12 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "bemaniflag": 1024,
+        "stage": 16
+    },
+    {
         "mcode": 38615,
         "basename": "puru",
         "title": "Pure Rude",
