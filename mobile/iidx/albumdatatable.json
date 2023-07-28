@@ -776,6 +776,11 @@
             "category": 15
         },
         {
+            "albumID": 10016,
+            "title": "beatmania IIDX 31 EPOLIS LOCATION TEST SPECIAL",
+            "category": 15
+        },
+        {
             "albumID": 11000,
             "title": "cyber beatnation 2 -Hi Speed conclusion-",
             "category": 14
@@ -23936,6 +23941,150 @@
             "title": "VOLAQUAS",
             "artist": "BEMANI Sound Team “DJ TOTTO VS 兎々”",
             "openType": 0
+        },
+        {
+            "gid": "ev_017_0001",
+            "albumID": 10016,
+            "trackNo": 1,
+            "title": "Get Higher",
+            "artist": "BEMANI Sound Team \"劇団レコード\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0002",
+            "albumID": 10016,
+            "trackNo": 2,
+            "title": "Bitter & Lucky",
+            "artist": "DÉ DÉ MOUSE",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0003",
+            "albumID": 10016,
+            "trackNo": 3,
+            "title": "Chemical Colours",
+            "artist": "Blacklolita x BEMANI Sound Team \"Expander\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0004",
+            "albumID": 10016,
+            "trackNo": 4,
+            "title": "Deep Sea Mystery",
+            "artist": "Dirty Androids",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0005",
+            "albumID": 10016,
+            "trackNo": 5,
+            "title": "Shapeshifter",
+            "artist": "Avans",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0006",
+            "albumID": 10016,
+            "trackNo": 6,
+            "title": "Ghost Pulse",
+            "artist": "crayvxn",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0007",
+            "albumID": 10016,
+            "trackNo": 7,
+            "title": "Mukade",
+            "artist": "kors k",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0008",
+            "albumID": 10016,
+            "trackNo": 8,
+            "title": "Submerge Serenade",
+            "artist": "lapix",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0009",
+            "albumID": 10016,
+            "trackNo": 9,
+            "title": "GloriosA",
+            "artist": "KARUT",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0010",
+            "albumID": 10016,
+            "trackNo": 10,
+            "title": "Time Distortion pt.2(IIDX Edit)",
+            "artist": "kors k vs BEMANI Sound Team \"setup\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0011",
+            "albumID": 10016,
+            "trackNo": 11,
+            "title": "Jumper",
+            "artist": "Masayoshi Iimori",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0012",
+            "albumID": 10016,
+            "trackNo": 12,
+            "title": "Dahlia",
+            "artist": "BlackY",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0013",
+            "albumID": 10016,
+            "trackNo": 13,
+            "title": "TITANIUM RIDERS",
+            "artist": "DJ Shimamura",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0014",
+            "albumID": 10016,
+            "trackNo": 14,
+            "title": "20XX",
+            "artist": "COR!S",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0015",
+            "albumID": 10016,
+            "trackNo": 15,
+            "title": "夏風邪デスコ",
+            "artist": "TORIENA",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0016",
+            "albumID": 10016,
+            "trackNo": 16,
+            "title": "れとりば！",
+            "artist": "OSTER project feat. 月ノ輪乃愛",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0017",
+            "albumID": 10016,
+            "trackNo": 17,
+            "title": "アタシ完全絶対正義ちゃん！",
+            "artist": "Pizuya's Cell",
+            "openType": 1
+        },
+        {
+            "gid": "ev_017_0018",
+            "albumID": 10016,
+            "trackNo": 18,
+            "title": "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.",
+            "artist": "BEMANI Sound Team \"L.E.D.\"",
+            "openType": 1
         },
         {
             "gid": "gd_001_0001",
