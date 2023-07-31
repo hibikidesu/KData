@@ -1,0 +1,62 @@
+{
+    "last_cache_load_time": "2023-08-01T04:14:22+09:00",
+    "extra_interlude_setting_list": [
+        {
+            "coop_quest_group": -1,
+            "tlf_guidance_id_list": [
+                91,
+                92,
+                93
+            ],
+            "end_time": "2038-01-01T00:00:00+09:00",
+            "gw_id": -1,
+            "sort_index": 2,
+            "singularity_id": 8024,
+            "scenario_id": -1,
+            "player_skill_setting_id": -1,
+            "extra_interlude_id": 1,
+            "start_time": "2021-01-01T10:00:00+09:00",
+            "shop_id": 30,
+            "gw_open_rule": 0,
+            "image_data_set_id": 27
+        },
+        {
+            "coop_quest_group": 18,
+            "tlf_guidance_id_list": [
+                98,
+                99,
+                100
+            ],
+            "end_time": "2038-01-01T00:00:00+09:00",
+            "gw_id": -1,
+            "sort_index": 1,
+            "singularity_id": 8026,
+            "scenario_id": -1,
+            "player_skill_setting_id": -1,
+            "extra_interlude_id": 2,
+            "start_time": "2021-01-01T10:00:00+09:00",
+            "shop_id": 33,
+            "gw_open_rule": 0,
+            "image_data_set_id": 29
+        },
+        {
+            "coop_quest_group": 29,
+            "tlf_guidance_id_list": [
+                161,
+                162,
+                163
+            ],
+            "end_time": "2038-01-01T00:00:00+09:00",
+            "gw_id": -1,
+            "sort_index": 0,
+            "singularity_id": 8037,
+            "scenario_id": -1,
+            "player_skill_setting_id": -1,
+            "extra_interlude_id": 3,
+            "start_time": "2022-09-22T10:00:00+09:00",
+            "shop_id": 74,
+            "gw_open_rule": 0,
+            "image_data_set_id": 43
+        }
+    ]
+}

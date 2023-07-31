@@ -1,0 +1,108 @@
+{
+    "day_of_week_bonus_setting_ctrl_id": 2827,
+    "last_cache_load_time": "2023-08-01T04:14:18+09:00",
+    "day_of_week_bonus_setting_list": [
+        {
+            "bonus_list": [
+                {
+                    "bonus_name": "福袋召喚補助券配布",
+                    "data_id": 0,
+                    "target_day_of_week_list": [
+                        2,
+                        3
+                    ],
+                    "bonus_kind": 0
+                },
+                {
+                    "bonus_name": "GW全国対戦1回無料",
+                    "data_id": 1,
+                    "target_day_of_week_list": [
+                        4,
+                        5
+                    ],
+                    "bonus_kind": 1
+                },
+                {
+                    "bonus_name": "取得絆ポイント増量",
+                    "data_id": 2,
+                    "target_day_of_week_list": [
+                        1,
+                        6,
+                        7
+                    ],
+                    "bonus_kind": 2
+                },
+                {
+                    "bonus_name": "GWポイント連勝ボーナス",
+                    "data_id": 3,
+                    "target_day_of_week_list": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ],
+                    "bonus_kind": 3
+                }
+            ],
+            "day_of_week_bonus_id": 3,
+            "setting_name": "期間限定曜日ボーナス",
+            "start_time": "2023-07-26T07:00:00+09:00",
+            "disp_spr_id": -1,
+            "end_time": "2023-08-10T07:00:00+09:00"
+        },
+        {
+            "bonus_list": [
+                {
+                    "bonus_name": "福袋召喚補助券配布",
+                    "data_id": 0,
+                    "target_day_of_week_list": [
+                        2,
+                        3
+                    ],
+                    "bonus_kind": 0
+                },
+                {
+                    "bonus_name": "GW全国対戦1回無料",
+                    "data_id": 1,
+                    "target_day_of_week_list": [
+                        4,
+                        5
+                    ],
+                    "bonus_kind": 1
+                },
+                {
+                    "bonus_name": "取得絆ポイント増量",
+                    "data_id": 2,
+                    "target_day_of_week_list": [
+                        1,
+                        6,
+                        7
+                    ],
+                    "bonus_kind": 2
+                },
+                {
+                    "bonus_name": "GWポイント連勝ボーナス",
+                    "data_id": 3,
+                    "target_day_of_week_list": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ],
+                    "bonus_kind": 3
+                }
+            ],
+            "day_of_week_bonus_id": 4,
+            "setting_name": "期間限定曜日ボーナス",
+            "start_time": "2023-08-31T07:00:00+09:00",
+            "disp_spr_id": -1,
+            "end_time": "2023-09-14T07:00:00+09:00"
+        }
+    ]
+}
