@@ -20879,6 +20879,62 @@
             "openType": 1
         },
         {
+            "gid": "bm_064_0052",
+            "albumID": 1035,
+            "trackNo": 52,
+            "title": "BIGWAVERS",
+            "artist": "BlackY",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0053",
+            "albumID": 1035,
+            "trackNo": 53,
+            "title": "Somnidiscotheque",
+            "artist": "夢路 歩",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0054",
+            "albumID": 1035,
+            "trackNo": 54,
+            "title": "■□模様",
+            "artist": "BEMANI Sound Team \"PHQUASE\" feat.紫崎 雪",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0055",
+            "albumID": 1035,
+            "trackNo": 55,
+            "title": "Ambush Ace",
+            "artist": "Xceon",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0056",
+            "albumID": 1035,
+            "trackNo": 56,
+            "title": "神のシナリオ",
+            "artist": "AJURIKA",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0057",
+            "albumID": 1035,
+            "trackNo": 57,
+            "title": "ぞうしょく！？マイデンティティ",
+            "artist": "DJ SHARPNEL feat. みらい",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0058",
+            "albumID": 1035,
+            "trackNo": 58,
+            "title": "Xerulean",
+            "artist": "BEMANI Sound Team \"ZAQUVA\"",
+            "openType": 1
+        },
+        {
             "gid": "bs_001_0001",
             "albumID": 8000,
             "trackNo": 1,
@@ -22364,6 +22420,14 @@
             "trackNo": 172,
             "title": "Love You",
             "artist": "BEMANI Sound Team \"KE!JU\" ",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0173",
+            "albumID": 3000,
+            "trackNo": 173,
+            "title": "Light of Love",
+            "artist": "kors k",
             "openType": 1
         },
         {
@@ -67991,6 +68055,110 @@
             "openType": 1
         },
         {
+            "gid": "dr_018_0067",
+            "albumID": 12010,
+            "trackNo": 67,
+            "title": "Surrender (PureFocus remix)",
+            "artist": "U1 ft. Becca Hossany",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0068",
+            "albumID": 12010,
+            "trackNo": 68,
+            "title": "SAY A PRAYER",
+            "artist": "Des-ROW Ft. Maxi Priest",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0069",
+            "albumID": 12010,
+            "trackNo": 69,
+            "title": "BREAKING THE FUTURE",
+            "artist": "ARM (IOSYS) x BEMANI Sound Team \"U1\" ft. Kradness x TRIΔNGLE",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0070",
+            "albumID": 12010,
+            "trackNo": 70,
+            "title": "Jungle Dance",
+            "artist": "NATSUMI",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0071",
+            "albumID": 12010,
+            "trackNo": 71,
+            "title": "Drive Away",
+            "artist": "Tanukichi",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0072",
+            "albumID": 12010,
+            "trackNo": 72,
+            "title": "Aria",
+            "artist": "ZxNX",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0073",
+            "albumID": 12010,
+            "trackNo": 73,
+            "title": "Complete Game Victory",
+            "artist": "Numb'n'dub",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0074",
+            "albumID": 12010,
+            "trackNo": 74,
+            "title": "GLOW THE CROWN",
+            "artist": "DJ Shimamura",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0075",
+            "albumID": 12010,
+            "trackNo": 75,
+            "title": "SMASH",
+            "artist": "Whac-A-Me",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0076",
+            "albumID": 12010,
+            "trackNo": 76,
+            "title": "Rise As One",
+            "artist": "Relect",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0077",
+            "albumID": 12010,
+            "trackNo": 77,
+            "title": "Chromatic Burst",
+            "artist": "JAKAZiD",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0078",
+            "albumID": 12010,
+            "trackNo": 78,
+            "title": "Abrupt Madness",
+            "artist": "Mameyudoufu",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0079",
+            "albumID": 12010,
+            "trackNo": 79,
+            "title": "Rave in the Shell",
+            "artist": "yadosan",
+            "openType": 1
+        },
+        {
             "gid": "sv_101_0001",
             "albumID": 13000,
             "trackNo": 1,
@@ -68748,6 +68916,22 @@
             "trackNo": 23,
             "title": "Acid,Tribal & Dance",
             "artist": "Relect",
+            "openType": 1
+        },
+        {
+            "gid": "da_001_0024",
+            "albumID": 14000,
+            "trackNo": 24,
+            "title": "DDDaR",
+            "artist": "DJ.DAI feat. Nofia",
+            "openType": 1
+        },
+        {
+            "gid": "da_001_0025",
+            "albumID": 14000,
+            "trackNo": 25,
+            "title": "Hip Hop☆パーリナイ",
+            "artist": "ヒップホップマスター",
             "openType": 1
         }
     ]
