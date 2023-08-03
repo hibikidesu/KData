@@ -31562,6 +31562,44 @@
             "disp_tonefuse": 0
         },
         {
+            "music_id": 100060296,
+            "title": "beyond the Ave.",
+            "title_kana": "\u30d3\u30e8\u30f3\u30c9\u30b8\u30a2\u30d9\u30cb\u30e5\u30fc",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "artist_kana": "\u30d3\u30fc\u30de\u30cb\u30b5\u30a6\u30f3\u30c9\u30c1\u30fc\u30e0\u30b7\u30e5\u30f3",
+            "disp_title": "beyond the Ave.",
+            "disp_artist": "BEMANI Sound Team \"SYUNN\"",
+            "genre": [
+                7
+            ],
+            "bpm": [
+                135,
+                135
+            ],
+            "artist_texture": "Konami/AssetBundles/Playables/Textures/Artists/artist_id100060296.psd",
+            "title_texture": "Konami/AssetBundles/Playables/Textures/Titles/music_id100060296.psd",
+            "big_jacket": "Konami/AssetBundles/Playables/Textures/Jackets/100060296_jacket.png",
+            "small_jacket": "Konami/AssetBundles/Playables/Textures/Jackets/100060296_jacket.png",
+            "preview_sound": "Konami/AssetBundles/Playables/Audio/Previews/100060296_preview.wav",
+            "sound": "Konami/AssetBundles/Playables/Audio/Fulls/100060296_bgm.wav",
+            "music_disable": 0,
+            "copyright": "",
+            "music_release": 1,
+            "bsc_release": 1,
+            "adv_release": 1,
+            "ext_release": 1,
+            "edit_release": 11,
+            "edit_pack_release": 0,
+            "jacket_disable": 1,
+            "start_date": 1691042400,
+            "end_date": 1692338400,
+            "get_date": 1690876311,
+            "playable_date": 1690876311,
+            "play_capability": 1,
+            "streaming_kind": 1,
+            "disp_tonefuse": 0
+        },
+        {
             "music_id": 109000000,
             "title": "\u5929\u56fd\u3068\u5730\u7344",
             "title_kana": "\u30c6\u30f3\u30b4\u30af\u30c8\u30b8\u30b4\u30af",

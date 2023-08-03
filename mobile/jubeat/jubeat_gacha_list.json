@@ -3593,5 +3593,35 @@
         "playable_date": 1655491967,
         "10_disp_flg": 1,
         "sort_id": 74
+    },
+    {
+        "gacha_id": 73,
+        "gacha_type": 1,
+        "name": "\u671f\u9593\u9650\u5b9a",
+        "disp_name": "\u671f\u9593\u9650\u5b9a",
+        "comment": "",
+        "new_flag": 1,
+        "gacha_item_num": 1,
+        "limit_type": 0,
+        "limit_num": 0,
+        "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/73_jacket.png",
+        "gacha_big_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/73_jacket.png",
+        "accessibility": 1,
+        "price_type": [
+            1
+        ],
+        "gacha_1_price": 1000,
+        "gacha_10_price": 10000,
+        "gacha_1_flg": 1,
+        "gacha_10_flg": 1,
+        "music_list": [
+            100060296
+        ],
+        "extra_time_type": 0,
+        "start_time": 1691042400,
+        "end_time": 1692338400,
+        "playable_date": 1690876311,
+        "10_disp_flg": 0,
+        "sort_id": 75
     }
 ]

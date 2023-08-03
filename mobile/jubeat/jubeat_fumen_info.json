@@ -70876,6 +70876,21 @@
             "use_stamina": 20
         },
         {
+            "fumen_id": "88899d8c-73f5-42cc-b0b2-7f66054920fe",
+            "fumen_name": "Lab\u30bd\u30fc\u30b9\u8b5c\u9762",
+            "player_id": "KONAMI",
+            "music_id": 100060296,
+            "comment": "",
+            "level": 10,
+            "kind": 100,
+            "long_flag": false,
+            "seq_kind": 3,
+            "quatable": true,
+            "sort": 0,
+            "version": 1,
+            "use_stamina": 20
+        },
+        {
             "fumen_id": "888abb7f-a766-4a00-96a8-78d833486dea",
             "fumen_name": "\u516c\u5f0f\u8b5c\u97621",
             "player_id": "KONAMI",
