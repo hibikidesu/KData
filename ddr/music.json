@@ -3619,7 +3619,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 17
     },
@@ -4242,7 +4241,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 5
     },
@@ -4274,7 +4272,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 3
     },
@@ -4534,7 +4531,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 16
     },
@@ -4837,7 +4833,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 2
     },
@@ -4854,7 +4849,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 4,
         "stage": 27
@@ -13439,7 +13433,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited_cha": 1,
         "stage": 29
     },
     {
@@ -13517,7 +13510,7 @@
         "artist": "C-Show",
         "bpmmax": 176,
         "bpmmin": 88,
-        "level_str": "4 8 11 15 0 0 8 11 15 0",
+        "level_str": "4 8 11 15 17 0 8 11 15 17",
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
@@ -14592,7 +14585,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 11,
         "limited_cha": 1,
         "stage": 14
     },
@@ -15619,6 +15611,26 @@
         "stage": 2
     },
     {
+        "mcode": 38521,
+        "basename": "mega",
+        "title": "MEGALOVANIA",
+        "title_sort": "megalovania",
+        "artist": "Toby Fox",
+        "source": "\u30b2\u30fc\u30e0\u300cUNDERTALE\u300d\u3088\u308a",
+        "license": "Licensed by Royal Sciences LLC",
+        "bpmmax": 240,
+        "bpmmin": 120,
+        "level_str": "4 9 12 16 18 0 9 12 16 18",
+        "music_pack_no": 39,
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "genreid": 2,
+        "movie": 4,
+        "stage": 30
+    },
+    {
         "mcode": 38522,
         "basename": "mana",
         "title": "MANA",
@@ -15748,6 +15760,23 @@
         "stage": 28
     },
     {
+        "mcode": 38529,
+        "basename": "spad",
+        "title": "Sparkle Dreams",
+        "title_sort": "sparkledreams",
+        "artist": "PIKASONIC",
+        "bpmmax": 180,
+        "bpmmin": 180,
+        "level_str": "3 8 13 17 0 0 7 13 17 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "eventno_1": 70,
+        "stage": 16
+    },
+    {
         "mcode": 38530,
         "basename": "abil",
         "title": "Ability",
@@ -15759,7 +15788,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 13,
+        "limited": 12,
         "limited_cha": 1,
         "stage": 15
     },
@@ -15775,7 +15804,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
+        "limited": 14,
         "limited_cha": 1,
         "stage": 29
     },
@@ -15839,7 +15868,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 14,
+        "limited": 13,
         "limited_cha": 1,
         "stage": 15
     },
@@ -15875,7 +15904,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 24,
         "stage": 3
@@ -15893,8 +15921,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
-        "limited_cha": 2,
         "bemaniflag": 9,
         "stage": 30
     },
@@ -15911,7 +15937,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 2056,
         "stage": 2
@@ -15929,7 +15954,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 72,
         "stage": 5
@@ -15947,7 +15971,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 89,
         "stage": 27
@@ -15965,7 +15988,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 72,
         "stage": 14
@@ -15983,7 +16005,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 2056,
         "stage": 3
@@ -16001,8 +16022,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
-        "limited_cha": 2,
         "bemaniflag": 1119,
         "movie": 4,
         "stage": 15
@@ -16193,6 +16212,7 @@
         "ac_seriesid": 20,
         "limited": 2,
         "bemaniflag": 6144,
+        "eventno_1": 69,
         "stage": 28
     },
     {
@@ -16207,7 +16227,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 12,
+        "limited": 11,
         "limited_cha": 1,
         "stage": 16
     },
@@ -16447,6 +16467,22 @@
         "limited_cha": 1,
         "eventno_1": 67,
         "stage": 5
+    },
+    {
+        "mcode": 38583,
+        "basename": "paea",
+        "title": "\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u30a4\u30fc\u30bf\u30fc",
+        "title_sort": "\u30cf\u30a2\u30d5\u30a8\u30af\u30c8\u30a4\u30a4\u30bf\u30a2",
+        "artist": "BEMANI Sound Team \"PON\" feat.\u304b\u306a\u305f\u3093",
+        "bpmmax": 175,
+        "bpmmin": 175,
+        "level_str": "3 6 12 17 0 0 6 12 17 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "stage": 14
     },
     {
         "mcode": 38584,
@@ -16921,5 +16957,82 @@
         "limited": 1,
         "limited_cha": 1,
         "stage": 5
+    },
+    {
+        "mcode": 38620,
+        "basename": "iwuu",
+        "title": "I-W-U (I Want U)",
+        "title_sort": "iwu'iwantu'",
+        "artist": "nagomu tamaki",
+        "bpmmax": 150,
+        "bpmmin": 150,
+        "level_str": "3 7 12 17 0 0 7 12 17 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "eventno_1": 70,
+        "stage": 15
+    },
+    {
+        "mcode": 38625,
+        "basename": "bath",
+        "title": "Battle Against a True Hero",
+        "title_sort": "battleagainstatruehero",
+        "artist": "Toby Fox",
+        "source": "\u30b2\u30fc\u30e0\u300cUNDERTALE\u300d\u3088\u308a",
+        "license": "Licensed by Royal Sciences LLC",
+        "bpmmax": 150,
+        "bpmmin": 75,
+        "level_str": "\u06fdv\u05dd|\u04fdv\u05dd|",
+        "music_pack_no": 39,
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 2,
+        "stage": 30
+    },
+    {
+        "mcode": 38626,
+        "basename": "dbgl",
+        "title": "Death by Glamour",
+        "title_sort": "deathbyglamour",
+        "artist": "Toby Fox",
+        "source": "\u30b2\u30fc\u30e0\u300cUNDERTALE\u300d\u3088\u308a",
+        "license": "Licensed by Royal Sciences LLC",
+        "bpmmax": 148,
+        "bpmmin": 148,
+        "level_str": "\u07fdu\u05cd{\u04fdu\u05cd{",
+        "music_pack_no": 39,
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 2,
+        "stage": 2
+    },
+    {
+        "mcode": 38627,
+        "basename": "~)^",
+        "title": "Finale",
+        "title_sort": "finale",
+        "artist": "Toby Fox",
+        "source": "\u30b2\u30fc\u30e0\u300cUNDERTALE\u300d\u3088\u308a",
+        "license": "Licensed by Royal Sciences LLC",
+        "bpmmax": 190,
+        "bpmmin": 48,
+        "level_str": "2 5 8 13 15 0 5 8 12 15",
+        "music_pack_no": 39,
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 2,
+        "stage": 28
     }
 ]
