@@ -10,16 +10,6 @@
         "view_flg": 0
     },
     {
-        "id": 215,
-        "category": 1,
-        "title": "AC版jubeat新ver記念！譜面コンテスト開催！",
-        "start_date": "2023-08-03 15:00:00",
-        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_event.png",
-        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230803_0_info_event.html",
-        "pick_up_flg": 1,
-        "view_flg": 0
-    },
-    {
         "id": 213,
         "category": 2,
         "title": "REFLEC BEAT アルバムに楽曲追加！",
