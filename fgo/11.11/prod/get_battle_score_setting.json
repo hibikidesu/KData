@@ -230,6 +230,251 @@
             "draw_coeff": 900,
             "battle_score_id": 9,
             "kill_coeff": 0
+        },
+        {
+            "gw_rank_coeff_table": [
+                {
+                    "gw_rank": 1,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 2,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 3,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 4,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 5,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 6,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 7,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 8,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 9,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 10,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 11,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 12,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 13,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 14,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 15,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 16,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 17,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 18,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 19,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 20,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 21,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 22,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 23,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 24,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 25,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 26,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 27,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 28,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 29,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 30,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 31,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 32,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 33,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 34,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 35,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 36,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 37,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 38,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 39,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                },
+                {
+                    "gw_rank": 40,
+                    "gw_rank_coeff": 1,
+                    "score_cap": -1
+                }
+            ],
+            "npc_tolerance": 5,
+            "end_time": "2023-10-05T07:00:00+09:00",
+            "lose_coeff": 700,
+            "match_coeff": 1,
+            "win_coeff": 900,
+            "acquire_end_time": "2023-09-21T07:00:00+09:00",
+            "damage_coeff_denom": 0,
+            "start_time": "2023-08-24T10:00:00+09:00",
+            "match_coeff_denom": 6,
+            "is_disp_result": 0,
+            "score_ranking_id": -1,
+            "noble_coeff": 0,
+            "score_offset_list": [
+                {
+                    "internal_id": 131,
+                    "battle_type": 2,
+                    "offset_val": 100
+                },
+                {
+                    "internal_id": 132,
+                    "battle_type": 2,
+                    "offset_val": 2100
+                },
+                {
+                    "internal_id": 133,
+                    "battle_type": 2,
+                    "offset_val": 100
+                },
+                {
+                    "internal_id": 134,
+                    "battle_type": 2,
+                    "offset_val": 2100
+                }
+            ],
+            "npc_gw_rank_coeff": 1,
+            "name": "再復刻：ここで一筆！サマーバカンス武者修行剣客北斎旅絵巻",
+            "damage_coeff": 0,
+            "noble_score_valid_count": 0,
+            "draw_coeff": 800,
+            "battle_score_id": 10,
+            "kill_coeff": 0
         }
     ]
 }
