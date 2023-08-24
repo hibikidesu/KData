@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-08-24T04:14:13+09:00",
+    "last_cache_load_time": "2023-08-25T04:14:13+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,14 +456,136 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2001-01-01T00:00:00+09:00",
+            "update_time": "2023-08-25T04:00:02+09:00",
             "score_ranking_id": 23,
-            "border_data_list": []
+            "border_data_list": [
+                {
+                    "exist": 1,
+                    "score": 600,
+                    "name": "巽ヶ丘",
+                    "gw_rank": 19,
+                    "border_disp_rank": 500,
+                    "title_equip": {
+                        "title_word_id_1": 375,
+                        "title_word_id_0": 34,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 47,
+                        "title_plate_id": 360
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 3190,
+                    "name": "ドム",
+                    "gw_rank": 22,
+                    "border_disp_rank": 200,
+                    "title_equip": {
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 2337,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 1017
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 7370,
+                    "name": "ＴＯＰＰＯ",
+                    "gw_rank": 21,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 8,
+                        "title_word_id_0": 147,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 210,
+                        "title_plate_id": 222
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 11645,
+                    "name": "あるるかん",
+                    "gw_rank": 24,
+                    "border_disp_rank": 10,
+                    "title_equip": {
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
+                    }
+                }
+            ]
         },
         {
-            "update_time": "2001-01-01T00:00:00+09:00",
+            "update_time": "2023-08-25T04:00:04+09:00",
             "score_ranking_id": 24,
-            "border_data_list": []
+            "border_data_list": [
+                {
+                    "exist": 0,
+                    "score": -1,
+                    "name": "",
+                    "gw_rank": -1,
+                    "border_disp_rank": 1200,
+                    "title_equip": {
+                        "title_word_id_1": -1,
+                        "title_word_id_0": -1,
+                        "title_integrated_id": -1,
+                        "title_disp_type": -1,
+                        "title_word_id_2": -1,
+                        "title_plate_id": -1
+                    }
+                },
+                {
+                    "exist": 0,
+                    "score": -1,
+                    "name": "",
+                    "gw_rank": -1,
+                    "border_disp_rank": 600,
+                    "title_equip": {
+                        "title_word_id_1": -1,
+                        "title_word_id_0": -1,
+                        "title_integrated_id": -1,
+                        "title_disp_type": -1,
+                        "title_word_id_2": -1,
+                        "title_plate_id": -1
+                    }
+                },
+                {
+                    "exist": 0,
+                    "score": -1,
+                    "name": "",
+                    "gw_rank": -1,
+                    "border_disp_rank": 2500,
+                    "title_equip": {
+                        "title_word_id_1": -1,
+                        "title_word_id_0": -1,
+                        "title_integrated_id": -1,
+                        "title_disp_type": -1,
+                        "title_word_id_2": -1,
+                        "title_plate_id": -1
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 9,
+                    "name": "シトラスこ～ら",
+                    "gw_rank": 15,
+                    "border_disp_rank": 150,
+                    "title_equip": {
+                        "title_word_id_1": 38,
+                        "title_word_id_0": 1478,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 18,
+                        "title_plate_id": 76
+                    }
+                }
+            ]
         }
     ]
 }
