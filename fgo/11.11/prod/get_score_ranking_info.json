@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-08-25T04:14:13+09:00",
+    "last_cache_load_time": "2023-08-26T04:14:18+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,73 +456,73 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-08-25T04:00:02+09:00",
+            "update_time": "2023-08-26T04:00:03+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 600,
-                    "name": "巽ヶ丘",
-                    "gw_rank": 19,
+                    "score": 2450,
+                    "name": "ウルトラソルト",
+                    "gw_rank": 22,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 375,
-                        "title_word_id_0": 34,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 47,
-                        "title_plate_id": 360
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 3190,
-                    "name": "ドム",
-                    "gw_rank": 22,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2337,
+                        "title_word_id_1": 918,
+                        "title_word_id_0": 2649,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 1017
+                        "title_plate_id": 400
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 7370,
-                    "name": "ＴＯＰＰＯ",
-                    "gw_rank": 21,
+                    "score": 6265,
+                    "name": "早めのアヴァロン",
+                    "gw_rank": 20,
+                    "border_disp_rank": 200,
+                    "title_equip": {
+                        "title_word_id_1": 475,
+                        "title_word_id_0": 143,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 13,
+                        "title_plate_id": 372
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 11495,
+                    "name": "凡人ソロ探索者",
+                    "gw_rank": 20,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 147,
+                        "title_word_id_1": 4,
+                        "title_word_id_0": 709,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 210,
-                        "title_plate_id": 222
+                        "title_word_id_2": 2299,
+                        "title_plate_id": 81
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 11645,
-                    "name": "あるるかん",
-                    "gw_rank": 24,
+                    "score": 17340,
+                    "name": "狐滅隊剣柱　エクレール",
+                    "gw_rank": 27,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 2025,
+                        "title_word_id_0": 2520,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 320,
+                        "title_plate_id": 366
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-08-25T04:00:04+09:00",
+            "update_time": "2023-08-26T04:00:04+09:00",
             "score_ranking_id": 24,
             "border_data_list": [
                 {
@@ -541,18 +541,18 @@
                     }
                 },
                 {
-                    "exist": 0,
-                    "score": -1,
-                    "name": "",
-                    "gw_rank": -1,
+                    "exist": 1,
+                    "score": 4,
+                    "name": "年１プレイヤー",
+                    "gw_rank": 21,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": -1,
-                        "title_word_id_0": -1,
-                        "title_integrated_id": -1,
-                        "title_disp_type": -1,
-                        "title_word_id_2": -1,
-                        "title_plate_id": -1
+                        "title_word_id_1": 165,
+                        "title_word_id_0": 48,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 1920,
+                        "title_plate_id": 3
                     }
                 },
                 {
@@ -572,17 +572,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 9,
-                    "name": "シトラスこ～ら",
-                    "gw_rank": 15,
+                    "score": 17,
+                    "name": "藤丸 立香",
+                    "gw_rank": 9,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 38,
-                        "title_word_id_0": 1478,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 18,
-                        "title_plate_id": 76
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 }
             ]
