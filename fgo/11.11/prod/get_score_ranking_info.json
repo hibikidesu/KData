@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-08-29T04:14:17+09:00",
+    "last_cache_load_time": "2023-08-30T04:14:13+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,126 +456,81 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-08-29T04:00:07+09:00",
+            "update_time": "2023-08-30T04:00:06+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 8835,
-                    "name": "エチオピア在住",
+                    "score": 9785,
+                    "name": "キアラちゃんマス",
                     "gw_rank": 26,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 859,
-                        "title_word_id_0": 1848,
+                        "title_word_id_1": 769,
+                        "title_word_id_0": 1506,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 84
+                        "title_word_id_2": 649,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 16260,
-                    "name": "となりのヘドロ",
-                    "gw_rank": 20,
+                    "score": 18460,
+                    "name": "使い手の中でも最弱",
+                    "gw_rank": 25,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 4,
-                        "title_word_id_0": 1748,
+                        "title_word_id_1": 738,
+                        "title_word_id_0": 1642,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 20,
-                        "title_plate_id": 62
+                        "title_word_id_2": 7,
+                        "title_plate_id": 984
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 27480,
-                    "name": "【閃光】アスナ",
-                    "gw_rank": 20,
+                    "score": 29830,
+                    "name": "絶剣",
+                    "gw_rank": 31,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 970,
+                        "title_word_id_1": 2290,
+                        "title_word_id_0": 379,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 6
+                        "title_plate_id": 1032
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 42915,
-                    "name": "四つ葉のくろーばー",
-                    "gw_rank": 26,
+                    "score": 50095,
+                    "name": "私は誰を犠牲に生きていい",
+                    "gw_rank": 29,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 357,
-                        "title_word_id_0": 1031,
+                        "title_word_id_1": 8,
+                        "title_word_id_0": 723,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 18,
-                        "title_plate_id": 16
+                        "title_word_id_2": 2263,
+                        "title_plate_id": 352
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-08-29T04:00:12+09:00",
+            "update_time": "2023-08-30T04:00:09+09:00",
             "score_ranking_id": 24,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 7,
-                    "name": "触手のお兄さん",
-                    "gw_rank": 13,
+                    "score": 8,
+                    "name": "九条レイ＠シャトゥ教室",
+                    "gw_rank": 18,
                     "border_disp_rank": 1200,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 539,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 27,
-                        "title_plate_id": 2
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 18,
-                    "name": "クシャトリア",
-                    "gw_rank": 26,
-                    "border_disp_rank": 600,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 315,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 221
-                    }
-                },
-                {
-                    "exist": 0,
-                    "score": -1,
-                    "name": "",
-                    "gw_rank": -1,
-                    "border_disp_rank": 2500,
-                    "title_equip": {
-                        "title_word_id_1": -1,
-                        "title_word_id_0": -1,
-                        "title_integrated_id": -1,
-                        "title_disp_type": -1,
-                        "title_word_id_2": -1,
-                        "title_plate_id": -1
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 46,
-                    "name": "イ",
-                    "gw_rank": 23,
-                    "border_disp_rank": 150,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
@@ -583,6 +538,51 @@
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
                         "title_plate_id": 25
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 20,
+                    "name": "浅黄色",
+                    "gw_rank": 20,
+                    "border_disp_rank": 600,
+                    "title_equip": {
+                        "title_word_id_1": 2668,
+                        "title_word_id_0": 105,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 38,
+                        "title_plate_id": 852
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 1,
+                    "name": "Ｍｒ・Candy",
+                    "gw_rank": 10,
+                    "border_disp_rank": 2500,
+                    "title_equip": {
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 69,
+                        "title_disp_type": 2,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 52,
+                    "name": "坐林檎",
+                    "gw_rank": 21,
+                    "border_disp_rank": 150,
+                    "title_equip": {
+                        "title_word_id_1": 1494,
+                        "title_word_id_0": 34,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 388,
+                        "title_plate_id": 39
                     }
                 }
             ]
