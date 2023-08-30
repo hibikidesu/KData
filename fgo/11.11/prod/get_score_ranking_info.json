@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-08-30T04:14:13+09:00",
+    "last_cache_load_time": "2023-08-31T04:14:19+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,103 +456,103 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-08-30T04:00:06+09:00",
+            "update_time": "2023-08-31T04:00:08+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 9785,
-                    "name": "キアラちゃんマス",
+                    "score": 10585,
+                    "name": "出でよ！ＢｉｇＭの幹部達",
                     "gw_rank": 26,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 769,
-                        "title_word_id_0": 1506,
+                        "title_word_id_1": 1187,
+                        "title_word_id_0": 701,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 649,
-                        "title_plate_id": 25
+                        "title_word_id_2": 1048,
+                        "title_plate_id": 95
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 18460,
-                    "name": "使い手の中でも最弱",
-                    "gw_rank": 25,
+                    "score": 19930,
+                    "name": "黒揚羽蝶",
+                    "gw_rank": 26,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 738,
-                        "title_word_id_0": 1642,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 7,
-                        "title_plate_id": 984
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 29830,
-                    "name": "絶剣",
-                    "gw_rank": 31,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 2290,
-                        "title_word_id_0": 379,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 2261,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 1032
+                        "title_plate_id": 496
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 50095,
-                    "name": "私は誰を犠牲に生きていい",
+                    "score": 32980,
+                    "name": "ミズチ",
                     "gw_rank": 29,
-                    "border_disp_rank": 10,
+                    "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 723,
+                        "title_word_id_1": 6,
+                        "title_word_id_0": 2209,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2263,
-                        "title_plate_id": 352
+                        "title_word_id_2": 2222,
+                        "title_plate_id": 1041
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 54525,
+                    "name": "み",
+                    "gw_rank": 32,
+                    "border_disp_rank": 10,
+                    "title_equip": {
+                        "title_word_id_1": 2197,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 682,
+                        "title_plate_id": 75
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-08-30T04:00:09+09:00",
+            "update_time": "2023-08-31T04:00:13+09:00",
             "score_ranking_id": 24,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 8,
-                    "name": "九条レイ＠シャトゥ教室",
-                    "gw_rank": 18,
+                    "score": 9,
+                    "name": "シトラスこ～ら",
+                    "gw_rank": 15,
                     "border_disp_rank": 1200,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 38,
+                        "title_word_id_0": 1478,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 18,
+                        "title_plate_id": 76
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 20,
-                    "name": "浅黄色",
-                    "gw_rank": 20,
+                    "score": 22,
+                    "name": "マミヤ",
+                    "gw_rank": 26,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 2668,
-                        "title_word_id_0": 105,
+                        "title_word_id_1": 812,
+                        "title_word_id_0": 3299,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 38,
-                        "title_plate_id": 852
+                        "title_word_id_2": 813,
+                        "title_plate_id": 86
                     }
                 },
                 {
@@ -572,17 +572,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 52,
-                    "name": "坐林檎",
-                    "gw_rank": 21,
+                    "score": 57,
+                    "name": "かゆ",
+                    "gw_rank": 25,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 1494,
-                        "title_word_id_0": 34,
+                        "title_word_id_1": 1795,
+                        "title_word_id_0": 2023,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 388,
-                        "title_plate_id": 39
+                        "title_word_id_2": 1399,
+                        "title_plate_id": 740
                     }
                 }
             ]
