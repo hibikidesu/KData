@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-08-31T04:14:19+09:00",
+    "last_cache_load_time": "2023-09-01T04:14:11+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,103 +456,103 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-08-31T04:00:08+09:00",
+            "update_time": "2023-09-01T04:00:07+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 10585,
-                    "name": "出でよ！ＢｉｇＭの幹部達",
-                    "gw_rank": 26,
+                    "score": 11375,
+                    "name": "連撃テンタクル",
+                    "gw_rank": 21,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 1187,
-                        "title_word_id_0": 701,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1048,
-                        "title_plate_id": 95
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 121,
+                        "title_disp_type": 2,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 19930,
-                    "name": "黒揚羽蝶",
-                    "gw_rank": 26,
+                    "score": 21775,
+                    "name": "ガラムマサラが第七位",
+                    "gw_rank": 24,
                     "border_disp_rank": 200,
                     "title_equip": {
                         "title_word_id_1": 0,
-                        "title_word_id_0": 2261,
+                        "title_word_id_0": 2437,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 919,
+                        "title_plate_id": 853
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 38145,
+                    "name": "耳の化身",
+                    "gw_rank": 21,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 4,
+                        "title_word_id_0": 709,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2299,
+                        "title_plate_id": 81
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 57445,
+                    "name": "Ｓｙｎｏ",
+                    "gw_rank": 28,
+                    "border_disp_rank": 10,
+                    "title_equip": {
+                        "title_word_id_1": 2576,
+                        "title_word_id_0": 140,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 496
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 32980,
-                    "name": "ミズチ",
-                    "gw_rank": 29,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 6,
-                        "title_word_id_0": 2209,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2222,
-                        "title_plate_id": 1041
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 54525,
-                    "name": "み",
-                    "gw_rank": 32,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 2197,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 682,
-                        "title_plate_id": 75
+                        "title_plate_id": 957
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-08-31T04:00:13+09:00",
+            "update_time": "2023-09-01T04:00:09+09:00",
             "score_ranking_id": 24,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 9,
-                    "name": "シトラスこ～ら",
-                    "gw_rank": 15,
+                    "score": 10,
+                    "name": "アルト",
+                    "gw_rank": 20,
                     "border_disp_rank": 1200,
                     "title_equip": {
-                        "title_word_id_1": 38,
-                        "title_word_id_0": 1478,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 18,
-                        "title_plate_id": 76
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 22,
-                    "name": "マミヤ",
-                    "gw_rank": 26,
+                    "score": 24,
+                    "name": "Ａｎｓｗｅｒ",
+                    "gw_rank": 21,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 812,
-                        "title_word_id_0": 3299,
+                        "title_word_id_1": 1417,
+                        "title_word_id_0": 0,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 813,
-                        "title_plate_id": 86
+                        "title_word_id_2": 0,
+                        "title_plate_id": 37
                     }
                 },
                 {
@@ -572,17 +572,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 57,
-                    "name": "かゆ",
+                    "score": 63,
+                    "name": "taku壱",
                     "gw_rank": 25,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 1795,
-                        "title_word_id_0": 2023,
+                        "title_word_id_1": 682,
+                        "title_word_id_0": 297,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1399,
-                        "title_plate_id": 740
+                        "title_word_id_2": 1509,
+                        "title_plate_id": 807
                     }
                 }
             ]
