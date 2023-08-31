@@ -22436,6 +22436,30 @@
             "openType": 1
         },
         {
+            "gid": "ds_001_0174",
+            "albumID": 3000,
+            "trackNo": 174,
+            "title": "Killer Ability",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0175",
+            "albumID": 3000,
+            "trackNo": 175,
+            "title": "Basement Floor",
+            "artist": "BEMANI Sound Team \"ZAQUVA\"",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0176",
+            "albumID": 3000,
+            "trackNo": 176,
+            "title": "Bring Me Back",
+            "artist": "9W3R7Y",
+            "openType": 1
+        },
+        {
             "gid": "ev_001_0001",
             "albumID": 10000,
             "trackNo": 1,
@@ -58836,6 +58860,46 @@
             "openType": 1
         },
         {
+            "gid": "pm_061_0029",
+            "albumID": 2029,
+            "trackNo": 29,
+            "title": "情熱タンデムRUNAWAY",
+            "artist": "Nana Takahashi & BEMANI Sound Team \"L.E.D.\"",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0030",
+            "albumID": 2029,
+            "trackNo": 30,
+            "title": "Satan",
+            "artist": "BEMANI Sound Team \"Devil Summoner\"",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0031",
+            "albumID": 2029,
+            "trackNo": 31,
+            "title": "粋 -IKI-",
+            "artist": "BEMANI Sound Team \"藤森崇多\"",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0032",
+            "albumID": 2029,
+            "trackNo": 32,
+            "title": "夏色のセーブデータ",
+            "artist": "BEMANI Sound Team \"KE!JU\"",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0033",
+            "albumID": 2029,
+            "trackNo": 33,
+            "title": "Gabbalungang",
+            "artist": "Hommarju",
+            "openType": 1
+        },
+        {
             "gid": "rb_001_0001",
             "albumID": 7000,
             "trackNo": 1,
@@ -68761,6 +68825,54 @@
             "trackNo": 79,
             "title": "Rave in the Shell",
             "artist": "yadosan",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0080",
+            "albumID": 12010,
+            "trackNo": 80,
+            "title": "Sparkle Dreams",
+            "artist": "PIKASONIC",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0081",
+            "albumID": 12010,
+            "trackNo": 81,
+            "title": "パーフェクトイーター",
+            "artist": "BEMANI Sound Team \"PON\" feat.かなたん",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0082",
+            "albumID": 12010,
+            "trackNo": 82,
+            "title": "I-W-U (I Want U)",
+            "artist": "nagomu tamaki",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0083",
+            "albumID": 12010,
+            "trackNo": 83,
+            "title": "DIABLOSIS::Naga",
+            "artist": "sky_delta",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0084",
+            "albumID": 12010,
+            "trackNo": 84,
+            "title": "C-C-C-N-N-N",
+            "artist": "RoughSkreamZ feat. Aikapin",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0085",
+            "albumID": 12010,
+            "trackNo": 85,
+            "title": "suspicions",
+            "artist": "BEMANI Sound Team \"猫叉Master VS dj TAKA\"",
             "openType": 1
         },
         {
