@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-09-01T04:14:11+09:00",
+    "last_cache_load_time": "2023-09-02T04:14:14+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,12 +456,12 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-09-01T04:00:07+09:00",
+            "update_time": "2023-09-02T04:00:09+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 11375,
+                    "score": 12350,
                     "name": "連撃テンタクル",
                     "gw_rank": 21,
                     "border_disp_rank": 500,
@@ -476,53 +476,53 @@
                 },
                 {
                     "exist": 1,
-                    "score": 21775,
-                    "name": "ガラムマサラが第七位",
-                    "gw_rank": 24,
+                    "score": 23710,
+                    "name": "クマＨ型",
+                    "gw_rank": 21,
                     "border_disp_rank": 200,
                     "title_equip": {
                         "title_word_id_1": 0,
-                        "title_word_id_0": 2437,
+                        "title_word_id_0": 1341,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 919,
+                        "title_word_id_2": 1028,
+                        "title_plate_id": 1101
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 40315,
+                    "name": "星街",
+                    "gw_rank": 31,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 8,
+                        "title_word_id_0": 953,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2233,
                         "title_plate_id": 853
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 38145,
-                    "name": "耳の化身",
-                    "gw_rank": 21,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 4,
-                        "title_word_id_0": 709,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2299,
-                        "title_plate_id": 81
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 57445,
-                    "name": "Ｓｙｎｏ",
-                    "gw_rank": 28,
+                    "score": 61175,
+                    "name": "ｔａｋａｏ",
+                    "gw_rank": 26,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 2576,
-                        "title_word_id_0": 140,
+                        "title_word_id_1": 15,
+                        "title_word_id_0": 1078,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 957
+                        "title_word_id_2": 3527,
+                        "title_plate_id": 874
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-09-01T04:00:09+09:00",
+            "update_time": "2023-09-02T04:00:15+09:00",
             "score_ranking_id": 24,
             "border_data_list": [
                 {
@@ -542,17 +542,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 24,
-                    "name": "Ａｎｓｗｅｒ",
-                    "gw_rank": 21,
+                    "score": 27,
+                    "name": "ニルド＠魔術工房長",
+                    "gw_rank": 19,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 1417,
-                        "title_word_id_0": 0,
+                        "title_word_id_1": 188,
+                        "title_word_id_0": 122,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 37
+                        "title_word_id_2": 2,
+                        "title_plate_id": 15
                     }
                 },
                 {
@@ -572,17 +572,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 63,
-                    "name": "taku壱",
-                    "gw_rank": 25,
+                    "score": 68,
+                    "name": "【閃光】アスナ",
+                    "gw_rank": 20,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 682,
-                        "title_word_id_0": 297,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 970,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1509,
-                        "title_plate_id": 807
+                        "title_word_id_2": 0,
+                        "title_plate_id": 6
                     }
                 }
             ]
