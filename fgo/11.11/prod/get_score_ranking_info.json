@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-09-02T04:14:14+09:00",
+    "last_cache_load_time": "2023-09-03T04:14:09+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,19 +456,49 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-09-02T04:00:09+09:00",
+            "update_time": "2023-09-03T04:00:07+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 12350,
-                    "name": "連撃テンタクル",
-                    "gw_rank": 21,
+                    "score": 14690,
+                    "name": "往け、アビゲイル",
+                    "gw_rank": 24,
                     "border_disp_rank": 500,
+                    "title_equip": {
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 27580,
+                    "name": "ＫｕｕｕｕｕｕｕｕＭＡ",
+                    "gw_rank": 16,
+                    "border_disp_rank": 200,
+                    "title_equip": {
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 928,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 46640,
+                    "name": "ＳＩＡＮＯ",
+                    "gw_rank": 29,
+                    "border_disp_rank": 50,
                     "title_equip": {
                         "title_word_id_1": 0,
                         "title_word_id_0": 0,
-                        "title_integrated_id": 121,
+                        "title_integrated_id": 110,
                         "title_disp_type": 2,
                         "title_word_id_2": 0,
                         "title_plate_id": 25
@@ -476,60 +506,30 @@
                 },
                 {
                     "exist": 1,
-                    "score": 23710,
-                    "name": "クマＨ型",
-                    "gw_rank": 21,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 1341,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1028,
-                        "title_plate_id": 1101
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 40315,
-                    "name": "星街",
-                    "gw_rank": 31,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 953,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2233,
-                        "title_plate_id": 853
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 61175,
-                    "name": "ｔａｋａｏ",
-                    "gw_rank": 26,
+                    "score": 72200,
+                    "name": "エイリやん",
+                    "gw_rank": 30,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 15,
-                        "title_word_id_0": 1078,
+                        "title_word_id_1": 171,
+                        "title_word_id_0": 0,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 3527,
-                        "title_plate_id": 874
+                        "title_word_id_2": 0,
+                        "title_plate_id": 375
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-09-02T04:00:15+09:00",
+            "update_time": "2023-09-03T04:00:10+09:00",
             "score_ranking_id": 24,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 10,
-                    "name": "アルト",
-                    "gw_rank": 20,
+                    "score": 13,
+                    "name": "大吉",
+                    "gw_rank": 11,
                     "border_disp_rank": 1200,
                     "title_equip": {
                         "title_word_id_1": 7,
@@ -542,47 +542,47 @@
                 },
                 {
                     "exist": 1,
-                    "score": 27,
-                    "name": "ニルド＠魔術工房長",
-                    "gw_rank": 19,
+                    "score": 33,
+                    "name": "鴉",
+                    "gw_rank": 26,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 188,
-                        "title_word_id_0": 122,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 1665,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 323
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 2,
+                    "name": "あぬ",
+                    "gw_rank": 5,
+                    "border_disp_rank": 2500,
+                    "title_equip": {
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1262,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 15
+                        "title_plate_id": 3
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 1,
-                    "name": "Ｍｒ・Candy",
-                    "gw_rank": 10,
-                    "border_disp_rank": 2500,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 69,
-                        "title_disp_type": 2,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 68,
-                    "name": "【閃光】アスナ",
-                    "gw_rank": 20,
+                    "score": 80,
+                    "name": "チカラ",
+                    "gw_rank": 19,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 970,
+                        "title_word_id_1": 189,
+                        "title_word_id_0": 1446,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 6
+                        "title_word_id_2": 165,
+                        "title_plate_id": 1063
                     }
                 }
             ]
