@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-09-04T04:14:12+09:00",
+    "last_cache_load_time": "2023-09-05T04:14:16+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,60 +456,15 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-09-04T04:00:08+09:00",
+            "update_time": "2023-09-05T04:00:09+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 16980,
-                    "name": "ドライブ悪",
-                    "gw_rank": 24,
+                    "score": 17905,
+                    "name": "三千歳",
+                    "gw_rank": 21,
                     "border_disp_rank": 500,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 322,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 271,
-                        "title_plate_id": 6
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 31140,
-                    "name": "ＷＧ－ＸＰ２０００",
-                    "gw_rank": 25,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 1239,
-                        "title_word_id_0": 1239,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 957,
-                        "title_plate_id": 12
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 53285,
-                    "name": "武御雷",
-                    "gw_rank": 25,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 2690,
-                        "title_word_id_0": 2731,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 372
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 76365,
-                    "name": "キュペー",
-                    "gw_rank": 29,
-                    "border_disp_rank": 10,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
@@ -518,41 +473,86 @@
                         "title_word_id_2": 2,
                         "title_plate_id": 25
                     }
-                }
-            ]
-        },
-        {
-            "update_time": "2023-09-04T04:00:13+09:00",
-            "score_ranking_id": 24,
-            "border_data_list": [
+                },
                 {
                     "exist": 1,
-                    "score": 15,
-                    "name": "ジェビィブック",
-                    "gw_rank": 20,
-                    "border_disp_rank": 1200,
+                    "score": 32690,
+                    "name": "れろ",
+                    "gw_rank": 26,
+                    "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 2753,
-                        "title_word_id_0": 1491,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1493,
-                        "title_plate_id": 83
+                        "title_word_id_2": 2,
+                        "title_plate_id": 6
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 39,
-                    "name": "金と白銀の反復横跳び",
-                    "gw_rank": 18,
-                    "border_disp_rank": 600,
+                    "score": 55670,
+                    "name": "四季",
+                    "gw_rank": 28,
+                    "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 34,
-                        "title_word_id_0": 29,
+                        "title_word_id_1": 2186,
+                        "title_word_id_0": 595,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 35,
-                        "title_plate_id": 62
+                        "title_word_id_2": 4408,
+                        "title_plate_id": 1059
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 83615,
+                    "name": "推しの顔で　推しの声で",
+                    "gw_rank": 25,
+                    "border_disp_rank": 10,
+                    "title_equip": {
+                        "title_word_id_1": 8,
+                        "title_word_id_0": 723,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2263,
+                        "title_plate_id": 352
+                    }
+                }
+            ]
+        },
+        {
+            "update_time": "2023-09-05T04:00:15+09:00",
+            "score_ranking_id": 24,
+            "border_data_list": [
+                {
+                    "exist": 1,
+                    "score": 16,
+                    "name": "アザレア",
+                    "gw_rank": 19,
+                    "border_disp_rank": 1200,
+                    "title_equip": {
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 1399,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 41,
+                    "name": "ぼっち・ざ・あーけーど",
+                    "gw_rank": 21,
+                    "border_disp_rank": 600,
+                    "title_equip": {
+                        "title_word_id_1": 956,
+                        "title_word_id_0": 1789,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 60
                     }
                 },
                 {
@@ -572,17 +572,17 @@
                 },
                 {
                     "exist": 1,
-                    "score": 93,
-                    "name": "望月",
-                    "gw_rank": 20,
+                    "score": 96,
+                    "name": "ＳＩＡＮＯ",
+                    "gw_rank": 29,
                     "border_disp_rank": 150,
                     "title_equip": {
-                        "title_word_id_1": 2196,
-                        "title_word_id_0": 2197,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2755,
-                        "title_plate_id": 83
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 110,
+                        "title_disp_type": 2,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
                     }
                 }
             ]
