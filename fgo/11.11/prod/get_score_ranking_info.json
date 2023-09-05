@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-09-05T04:14:16+09:00",
+    "last_cache_load_time": "2023-09-06T04:14:14+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,15 +456,60 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-09-05T04:00:09+09:00",
+            "update_time": "2023-09-06T04:00:09+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 17905,
-                    "name": "三千歳",
-                    "gw_rank": 21,
+                    "score": 18635,
+                    "name": "スーパーハカー",
+                    "gw_rank": 23,
                     "border_disp_rank": 500,
+                    "title_equip": {
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 209,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 31
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 33925,
+                    "name": "シュテル",
+                    "gw_rank": 23,
+                    "border_disp_rank": 200,
+                    "title_equip": {
+                        "title_word_id_1": 300,
+                        "title_word_id_0": 2082,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 303,
+                        "title_plate_id": 77
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 59905,
+                    "name": "おばけぴえろ",
+                    "gw_rank": 30,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 160,
+                        "title_word_id_0": 765,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 16,
+                        "title_plate_id": 879
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 89375,
+                    "name": "藤丸立香",
+                    "gw_rank": 21,
+                    "border_disp_rank": 10,
                     "title_equip": {
                         "title_word_id_1": 7,
                         "title_word_id_0": 1,
@@ -472,116 +517,71 @@
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
                         "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 32690,
-                    "name": "れろ",
-                    "gw_rank": 26,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 6
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 55670,
-                    "name": "四季",
-                    "gw_rank": 28,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 2186,
-                        "title_word_id_0": 595,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 4408,
-                        "title_plate_id": 1059
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 83615,
-                    "name": "推しの顔で　推しの声で",
-                    "gw_rank": 25,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 723,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2263,
-                        "title_plate_id": 352
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-09-05T04:00:15+09:00",
+            "update_time": "2023-09-06T04:00:12+09:00",
             "score_ranking_id": 24,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 16,
-                    "name": "アザレア",
-                    "gw_rank": 19,
+                    "score": 17,
+                    "name": "赤鴎",
+                    "gw_rank": 10,
                     "border_disp_rank": 1200,
                     "title_equip": {
                         "title_word_id_1": 0,
-                        "title_word_id_0": 1399,
+                        "title_word_id_0": 339,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 1917,
+                        "title_plate_id": 73
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 43,
+                    "name": "ぼむぼむぶりん",
+                    "gw_rank": 23,
+                    "border_disp_rank": 600,
+                    "title_equip": {
+                        "title_word_id_1": 2166,
+                        "title_word_id_0": 0,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
+                        "title_plate_id": 279
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 3,
+                    "name": "ノエル",
+                    "gw_rank": 13,
+                    "border_disp_rank": 2500,
+                    "title_equip": {
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 2685,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 263,
                         "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 41,
-                    "name": "ぼっち・ざ・あーけーど",
-                    "gw_rank": 21,
-                    "border_disp_rank": 600,
-                    "title_equip": {
-                        "title_word_id_1": 956,
-                        "title_word_id_0": 1789,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 60
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 2,
-                    "name": "あぬ",
-                    "gw_rank": 5,
-                    "border_disp_rank": 2500,
+                    "score": 102,
+                    "name": "ＬＩＳ０",
+                    "gw_rank": 18,
+                    "border_disp_rank": 150,
                     "title_equip": {
                         "title_word_id_1": 7,
-                        "title_word_id_0": 1262,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 3
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 96,
-                    "name": "ＳＩＡＮＯ",
-                    "gw_rank": 29,
-                    "border_disp_rank": 150,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 110,
-                        "title_disp_type": 2,
-                        "title_word_id_2": 0,
                         "title_plate_id": 25
                     }
                 }

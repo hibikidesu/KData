@@ -1,8 +1,17 @@
 {
-    "last_cache_load_time": "2023-09-05T04:14:03+09:00",
+    "last_cache_load_time": "2023-09-06T04:14:02+09:00",
     "quest_setting_list": [
         {
-            "start_time": "2023-09-04T07:00:00+09:00",
+            "start_time": "2023-09-07T07:00:00+09:00",
+            "entity_list": [
+                {
+                    "file_name": "quest_prop_000001.txt",
+                    "body": "quest_lv=1\n"
+                }
+            ]
+        },
+        {
+            "start_time": "2023-09-05T07:00:00+09:00",
             "entity_list": [
                 {
                     "file_name": "cmn_quest_prop.txt",
