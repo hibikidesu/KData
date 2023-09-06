@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-09-06T04:14:14+09:00",
+    "last_cache_load_time": "2023-09-07T04:14:23+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,59 +456,59 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-09-06T04:00:09+09:00",
+            "update_time": "2023-09-07T04:00:09+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 18635,
-                    "name": "スーパーハカー",
-                    "gw_rank": 23,
+                    "score": 19345,
+                    "name": "聖杯戦争しに行く伏黒甚爾",
+                    "gw_rank": 26,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 209,
+                        "title_word_id_1": 1187,
+                        "title_word_id_0": 701,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 31
+                        "title_word_id_2": 1048,
+                        "title_plate_id": 95
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 33925,
-                    "name": "シュテル",
-                    "gw_rank": 23,
+                    "score": 35650,
+                    "name": "ルト３１［サンイチ］",
+                    "gw_rank": 18,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 300,
-                        "title_word_id_0": 2082,
+                        "title_word_id_1": 2000,
+                        "title_word_id_0": 314,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 303,
-                        "title_plate_id": 77
+                        "title_word_id_2": 188,
+                        "title_plate_id": 1025
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 59905,
-                    "name": "おばけぴえろ",
-                    "gw_rank": 30,
+                    "score": 61850,
+                    "name": "焔",
+                    "gw_rank": 22,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 160,
-                        "title_word_id_0": 765,
+                        "title_word_id_1": 189,
+                        "title_word_id_0": 2288,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 16,
-                        "title_plate_id": 879
+                        "title_word_id_2": 1755,
+                        "title_plate_id": 1034
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 89375,
+                    "score": 93920,
                     "name": "藤丸立香",
-                    "gw_rank": 21,
+                    "gw_rank": 20,
                     "border_disp_rank": 10,
                     "title_equip": {
                         "title_word_id_1": 7,
@@ -522,37 +522,37 @@
             ]
         },
         {
-            "update_time": "2023-09-06T04:00:12+09:00",
+            "update_time": "2023-09-07T04:00:16+09:00",
             "score_ranking_id": 24,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 17,
-                    "name": "赤鴎",
-                    "gw_rank": 10,
+                    "score": 18,
+                    "name": "クシャトリア",
+                    "gw_rank": 26,
                     "border_disp_rank": 1200,
                     "title_equip": {
                         "title_word_id_1": 0,
-                        "title_word_id_0": 339,
+                        "title_word_id_0": 315,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1917,
-                        "title_plate_id": 73
+                        "title_word_id_2": 0,
+                        "title_plate_id": 221
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 43,
-                    "name": "ぼむぼむぶりん",
-                    "gw_rank": 23,
+                    "score": 45,
+                    "name": "ネフェルピトー",
+                    "gw_rank": 20,
                     "border_disp_rank": 600,
                     "title_equip": {
-                        "title_word_id_1": 2166,
-                        "title_word_id_0": 0,
+                        "title_word_id_1": 2567,
+                        "title_word_id_0": 22,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 279
+                        "title_word_id_2": 216,
+                        "title_plate_id": 8
                     }
                 },
                 {
@@ -572,9 +572,9 @@
                 },
                 {
                     "exist": 1,
-                    "score": 102,
-                    "name": "ＬＩＳ０",
-                    "gw_rank": 18,
+                    "score": 108,
+                    "name": "ＳＡＩＴＡＭＡのネコ",
+                    "gw_rank": 21,
                     "border_disp_rank": 150,
                     "title_equip": {
                         "title_word_id_1": 7,
