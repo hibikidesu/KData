@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-09-07T04:14:23+09:00",
+    "last_cache_load_time": "2023-09-08T04:14:10+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,73 +456,73 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-09-07T04:00:09+09:00",
+            "update_time": "2023-09-08T04:00:08+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 19345,
-                    "name": "聖杯戦争しに行く伏黒甚爾",
-                    "gw_rank": 26,
+                    "score": 20730,
+                    "name": "Ｒｏｓｅｌｉａ",
+                    "gw_rank": 22,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 1187,
-                        "title_word_id_0": 701,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 1214,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1048,
-                        "title_plate_id": 95
+                        "title_word_id_2": 1233,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 35650,
-                    "name": "ルト３１［サンイチ］",
-                    "gw_rank": 18,
+                    "score": 37100,
+                    "name": "ワビサビ",
+                    "gw_rank": 25,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 2000,
-                        "title_word_id_0": 314,
+                        "title_word_id_1": 15,
+                        "title_word_id_0": 166,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 188,
-                        "title_plate_id": 1025
+                        "title_word_id_2": 268,
+                        "title_plate_id": 97
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 61850,
-                    "name": "焔",
-                    "gw_rank": 22,
+                    "score": 65815,
+                    "name": "やまちゃん",
+                    "gw_rank": 26,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 189,
-                        "title_word_id_0": 2288,
+                        "title_word_id_1": 8,
+                        "title_word_id_0": 2264,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1755,
-                        "title_plate_id": 1034
+                        "title_word_id_2": 4323,
+                        "title_plate_id": 873
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 93920,
-                    "name": "藤丸立香",
-                    "gw_rank": 20,
+                    "score": 100025,
+                    "name": "推しの顔で　推しの声で",
+                    "gw_rank": 26,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 8,
+                        "title_word_id_0": 723,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 2263,
+                        "title_plate_id": 352
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-09-07T04:00:16+09:00",
+            "update_time": "2023-09-07T11:00:09+09:00",
             "score_ranking_id": 24,
             "border_data_list": [
                 {

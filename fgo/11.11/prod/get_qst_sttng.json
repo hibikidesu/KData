@@ -1,15 +1,6 @@
 {
-    "last_cache_load_time": "2023-09-07T04:14:12+09:00",
+    "last_cache_load_time": "2023-09-08T04:13:58+09:00",
     "quest_setting_list": [
-        {
-            "start_time": "2023-09-06T07:00:00+09:00",
-            "entity_list": [
-                {
-                    "file_name": "cmn_quest_prop.txt",
-                    "body": "cmn_prop.1.sing_id=0\ncmn_prop.1.quest_type=INVALID\ncmn_prop.1.calc_type=MUL\ncmn_prop.1.target=quest_gp\ncmn_prop.1.param=0.5\ncmn_prop.2.sing_id=0\ncmn_prop.2.quest_type=INVALID\ncmn_prop.2.calc_type=MUL\ncmn_prop.2.target=quest_continue_gp\ncmn_prop.2.param=0.5\ncmn_prop.3.sing_id=1\ncmn_prop.3.quest_type=INVALID\ncmn_prop.3.calc_type=MUL\ncmn_prop.3.target=quest_gp\ncmn_prop.3.param=0.5\ncmn_prop.4.sing_id=1\ncmn_prop.4.quest_type=INVALID\ncmn_prop.4.calc_type=MUL\ncmn_prop.4.target=quest_continue_gp\ncmn_prop.4.param=0.5\ncmn_prop.5.sing_id=2\ncmn_prop.5.quest_type=INVALID\ncmn_prop.5.calc_type=MUL\ncmn_prop.5.target=quest_gp\ncmn_prop.5.param=0.5\ncmn_prop.6.sing_id=2\ncmn_prop.6.quest_type=INVALID\ncmn_prop.6.calc_type=MUL\ncmn_prop.6.target=quest_continue_gp\ncmn_prop.6.param=0.5\ncmn_prop.7.sing_id=3\ncmn_prop.7.quest_type=INVALID\ncmn_prop.7.calc_type=MUL\ncmn_prop.7.target=quest_gp\ncmn_prop.7.param=0.5\ncmn_prop.8.sing_id=3\ncmn_prop.8.quest_type=INVALID\ncmn_prop.8.calc_type=MUL\ncmn_prop.8.target=quest_continue_gp\ncmn_prop.8.param=0.5\ncmn_prop.9.sing_id=4\ncmn_prop.9.quest_type=INVALID\ncmn_prop.9.calc_type=MUL\ncmn_prop.9.target=quest_gp\ncmn_prop.9.param=0.5\ncmn_prop.10.sing_id=4\ncmn_prop.10.quest_type=INVALID\ncmn_prop.10.calc_type=MUL\ncmn_prop.10.target=quest_continue_gp\ncmn_prop.10.param=0.5\ncmn_prop.11.sing_id=5\ncmn_prop.11.quest_type=INVALID\ncmn_prop.11.calc_type=MUL\ncmn_prop.11.target=quest_gp\ncmn_prop.11.param=0.5\ncmn_prop.12.sing_id=5\ncmn_prop.12.quest_type=INVALID\ncmn_prop.12.calc_type=MUL\ncmn_prop.12.target=quest_continue_gp\ncmn_prop.12.param=0.5\ncmn_prop.13.sing_id=6\ncmn_prop.13.quest_type=INVALID\ncmn_prop.13.calc_type=MUL\ncmn_prop.13.target=quest_gp\ncmn_prop.13.param=0.5\ncmn_prop.14.sing_id=6\ncmn_prop.14.quest_type=INVALID\ncmn_prop.14.calc_type=MUL\ncmn_prop.14.target=quest_continue_gp\ncmn_prop.14.param=0.5\ncmn_prop.15.sing_id=7\ncmn_prop.15.quest_type=INVALID\ncmn_prop.15.calc_type=MUL\ncmn_prop.15.target=quest_gp\ncmn_prop.15.param=0.5\ncmn_prop.16.sing_id=7\ncmn_prop.16.quest_type=INVALID\ncmn_prop.16.calc_type=MUL\ncmn_prop.16.target=quest_continue_gp\ncmn_prop.16.param=0.5\ncmn_prop.17.sing_id=8\ncmn_prop.17.quest_type=INVALID\ncmn_prop.17.calc_type=MUL\ncmn_prop.17.target=quest_gp\ncmn_prop.17.param=0.5\ncmn_prop.18.sing_id=8\ncmn_prop.18.quest_type=INVALID\ncmn_prop.18.calc_type=MUL\ncmn_prop.18.target=quest_continue_gp\ncmn_prop.18.param=0.5\n"
-                }
-            ]
-        },
         {
             "start_time": "2023-09-07T07:00:00+09:00",
             "entity_list": [
