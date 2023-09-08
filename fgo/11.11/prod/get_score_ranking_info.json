@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-09-08T10:23:32+09:00",
+    "last_cache_load_time": "2023-09-09T04:11:11+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,52 +456,52 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-09-08T10:00:06+09:00",
+            "update_time": "2023-09-09T04:00:10+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 20730,
-                    "name": "Ｒｏｓｅｌｉａ",
-                    "gw_rank": 22,
+                    "score": 21590,
+                    "name": "なみ",
+                    "gw_rank": 25,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 1214,
+                        "title_word_id_1": 251,
+                        "title_word_id_0": 0,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1233,
-                        "title_plate_id": 25
+                        "title_word_id_2": 37,
+                        "title_plate_id": 54
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 37100,
-                    "name": "ワビサビ",
-                    "gw_rank": 25,
+                    "score": 38900,
+                    "name": "けるまぁ",
+                    "gw_rank": 26,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 15,
-                        "title_word_id_0": 166,
+                        "title_word_id_1": 1863,
+                        "title_word_id_0": 2838,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 268,
-                        "title_plate_id": 97
+                        "title_word_id_2": 2685,
+                        "title_plate_id": 1086
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 65815,
-                    "name": "やまちゃん",
-                    "gw_rank": 26,
+                    "score": 70380,
+                    "name": "かぃ☆彡",
+                    "gw_rank": 22,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 2264,
+                        "title_word_id_1": 953,
+                        "title_word_id_0": 1720,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 4323,
-                        "title_plate_id": 873
+                        "title_word_id_2": 223,
+                        "title_plate_id": 56
                     }
                 },
                 {
