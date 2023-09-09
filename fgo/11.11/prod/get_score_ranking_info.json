@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-09-09T04:11:11+09:00",
+    "last_cache_load_time": "2023-09-10T04:11:12+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,67 +456,67 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-09-09T04:00:10+09:00",
+            "update_time": "2023-09-10T04:00:08+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 21590,
-                    "name": "なみ",
-                    "gw_rank": 25,
+                    "score": 23970,
+                    "name": "みちづれ",
+                    "gw_rank": 22,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 251,
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 2384,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 365
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 43065,
+                    "name": "かつたたかわないならする",
+                    "gw_rank": 16,
+                    "border_disp_rank": 200,
+                    "title_equip": {
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 322,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 2866,
+                        "title_plate_id": 3
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 76430,
+                    "name": "焔",
+                    "gw_rank": 21,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 189,
+                        "title_word_id_0": 2288,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 1755,
+                        "title_plate_id": 1034
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 117015,
+                    "name": "ｗorldXecuteM",
+                    "gw_rank": 25,
+                    "border_disp_rank": 10,
+                    "title_equip": {
+                        "title_word_id_1": 3425,
                         "title_word_id_0": 0,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 37,
-                        "title_plate_id": 54
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 38900,
-                    "name": "けるまぁ",
-                    "gw_rank": 26,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 1863,
-                        "title_word_id_0": 2838,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2685,
-                        "title_plate_id": 1086
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 70380,
-                    "name": "かぃ☆彡",
-                    "gw_rank": 22,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 953,
-                        "title_word_id_0": 1720,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 223,
-                        "title_plate_id": 56
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 100025,
-                    "name": "推しの顔で　推しの声で",
-                    "gw_rank": 26,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 723,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2263,
-                        "title_plate_id": 352
+                        "title_word_id_2": 0,
+                        "title_plate_id": 229
                     }
                 }
             ]
