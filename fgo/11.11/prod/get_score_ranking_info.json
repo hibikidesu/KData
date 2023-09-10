@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-09-10T04:11:12+09:00",
+    "last_cache_load_time": "2023-09-11T04:11:17+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,67 +456,67 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-09-10T04:00:08+09:00",
+            "update_time": "2023-09-11T04:00:12+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 23970,
-                    "name": "みちづれ",
-                    "gw_rank": 22,
+                    "score": 26680,
+                    "name": "でませいでませい",
+                    "gw_rank": 16,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 2384,
+                        "title_word_id_1": 1389,
+                        "title_word_id_0": 2178,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 0,
-                        "title_plate_id": 365
+                        "title_plate_id": 741
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 43065,
-                    "name": "かつたたかわないならする",
-                    "gw_rank": 16,
+                    "score": 47755,
+                    "name": "そよ子",
+                    "gw_rank": 26,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 322,
+                        "title_word_id_1": 4,
+                        "title_word_id_0": 973,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2866,
-                        "title_plate_id": 3
+                        "title_word_id_2": 586,
+                        "title_plate_id": 855
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 76430,
-                    "name": "焔",
-                    "gw_rank": 21,
+                    "score": 83655,
+                    "name": "あさり",
+                    "gw_rank": 25,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 189,
-                        "title_word_id_0": 2288,
+                        "title_word_id_1": 13,
+                        "title_word_id_0": 4515,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1755,
-                        "title_plate_id": 1034
+                        "title_word_id_2": 13,
+                        "title_plate_id": 943
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 117015,
-                    "name": "ｗorldXecuteM",
-                    "gw_rank": 25,
+                    "score": 125500,
+                    "name": "藤丸立香",
+                    "gw_rank": 22,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 3425,
-                        "title_word_id_0": 0,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 229
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 }
             ]
