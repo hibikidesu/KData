@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-09-12T04:11:14+09:00",
+    "last_cache_load_time": "2023-09-13T04:11:07+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -456,14 +456,14 @@
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-09-12T04:00:08+09:00",
+            "update_time": "2023-09-13T04:00:09+09:00",
             "score_ranking_id": 23,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 27550,
-                    "name": "藤丸 立香",
-                    "gw_rank": 21,
+                    "score": 28150,
+                    "name": "藤丸　立香",
+                    "gw_rank": 22,
                     "border_disp_rank": 500,
                     "title_equip": {
                         "title_word_id_1": 7,
@@ -476,47 +476,47 @@
                 },
                 {
                     "exist": 1,
-                    "score": 49265,
-                    "name": "まこーらいつもありがとう",
-                    "gw_rank": 23,
+                    "score": 51005,
+                    "name": "藤丸 立香",
+                    "gw_rank": 21,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 3772,
-                        "title_word_id_0": 3772,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 3772,
-                        "title_plate_id": 925
+                        "title_word_id_2": 2,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 88830,
-                    "name": "星に願いを",
-                    "gw_rank": 26,
+                    "score": 92715,
+                    "name": "犬系彼女",
+                    "gw_rank": 25,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 595,
-                        "title_word_id_0": 2396,
+                        "title_word_id_1": 1215,
+                        "title_word_id_0": 483,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1832,
-                        "title_plate_id": 1000
+                        "title_word_id_2": 0,
+                        "title_plate_id": 1053
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 131810,
-                    "name": "ｍｉｎｅｒｖａ",
-                    "gw_rank": 25,
+                    "score": 132990,
+                    "name": "ビーノ",
+                    "gw_rank": 22,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 741,
-                        "title_word_id_0": 740,
+                        "title_word_id_1": 252,
+                        "title_word_id_0": 207,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 742,
-                        "title_plate_id": 1032
+                        "title_word_id_2": 1650,
+                        "title_plate_id": 8
                     }
                 }
             ]
