@@ -1,7 +1,6 @@
 {
     "events": [
         "BLASTER_ABLE",
-        "BLASTER_BONUS_ENABLE 24",
         "CLOUD_LINK_ENABLE",
         "CREW_SELECT_ABLE",
         "PLAYER_RADAR_ENABLE",
