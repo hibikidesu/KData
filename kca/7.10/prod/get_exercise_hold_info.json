@@ -1,5 +1,5 @@
 {
-    "ehi_lut": "2023-09-18T04:23:28+09:00",
+    "ehi_lut": "2023-09-19T04:23:26+09:00",
     "exercise_hold_info_list": [
         {
             "reserve_time": "2023-09-18T07:00:00+09:00",
@@ -14,89 +14,6 @@
                 },
                 {
                     "start_time": "2009-01-01T07:00:00+09:00",
-                    "drop_id": 0,
-                    "exercise_id": 1,
-                    "end_time": "2029-01-01T07:00:00+09:00",
-                    "sort_index": 0
-                },
-                {
-                    "start_time": "2029-01-01T07:00:00+09:00",
-                    "drop_id": 0,
-                    "exercise_id": 400,
-                    "end_time": "2029-01-01T07:00:00+09:00",
-                    "sort_index": 0
-                },
-                {
-                    "start_time": "2029-01-01T07:00:00+09:00",
-                    "drop_id": 0,
-                    "exercise_id": 401,
-                    "end_time": "2029-01-01T07:00:00+09:00",
-                    "sort_index": 0
-                },
-                {
-                    "start_time": "2029-01-01T07:00:00+09:00",
-                    "drop_id": 0,
-                    "exercise_id": 402,
-                    "end_time": "2029-01-01T07:00:00+09:00",
-                    "sort_index": 0
-                },
-                {
-                    "start_time": "2029-01-01T07:00:00+09:00",
-                    "drop_id": 0,
-                    "exercise_id": 403,
-                    "end_time": "2029-01-01T07:00:00+09:00",
-                    "sort_index": 0
-                },
-                {
-                    "start_time": "2029-01-01T07:00:00+09:00",
-                    "drop_id": 0,
-                    "exercise_id": 404,
-                    "end_time": "2029-01-01T07:00:00+09:00",
-                    "sort_index": 0
-                },
-                {
-                    "start_time": "2029-01-01T07:00:00+09:00",
-                    "drop_id": 0,
-                    "exercise_id": 405,
-                    "end_time": "2029-01-01T07:00:00+09:00",
-                    "sort_index": 0
-                },
-                {
-                    "start_time": "2029-01-01T07:00:00+09:00",
-                    "drop_id": 0,
-                    "exercise_id": 406,
-                    "end_time": "2029-01-01T07:00:00+09:00",
-                    "sort_index": 0
-                },
-                {
-                    "start_time": "2009-01-01T07:00:00+09:00",
-                    "drop_id": 0,
-                    "exercise_id": 500,
-                    "end_time": "2029-01-01T07:00:00+09:00",
-                    "sort_index": 0
-                },
-                {
-                    "start_time": "2009-01-01T07:00:00+09:00",
-                    "drop_id": 0,
-                    "exercise_id": 501,
-                    "end_time": "2029-01-01T07:00:00+09:00",
-                    "sort_index": 1
-                }
-            ]
-        },
-        {
-            "reserve_time": "2023-09-11T07:00:00+09:00",
-            "pr_entity_list": [],
-            "entity_list": [
-                {
-                    "start_time": "2009-01-01T07:00:00+09:00",
-                    "drop_id": 0,
-                    "exercise_id": 0,
-                    "end_time": "2029-01-01T07:00:00+09:00",
-                    "sort_index": 0
-                },
-                {
-                    "start_time": "2029-01-01T07:00:00+09:00",
                     "drop_id": 0,
                     "exercise_id": 1,
                     "end_time": "2029-01-01T07:00:00+09:00",
