@@ -4752,7 +4752,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 17
     },
@@ -4799,7 +4798,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 2
     },
@@ -13015,7 +13013,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited_cha": 1,
         "stage": 15
     },
     {
@@ -13292,7 +13289,7 @@
         "artist": "Mameyudoufu",
         "bpmmax": 156,
         "bpmmin": 156,
-        "level_str": "4 7 12 15 0 0 7 12 15 0",
+        "level_str": "4 7 12 15 17 0 7 12 15 17",
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
@@ -14089,7 +14086,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1
     },
     {
@@ -14426,7 +14422,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 2
     },
@@ -14729,7 +14724,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 14
     },
@@ -14792,7 +14786,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 11,
         "limited_cha": 1,
         "stage": 15
     },
@@ -15197,7 +15190,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 1048,
         "stage": 5
@@ -15215,7 +15207,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 1113,
         "movie": 4,
@@ -15234,7 +15225,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 91,
         "stage": 5
@@ -15252,7 +15242,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 80,
         "stage": 2
@@ -15325,7 +15314,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 1043,
         "movie": 4,
@@ -15416,7 +15404,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 3167,
         "movie": 4,
@@ -15435,7 +15422,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 1103,
         "movie": 1,
@@ -15820,7 +15806,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 12,
+        "limited": 11,
         "limited_cha": 1,
         "stage": 16
     },
@@ -15836,7 +15822,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 13,
+        "limited": 12,
         "limited_cha": 1,
         "stage": 31
     },
@@ -15852,7 +15838,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
+        "limited": 14,
         "limited_cha": 1,
         "stage": 17
     },
