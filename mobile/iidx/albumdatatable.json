@@ -781,6 +781,11 @@
             "category": 15
         },
         {
+            "albumID": 10017,
+            "title": "KONAMI Arcade Championship(2023)",
+            "category": 15
+        },
+        {
             "albumID": 11000,
             "title": "cyber beatnation 2 -Hi Speed conclusion-",
             "category": 14
@@ -20940,6 +20945,46 @@
             "openType": 1
         },
         {
+            "gid": "bm_064_0059",
+            "albumID": 1035,
+            "trackNo": 59,
+            "title": "Dreaming Dream",
+            "artist": "MK feat. 紫咲ほたる",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0060",
+            "albumID": 1035,
+            "trackNo": 60,
+            "title": "Swing My Wonderland",
+            "artist": "lapix",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0061",
+            "albumID": 1035,
+            "trackNo": 61,
+            "title": "#CMFLG",
+            "artist": "Qlarabelle",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0062",
+            "albumID": 1035,
+            "trackNo": 62,
+            "title": "Always We Trust In You",
+            "artist": "nora2r",
+            "openType": 1
+        },
+        {
+            "gid": "bm_064_0063",
+            "albumID": 1035,
+            "trackNo": 63,
+            "title": "VØID",
+            "artist": "BEMANI Sound Team \"Darker Vs. JUSTICE\"",
+            "openType": 1
+        },
+        {
             "gid": "bs_001_0001",
             "albumID": 8000,
             "trackNo": 1,
@@ -24177,6 +24222,86 @@
             "trackNo": 18,
             "title": "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.",
             "artist": "BEMANI Sound Team \"L.E.D.\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_018_0001",
+            "albumID": 10017,
+            "trackNo": 1,
+            "title": "パーフェクトイーター",
+            "artist": "BEMANI Sound Team \"PON\" feat.かなたん",
+            "openType": 1
+        },
+        {
+            "gid": "ev_018_0002",
+            "albumID": 10017,
+            "trackNo": 2,
+            "title": "I-W-U (I Want U)",
+            "artist": "nagomu tamaki",
+            "openType": 1
+        },
+        {
+            "gid": "ev_018_0003",
+            "albumID": 10017,
+            "trackNo": 3,
+            "title": "累乗のカルマ",
+            "artist": "めと（Metomate）",
+            "openType": 1
+        },
+        {
+            "gid": "ev_018_0004",
+            "albumID": 10017,
+            "trackNo": 4,
+            "title": "Caldwell 99",
+            "artist": "BlackY",
+            "openType": 1
+        },
+        {
+            "gid": "ev_018_0005",
+            "albumID": 10017,
+            "trackNo": 5,
+            "title": "ROCK THE PARTY",
+            "artist": "BEMANI Sound Team \"KE!JU\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_018_0006",
+            "albumID": 10017,
+            "trackNo": 6,
+            "title": "Hexer",
+            "artist": "BEMANI Sound Team \"Yvya\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_018_0007",
+            "albumID": 10017,
+            "trackNo": 7,
+            "title": "Stylus",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_018_0008",
+            "albumID": 10017,
+            "trackNo": 8,
+            "title": "QQ",
+            "artist": "BEMANI Sound Team \"PHQUASE & ZAQUVA\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_018_0009",
+            "albumID": 10017,
+            "trackNo": 9,
+            "title": "Touch Me",
+            "artist": "BEMANI Sound Team \"GekiReco ＆ Sota F.\"",
+            "openType": 1
+        },
+        {
+            "gid": "ev_018_0010",
+            "albumID": 10017,
+            "trackNo": 10,
+            "title": "mathematical good-bye",
+            "artist": "三代目 ADULTIC TEACHERS feat. BEMANI Sound Team \"スコーピオン志村\"",
             "openType": 1
         },
         {
@@ -41729,6 +41854,30 @@
             "trackNo": 19,
             "title": "Reach The Sky",
             "artist": "YUKIYANAGI",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0020",
+            "albumID": 6017,
+            "trackNo": 20,
+            "title": "Insanity: Luna",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0021",
+            "albumID": 6017,
+            "trackNo": 21,
+            "title": "Insanity: Sol",
+            "artist": "BEMANI Sound Team \"Yvya\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_019_0022",
+            "albumID": 6017,
+            "trackNo": 22,
+            "title": "Insanity",
+            "artist": "BEMANI Sound Team \"SYUNN & Yvya\"",
             "openType": 1
         },
         {
