@@ -433,7 +433,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-09-28T04:11:17+09:00",
+    "last_cache_load_time": "2023-09-29T04:11:12+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -458,134 +458,12 @@
         {
             "update_time": "2023-09-14T11:00:06+09:00",
             "score_ranking_id": 23,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 29160,
-                    "name": "ぺー太",
-                    "gw_rank": 23,
-                    "border_disp_rank": 500,
-                    "title_equip": {
-                        "title_word_id_1": 8,
-                        "title_word_id_0": 302,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1889,
-                        "title_plate_id": 382
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 53920,
-                    "name": "藤丸 立香",
-                    "gw_rank": 24,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 96175,
-                    "name": "つの丸",
-                    "gw_rank": 26,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 859,
-                        "title_word_id_0": 2339,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 1040
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 136800,
-                    "name": "藤丸立香",
-                    "gw_rank": 23,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
-                    }
-                }
-            ]
+            "border_data_list": []
         },
         {
             "update_time": "2023-09-07T11:00:09+09:00",
             "score_ranking_id": 24,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 18,
-                    "name": "クシャトリア",
-                    "gw_rank": 26,
-                    "border_disp_rank": 1200,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 315,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 221
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 45,
-                    "name": "ネフェルピトー",
-                    "gw_rank": 20,
-                    "border_disp_rank": 600,
-                    "title_equip": {
-                        "title_word_id_1": 2567,
-                        "title_word_id_0": 22,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 216,
-                        "title_plate_id": 8
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 3,
-                    "name": "ノエル",
-                    "gw_rank": 13,
-                    "border_disp_rank": 2500,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 2685,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 263,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 108,
-                    "name": "ＳＡＩＴＡＭＡのネコ",
-                    "gw_rank": 21,
-                    "border_disp_rank": 150,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
-                    }
-                }
-            ]
+            "border_data_list": []
         }
     ]
 }
