@@ -6140,6 +6140,25 @@
         "stage": 5
     },
     {
+        "mcode": 37608,
+        "basename": "sora",
+        "title": "\u7a7a\u8272\u30c7\u30a4\u30ba",
+        "title_sort": "\u30bd\u30e9\u30a4\u30ed\u30c6\u30a4\u30b9",
+        "artist": "",
+        "bpmmax": 174,
+        "bpmmin": 174,
+        "level_str": "1 5 7 14 0 0 5 7 14 0",
+        "editable": false,
+        "is_konaste_music": true,
+        "is_streaming": true,
+        "seriesid": 1,
+        "ac_seriesid": 0,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 2,
+        "stage": 16
+    },
+    {
         "mcode": 37609,
         "basename": "akue",
         "title": "\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3",
