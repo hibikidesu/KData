@@ -1,8 +1,73 @@
 {
-    "uci_lut": "2023-10-02T04:23:26+09:00",
+    "uci_lut": "2023-10-03T04:23:26+09:00",
     "unit_costume_info_list": [
         {
-            "start_time": "2023-10-01T07:00:00+09:00",
+            "start_time": "2023-10-04T07:00:00+09:00",
+            "entity_list": [
+                {
+                    "cos_id": 0,
+                    "s_type": 0,
+                    "prio": 10,
+                    "b_prio": 100
+                },
+                {
+                    "cos_id": 1,
+                    "s_type": 3,
+                    "prio": 50,
+                    "b_prio": 50
+                },
+                {
+                    "cos_id": 2,
+                    "s_type": 1,
+                    "prio": 20,
+                    "b_prio": 80
+                },
+                {
+                    "cos_id": 3,
+                    "s_type": 3,
+                    "prio": 90,
+                    "b_prio": 30
+                },
+                {
+                    "cos_id": 4,
+                    "s_type": 3,
+                    "prio": 80,
+                    "b_prio": 40
+                },
+                {
+                    "cos_id": 5,
+                    "s_type": 3,
+                    "prio": 94,
+                    "b_prio": 60
+                },
+                {
+                    "cos_id": 6,
+                    "s_type": 3,
+                    "prio": 92,
+                    "b_prio": 70
+                },
+                {
+                    "cos_id": 7,
+                    "s_type": 3,
+                    "prio": 70,
+                    "b_prio": 45
+                },
+                {
+                    "cos_id": 8,
+                    "s_type": 3,
+                    "prio": 60,
+                    "b_prio": 55
+                },
+                {
+                    "cos_id": 9,
+                    "s_type": 3,
+                    "prio": 65,
+                    "b_prio": 43
+                }
+            ]
+        },
+        {
+            "start_time": "2023-10-02T07:00:00+09:00",
             "entity_list": [
                 {
                     "cos_id": 0,
