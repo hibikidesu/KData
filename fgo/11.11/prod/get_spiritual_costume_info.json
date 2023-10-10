@@ -3,42 +3,6 @@
     "sp_cos_point_boost_list": [
         {
             "shop_id": 3,
-            "start_time": "2023-08-01T07:00:00+09:00",
-            "boost_rate": 500,
-            "product_id": 142,
-            "end_time": "2023-09-01T07:00:00+09:00",
-            "spiritual_costume_point_boost_id": 3,
-            "warning_start_time": "2023-08-27T07:00:00+09:00",
-            "credit": 10,
-            "icon_id": 15,
-            "icon_type": 0
-        },
-        {
-            "shop_id": 3,
-            "start_time": "2023-08-01T07:00:00+09:00",
-            "boost_rate": 250,
-            "product_id": 143,
-            "end_time": "2023-09-01T07:00:00+09:00",
-            "spiritual_costume_point_boost_id": 2,
-            "warning_start_time": "2023-08-27T07:00:00+09:00",
-            "credit": 5,
-            "icon_id": 14,
-            "icon_type": 0
-        },
-        {
-            "shop_id": 3,
-            "start_time": "2023-08-01T07:00:00+09:00",
-            "boost_rate": 150,
-            "product_id": 144,
-            "end_time": "2023-09-01T07:00:00+09:00",
-            "spiritual_costume_point_boost_id": 1,
-            "warning_start_time": "2023-08-27T07:00:00+09:00",
-            "credit": 3,
-            "icon_id": 13,
-            "icon_type": 0
-        },
-        {
-            "shop_id": 3,
             "start_time": "2023-09-01T07:00:00+09:00",
             "boost_rate": 500,
             "product_id": 145,
