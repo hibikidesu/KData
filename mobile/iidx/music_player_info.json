@@ -2366,156 +2366,6 @@
             "is_new": 0
         },
         {
-            "mp_gid": "dr_015_0004",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0006",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0007",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0008",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0009",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0010",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0013",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0014",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0015",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0016",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0019",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0031",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0032",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0033",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0034",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0043",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0045",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0046",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0048",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0049",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0053",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0054",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0056",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0057",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0058",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0059",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0070",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0071",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0074",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
-            "mp_gid": "dr_015_0076",
-            "mp_flag": 2,
-            "is_new": 0
-        },
-        {
             "mp_gid": "dr_018_0026",
             "mp_flag": 1,
             "is_new": 0
@@ -4326,221 +4176,6 @@
             "is_new": 0
         },
         {
-            "mp_gid": "dr_014_0076",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0077",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0078",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0080",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0083",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0088",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0089",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0090",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0099",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0100",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0101",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0102",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0103",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0104",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0123",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0125",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0126",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0127",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0128",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0129",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0133",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0134",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0135",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0138",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0139",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0140",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0141",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0142",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0143",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0144",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0148",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0149",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0150",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0153",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0154",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0160",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0161",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0163",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0164",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0165",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0166",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0168",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_014_0170",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
             "mp_gid": "ev_018_0001",
             "mp_flag": 0,
             "is_new": 1
@@ -4627,6 +4262,156 @@
         },
         {
             "mp_gid": "jb_019_0022",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0004",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0006",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0007",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0008",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0009",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0010",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0013",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0014",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0015",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0016",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0019",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0031",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0032",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0033",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0034",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0043",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0045",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0046",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0048",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0049",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0053",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0054",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0056",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0057",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0058",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0059",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0070",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0071",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0074",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_015_0076",
             "mp_flag": 0,
             "is_new": 1
         }
