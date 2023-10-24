@@ -1,0 +1,55 @@
+{
+    "last_cache_load_time": "2023-10-24T04:10:05+09:00",
+    "multi_battle_stage_open_setting_list": [
+        {
+            "start_time": "2001-01-01T00:00:00+09:00",
+            "stage_id": 2019,
+            "cost_gp": 250,
+            "prize_sp": 0,
+            "bond_exp_win": 250,
+            "end_time": "2100-01-01T00:00:00+09:00",
+            "bond_exp_lose": 250,
+            "tc_lottery_list": []
+        }
+    ],
+    "gw_stage_open_setting_list": [
+        {
+            "start_time": "2023-09-07T10:00:00+09:00",
+            "stage_id": 2028,
+            "end_time": "2023-09-25T10:00:00+09:00"
+        },
+        {
+            "start_time": "2023-09-25T10:00:00+09:00",
+            "stage_id": 2012,
+            "end_time": "2023-10-11T10:00:00+09:00"
+        },
+        {
+            "start_time": "2023-10-11T10:00:00+09:00",
+            "stage_id": 2026,
+            "end_time": "2023-10-26T10:00:00+09:00"
+        },
+        {
+            "start_time": "2023-10-26T10:00:00+09:00",
+            "stage_id": 2029,
+            "end_time": "2023-11-07T10:00:00+09:00"
+        },
+        {
+            "start_time": "2023-11-07T10:00:00+09:00",
+            "stage_id": 2029,
+            "end_time": "2029-01-01T10:00:00+09:00"
+        }
+    ],
+    "gw_bond_exp_force_setting_list": [],
+    "gw_gp_force_setting_list": [
+        {
+            "start_time": "2023-09-28T07:00:00+09:00",
+            "cost_gp": 150,
+            "end_time": "2023-10-05T07:00:00+09:00"
+        },
+        {
+            "start_time": "2023-10-19T07:00:00+09:00",
+            "cost_gp": 150,
+            "end_time": "2023-10-26T07:00:00+09:00"
+        }
+    ]
+}
