@@ -1129,7 +1129,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-10-24T04:10:24+09:00",
+    "last_cache_load_time": "2023-10-25T04:10:18+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-08-24T10:00:00+09:00",
@@ -1189,13 +1189,13 @@
             "border_data_list": []
         },
         {
-            "update_time": "2023-10-24T04:00:04+09:00",
+            "update_time": "2023-10-25T04:00:07+09:00",
             "score_ranking_id": 25,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 110890,
-                    "name": "スケキヨ",
+                    "score": 110190,
+                    "name": "葉路",
                     "gw_rank": 11,
                     "border_disp_rank": 300,
                     "title_equip": {
@@ -1204,7 +1204,7 @@
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_plate_id": 30
                     }
                 },
                 {
@@ -1224,88 +1224,88 @@
                 },
                 {
                     "exist": 1,
-                    "score": 141770,
-                    "name": "エラン C4-621号",
-                    "gw_rank": 21,
+                    "score": 141290,
+                    "name": "ツインテ",
+                    "gw_rank": 8,
                     "border_disp_rank": 1000,
                     "title_equip": {
-                        "title_word_id_1": 76,
-                        "title_word_id_0": 483,
+                        "title_word_id_1": 7,
+                        "title_word_id_0": 1,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2098,
+                        "title_word_id_2": 2,
                         "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 81530,
-                    "name": "極光波・紡がれし光の波動",
-                    "gw_rank": 22,
+                    "score": 81500,
+                    "name": "アニスレイザ",
+                    "gw_rank": 6,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 135,
-                        "title_word_id_0": 1874,
+                        "title_word_id_1": 1921,
+                        "title_word_id_0": 891,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1484,
-                        "title_plate_id": 899
+                        "title_word_id_2": 1572,
+                        "title_plate_id": 895
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-10-24T04:00:10+09:00",
+            "update_time": "2023-10-25T04:00:09+09:00",
             "score_ranking_id": 26,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 28085,
-                    "name": "ダンバインＲＵＳＨ！",
-                    "gw_rank": 21,
+                    "score": 29330,
+                    "name": "わんだ",
+                    "gw_rank": 23,
                     "border_disp_rank": 500,
                     "title_equip": {
-                        "title_word_id_1": 252,
-                        "title_word_id_0": 239,
+                        "title_word_id_1": 60,
+                        "title_word_id_0": 2437,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2183,
-                        "title_plate_id": 1101
+                        "title_word_id_2": 13,
+                        "title_plate_id": 5
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 46710,
-                    "name": "ＡＤＯ",
-                    "gw_rank": 21,
+                    "score": 49310,
+                    "name": "“山の翁”",
+                    "gw_rank": 31,
                     "border_disp_rank": 200,
                     "title_equip": {
-                        "title_word_id_1": 14,
-                        "title_word_id_0": 14,
+                        "title_word_id_1": 4323,
+                        "title_word_id_0": 9,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 14,
-                        "title_plate_id": 4
+                        "title_word_id_2": 13,
+                        "title_plate_id": 1071
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 84845,
-                    "name": "ヤキニククン",
-                    "gw_rank": 23,
+                    "score": 88330,
+                    "name": "ユート",
+                    "gw_rank": 28,
                     "border_disp_rank": 50,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 29,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1214,
-                        "title_plate_id": 62
+                        "title_word_id_1": 0,
+                        "title_word_id_0": 0,
+                        "title_integrated_id": 49,
+                        "title_disp_type": 2,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 138505,
+                    "score": 144015,
                     "name": "焔",
                     "gw_rank": 22,
                     "border_disp_rank": 10,

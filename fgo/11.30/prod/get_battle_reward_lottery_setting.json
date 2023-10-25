@@ -1,7 +1,7 @@
 {
     "battle_reward_lot_open_setting_list": [
         {
-            "start_time": "2023-10-23T07:00:00+09:00",
+            "start_time": "2023-10-24T07:00:00+09:00",
             "entity_list": [
                 {
                     "start_time": "2019-01-01T07:00:00+09:00",
@@ -5968,6 +5968,6 @@
             ]
         }
     ],
-    "last_cache_load_time": "2023-10-24T04:10:12+09:00",
+    "last_cache_load_time": "2023-10-25T04:10:09+09:00",
     "battle_reward_lot_rate_list": []
 }
