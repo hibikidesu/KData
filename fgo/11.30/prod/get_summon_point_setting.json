@@ -1,6 +1,6 @@
 {
-    "summon_point_setting_ctrl_id": 2899,
-    "last_cache_load_time": "2023-10-25T04:10:18+09:00",
+    "summon_point_setting_ctrl_id": 2941,
+    "last_cache_load_time": "2023-10-26T04:10:21+09:00",
     "summon_point_setting_list": [
         {
             "providing_type": 0,
@@ -13145,7 +13145,7 @@
                             "amount": 1,
                             "prize_id": 1,
                             "data_id": 3,
-                            "name": "カーマ（ミステイク）ピックアップ１０回召喚引換券",
+                            "name": "カーマ（ミステイク）ピックアップ半額１０回召喚引換券",
                             "description": "",
                             "sort_index": 2,
                             "icon_id": 8,
@@ -13286,7 +13286,7 @@
                             "amount": 1,
                             "prize_id": 1,
                             "data_id": 3,
-                            "name": "葛飾北斎(フォーリナー)ピックアップ１０回召喚引換券",
+                            "name": "葛飾北斎(フォーリナー)ピックアップ半額１０回召喚引換券",
                             "description": "",
                             "sort_index": 2,
                             "icon_id": 8,
@@ -13427,7 +13427,7 @@
                             "amount": 1,
                             "prize_id": 1,
                             "data_id": 3,
-                            "name": "ギルガメッシュ(アーチャー)ピックアップ１０回召喚引換券",
+                            "name": "ギルガメッシュ(アーチャー)ピックアップ半額１０回召喚引換券",
                             "description": "",
                             "sort_index": 2,
                             "icon_id": 8,
@@ -14108,6 +14108,1839 @@
                             "sort_index": 2,
                             "icon_id": 3475,
                             "icon_type": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 112,
+            "name": "アストルフォ(セイバー)ピックアップ召喚 召喚ポイント報酬",
+            "message": "期間中にポイントを貯めて「アストルフォ(セイバー)」をゲット！",
+            "lineup_id_list": [
+                300
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "アストルフォ(セイバー)ピックアップ半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "★５「アストルフォ(セイバー)」、「Fatal確定呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】アストルフォ\n(セイバー)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 1515,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 3,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 113,
+            "name": "千子村正ピックアップ召喚 召喚ポイント報酬",
+            "message": "期間中にポイントを貯めて「千子村正」をゲット！",
+            "lineup_id_list": [
+                301
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "千子村正ピックアップ半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "★５(SSR)「千子村正」、「Fatal確定呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】千子村正\n(セイバー)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3850,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 3,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 114,
+            "name": "沖田総司 岡田以蔵 ピックアップ召喚 召喚ポイント報酬",
+            "message": "期間中にポイントを貯めて「沖田総司」をゲット！",
+            "lineup_id_list": [
+                302
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "沖田総司 岡田以蔵 ピックアップ半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "★５(SSR)「沖田総司」、「Fatal確定呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】沖田総司\n(セイバー)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 965,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 3,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 115,
+            "name": "ジェームズ・モリアーティ(アーチャー)ピックアップ召喚 召喚ポイント報酬",
+            "message": "期間中にポイントを貯めて「ジェームズ・モリアーティ(アーチャー)」をゲット！",
+            "lineup_id_list": [
+                303
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "ジェームズ・モリアーティ(アーチャー)ピックアップ半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "「ジェームズ・モリアーティ(アーチャー)」、「Fatal確定呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】ジェームズ・モリアーティ\n(アーチャー)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3360,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 3,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 116,
+            "name": "ジャック・ド・モレー(セイバー)ピックアップ召喚 召喚ポイント報酬",
+            "message": "期間中にポイントを貯めて「ジャック・ド・モレー(セイバー)」をゲット！",
+            "lineup_id_list": [
+                304
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "ジャック･ド･モレー(セイバー)ピックアップ半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "「ジャック・ド・モレー(セイバー)」、「Fatal確定呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】ジャック・ド・モレー\n(セイバー)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 2152,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 3,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 117,
+            "name": "ジャンヌ・ダルク(アーチャー)ピックアップ召喚 召喚ポイント報酬",
+            "message": "期間中にポイントを貯めて「ジャンヌ・ダルク(アーチャー)」をゲット！",
+            "lineup_id_list": [
+                305
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "ジャンヌ・ダルク(アーチャー)ピックアップ半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "★５「ジャンヌ・ダルク(アーチャー)」、「Fatal確定呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】ジャンヌ・ダルク\n(アーチャー)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 2909,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 3,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 118,
+            "name": "スカサハ(ランサー)ピックアップ召喚 召喚ポイント報酬",
+            "message": "期間中にポイントを貯めて「スカサハ(ランサー)」をゲット！",
+            "lineup_id_list": [
+                306
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "スカサハ(ランサー)ピックアップ半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "★５(SSR)「スカサハ(ランサー)」、「Fatal確定呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】スカサハ\n(ランサー)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 637,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 3,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 119,
+            "name": "クリスマス限定召喚2023(前半) 召喚ポイント報酬",
+            "message": "期間中にポイントを貯めて★５(SSR)サーヴァント１騎を選んでゲット！",
+            "lineup_id_list": [
+                307
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "クリスマス限定召喚２０２３(前半)半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 1,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "★５(SSR)サーヴァント１騎を選んでゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】スカサハ＝スカディ\n(キャスター)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3664,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "【カード発行】マーリン〔プロトタイプ〕\n(キャスター)",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 1371,
+                            "icon_type": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 120,
+            "name": "クリスマス限定召喚2023(前半) 召喚ポイント報酬（クリスマス2023限定デザイン）",
+            "message": "期間中にポイントを貯めて★５(SSR)サーヴァント１騎を選んでゲット！",
+            "lineup_id_list": [
+                308
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "クリスマス限定召喚２０２３(前半)半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 1,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "★５(SSR)サーヴァント１騎を選んでゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】スカサハ＝スカディ\n(キャスター)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3664,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "【カード発行】マーリン〔プロトタイプ〕\n(キャスター)",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 1371,
+                            "icon_type": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 121,
+            "name": "クリスマス限定召喚2023(後半) 召喚ポイント報酬",
+            "message": "期間中にポイントを貯めて★５(SSR)サーヴァント１騎を選んでゲット！",
+            "lineup_id_list": [
+                309
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "クリスマス限定召喚２０２３(後半)半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 1,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "★５(SSR)サーヴァント１騎を選んでゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】光のコヤンスカヤ\n(アサシン)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3749,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "【カード発行】謎のヒロインX〔オルタ〕\n(バーサーカー)",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 2483,
+                            "icon_type": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 122,
+            "name": "クリスマス限定召喚2023(後半) 召喚ポイント報酬（クリスマス2023限定デザイン）",
+            "message": "期間中にポイントを貯めて★５(SSR)サーヴァント１騎を選んでゲット！",
+            "lineup_id_list": [
+                310
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "クリスマス限定召喚２０２３(後半)半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 1,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "★５(SSR)サーヴァント１騎を選んでゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】光のコヤンスカヤ\n(アサシン)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3749,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "【カード発行】謎のヒロインX〔オルタ〕\n(バーサーカー)",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 2483,
+                            "icon_type": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 123,
+            "name": "ネロ･クラウディウス〔ブライド〕ピックアップ召喚 召喚ポイント報酬",
+            "message": "期間中にポイントを貯めて「ネロ･クラウディウス〔ブライド〕」をゲット！",
+            "lineup_id_list": [
+                311
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "ネロ･クラウディウス〔ブライド〕ピックアップ半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "「ネロ･クラウディウス〔ブライド〕」、「Fatal確定呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】ネロ・クラウディウス〔ブライド〕\n(セイバー)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 1079,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 3,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "providing_type": 0,
+            "summon_point_id": 124,
+            "name": "ネモピックアップ召喚 召喚ポイント報酬",
+            "message": "期間中にポイントを貯めて「ネモ」をゲット！",
+            "lineup_id_list": [
+                312
+            ],
+            "prize_setting_list": [
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 30,
+                    "prize_id": 1,
+                    "prize_name": "「呼符×２」、本召喚の「半額１０回召喚引換券」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 1,
+                            "data_id": 3,
+                            "name": "ネモピックアップ半額１０回召喚引換券",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 8,
+                            "icon_type": 6
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 1,
+                            "data_id": 1,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 60,
+                    "prize_id": 2,
+                    "prize_name": "「呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 3,
+                            "prize_id": 2,
+                            "data_id": 4,
+                            "name": "呼符",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 120,
+                    "prize_id": 3,
+                    "prize_name": "「福袋召喚補助券×５」、「Fatal確定呼符」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 5,
+                            "prize_id": 3,
+                            "data_id": 7,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 1,
+                            "prize_id": 3,
+                            "data_id": 8,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 190,
+                    "prize_id": 4,
+                    "prize_name": "「福袋召喚補助券×１０」、「Fatal確定呼符×２」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 10,
+                            "prize_id": 4,
+                            "data_id": 9,
+                            "name": "福袋召喚補助券",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 97,
+                            "icon_type": 0
+                        },
+                        {
+                            "amount": 2,
+                            "prize_id": 4,
+                            "data_id": 10,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
+                        }
+                    ]
+                },
+                {
+                    "is_selectable": 0,
+                    "necessary_point": 300,
+                    "prize_id": 5,
+                    "prize_name": "★５(SSR)「ネモ」、「Fatal確定呼符×３」をゲット！",
+                    "content_data_list": [
+                        {
+                            "amount": 1,
+                            "prize_id": 5,
+                            "data_id": 12,
+                            "name": "【カード発行】ネモ\n(ライダー)",
+                            "description": "",
+                            "sort_index": 1,
+                            "icon_id": 3464,
+                            "icon_type": 5
+                        },
+                        {
+                            "amount": 3,
+                            "prize_id": 5,
+                            "data_id": 13,
+                            "name": "Fatal確定呼符",
+                            "description": "",
+                            "sort_index": 2,
+                            "icon_id": 9,
+                            "icon_type": 6
                         }
                     ]
                 }

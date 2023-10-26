@@ -1,438 +1,6 @@
 {
     "score_ranking_reward_list": [
         {
-            "reward_number": 14,
-            "amount": 10,
-            "score_ranking_id": 23,
-            "target_rank_max": 500,
-            "target_rank_min": 201,
-            "sort_index": 0,
-            "icon_id": 1001,
-            "title": "無記名Fatalチップ×１０",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 21
-        },
-        {
-            "reward_number": 15,
-            "amount": 15,
-            "score_ranking_id": 23,
-            "target_rank_max": 500,
-            "target_rank_min": 201,
-            "sort_index": 1,
-            "icon_id": 97,
-            "title": "福袋召喚補助券×１５",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 0
-        },
-        {
-            "reward_number": 16,
-            "amount": 1,
-            "score_ranking_id": 23,
-            "target_rank_max": 500,
-            "target_rank_min": 201,
-            "sort_index": 2,
-            "icon_id": 89,
-            "title": "専用称号「ＧＷスパークスバトル シーズン７　Ｇ４」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 16
-        },
-        {
-            "reward_number": 17,
-            "amount": 1,
-            "score_ranking_id": 23,
-            "target_rank_max": 500,
-            "target_rank_min": 201,
-            "sort_index": 3,
-            "icon_id": 4619,
-            "title": "称号ワード「ストライカー」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
-            "reward_number": 10,
-            "amount": 25,
-            "score_ranking_id": 23,
-            "target_rank_max": 200,
-            "target_rank_min": 51,
-            "sort_index": 0,
-            "icon_id": 1001,
-            "title": "無記名Fatalチップ×２５",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 21
-        },
-        {
-            "reward_number": 11,
-            "amount": 25,
-            "score_ranking_id": 23,
-            "target_rank_max": 200,
-            "target_rank_min": 51,
-            "sort_index": 1,
-            "icon_id": 97,
-            "title": "福袋召喚補助券×２５",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 0
-        },
-        {
-            "reward_number": 12,
-            "amount": 1,
-            "score_ranking_id": 23,
-            "target_rank_max": 200,
-            "target_rank_min": 51,
-            "sort_index": 2,
-            "icon_id": 88,
-            "title": "専用称号「ＧＷスパークスバトル シーズン７　Ｇ３」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 16
-        },
-        {
-            "reward_number": 13,
-            "amount": 1,
-            "score_ranking_id": 23,
-            "target_rank_max": 200,
-            "target_rank_min": 51,
-            "sort_index": 3,
-            "icon_id": 4619,
-            "title": "称号ワード「ストライカー」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
-            "reward_number": 5,
-            "amount": 100,
-            "score_ranking_id": 23,
-            "target_rank_max": 50,
-            "target_rank_min": 11,
-            "sort_index": 0,
-            "icon_id": 1001,
-            "title": "無記名Fatalチップ×１００",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 21
-        },
-        {
-            "reward_number": 6,
-            "amount": 50,
-            "score_ranking_id": 23,
-            "target_rank_max": 50,
-            "target_rank_min": 11,
-            "sort_index": 1,
-            "icon_id": 97,
-            "title": "福袋召喚補助券×５０",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 0
-        },
-        {
-            "reward_number": 7,
-            "amount": 1,
-            "score_ranking_id": 23,
-            "target_rank_max": 50,
-            "target_rank_min": 11,
-            "sort_index": 2,
-            "icon_id": 87,
-            "title": "専用称号「ＧＷスパークスバトル シーズン７　Ｇ２」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 16
-        },
-        {
-            "reward_number": 8,
-            "amount": 1,
-            "score_ranking_id": 23,
-            "target_rank_max": 50,
-            "target_rank_min": 11,
-            "sort_index": 3,
-            "icon_id": 4618,
-            "title": "称号ワード「空前絶後」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
-            "reward_number": 9,
-            "amount": 1,
-            "score_ranking_id": 23,
-            "target_rank_max": 50,
-            "target_rank_min": 11,
-            "sort_index": 4,
-            "icon_id": 4619,
-            "title": "称号ワード「ストライカー」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
-            "reward_number": 0,
-            "amount": 500,
-            "score_ranking_id": 23,
-            "target_rank_max": 10,
-            "target_rank_min": 1,
-            "sort_index": 0,
-            "icon_id": 1001,
-            "title": "無記名Fatalチップ×５００",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 21
-        },
-        {
-            "reward_number": 1,
-            "amount": 100,
-            "score_ranking_id": 23,
-            "target_rank_max": 10,
-            "target_rank_min": 1,
-            "sort_index": 1,
-            "icon_id": 97,
-            "title": "福袋召喚補助券×１００",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 0
-        },
-        {
-            "reward_number": 2,
-            "amount": 1,
-            "score_ranking_id": 23,
-            "target_rank_max": 10,
-            "target_rank_min": 1,
-            "sort_index": 2,
-            "icon_id": 86,
-            "title": "専用称号「ＧＷスパークスバトル シーズン７　Ｇ１」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 16
-        },
-        {
-            "reward_number": 3,
-            "amount": 1,
-            "score_ranking_id": 23,
-            "target_rank_max": 10,
-            "target_rank_min": 1,
-            "sort_index": 3,
-            "icon_id": 4618,
-            "title": "称号ワード「空前絶後」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
-            "reward_number": 4,
-            "amount": 1,
-            "score_ranking_id": 23,
-            "target_rank_max": 10,
-            "target_rank_min": 1,
-            "sort_index": 4,
-            "icon_id": 4619,
-            "title": "称号ワード「ストライカー」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＧｒａｎｄ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
-            "reward_number": 10,
-            "amount": 10,
-            "score_ranking_id": 24,
-            "target_rank_max": 1200,
-            "target_rank_min": 601,
-            "sort_index": 0,
-            "icon_id": 97,
-            "title": "福袋召喚補助券×１０",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 0
-        },
-        {
-            "reward_number": 11,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 1200,
-            "target_rank_min": 601,
-            "sort_index": 1,
-            "icon_id": 27,
-            "title": "伝承結晶×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 2
-        },
-        {
-            "reward_number": 12,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 1200,
-            "target_rank_min": 601,
-            "sort_index": 2,
-            "icon_id": 92,
-            "title": "専用称号「ＧＷスパークスバトル シーズン７　Ｖ３」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 16
-        },
-        {
-            "reward_number": 13,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 1200,
-            "target_rank_min": 601,
-            "sort_index": 3,
-            "icon_id": 4621,
-            "title": "称号ワード「マッシブ」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
-            "reward_number": 5,
-            "amount": 15,
-            "score_ranking_id": 24,
-            "target_rank_max": 600,
-            "target_rank_min": 151,
-            "sort_index": 0,
-            "icon_id": 97,
-            "title": "福袋召喚補助券×１５",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 0
-        },
-        {
-            "reward_number": 6,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 600,
-            "target_rank_min": 151,
-            "sort_index": 1,
-            "icon_id": 27,
-            "title": "伝承結晶×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 2
-        },
-        {
-            "reward_number": 7,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 600,
-            "target_rank_min": 151,
-            "sort_index": 2,
-            "icon_id": 91,
-            "title": "専用称号「ＧＷスパークスバトル シーズン７　Ｖ２」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 16
-        },
-        {
-            "reward_number": 8,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 600,
-            "target_rank_min": 151,
-            "sort_index": 3,
-            "icon_id": 4620,
-            "title": "称号ワード「意気軒高」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
-            "reward_number": 9,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 600,
-            "target_rank_min": 151,
-            "sort_index": 4,
-            "icon_id": 4621,
-            "title": "称号ワード「マッシブ」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
-            "reward_number": 14,
-            "amount": 5,
-            "score_ranking_id": 24,
-            "target_rank_max": 2500,
-            "target_rank_min": 1201,
-            "sort_index": 0,
-            "icon_id": 97,
-            "title": "福袋召喚補助券×５",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 0
-        },
-        {
-            "reward_number": 15,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 2500,
-            "target_rank_min": 1201,
-            "sort_index": 1,
-            "icon_id": 27,
-            "title": "伝承結晶×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 2
-        },
-        {
-            "reward_number": 16,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 2500,
-            "target_rank_min": 1201,
-            "sort_index": 2,
-            "icon_id": 93,
-            "title": "専用称号「ＧＷスパークスバトル シーズン７　Ｖ４」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 16
-        },
-        {
-            "reward_number": 17,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 2500,
-            "target_rank_min": 1201,
-            "sort_index": 3,
-            "icon_id": 4621,
-            "title": "称号ワード「マッシブ」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
-            "reward_number": 0,
-            "amount": 20,
-            "score_ranking_id": 24,
-            "target_rank_max": 150,
-            "target_rank_min": 1,
-            "sort_index": 0,
-            "icon_id": 97,
-            "title": "福袋召喚補助券×２０",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 0
-        },
-        {
-            "reward_number": 1,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 150,
-            "target_rank_min": 1,
-            "sort_index": 1,
-            "icon_id": 27,
-            "title": "伝承結晶×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 2
-        },
-        {
-            "reward_number": 2,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 150,
-            "target_rank_min": 1,
-            "sort_index": 2,
-            "icon_id": 90,
-            "title": "専用称号「ＧＷスパークスバトル シーズン７　Ｖ１」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 16
-        },
-        {
-            "reward_number": 3,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 150,
-            "target_rank_min": 1,
-            "sort_index": 3,
-            "icon_id": 4620,
-            "title": "称号ワード「意気軒高」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
-            "reward_number": 4,
-            "amount": 1,
-            "score_ranking_id": 24,
-            "target_rank_max": 150,
-            "target_rank_min": 1,
-            "sort_index": 4,
-            "icon_id": 4621,
-            "title": "称号ワード「マッシブ」×１",
-            "message": "ＧＷスパークスバトル シーズン７\nＶｉｃｔｏｒｙ部門のランキング報酬です",
-            "icon_type": 14
-        },
-        {
             "reward_number": 11,
             "amount": 70,
             "score_ranking_id": 25,
@@ -1127,28 +695,442 @@
             "title": "称号ワード「ＧＲＥＡＴ」×１",
             "message": "ＧＷスパークスバトル シーズン８\nＶｉｃｔｏｒｙ部門のランキング報酬です",
             "icon_type": 14
+        },
+        {
+            "reward_number": 14,
+            "amount": 10,
+            "score_ranking_id": 28,
+            "target_rank_max": 500,
+            "target_rank_min": 201,
+            "sort_index": 0,
+            "icon_id": 1001,
+            "title": "無記名Fatalチップ×１０",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 21
+        },
+        {
+            "reward_number": 15,
+            "amount": 15,
+            "score_ranking_id": 28,
+            "target_rank_max": 500,
+            "target_rank_min": 201,
+            "sort_index": 1,
+            "icon_id": 97,
+            "title": "福袋召喚補助券×１５",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 0
+        },
+        {
+            "reward_number": 16,
+            "amount": 1,
+            "score_ranking_id": 28,
+            "target_rank_max": 500,
+            "target_rank_min": 201,
+            "sort_index": 2,
+            "icon_id": 105,
+            "title": "専用称号「ＧＷスパークスバトル シーズン９　Ｇ４」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 16
+        },
+        {
+            "reward_number": 17,
+            "amount": 1,
+            "score_ranking_id": 28,
+            "target_rank_max": 500,
+            "target_rank_min": 201,
+            "sort_index": 3,
+            "icon_id": 4636,
+            "title": "称号ワード「ＭＡＲＶＥＬＯＵＳ」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 14
+        },
+        {
+            "reward_number": 10,
+            "amount": 25,
+            "score_ranking_id": 28,
+            "target_rank_max": 200,
+            "target_rank_min": 51,
+            "sort_index": 0,
+            "icon_id": 1001,
+            "title": "無記名Fatalチップ×２５",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 21
+        },
+        {
+            "reward_number": 11,
+            "amount": 25,
+            "score_ranking_id": 28,
+            "target_rank_max": 200,
+            "target_rank_min": 51,
+            "sort_index": 1,
+            "icon_id": 97,
+            "title": "福袋召喚補助券×２５",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 0
+        },
+        {
+            "reward_number": 12,
+            "amount": 1,
+            "score_ranking_id": 28,
+            "target_rank_max": 200,
+            "target_rank_min": 51,
+            "sort_index": 2,
+            "icon_id": 104,
+            "title": "専用称号「ＧＷスパークスバトル シーズン９　Ｇ３」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 16
+        },
+        {
+            "reward_number": 13,
+            "amount": 1,
+            "score_ranking_id": 28,
+            "target_rank_max": 200,
+            "target_rank_min": 51,
+            "sort_index": 3,
+            "icon_id": 4636,
+            "title": "称号ワード「ＭＡＲＶＥＬＯＵＳ」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 14
+        },
+        {
+            "reward_number": 5,
+            "amount": 100,
+            "score_ranking_id": 28,
+            "target_rank_max": 50,
+            "target_rank_min": 11,
+            "sort_index": 0,
+            "icon_id": 1001,
+            "title": "無記名Fatalチップ×１００",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 21
+        },
+        {
+            "reward_number": 6,
+            "amount": 50,
+            "score_ranking_id": 28,
+            "target_rank_max": 50,
+            "target_rank_min": 11,
+            "sort_index": 1,
+            "icon_id": 97,
+            "title": "福袋召喚補助券×５０",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 0
+        },
+        {
+            "reward_number": 7,
+            "amount": 1,
+            "score_ranking_id": 28,
+            "target_rank_max": 50,
+            "target_rank_min": 11,
+            "sort_index": 2,
+            "icon_id": 103,
+            "title": "専用称号「ＧＷスパークスバトル シーズン９　Ｇ２」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 16
+        },
+        {
+            "reward_number": 8,
+            "amount": 1,
+            "score_ranking_id": 28,
+            "target_rank_max": 50,
+            "target_rank_min": 11,
+            "sort_index": 3,
+            "icon_id": 4635,
+            "title": "称号ワード「激」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 14
+        },
+        {
+            "reward_number": 9,
+            "amount": 1,
+            "score_ranking_id": 28,
+            "target_rank_max": 50,
+            "target_rank_min": 11,
+            "sort_index": 4,
+            "icon_id": 4636,
+            "title": "称号ワード「ＭＡＲＶＥＬＯＵＳ」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 14
+        },
+        {
+            "reward_number": 0,
+            "amount": 500,
+            "score_ranking_id": 28,
+            "target_rank_max": 10,
+            "target_rank_min": 1,
+            "sort_index": 0,
+            "icon_id": 1001,
+            "title": "無記名Fatalチップ×５００",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 21
+        },
+        {
+            "reward_number": 1,
+            "amount": 100,
+            "score_ranking_id": 28,
+            "target_rank_max": 10,
+            "target_rank_min": 1,
+            "sort_index": 1,
+            "icon_id": 97,
+            "title": "福袋召喚補助券×１００",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 0
+        },
+        {
+            "reward_number": 2,
+            "amount": 1,
+            "score_ranking_id": 28,
+            "target_rank_max": 10,
+            "target_rank_min": 1,
+            "sort_index": 2,
+            "icon_id": 102,
+            "title": "専用称号「ＧＷスパークスバトル シーズン９　Ｇ１」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 16
+        },
+        {
+            "reward_number": 3,
+            "amount": 1,
+            "score_ranking_id": 28,
+            "target_rank_max": 10,
+            "target_rank_min": 1,
+            "sort_index": 3,
+            "icon_id": 4635,
+            "title": "称号ワード「激」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 14
+        },
+        {
+            "reward_number": 4,
+            "amount": 1,
+            "score_ranking_id": 28,
+            "target_rank_max": 10,
+            "target_rank_min": 1,
+            "sort_index": 4,
+            "icon_id": 4636,
+            "title": "称号ワード「ＭＡＲＶＥＬＯＵＳ」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＧｒａｎｄ部門のランキング報酬です",
+            "icon_type": 14
+        },
+        {
+            "reward_number": 10,
+            "amount": 10,
+            "score_ranking_id": 29,
+            "target_rank_max": 1200,
+            "target_rank_min": 601,
+            "sort_index": 0,
+            "icon_id": 97,
+            "title": "福袋召喚補助券×１０",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 0
+        },
+        {
+            "reward_number": 11,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 1200,
+            "target_rank_min": 601,
+            "sort_index": 1,
+            "icon_id": 27,
+            "title": "伝承結晶×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 2
+        },
+        {
+            "reward_number": 12,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 1200,
+            "target_rank_min": 601,
+            "sort_index": 2,
+            "icon_id": 108,
+            "title": "専用称号「ＧＷスパークスバトル シーズン９　Ｖ３」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 16
+        },
+        {
+            "reward_number": 13,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 1200,
+            "target_rank_min": 601,
+            "sort_index": 3,
+            "icon_id": 4638,
+            "title": "称号ワード「ＰＥＲＦＥＣＴ」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 14
+        },
+        {
+            "reward_number": 5,
+            "amount": 15,
+            "score_ranking_id": 29,
+            "target_rank_max": 600,
+            "target_rank_min": 151,
+            "sort_index": 0,
+            "icon_id": 97,
+            "title": "福袋召喚補助券×１５",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 0
+        },
+        {
+            "reward_number": 6,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 600,
+            "target_rank_min": 151,
+            "sort_index": 1,
+            "icon_id": 27,
+            "title": "伝承結晶×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 2
+        },
+        {
+            "reward_number": 7,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 600,
+            "target_rank_min": 151,
+            "sort_index": 2,
+            "icon_id": 107,
+            "title": "専用称号「ＧＷスパークスバトル シーズン９　Ｖ２」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 16
+        },
+        {
+            "reward_number": 8,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 600,
+            "target_rank_min": 151,
+            "sort_index": 3,
+            "icon_id": 4637,
+            "title": "称号ワード「超」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 14
+        },
+        {
+            "reward_number": 9,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 600,
+            "target_rank_min": 151,
+            "sort_index": 4,
+            "icon_id": 4638,
+            "title": "称号ワード「ＰＥＲＦＥＣＴ」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 14
+        },
+        {
+            "reward_number": 14,
+            "amount": 5,
+            "score_ranking_id": 29,
+            "target_rank_max": 2500,
+            "target_rank_min": 1201,
+            "sort_index": 0,
+            "icon_id": 97,
+            "title": "福袋召喚補助券×５",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 0
+        },
+        {
+            "reward_number": 15,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 2500,
+            "target_rank_min": 1201,
+            "sort_index": 1,
+            "icon_id": 27,
+            "title": "伝承結晶×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 2
+        },
+        {
+            "reward_number": 16,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 2500,
+            "target_rank_min": 1201,
+            "sort_index": 2,
+            "icon_id": 109,
+            "title": "専用称号「ＧＷスパークスバトル シーズン９　Ｖ４」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 16
+        },
+        {
+            "reward_number": 17,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 2500,
+            "target_rank_min": 1201,
+            "sort_index": 3,
+            "icon_id": 4638,
+            "title": "称号ワード「ＰＥＲＦＥＣＴ」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 14
+        },
+        {
+            "reward_number": 0,
+            "amount": 20,
+            "score_ranking_id": 29,
+            "target_rank_max": 150,
+            "target_rank_min": 1,
+            "sort_index": 0,
+            "icon_id": 97,
+            "title": "福袋召喚補助券×２０",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 0
+        },
+        {
+            "reward_number": 1,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 150,
+            "target_rank_min": 1,
+            "sort_index": 1,
+            "icon_id": 27,
+            "title": "伝承結晶×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 2
+        },
+        {
+            "reward_number": 2,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 150,
+            "target_rank_min": 1,
+            "sort_index": 2,
+            "icon_id": 106,
+            "title": "専用称号「ＧＷスパークスバトル シーズン９　Ｖ１」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 16
+        },
+        {
+            "reward_number": 3,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 150,
+            "target_rank_min": 1,
+            "sort_index": 3,
+            "icon_id": 4637,
+            "title": "称号ワード「超」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 14
+        },
+        {
+            "reward_number": 4,
+            "amount": 1,
+            "score_ranking_id": 29,
+            "target_rank_max": 150,
+            "target_rank_min": 1,
+            "sort_index": 4,
+            "icon_id": 4638,
+            "title": "称号ワード「ＰＥＲＦＥＣＴ」×１",
+            "message": "ＧＷスパークスバトル シーズン９\nＶｉｃｔｏｒｙ部門のランキング報酬です",
+            "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-10-25T04:10:18+09:00",
+    "last_cache_load_time": "2023-10-26T04:10:21+09:00",
     "score_ranking_open_setting_list": [
-        {
-            "start_time": "2023-08-24T10:00:00+09:00",
-            "count_end_time": "2023-09-14T10:00:00+09:00",
-            "score_ranking_id": 23,
-            "count_start_time": "2023-08-24T10:00:00+09:00",
-            "end_time": "2023-09-28T07:00:00+09:00",
-            "reward_start_time": "2023-09-15T10:00:00+09:00",
-            "ranking_disp_id": 0
-        },
-        {
-            "start_time": "2023-08-24T10:00:00+09:00",
-            "count_end_time": "2023-09-07T10:00:00+09:00",
-            "score_ranking_id": 24,
-            "count_start_time": "2023-08-24T10:00:00+09:00",
-            "end_time": "2023-09-28T07:00:00+09:00",
-            "reward_start_time": "2023-09-08T10:00:00+09:00",
-            "ranking_disp_id": 0
-        },
         {
             "start_time": "2023-09-28T10:00:00+09:00",
             "count_end_time": "2023-10-26T07:00:00+09:00",
@@ -1175,28 +1157,36 @@
             "end_time": "2023-11-09T07:00:00+09:00",
             "reward_start_time": "2023-10-20T10:00:00+09:00",
             "ranking_disp_id": 0
+        },
+        {
+            "start_time": "2023-12-07T10:00:00+09:00",
+            "count_end_time": "2023-12-28T10:00:00+09:00",
+            "score_ranking_id": 28,
+            "count_start_time": "2023-12-07T10:00:00+09:00",
+            "end_time": "2024-01-11T07:00:00+09:00",
+            "reward_start_time": "2023-12-29T10:00:00+09:00",
+            "ranking_disp_id": 0
+        },
+        {
+            "start_time": "2023-12-07T10:00:00+09:00",
+            "count_end_time": "2023-12-21T10:00:00+09:00",
+            "score_ranking_id": 29,
+            "count_start_time": "2023-12-07T10:00:00+09:00",
+            "end_time": "2024-01-11T07:00:00+09:00",
+            "reward_start_time": "2023-12-22T10:00:00+09:00",
+            "ranking_disp_id": 0
         }
     ],
     "score_ranking_border_list": [
         {
-            "update_time": "2023-09-14T11:00:06+09:00",
-            "score_ranking_id": 23,
-            "border_data_list": []
-        },
-        {
-            "update_time": "2023-09-07T11:00:09+09:00",
-            "score_ranking_id": 24,
-            "border_data_list": []
-        },
-        {
-            "update_time": "2023-10-25T04:00:07+09:00",
+            "update_time": "2023-10-26T04:00:07+09:00",
             "score_ranking_id": 25,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 110190,
-                    "name": "葉路",
-                    "gw_rank": 11,
+                    "score": 109590,
+                    "name": "お茶乃子",
+                    "gw_rank": 19,
                     "border_disp_rank": 300,
                     "title_equip": {
                         "title_word_id_1": 7,
@@ -1204,7 +1194,7 @@
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
                         "title_word_id_2": 2,
-                        "title_plate_id": 30
+                        "title_plate_id": 25
                     }
                 },
                 {
@@ -1224,80 +1214,50 @@
                 },
                 {
                     "exist": 1,
-                    "score": 141290,
-                    "name": "ツインテ",
-                    "gw_rank": 8,
+                    "score": 139860,
+                    "name": "超高校級の幸運",
+                    "gw_rank": 24,
                     "border_disp_rank": 1000,
                     "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
+                        "title_word_id_1": 258,
+                        "title_word_id_0": 258,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
+                        "title_word_id_2": 258,
+                        "title_plate_id": 355
                     }
                 },
                 {
                     "exist": 1,
-                    "score": 81500,
-                    "name": "アニスレイザ",
-                    "gw_rank": 6,
+                    "score": 80240,
+                    "name": "ネオ縄文人",
+                    "gw_rank": 4,
                     "border_disp_rank": 10,
                     "title_equip": {
-                        "title_word_id_1": 1921,
-                        "title_word_id_0": 891,
+                        "title_word_id_1": 83,
+                        "title_word_id_0": 4203,
                         "title_integrated_id": 0,
                         "title_disp_type": 1,
-                        "title_word_id_2": 1572,
-                        "title_plate_id": 895
+                        "title_word_id_2": 189,
+                        "title_plate_id": 1016
                     }
                 }
             ]
         },
         {
-            "update_time": "2023-10-25T04:00:09+09:00",
+            "update_time": "2023-10-26T04:00:14+09:00",
             "score_ranking_id": 26,
             "border_data_list": [
                 {
                     "exist": 1,
-                    "score": 29330,
-                    "name": "わんだ",
-                    "gw_rank": 23,
+                    "score": 30355,
+                    "name": "酒で正常に判断",
+                    "gw_rank": 24,
                     "border_disp_rank": 500,
-                    "title_equip": {
-                        "title_word_id_1": 60,
-                        "title_word_id_0": 2437,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 13,
-                        "title_plate_id": 5
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 49310,
-                    "name": "“山の翁”",
-                    "gw_rank": 31,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 4323,
-                        "title_word_id_0": 9,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 13,
-                        "title_plate_id": 1071
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 88330,
-                    "name": "ユート",
-                    "gw_rank": 28,
-                    "border_disp_rank": 50,
                     "title_equip": {
                         "title_word_id_1": 0,
                         "title_word_id_0": 0,
-                        "title_integrated_id": 49,
+                        "title_integrated_id": 29,
                         "title_disp_type": 2,
                         "title_word_id_2": 0,
                         "title_plate_id": 25
@@ -1305,9 +1265,39 @@
                 },
                 {
                     "exist": 1,
-                    "score": 144015,
+                    "score": 52025,
+                    "name": "ＡＲＩＡ",
+                    "gw_rank": 21,
+                    "border_disp_rank": 200,
+                    "title_equip": {
+                        "title_word_id_1": 391,
+                        "title_word_id_0": 391,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 391,
+                        "title_plate_id": 25
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 90255,
+                    "name": "反省してます",
+                    "gw_rank": 26,
+                    "border_disp_rank": 50,
+                    "title_equip": {
+                        "title_word_id_1": 386,
+                        "title_word_id_0": 1328,
+                        "title_integrated_id": 0,
+                        "title_disp_type": 1,
+                        "title_word_id_2": 0,
+                        "title_plate_id": 25
+                    }
+                },
+                {
+                    "exist": 1,
+                    "score": 149480,
                     "name": "焔",
-                    "gw_rank": 22,
+                    "gw_rank": 21,
                     "border_disp_rank": 10,
                     "title_equip": {
                         "title_word_id_1": 189,
@@ -1385,6 +1375,16 @@
                     }
                 }
             ]
+        },
+        {
+            "update_time": "2001-01-01T00:00:00+09:00",
+            "score_ranking_id": 28,
+            "border_data_list": []
+        },
+        {
+            "update_time": "2001-01-01T00:00:00+09:00",
+            "score_ranking_id": 29,
+            "border_data_list": []
         }
     ]
 }

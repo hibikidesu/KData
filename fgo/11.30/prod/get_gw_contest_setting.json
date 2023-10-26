@@ -1,44 +1,24 @@
 {
     "season_and_contest_relation": [
         {
-            "gw_contest_id": 13,
-            "season_id": 7
-        },
-        {
-            "gw_contest_id": 14,
-            "season_id": 7
-        },
-        {
             "gw_contest_id": 15,
             "season_id": 8
         },
         {
             "gw_contest_id": 16,
             "season_id": 8
+        },
+        {
+            "gw_contest_id": 17,
+            "season_id": 9
+        },
+        {
+            "gw_contest_id": 18,
+            "season_id": 9
         }
     ],
-    "last_cache_load_time": "2023-10-25T04:10:04+09:00",
+    "last_cache_load_time": "2023-10-26T04:10:04+09:00",
     "gw_contest_setting_list": [
-        {
-            "gw_contest_id": 13,
-            "division": 0,
-            "start_time": "2023-08-24T10:00:00+09:00",
-            "score_ranking_id": 23,
-            "contest_target": 0,
-            "end_time": "2023-09-14T10:00:00+09:00",
-            "name": "ＧＷスパークスバトル シーズン7",
-            "disp_sprite_id": -1
-        },
-        {
-            "gw_contest_id": 14,
-            "division": 1,
-            "start_time": "2023-08-24T10:00:00+09:00",
-            "score_ranking_id": 24,
-            "contest_target": 1,
-            "end_time": "2023-09-07T10:00:00+09:00",
-            "name": "ＧＷスパークスバトル シーズン7",
-            "disp_sprite_id": -1
-        },
         {
             "gw_contest_id": 15,
             "division": 0,
@@ -58,23 +38,43 @@
             "end_time": "2023-10-19T10:00:00+09:00",
             "name": "ＧＷスパークスバトル シーズン8",
             "disp_sprite_id": -1
+        },
+        {
+            "gw_contest_id": 17,
+            "division": 0,
+            "start_time": "2023-12-07T10:00:00+09:00",
+            "score_ranking_id": 28,
+            "contest_target": 0,
+            "end_time": "2023-12-28T10:00:00+09:00",
+            "name": "ＧＷスパークスバトル シーズン9",
+            "disp_sprite_id": -1
+        },
+        {
+            "gw_contest_id": 18,
+            "division": 1,
+            "start_time": "2023-12-07T10:00:00+09:00",
+            "score_ranking_id": 29,
+            "contest_target": 1,
+            "end_time": "2023-12-21T10:00:00+09:00",
+            "name": "ＧＷスパークスバトル シーズン9",
+            "disp_sprite_id": -1
         }
     ],
     "season_list": [
-        {
-            "start_time": "2023-08-24T10:00:00+09:00",
-            "end_time": "2023-09-14T10:00:00+09:00",
-            "disp_name": "シーズン7",
-            "disp_number": 7,
-            "season_id": 7,
-            "disp_sprite_id": 1
-        },
         {
             "start_time": "2023-10-05T10:00:00+09:00",
             "end_time": "2023-10-26T10:00:00+09:00",
             "disp_name": "シーズン8",
             "disp_number": 8,
             "season_id": 8,
+            "disp_sprite_id": 1
+        },
+        {
+            "start_time": "2023-12-07T10:00:00+09:00",
+            "end_time": "2023-12-28T10:00:00+09:00",
+            "disp_name": "シーズン9",
+            "disp_number": 9,
+            "season_id": 9,
             "disp_sprite_id": 1
         }
     ]

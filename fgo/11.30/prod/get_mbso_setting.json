@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2023-10-25T04:10:04+09:00",
+    "last_cache_load_time": "2023-10-26T04:10:04+09:00",
     "multi_battle_stage_open_setting_list": [
         {
             "start_time": "2001-01-01T00:00:00+09:00",
@@ -42,14 +42,9 @@
     "gw_bond_exp_force_setting_list": [],
     "gw_gp_force_setting_list": [
         {
-            "start_time": "2023-09-28T07:00:00+09:00",
+            "start_time": "2023-11-30T07:00:00+09:00",
             "cost_gp": 150,
-            "end_time": "2023-10-05T07:00:00+09:00"
-        },
-        {
-            "start_time": "2023-10-19T07:00:00+09:00",
-            "cost_gp": 150,
-            "end_time": "2023-10-26T07:00:00+09:00"
+            "end_time": "2023-12-07T07:00:00+09:00"
         }
     ]
 }

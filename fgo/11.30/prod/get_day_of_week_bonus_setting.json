@@ -1,6 +1,6 @@
 {
-    "day_of_week_bonus_setting_ctrl_id": 2894,
-    "last_cache_load_time": "2023-10-25T04:10:11+09:00",
+    "day_of_week_bonus_setting_ctrl_id": 2935,
+    "last_cache_load_time": "2023-10-26T04:10:13+09:00",
     "day_of_week_bonus_setting_list": [
         {
             "bonus_list": [
@@ -49,9 +49,9 @@
             ],
             "day_of_week_bonus_id": 3,
             "setting_name": "期間限定曜日ボーナス",
-            "start_time": "2023-10-12T07:00:00+09:00",
+            "start_time": "2023-11-16T07:00:00+09:00",
             "disp_spr_id": -1,
-            "end_time": "2023-10-26T07:00:00+09:00"
+            "end_time": "2023-11-30T07:00:00+09:00"
         }
     ]
 }
