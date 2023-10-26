@@ -181,6 +181,11 @@
             "category": 0
         },
         {
+            "albumID": 1036,
+            "title": "beatmania IIDX 31 EPOLIS ON GAME",
+            "category": 0
+        },
+        {
             "albumID": 2000,
             "title": "pop'n music original soundtrack",
             "category": 2
@@ -623,6 +628,11 @@
         {
             "albumID": 6017,
             "title": "jubeat Ave. ORIGINAL SOUNDTRACK",
+            "category": 9
+        },
+        {
+            "albumID": 6018,
+            "title": "jubeat beyond the Ave. ORIGINAL SOUNDTRACK",
             "category": 9
         },
         {
@@ -20990,6 +21000,278 @@
             "openType": 1
         },
         {
+            "gid": "bm_065_0001",
+            "albumID": 1036,
+            "trackNo": 1,
+            "title": "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.",
+            "artist": "BEMANI Sound Team \"L.E.D.\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0002",
+            "albumID": 1036,
+            "trackNo": 2,
+            "title": "Get Higher",
+            "artist": "BEMANI Sound Team \"劇団レコード\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0003",
+            "albumID": 1036,
+            "trackNo": 3,
+            "title": "Submerge Serenade",
+            "artist": "lapix",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0004",
+            "albumID": 1036,
+            "trackNo": 4,
+            "title": "Mukade",
+            "artist": "kors k",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0005",
+            "albumID": 1036,
+            "trackNo": 5,
+            "title": "Chemical Colours",
+            "artist": "Blacklolita x BEMANI Sound Team \"Expander\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0006",
+            "albumID": 1036,
+            "trackNo": 6,
+            "title": "Time Distortion pt.2(IIDX Edit)",
+            "artist": "kors k vs BEMANI Sound Team \"setup\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0007",
+            "albumID": 1036,
+            "trackNo": 7,
+            "title": "GloriosA",
+            "artist": "KARUT",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0008",
+            "albumID": 1036,
+            "trackNo": 8,
+            "title": "frequent",
+            "artist": "BEMANI Sound Team \"dj TAKA\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0009",
+            "albumID": 1036,
+            "trackNo": 9,
+            "title": "Speculation",
+            "artist": "BEMANI Sound Team \"ZAQUVA\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0010",
+            "albumID": 1036,
+            "trackNo": 10,
+            "title": "Echoes of Sunfall",
+            "artist": "nora2r",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0011",
+            "albumID": 1036,
+            "trackNo": 11,
+            "title": "流桜ノ門",
+            "artist": "tokiwa",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0012",
+            "albumID": 1036,
+            "trackNo": 12,
+            "title": "Bitter & Lucky",
+            "artist": "DÉ DÉ MOUSE",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0013",
+            "albumID": 1036,
+            "trackNo": 13,
+            "title": "Jumper",
+            "artist": "Masayoshi Iimori",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0014",
+            "albumID": 1036,
+            "trackNo": 14,
+            "title": "Deep Sea Mystery",
+            "artist": "Dirty Androids",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0015",
+            "albumID": 1036,
+            "trackNo": 15,
+            "title": "Shapeshifter",
+            "artist": "Avans",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0016",
+            "albumID": 1036,
+            "trackNo": 16,
+            "title": "Ghost Pulse",
+            "artist": "crayvxn",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0017",
+            "albumID": 1036,
+            "trackNo": 17,
+            "title": "TITANIUM RIDERS",
+            "artist": "DJ Shimamura",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0018",
+            "albumID": 1036,
+            "trackNo": 18,
+            "title": "DAZZLE ATTACK",
+            "artist": "Yuta Imai",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0019",
+            "albumID": 1036,
+            "trackNo": 19,
+            "title": "Dahlia",
+            "artist": "BlackY",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0020",
+            "albumID": 1036,
+            "trackNo": 20,
+            "title": "SOLAR ECLIPSE",
+            "artist": "Yuta Imai Vs. BEMANI Sound Team \"Yvya\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0021",
+            "albumID": 1036,
+            "trackNo": 21,
+            "title": "摩天楼",
+            "artist": "Julianne",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0022",
+            "albumID": 1036,
+            "trackNo": 22,
+            "title": "My Sweet Bird?",
+            "artist": "アオワイファイ feat.秋山雫",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0023",
+            "albumID": 1036,
+            "trackNo": 23,
+            "title": "れとりば！",
+            "artist": "OSTER project feat. 月ノ輪乃愛",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0024",
+            "albumID": 1036,
+            "trackNo": 24,
+            "title": "夢縁",
+            "artist": "xi feat. Risa Yuzuki",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0025",
+            "albumID": 1036,
+            "trackNo": 25,
+            "title": "アタシ完全絶対正義ちゃん！",
+            "artist": "Pizuya's Cell",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0026",
+            "albumID": 1036,
+            "trackNo": 26,
+            "title": "Aeterna",
+            "artist": "satella feat. Risa Yuzuki",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0027",
+            "albumID": 1036,
+            "trackNo": 27,
+            "title": "シンデレラ",
+            "artist": "Maozon feat. Nadia",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0028",
+            "albumID": 1036,
+            "trackNo": 28,
+            "title": "Tripping Jumping",
+            "artist": "Aikapin Prod. by uno & NiActivity",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0029",
+            "albumID": 1036,
+            "trackNo": 29,
+            "title": "果たせぬ約束 ft. 小林マナ",
+            "artist": "Xceon",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0030",
+            "albumID": 1036,
+            "trackNo": 30,
+            "title": "20XX",
+            "artist": "COR!S",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0031",
+            "albumID": 1036,
+            "trackNo": 31,
+            "title": "夏風邪デスコ",
+            "artist": "TORIENA",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0032",
+            "albumID": 1036,
+            "trackNo": 32,
+            "title": "ないないルーティン",
+            "artist": "Len",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0033",
+            "albumID": 1036,
+            "trackNo": 33,
+            "title": "センチメンタル・サマー",
+            "artist": "Nhato feat. Kanae Asaba & はるまき (from ボタニカルな暮らし。)",
+            "openType": 1
+        },
+        {
+            "gid": "bm_065_0034",
+            "albumID": 1036,
+            "trackNo": 34,
+            "title": "Iris",
+            "artist": "BEMANI Sound Team \"HuΣeR\" feat.紫村 花澄",
+            "openType": 1
+        },
+        {
             "gid": "bs_001_0001",
             "albumID": 8000,
             "trackNo": 1,
@@ -22507,6 +22789,22 @@
             "trackNo": 176,
             "title": "Bring Me Back",
             "artist": "9W3R7Y",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0177",
+            "albumID": 3000,
+            "trackNo": 177,
+            "title": "量子の海のリントヴルム (STARDOM Remix)",
+            "artist": "かめりあ",
+            "openType": 1
+        },
+        {
+            "gid": "ds_001_0178",
+            "albumID": 3000,
+            "trackNo": 178,
+            "title": "Afterhours",
+            "artist": "MK",
             "openType": 1
         },
         {
@@ -41886,6 +42184,62 @@
             "openType": 1
         },
         {
+            "gid": "jb_020_0001",
+            "albumID": 6018,
+            "trackNo": 1,
+            "title": "Croissant",
+            "artist": "BEMANI Sound Team \"Expander\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_020_0002",
+            "albumID": 6018,
+            "trackNo": 2,
+            "title": "IGNITE THE IRON HEART",
+            "artist": "BEMANI Sound Team \"L.E.D.\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_020_0003",
+            "albumID": 6018,
+            "trackNo": 3,
+            "title": "Fate",
+            "artist": "BEMANI Sound Team \"TATSUYA\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_020_0004",
+            "albumID": 6018,
+            "trackNo": 4,
+            "title": "アヤノトリ",
+            "artist": "BEMANI Sound Team \"PHQUASE\" feat.ななひら",
+            "openType": 1
+        },
+        {
+            "gid": "jb_020_0005",
+            "albumID": 6018,
+            "trackNo": 5,
+            "title": "beyond the Ave.",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_020_0006",
+            "albumID": 6018,
+            "trackNo": 6,
+            "title": "Prowler",
+            "artist": "BEMANI Sound Team \"Yvya\"",
+            "openType": 1
+        },
+        {
+            "gid": "jb_020_0007",
+            "albumID": 6018,
+            "trackNo": 7,
+            "title": "pray nightly",
+            "artist": "BEMANI Sound Team \"猫叉Master\"",
+            "openType": 1
+        },
+        {
             "gid": "ms_001_0001",
             "albumID": 9000,
             "trackNo": 1,
@@ -59054,6 +59408,38 @@
             "openType": 1
         },
         {
+            "gid": "pm_061_0034",
+            "albumID": 2029,
+            "trackNo": 34,
+            "title": "ISERBROOK",
+            "artist": "SOUND HOLIC",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0035",
+            "albumID": 2029,
+            "trackNo": 35,
+            "title": "Amulet of Enbarr",
+            "artist": "Cororo",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0036",
+            "albumID": 2029,
+            "trackNo": 36,
+            "title": "満漢全席火花ノ舞",
+            "artist": "onoken",
+            "openType": 1
+        },
+        {
+            "gid": "pm_061_0037",
+            "albumID": 2029,
+            "trackNo": 37,
+            "title": "F/S",
+            "artist": "BEMANI Sound Team \"Power Of Nature\"",
+            "openType": 1
+        },
+        {
             "gid": "rb_001_0001",
             "albumID": 7000,
             "trackNo": 1,
@@ -70995,6 +71381,14 @@
             "trackNo": 85,
             "title": "suspicions",
             "artist": "BEMANI Sound Team \"猫叉Master VS dj TAKA\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_018_0086",
+            "albumID": 12010,
+            "trackNo": 86,
+            "title": "GROOVE 04",
+            "artist": "android52",
             "openType": 1
         },
         {
