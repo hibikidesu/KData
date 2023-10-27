@@ -108,6 +108,42 @@
             "credit": 3,
             "icon_id": 13,
             "icon_type": 0
+        },
+        {
+            "shop_id": 3,
+            "start_time": "2023-12-01T07:00:00+09:00",
+            "boost_rate": 500,
+            "product_id": 154,
+            "end_time": "2024-01-01T07:00:00+09:00",
+            "spiritual_costume_point_boost_id": 3,
+            "warning_start_time": "2023-12-27T07:00:00+09:00",
+            "credit": 10,
+            "icon_id": 15,
+            "icon_type": 0
+        },
+        {
+            "shop_id": 3,
+            "start_time": "2023-12-01T07:00:00+09:00",
+            "boost_rate": 250,
+            "product_id": 155,
+            "end_time": "2024-01-01T07:00:00+09:00",
+            "spiritual_costume_point_boost_id": 2,
+            "warning_start_time": "2023-12-27T07:00:00+09:00",
+            "credit": 5,
+            "icon_id": 14,
+            "icon_type": 0
+        },
+        {
+            "shop_id": 3,
+            "start_time": "2023-12-01T07:00:00+09:00",
+            "boost_rate": 150,
+            "product_id": 156,
+            "end_time": "2024-01-01T07:00:00+09:00",
+            "spiritual_costume_point_boost_id": 1,
+            "warning_start_time": "2023-12-27T07:00:00+09:00",
+            "credit": 3,
+            "icon_id": 13,
+            "icon_type": 0
         }
     ],
     "sp_cos_point_list": [
