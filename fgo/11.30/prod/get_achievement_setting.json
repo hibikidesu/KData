@@ -1,5 +1,5 @@
 {
-    "last_cache_load_time": "2023-10-27T04:10:16+09:00",
+    "last_cache_load_time": "2023-10-28T04:10:21+09:00",
     "achievement_setting_list": [
         {
             "ret": "2023-11-02T07:00:00+09:00",
@@ -1867,17 +1867,7 @@
             "rdf": 1,
             "rbi": 1,
             "group_kind": 0,
-            "ccelst": [
-                {
-                    "iid": 2303,
-                    "bqilst": [
-                        827,
-                        828
-                    ],
-                    "rbilst": [],
-                    "btp": 1
-                }
-            ],
+            "ccelst": [],
             "id": 3931,
             "cid": 59
         },
@@ -1899,17 +1889,7 @@
             "rdf": 1,
             "rbi": 1,
             "group_kind": 0,
-            "ccelst": [
-                {
-                    "iid": 2303,
-                    "bqilst": [
-                        827,
-                        828
-                    ],
-                    "rbilst": [],
-                    "btp": 1
-                }
-            ],
+            "ccelst": [],
             "id": 3932,
             "cid": 59
         },
@@ -1931,17 +1911,7 @@
             "rdf": 1,
             "rbi": 1,
             "group_kind": 0,
-            "ccelst": [
-                {
-                    "iid": 2303,
-                    "bqilst": [
-                        827,
-                        828
-                    ],
-                    "rbilst": [],
-                    "btp": 1
-                }
-            ],
+            "ccelst": [],
             "id": 3933,
             "cid": 59
         },
@@ -1963,17 +1933,7 @@
             "rdf": 1,
             "rbi": 1,
             "group_kind": 0,
-            "ccelst": [
-                {
-                    "iid": 2303,
-                    "bqilst": [
-                        827,
-                        828
-                    ],
-                    "rbilst": [],
-                    "btp": 1
-                }
-            ],
+            "ccelst": [],
             "id": 3934,
             "cid": 59
         },
@@ -1995,17 +1955,7 @@
             "rdf": 1,
             "rbi": 1,
             "group_kind": 0,
-            "ccelst": [
-                {
-                    "iid": 2303,
-                    "bqilst": [
-                        827,
-                        828
-                    ],
-                    "rbilst": [],
-                    "btp": 1
-                }
-            ],
+            "ccelst": [],
             "id": 3935,
             "cid": 59
         },
