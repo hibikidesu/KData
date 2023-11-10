@@ -1129,7 +1129,7 @@
             "icon_type": 14
         }
     ],
-    "last_cache_load_time": "2023-11-09T04:10:25+09:00",
+    "last_cache_load_time": "2023-11-10T04:10:20+09:00",
     "score_ranking_open_setting_list": [
         {
             "start_time": "2023-09-28T10:00:00+09:00",
@@ -1181,200 +1181,17 @@
         {
             "update_time": "2023-10-26T08:00:28+09:00",
             "score_ranking_id": 25,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 109590,
-                    "name": "お茶乃子",
-                    "gw_rank": 19,
-                    "border_disp_rank": 300,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 0,
-                    "score": -1,
-                    "name": "",
-                    "gw_rank": -1,
-                    "border_disp_rank": 3000,
-                    "title_equip": {
-                        "title_word_id_1": -1,
-                        "title_word_id_0": -1,
-                        "title_integrated_id": -1,
-                        "title_disp_type": -1,
-                        "title_word_id_2": -1,
-                        "title_plate_id": -1
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 139860,
-                    "name": "超高校級の幸運",
-                    "gw_rank": 24,
-                    "border_disp_rank": 1000,
-                    "title_equip": {
-                        "title_word_id_1": 258,
-                        "title_word_id_0": 258,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 258,
-                        "title_plate_id": 355
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 80240,
-                    "name": "ネオ縄文人",
-                    "gw_rank": 4,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 83,
-                        "title_word_id_0": 4203,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 189,
-                        "title_plate_id": 1016
-                    }
-                }
-            ]
+            "border_data_list": []
         },
         {
             "update_time": "2023-10-26T11:00:04+09:00",
             "score_ranking_id": 26,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 30355,
-                    "name": "酒で正常に判断",
-                    "gw_rank": 24,
-                    "border_disp_rank": 500,
-                    "title_equip": {
-                        "title_word_id_1": 0,
-                        "title_word_id_0": 0,
-                        "title_integrated_id": 29,
-                        "title_disp_type": 2,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 52025,
-                    "name": "ＡＲＩＡ",
-                    "gw_rank": 21,
-                    "border_disp_rank": 200,
-                    "title_equip": {
-                        "title_word_id_1": 391,
-                        "title_word_id_0": 391,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 391,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 90255,
-                    "name": "反省してます",
-                    "gw_rank": 26,
-                    "border_disp_rank": 50,
-                    "title_equip": {
-                        "title_word_id_1": 386,
-                        "title_word_id_0": 1328,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 0,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 149480,
-                    "name": "焔",
-                    "gw_rank": 21,
-                    "border_disp_rank": 10,
-                    "title_equip": {
-                        "title_word_id_1": 189,
-                        "title_word_id_0": 2288,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 1755,
-                        "title_plate_id": 1034
-                    }
-                }
-            ]
+            "border_data_list": []
         },
         {
             "update_time": "2023-10-19T11:00:07+09:00",
             "score_ranking_id": 27,
-            "border_data_list": [
-                {
-                    "exist": 1,
-                    "score": 14,
-                    "name": "バッタンキング",
-                    "gw_rank": 19,
-                    "border_disp_rank": 1200,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 65,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 47,
-                        "title_plate_id": 60
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 40,
-                    "name": "ぽわれ",
-                    "gw_rank": 17,
-                    "border_disp_rank": 600,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 1,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 25
-                    }
-                },
-                {
-                    "exist": 0,
-                    "score": -1,
-                    "name": "",
-                    "gw_rank": -1,
-                    "border_disp_rank": 2500,
-                    "title_equip": {
-                        "title_word_id_1": -1,
-                        "title_word_id_0": -1,
-                        "title_integrated_id": -1,
-                        "title_disp_type": -1,
-                        "title_word_id_2": -1,
-                        "title_plate_id": -1
-                    }
-                },
-                {
-                    "exist": 1,
-                    "score": 97,
-                    "name": "カイン",
-                    "gw_rank": 22,
-                    "border_disp_rank": 150,
-                    "title_equip": {
-                        "title_word_id_1": 7,
-                        "title_word_id_0": 483,
-                        "title_integrated_id": 0,
-                        "title_disp_type": 1,
-                        "title_word_id_2": 2,
-                        "title_plate_id": 372
-                    }
-                }
-            ]
+            "border_data_list": []
         },
         {
             "update_time": "2001-01-01T00:00:00+09:00",
