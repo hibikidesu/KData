@@ -1,1 +1,322 @@
-{}
+[
+    {
+        "id": 220,
+        "category": 1,
+        "title": "きまぐれ！スペシャルミッションスタート！",
+        "start_date": "2023-11-22 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_event.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20231122_0_info_event.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 213,
+        "category": 2,
+        "title": "REFLEC BEAT アルバムに楽曲追加！",
+        "start_date": "2023-06-21 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230621_0_info_album.html",
+        "pick_up_flg": 1,
+        "view_flg": 0
+    },
+    {
+        "id": 212,
+        "category": 4,
+        "title": "お客様情報の外部送信について",
+        "start_date": "2023-06-16 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_update.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230616_0_info_notice.html",
+        "pick_up_flg": 1,
+        "view_flg": 0
+    },
+    {
+        "id": 210,
+        "category": 2,
+        "title": "jubeat Ave. アルバム追加！",
+        "start_date": "2023-05-24 13:25:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230524_0_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 208,
+        "category": 2,
+        "title": "かめりあ アルバム追加！",
+        "start_date": "2023-05-10 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230510_0_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 209,
+        "category": 2,
+        "title": "jubeat festo アルバム更新！",
+        "start_date": "2023-05-10 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230510_1_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 205,
+        "category": 2,
+        "title": "pop'n music アルバム追加！",
+        "start_date": "2023-04-26 11:01:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230426_0_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 204,
+        "category": 2,
+        "title": "JPOP・定番JPOPアルバムに楽曲追加！",
+        "start_date": "2023-04-19 12:08:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230419_0_info_album.html",
+        "pick_up_flg": 1,
+        "view_flg": 0
+    },
+    {
+        "id": 203,
+        "category": 4,
+        "title": "アップデートのお知らせ",
+        "start_date": "2023-04-19 11:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_update.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230419_1_update_info.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 201,
+        "category": 2,
+        "title": "kors k アルバム追加！",
+        "start_date": "2023-04-05 11:14:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230405_0_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 199,
+        "category": 5,
+        "title": "【終了】メンテナンスのお知らせ",
+        "start_date": "2023-04-04 11:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_mainte.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/2023040401_maintenance_info.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 196,
+        "category": 5,
+        "title": "【終了】メンテナンスのお知らせ",
+        "start_date": "2023-03-13 11:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_mainte.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/2023031300_maintenance_info.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 194,
+        "category": 2,
+        "title": "jubeat festo アルバムに楽曲追加！",
+        "start_date": "2023-02-22 10:37:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230222_0_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 192,
+        "category": 4,
+        "title": "ミュージックプレーヤーに24曲追加！",
+        "start_date": "2023-01-17 10:16:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_update.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230117_0_info_notice.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 191,
+        "category": 6,
+        "title": "現在確認している不具合について(2023.01.11 16:00更新)",
+        "start_date": "2023-01-11 16:01:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_bug.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20230111_0_bug_info.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 185,
+        "category": 4,
+        "title": "アップデートのお知らせ",
+        "start_date": "2022-11-21 09:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_update.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20221121_0_update_info.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 183,
+        "category": 3,
+        "title": "楽曲パック『DanceDanceRevolution pack 3』追加のおしらせ",
+        "start_date": "2022-11-16 11:10:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20221116_0_info_pack.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 182,
+        "category": 3,
+        "title": "楽曲パック『DanceDanceRevolution pack 2』追加のおしらせ",
+        "start_date": "2022-11-02 10:11:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20221102_0_info_pack.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 180,
+        "category": 3,
+        "title": "楽曲パック『SOUND VOLTEX pack 7』と単曲パック追加のおしらせ",
+        "start_date": "2022-10-19 11:30:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20221019_0_info_pack.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 178,
+        "category": 2,
+        "title": "ホロライブアルバム追加！",
+        "start_date": "2022-10-07 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20221007_0_info_album.html",
+        "pick_up_flg": 1,
+        "view_flg": 0
+    },
+    {
+        "id": 174,
+        "category": 3,
+        "title": "楽曲パック『SOUND VOLTEX pack 5』追加のおしらせ",
+        "start_date": "2022-09-21 10:39:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20220921_0_info_pack.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 172,
+        "category": 3,
+        "title": "楽曲パック『SOUND VOLTEX pack 4』追加のおしらせ",
+        "start_date": "2022-09-07 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20220907_0_info_pack.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 171,
+        "category": 3,
+        "title": "楽曲パック『SOUND VOLTEX pack 3』追加のおしらせ",
+        "start_date": "2022-08-24 10:30:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20220824_0_info_pack.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 169,
+        "category": 3,
+        "title": "楽曲パック『SOUND VOLTEX pack 2』追加のおしらせ",
+        "start_date": "2022-08-10 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20220810_0_info_pack.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 167,
+        "category": 3,
+        "title": "楽曲パック『SOUND VOLTEX pack 1』追加のおしらせ",
+        "start_date": "2022-07-28 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20220728_0_info_pack.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 137,
+        "category": 2,
+        "title": "MAGES. 楽曲追加！",
+        "start_date": "2022-03-16 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20220316_0_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 138,
+        "category": 2,
+        "title": "コナミコマンド35周年記念楽曲追加！",
+        "start_date": "2022-03-16 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20220316_1_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 124,
+        "category": 2,
+        "title": "beatmania IIDX 楽曲追加！",
+        "start_date": "2022-02-11 14:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20220211_0_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 71,
+        "category": 2,
+        "title": "楽曲追加のおしらせ",
+        "start_date": "2021-10-20 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20211020_0_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 54,
+        "category": 2,
+        "title": "アルバム追加のおしらせ",
+        "start_date": "2021-09-08 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20210908_0_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 49,
+        "category": 2,
+        "title": "楽曲追加のおしらせ",
+        "start_date": "2021-08-25 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20210825_0_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 50,
+        "category": 2,
+        "title": "アルバム追加のおしらせ",
+        "start_date": "2021-08-25 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_album.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20210825_1_info_album.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    }
+]
