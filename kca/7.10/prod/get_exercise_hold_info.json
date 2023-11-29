@@ -1,19 +1,19 @@
 {
-    "ehi_lut": "2023-11-22T04:23:28+09:00",
+    "ehi_lut": "2023-11-29T04:23:36+09:00",
     "exercise_hold_info_list": [
         {
-            "reserve_time": "2023-11-20T07:00:00+09:00",
+            "reserve_time": "2023-11-27T07:00:00+09:00",
             "pr_entity_list": [],
             "entity_list": [
                 {
-                    "start_time": "2009-01-01T07:00:00+09:00",
+                    "start_time": "2029-01-01T07:00:00+09:00",
                     "drop_id": 0,
                     "exercise_id": 0,
                     "end_time": "2029-01-01T07:00:00+09:00",
                     "sort_index": 0
                 },
                 {
-                    "start_time": "2029-01-01T07:00:00+09:00",
+                    "start_time": "2009-01-01T07:00:00+09:00",
                     "drop_id": 0,
                     "exercise_id": 1,
                     "end_time": "2029-01-01T07:00:00+09:00",
