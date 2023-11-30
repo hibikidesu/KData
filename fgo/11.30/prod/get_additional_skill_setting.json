@@ -1,48 +1,6 @@
 {
-    "last_svt_open_setting_cache_load_time": "2023-11-30T04:10:05+09:00",
+    "last_svt_open_setting_cache_load_time": "2023-12-01T04:10:05+09:00",
     "servant_skill_force_setting_list": [
-        {
-            "start_time": "2023-11-02T10:00:00+09:00",
-            "end_time": "2023-11-30T06:59:59+09:00",
-            "skill_id": 7005380,
-            "svt_id": 79,
-            "skill_remove": 0
-        },
-        {
-            "start_time": "2023-11-02T10:00:00+09:00",
-            "end_time": "2023-11-30T06:59:59+09:00",
-            "skill_id": 7005370,
-            "svt_id": 91,
-            "skill_remove": 0
-        },
-        {
-            "start_time": "2023-11-02T10:00:00+09:00",
-            "end_time": "2023-11-30T06:59:59+09:00",
-            "skill_id": 7005380,
-            "svt_id": 111,
-            "skill_remove": 0
-        },
-        {
-            "start_time": "2023-11-02T10:00:00+09:00",
-            "end_time": "2023-11-30T06:59:59+09:00",
-            "skill_id": 7005370,
-            "svt_id": 112,
-            "skill_remove": 0
-        },
-        {
-            "start_time": "2023-11-02T10:00:00+09:00",
-            "end_time": "2023-11-30T06:59:59+09:00",
-            "skill_id": 7005370,
-            "svt_id": 117,
-            "skill_remove": 0
-        },
-        {
-            "start_time": "2023-11-02T10:00:00+09:00",
-            "end_time": "2023-11-30T06:59:59+09:00",
-            "skill_id": 7005380,
-            "svt_id": 137,
-            "skill_remove": 0
-        },
         {
             "start_time": "2023-11-22T10:00:00+09:00",
             "end_time": "2023-12-21T06:59:59+09:00",
@@ -66,46 +24,6 @@
         }
     ],
     "craft_essense_skill_force_setting_list": [
-        {
-            "start_time": "2023-11-02T10:00:00+09:00",
-            "strong_skill_id": 7005391,
-            "end_time": "2023-11-30T06:59:59+09:00",
-            "ce_id": 616,
-            "normal_skill_id": 7005390,
-            "skill_remove": 0
-        },
-        {
-            "start_time": "2023-11-02T10:00:00+09:00",
-            "strong_skill_id": 7005431,
-            "end_time": "2023-11-30T06:59:59+09:00",
-            "ce_id": 617,
-            "normal_skill_id": 7005430,
-            "skill_remove": 0
-        },
-        {
-            "start_time": "2023-11-02T10:00:00+09:00",
-            "strong_skill_id": 7005421,
-            "end_time": "2023-11-30T06:59:59+09:00",
-            "ce_id": 618,
-            "normal_skill_id": 7005420,
-            "skill_remove": 0
-        },
-        {
-            "start_time": "2023-11-02T10:00:00+09:00",
-            "strong_skill_id": 7005411,
-            "end_time": "2023-11-30T06:59:59+09:00",
-            "ce_id": 619,
-            "normal_skill_id": 7005410,
-            "skill_remove": 0
-        },
-        {
-            "start_time": "2023-11-02T10:00:00+09:00",
-            "strong_skill_id": 7005401,
-            "end_time": "2023-11-30T06:59:59+09:00",
-            "ce_id": 620,
-            "normal_skill_id": 7005400,
-            "skill_remove": 0
-        },
         {
             "start_time": "2023-11-22T10:00:00+09:00",
             "strong_skill_id": 7005461,
@@ -139,5 +57,5 @@
             "skill_remove": 0
         }
     ],
-    "last_ce_open_setting_cache_load_time": "2023-11-30T04:10:09+09:00"
+    "last_ce_open_setting_cache_load_time": "2023-12-01T04:10:07+09:00"
 }
