@@ -113,18 +113,18 @@
     "sp_cos_point_list": [
         {
             "start_time": "2001-01-01T07:00:00+09:00",
-            "end_time": "2023-11-01T07:00:00+09:00",
-            "item_idx_in_category": 11
-        },
-        {
-            "start_time": "2023-11-01T07:00:00+09:00",
             "end_time": "2023-12-01T07:00:00+09:00",
             "item_idx_in_category": 12
         },
         {
             "start_time": "2023-12-01T07:00:00+09:00",
-            "end_time": "2030-01-01T07:00:00+09:00",
+            "end_time": "2024-01-01T07:00:00+09:00",
             "item_idx_in_category": 13
+        },
+        {
+            "start_time": "2024-01-01T07:00:00+09:00",
+            "end_time": "2030-01-01T07:00:00+09:00",
+            "item_idx_in_category": 2
         }
     ],
     "sp_cos_ticket_list": [
