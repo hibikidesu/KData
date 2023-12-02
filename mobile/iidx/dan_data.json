@@ -6478,18 +6478,18 @@
         "is_select": 0,
         "ranking": [
             {
-                "user_id": 108768,
-                "name": "ACHAAR",
-                "rank": 1,
-                "point": 98,
-                "icon_id": 25
-            },
-            {
                 "user_id": 276396,
                 "name": "DERA",
+                "rank": 1,
+                "point": 99,
+                "icon_id": 13
+            },
+            {
+                "user_id": 108768,
+                "name": "ACHAAR",
                 "rank": 2,
                 "point": 98,
-                "icon_id": 13
+                "icon_id": 25
             },
             {
                 "user_id": 153688,
@@ -6576,527 +6576,576 @@
                 "icon_id": 30
             },
             {
+                "user_id": 24051,
+                "name": "ZIKUU.",
+                "rank": 15,
+                "point": 84,
+                "icon_id": 5
+            },
+            {
+                "user_id": 420430,
+                "name": "TAKADA",
+                "rank": 16,
+                "point": 84,
+                "icon_id": 14
+            },
+            {
                 "user_id": 174195,
                 "name": "f_sita",
-                "rank": 15,
+                "rank": 17,
                 "point": 83,
                 "icon_id": 21
             },
             {
                 "user_id": 12388,
                 "name": "PURAW",
-                "rank": 16,
+                "rank": 18,
                 "point": 82,
                 "icon_id": 16
             },
             {
                 "user_id": 11047,
                 "name": "Lache",
-                "rank": 17,
+                "rank": 19,
                 "point": 81,
                 "icon_id": 28
             },
             {
+                "user_id": 78286,
+                "name": "KAWASE",
+                "rank": 20,
+                "point": 81,
+                "icon_id": 15
+            },
+            {
                 "user_id": 464540,
                 "name": "Ina",
-                "rank": 18,
+                "rank": 21,
                 "point": 80,
                 "icon_id": 10
             },
             {
                 "user_id": 215524,
                 "name": "Ace",
-                "rank": 19,
+                "rank": 22,
                 "point": 80,
                 "icon_id": 24
             },
             {
                 "user_id": 403443,
                 "name": "yuto",
-                "rank": 20,
+                "rank": 23,
                 "point": 80,
                 "icon_id": 21
             },
             {
                 "user_id": 134291,
                 "name": "luminous",
-                "rank": 21,
+                "rank": 24,
                 "point": 79,
                 "icon_id": 12
             },
             {
                 "user_id": 125167,
                 "name": "2wm",
-                "rank": 22,
+                "rank": 25,
                 "point": 77,
                 "icon_id": 18
             },
             {
                 "user_id": 384808,
                 "name": "SUIREN",
-                "rank": 23,
+                "rank": 26,
                 "point": 76,
                 "icon_id": 8
             },
             {
                 "user_id": 387236,
                 "name": "Mot",
-                "rank": 24,
+                "rank": 27,
                 "point": 76,
                 "icon_id": 26
             },
             {
                 "user_id": 51370,
                 "name": "kabukabu000",
-                "rank": 25,
-                "point": 75,
+                "rank": 28,
+                "point": 76,
                 "icon_id": 17
             },
             {
                 "user_id": 80438,
                 "name": "peropero",
-                "rank": 26,
+                "rank": 29,
                 "point": 74,
                 "icon_id": 15
             },
             {
                 "user_id": 40,
                 "name": "5A",
-                "rank": 27,
+                "rank": 30,
                 "point": 73,
                 "icon_id": 5
             },
             {
                 "user_id": 430376,
                 "name": "ShoBON",
-                "rank": 28,
+                "rank": 31,
                 "point": 72,
                 "icon_id": 25
             },
             {
                 "user_id": 389477,
                 "name": "3-Ponzu",
-                "rank": 29,
+                "rank": 32,
                 "point": 72,
                 "icon_id": 8
             },
             {
                 "user_id": 191567,
                 "name": "Nanashi",
-                "rank": 30,
+                "rank": 33,
                 "point": 71,
                 "icon_id": 6
             },
             {
                 "user_id": 29012,
                 "name": "cube",
-                "rank": 31,
+                "rank": 34,
                 "point": 69,
                 "icon_id": 19
             },
             {
                 "user_id": 171922,
                 "name": "BADMANI3",
-                "rank": 32,
+                "rank": 35,
                 "point": 69,
                 "icon_id": 26
             },
             {
                 "user_id": 4373,
                 "name": "Linn",
-                "rank": 33,
+                "rank": 36,
                 "point": 68,
                 "icon_id": 8
             },
             {
                 "user_id": 239736,
                 "name": "KOTEA",
-                "rank": 34,
+                "rank": 37,
                 "point": 67,
                 "icon_id": 30
             },
             {
                 "user_id": 425660,
                 "name": "xenon1530",
-                "rank": 35,
+                "rank": 38,
                 "point": 67,
                 "icon_id": 25
             },
             {
                 "user_id": 127737,
                 "name": "KIJI*51K",
-                "rank": 36,
+                "rank": 39,
                 "point": 66,
                 "icon_id": 14
             },
             {
                 "user_id": 221160,
                 "name": "2222",
-                "rank": 37,
+                "rank": 40,
                 "point": 66,
                 "icon_id": 18
             },
             {
                 "user_id": 383187,
                 "name": "Thormer",
-                "rank": 38,
+                "rank": 41,
                 "point": 65,
                 "icon_id": 26
             },
             {
                 "user_id": 348126,
                 "name": "azu",
-                "rank": 39,
+                "rank": 42,
                 "point": 65,
                 "icon_id": 11
             },
             {
                 "user_id": 39972,
                 "name": "TORIA",
-                "rank": 40,
+                "rank": 43,
                 "point": 65,
                 "icon_id": 10
             },
             {
+                "user_id": 257902,
+                "name": "wish",
+                "rank": 44,
+                "point": 64,
+                "icon_id": 13
+            },
+            {
                 "user_id": 293443,
                 "name": "kaguya",
-                "rank": 41,
+                "rank": 45,
                 "point": 63,
                 "icon_id": 14
             },
             {
                 "user_id": 110304,
                 "name": "SWITCHMAN",
-                "rank": 42,
+                "rank": 46,
                 "point": 61,
                 "icon_id": 12
             },
             {
                 "user_id": 468965,
                 "name": "Smiley",
-                "rank": 43,
+                "rank": 47,
                 "point": 61,
                 "icon_id": 4
             },
             {
                 "user_id": 4461,
                 "name": "Myad",
-                "rank": 44,
+                "rank": 48,
                 "point": 61,
                 "icon_id": 2
             },
             {
+                "user_id": 57252,
+                "name": "0329",
+                "rank": 49,
+                "point": 61,
+                "icon_id": 19
+            },
+            {
                 "user_id": 391538,
                 "name": "cunsho",
-                "rank": 45,
+                "rank": 50,
                 "point": 60,
                 "icon_id": 5
             },
             {
                 "user_id": 329601,
                 "name": "Rigin",
-                "rank": 46,
+                "rank": 51,
                 "point": 60,
                 "icon_id": 13
             },
             {
                 "user_id": 84390,
                 "name": "Yuk",
-                "rank": 47,
+                "rank": 52,
                 "point": 59,
                 "icon_id": 5
             },
             {
                 "user_id": 420236,
                 "name": "Hikaaa",
-                "rank": 48,
+                "rank": 53,
                 "point": 59,
                 "icon_id": 20
             },
             {
                 "user_id": 67715,
                 "name": "Karkun",
-                "rank": 49,
+                "rank": 54,
                 "point": 56,
                 "icon_id": 21
             },
             {
                 "user_id": 20919,
                 "name": "Nodi",
-                "rank": 50,
+                "rank": 55,
                 "point": 54,
                 "icon_id": 12
             },
             {
                 "user_id": 426403,
                 "name": "BLUST",
-                "rank": 51,
+                "rank": 56,
                 "point": 49,
                 "icon_id": 21
             },
             {
                 "user_id": 15443,
                 "name": "Y.",
-                "rank": 52,
+                "rank": 57,
                 "point": 48,
                 "icon_id": 22
             },
             {
                 "user_id": 248933,
                 "name": "a1r-c0n",
-                "rank": 53,
+                "rank": 58,
                 "point": 46,
                 "icon_id": 14
             },
             {
                 "user_id": 28487,
                 "name": "SRNKC",
-                "rank": 54,
+                "rank": 59,
                 "point": 46,
                 "icon_id": 10
             },
             {
                 "user_id": 431204,
                 "name": "Eleria",
-                "rank": 55,
+                "rank": 60,
                 "point": 44,
                 "icon_id": 28
             },
             {
                 "user_id": 204692,
                 "name": "Ha55enble",
-                "rank": 56,
+                "rank": 61,
                 "point": 43,
                 "icon_id": 6
             },
             {
                 "user_id": 307283,
                 "name": "CHANCO",
-                "rank": 57,
+                "rank": 62,
                 "point": 43,
                 "icon_id": 12
             },
             {
                 "user_id": 362303,
                 "name": "B0YDTR",
-                "rank": 58,
+                "rank": 63,
                 "point": 43,
                 "icon_id": 27
             },
             {
                 "user_id": 363118,
                 "name": "moyusei",
-                "rank": 59,
+                "rank": 64,
                 "point": 42,
                 "icon_id": 26
             },
             {
                 "user_id": 11968,
                 "name": "GAMBOL",
-                "rank": 60,
+                "rank": 65,
                 "point": 42,
                 "icon_id": 6
             },
             {
                 "user_id": 636,
                 "name": "YEAH!",
-                "rank": 61,
+                "rank": 66,
                 "point": 41,
                 "icon_id": 21
             },
             {
                 "user_id": 392773,
                 "name": "Parni!",
-                "rank": 62,
+                "rank": 67,
                 "point": 38,
                 "icon_id": 15
             },
             {
                 "user_id": 208809,
                 "name": "CECIL",
-                "rank": 63,
+                "rank": 68,
                 "point": 38,
                 "icon_id": 19
             },
             {
                 "user_id": 367565,
                 "name": "deko",
-                "rank": 64,
+                "rank": 69,
                 "point": 35,
                 "icon_id": 14
             },
             {
                 "user_id": 417523,
                 "name": "Inuboe-saki",
-                "rank": 65,
+                "rank": 70,
                 "point": 33,
                 "icon_id": 16
             },
             {
                 "user_id": 8243,
                 "name": "MALDIVES",
-                "rank": 66,
+                "rank": 71,
                 "point": 33,
                 "icon_id": 23
             },
             {
+                "user_id": 355100,
+                "name": "NAE",
+                "rank": 72,
+                "point": 33,
+                "icon_id": 6
+            },
+            {
                 "user_id": 425966,
                 "name": "yuri",
-                "rank": 67,
+                "rank": 73,
                 "point": 32,
                 "icon_id": 24
             },
             {
                 "user_id": 13527,
                 "name": "*4NT46",
-                "rank": 68,
+                "rank": 74,
                 "point": 31,
                 "icon_id": 26
             },
             {
                 "user_id": 389836,
                 "name": "COACH",
-                "rank": 69,
+                "rank": 75,
                 "point": 27,
                 "icon_id": 1
             },
             {
                 "user_id": 18298,
                 "name": "SHINGO",
-                "rank": 70,
+                "rank": 76,
                 "point": 20,
                 "icon_id": 4
             },
             {
                 "user_id": 2808,
                 "name": "SBH",
-                "rank": 71,
+                "rank": 77,
                 "point": 10,
                 "icon_id": 7
             },
             {
                 "user_id": 379896,
                 "name": "mkt",
-                "rank": 72,
+                "rank": 78,
                 "point": 10,
                 "icon_id": 4
             },
             {
+                "user_id": 82092,
+                "name": "yutanpo",
+                "rank": 79,
+                "point": 10,
+                "icon_id": 15
+            },
+            {
                 "user_id": 472407,
                 "name": "Mnosin",
-                "rank": 73,
+                "rank": 80,
                 "point": 9,
                 "icon_id": 21
             },
             {
                 "user_id": 28037,
                 "name": "SING",
-                "rank": 74,
+                "rank": 81,
                 "point": 9,
                 "icon_id": 4
             },
             {
+                "user_id": 337771,
+                "name": "FUYUUMI",
+                "rank": 82,
+                "point": 9,
+                "icon_id": 14
+            },
+            {
                 "user_id": 38384,
                 "name": "yukino8556",
-                "rank": 75,
+                "rank": 83,
                 "point": 8,
                 "icon_id": 28
             },
             {
                 "user_id": 97537,
                 "name": "CYON",
-                "rank": 76,
+                "rank": 84,
                 "point": 8,
                 "icon_id": 15
             },
             {
-                "user_id": 337771,
-                "name": "FUYUUMI",
-                "rank": 77,
-                "point": 8,
-                "icon_id": 14
-            },
-            {
                 "user_id": 7546,
                 "name": "HkRea09",
-                "rank": 78,
+                "rank": 85,
                 "point": 7,
                 "icon_id": 5
             },
             {
                 "user_id": 304969,
                 "name": "Kafeoreeeeee",
-                "rank": 79,
+                "rank": 86,
                 "point": 7,
                 "icon_id": 29
             },
             {
                 "user_id": 194911,
                 "name": "FORGE",
-                "rank": 80,
+                "rank": 87,
                 "point": 7,
                 "icon_id": 5
             },
             {
                 "user_id": 221178,
                 "name": "SIRIUS",
-                "rank": 81,
+                "rank": 88,
                 "point": 7,
                 "icon_id": 5
             },
             {
                 "user_id": 383214,
                 "name": "k",
-                "rank": 82,
+                "rank": 89,
                 "point": 6,
                 "icon_id": 21
             },
             {
                 "user_id": 385103,
                 "name": "siidxra",
-                "rank": 83,
+                "rank": 90,
                 "point": 6,
                 "icon_id": 18
             },
             {
                 "user_id": 229897,
                 "name": "Kazuto.com",
-                "rank": 84,
+                "rank": 91,
                 "point": 6,
                 "icon_id": 5
             },
             {
                 "user_id": 342354,
                 "name": "XYZ-OWL",
-                "rank": 85,
+                "rank": 92,
                 "point": 6,
                 "icon_id": 23
             },
             {
                 "user_id": 28429,
                 "name": "PARM",
-                "rank": 86,
+                "rank": 93,
                 "point": 5,
                 "icon_id": 28
             },
             {
                 "user_id": 16265,
                 "name": "Demny",
-                "rank": 87,
+                "rank": 94,
                 "point": 4,
                 "icon_id": 30
             },
             {
                 "user_id": 327264,
                 "name": "hokuto",
-                "rank": 88,
+                "rank": 95,
                 "point": 4,
                 "icon_id": 11
             },
             {
                 "user_id": 242676,
                 "name": "negiusagi",
-                "rank": 89,
+                "rank": 96,
                 "point": 4,
                 "icon_id": 22
             }
@@ -7182,520 +7231,548 @@
                 "icon_id": 21
             },
             {
+                "user_id": 24051,
+                "name": "ZIKUU.",
+                "rank": 10,
+                "point": 95,
+                "icon_id": 5
+            },
+            {
+                "user_id": 57252,
+                "name": "0329",
+                "rank": 11,
+                "point": 95,
+                "icon_id": 19
+            },
+            {
+                "user_id": 51370,
+                "name": "kabukabu000",
+                "rank": 12,
+                "point": 94,
+                "icon_id": 17
+            },
+            {
                 "user_id": 15396,
                 "name": "TANU",
-                "rank": 10,
+                "rank": 13,
                 "point": 93,
                 "icon_id": 28
             },
             {
                 "user_id": 61773,
                 "name": "MSTK",
-                "rank": 11,
+                "rank": 14,
                 "point": 93,
                 "icon_id": 25
             },
             {
                 "user_id": 383187,
                 "name": "Thormer",
-                "rank": 12,
+                "rank": 15,
                 "point": 93,
                 "icon_id": 26
             },
             {
                 "user_id": 127737,
                 "name": "KIJI*51K",
-                "rank": 13,
+                "rank": 16,
                 "point": 93,
                 "icon_id": 14
             },
             {
                 "user_id": 125167,
                 "name": "2wm",
-                "rank": 14,
+                "rank": 17,
                 "point": 92,
                 "icon_id": 18
             },
             {
                 "user_id": 387236,
                 "name": "Mot",
-                "rank": 15,
+                "rank": 18,
                 "point": 92,
                 "icon_id": 26
             },
             {
                 "user_id": 4444,
                 "name": "ukimotas",
-                "rank": 16,
+                "rank": 19,
                 "point": 91,
                 "icon_id": 13
             },
             {
-                "user_id": 51370,
-                "name": "kabukabu000",
-                "rank": 17,
-                "point": 91,
-                "icon_id": 17
-            },
-            {
                 "user_id": 425660,
                 "name": "xenon1530",
-                "rank": 18,
+                "rank": 20,
                 "point": 91,
                 "icon_id": 25
             },
             {
                 "user_id": 348126,
                 "name": "azu",
-                "rank": 19,
+                "rank": 21,
                 "point": 91,
                 "icon_id": 11
             },
             {
                 "user_id": 384808,
                 "name": "SUIREN",
-                "rank": 20,
+                "rank": 22,
                 "point": 90,
                 "icon_id": 8
             },
             {
                 "user_id": 84390,
                 "name": "Yuk",
-                "rank": 21,
+                "rank": 23,
                 "point": 90,
                 "icon_id": 5
             },
             {
                 "user_id": 389477,
                 "name": "3-Ponzu",
-                "rank": 22,
+                "rank": 24,
                 "point": 90,
                 "icon_id": 8
             },
             {
                 "user_id": 4461,
                 "name": "Myad",
-                "rank": 23,
+                "rank": 25,
                 "point": 89,
                 "icon_id": 2
             },
             {
                 "user_id": 221160,
                 "name": "2222",
-                "rank": 24,
+                "rank": 26,
                 "point": 89,
                 "icon_id": 18
             },
             {
                 "user_id": 430376,
                 "name": "ShoBON",
-                "rank": 25,
+                "rank": 27,
                 "point": 86,
                 "icon_id": 25
             },
             {
                 "user_id": 239736,
                 "name": "KOTEA",
-                "rank": 26,
+                "rank": 28,
                 "point": 86,
                 "icon_id": 30
             },
             {
                 "user_id": 4373,
                 "name": "Linn",
-                "rank": 27,
+                "rank": 29,
                 "point": 86,
                 "icon_id": 8
             },
             {
                 "user_id": 420236,
                 "name": "Hikaaa",
-                "rank": 28,
+                "rank": 30,
                 "point": 85,
                 "icon_id": 20
             },
             {
                 "user_id": 171922,
                 "name": "BADMANI3",
-                "rank": 29,
+                "rank": 31,
                 "point": 84,
                 "icon_id": 26
             },
             {
                 "user_id": 11968,
                 "name": "GAMBOL",
-                "rank": 30,
+                "rank": 32,
                 "point": 83,
                 "icon_id": 6
             },
             {
                 "user_id": 39972,
                 "name": "TORIA",
-                "rank": 31,
+                "rank": 33,
                 "point": 82,
                 "icon_id": 10
             },
             {
                 "user_id": 425966,
                 "name": "yuri",
-                "rank": 32,
+                "rank": 34,
                 "point": 81,
                 "icon_id": 24
             },
             {
                 "user_id": 431204,
                 "name": "Eleria",
-                "rank": 33,
+                "rank": 35,
                 "point": 81,
                 "icon_id": 28
             },
             {
                 "user_id": 426403,
                 "name": "BLUST",
-                "rank": 34,
+                "rank": 36,
                 "point": 81,
                 "icon_id": 21
             },
             {
                 "user_id": 391538,
                 "name": "cunsho",
-                "rank": 35,
+                "rank": 37,
                 "point": 81,
                 "icon_id": 5
             },
             {
                 "user_id": 208809,
                 "name": "CECIL",
-                "rank": 36,
+                "rank": 38,
                 "point": 81,
                 "icon_id": 19
             },
             {
                 "user_id": 28487,
                 "name": "SRNKC",
-                "rank": 37,
+                "rank": 39,
                 "point": 79,
                 "icon_id": 10
             },
             {
                 "user_id": 363118,
                 "name": "moyusei",
-                "rank": 38,
+                "rank": 40,
                 "point": 78,
                 "icon_id": 26
             },
             {
                 "user_id": 204692,
                 "name": "Ha55enble",
-                "rank": 39,
+                "rank": 41,
                 "point": 77,
                 "icon_id": 6
             },
             {
                 "user_id": 18298,
                 "name": "SHINGO",
-                "rank": 40,
+                "rank": 42,
                 "point": 75,
                 "icon_id": 4
             },
             {
                 "user_id": 20919,
                 "name": "Nodi",
-                "rank": 41,
+                "rank": 43,
                 "point": 74,
                 "icon_id": 12
             },
             {
                 "user_id": 362303,
                 "name": "B0YDTR",
-                "rank": 42,
+                "rank": 44,
                 "point": 74,
                 "icon_id": 27
             },
             {
                 "user_id": 472407,
                 "name": "Mnosin",
-                "rank": 43,
+                "rank": 45,
                 "point": 73,
                 "icon_id": 21
             },
             {
                 "user_id": 307065,
                 "name": "K",
-                "rank": 44,
+                "rank": 46,
                 "point": 73,
                 "icon_id": 14
             },
             {
                 "user_id": 15443,
                 "name": "Y.",
-                "rank": 45,
+                "rank": 47,
                 "point": 72,
                 "icon_id": 22
             },
             {
                 "user_id": 2808,
                 "name": "SBH",
-                "rank": 46,
+                "rank": 48,
                 "point": 71,
                 "icon_id": 7
             },
             {
                 "user_id": 417523,
                 "name": "Inuboe-saki",
-                "rank": 47,
+                "rank": 49,
                 "point": 71,
                 "icon_id": 16
             },
             {
                 "user_id": 28037,
                 "name": "SING",
-                "rank": 48,
+                "rank": 50,
                 "point": 69,
                 "icon_id": 4
             },
             {
+                "user_id": 337771,
+                "name": "FUYUUMI",
+                "rank": 51,
+                "point": 67,
+                "icon_id": 14
+            },
+            {
                 "user_id": 13527,
                 "name": "*4NT46",
-                "rank": 49,
+                "rank": 52,
                 "point": 66,
                 "icon_id": 26
             },
             {
                 "user_id": 221178,
                 "name": "SIRIUS",
-                "rank": 50,
+                "rank": 53,
                 "point": 65,
                 "icon_id": 5
             },
             {
                 "user_id": 306297,
                 "name": "HIRO",
-                "rank": 51,
+                "rank": 54,
                 "point": 65,
                 "icon_id": 27
             },
             {
                 "user_id": 415746,
                 "name": "ta",
-                "rank": 52,
+                "rank": 55,
                 "point": 63,
                 "icon_id": 22
             },
             {
                 "user_id": 194911,
                 "name": "FORGE",
-                "rank": 53,
+                "rank": 56,
                 "point": 63,
                 "icon_id": 5
             },
             {
                 "user_id": 8243,
                 "name": "MALDIVES",
-                "rank": 54,
+                "rank": 57,
                 "point": 63,
                 "icon_id": 23
             },
             {
                 "user_id": 425804,
                 "name": "NEOGUL",
-                "rank": 55,
+                "rank": 58,
                 "point": 63,
                 "icon_id": 13
             },
             {
                 "user_id": 101362,
                 "name": "ADEF",
-                "rank": 56,
+                "rank": 59,
                 "point": 63,
                 "icon_id": 24
             },
             {
                 "user_id": 465023,
                 "name": "Hope",
-                "rank": 57,
+                "rank": 60,
                 "point": 62,
                 "icon_id": 13
             },
             {
                 "user_id": 127369,
                 "name": "a99-17",
-                "rank": 58,
+                "rank": 61,
                 "point": 62,
                 "icon_id": 27
             },
             {
+                "user_id": 470176,
+                "name": "anima",
+                "rank": 62,
+                "point": 62,
+                "icon_id": 29
+            },
+            {
                 "user_id": 400240,
                 "name": "Kissy",
-                "rank": 59,
+                "rank": 63,
                 "point": 59,
                 "icon_id": 20
             },
             {
                 "user_id": 304969,
                 "name": "Kafeoreeeeee",
-                "rank": 60,
+                "rank": 64,
                 "point": 57,
                 "icon_id": 29
             },
             {
                 "user_id": 379896,
                 "name": "mkt",
-                "rank": 61,
+                "rank": 65,
                 "point": 57,
                 "icon_id": 4
             },
             {
                 "user_id": 38384,
                 "name": "yukino8556",
-                "rank": 62,
+                "rank": 66,
                 "point": 56,
                 "icon_id": 28
             },
             {
                 "user_id": 389836,
                 "name": "COACH",
-                "rank": 63,
+                "rank": 67,
                 "point": 55,
                 "icon_id": 1
             },
             {
                 "user_id": 8910,
                 "name": "H2O",
-                "rank": 64,
+                "rank": 68,
                 "point": 55,
                 "icon_id": 18
             },
             {
+                "user_id": 82092,
+                "name": "yutanpo",
+                "rank": 69,
+                "point": 53,
+                "icon_id": 15
+            },
+            {
                 "user_id": 10056,
                 "name": "MARUYK",
-                "rank": 65,
+                "rank": 70,
                 "point": 51,
                 "icon_id": 30
             },
             {
                 "user_id": 329212,
                 "name": "kawataka",
-                "rank": 66,
+                "rank": 71,
                 "point": 51,
                 "icon_id": 27
             },
             {
                 "user_id": 383214,
                 "name": "k",
-                "rank": 67,
+                "rank": 72,
                 "point": 50,
                 "icon_id": 21
             },
             {
-                "user_id": 337771,
-                "name": "FUYUUMI",
-                "rank": 68,
-                "point": 50,
-                "icon_id": 14
-            },
-            {
                 "user_id": 229897,
                 "name": "Kazuto.com",
-                "rank": 69,
+                "rank": 73,
                 "point": 49,
                 "icon_id": 5
             },
             {
                 "user_id": 385103,
                 "name": "siidxra",
-                "rank": 70,
+                "rank": 74,
                 "point": 49,
                 "icon_id": 18
             },
             {
                 "user_id": 313801,
                 "name": "Tan*38",
-                "rank": 71,
+                "rank": 75,
                 "point": 46,
                 "icon_id": 14
             },
             {
                 "user_id": 366221,
                 "name": "FAKE",
-                "rank": 72,
+                "rank": 76,
                 "point": 43,
                 "icon_id": 11
             },
             {
                 "user_id": 342354,
                 "name": "XYZ-OWL",
-                "rank": 73,
+                "rank": 77,
                 "point": 38,
                 "icon_id": 23
             },
             {
                 "user_id": 142864,
                 "name": "tom",
-                "rank": 74,
+                "rank": 78,
                 "point": 35,
                 "icon_id": 20
             },
             {
                 "user_id": 463626,
                 "name": "GAUMI",
-                "rank": 75,
+                "rank": 79,
                 "point": 34,
                 "icon_id": 15
             },
             {
                 "user_id": 380026,
                 "name": "seoris",
-                "rank": 76,
+                "rank": 80,
                 "point": 29,
                 "icon_id": 27
             },
             {
                 "user_id": 456990,
                 "name": "HZM",
-                "rank": 77,
+                "rank": 81,
                 "point": 25,
                 "icon_id": 30
             },
             {
                 "user_id": 16265,
                 "name": "Demny",
-                "rank": 78,
+                "rank": 82,
                 "point": 25,
                 "icon_id": 30
             },
             {
                 "user_id": 358134,
                 "name": "YURIE",
-                "rank": 79,
+                "rank": 83,
                 "point": 21,
                 "icon_id": 9
             },
             {
                 "user_id": 395173,
                 "name": "kitsuneko",
-                "rank": 80,
+                "rank": 84,
                 "point": 14,
                 "icon_id": 4
             },
             {
                 "user_id": 242676,
                 "name": "negiusagi",
-                "rank": 81,
+                "rank": 85,
                 "point": 5,
                 "icon_id": 22
             },
             {
                 "user_id": 219833,
                 "name": "Piro",
-                "rank": 82,
+                "rank": 86,
                 "point": 4,
                 "icon_id": 14
             },
             {
                 "user_id": 327264,
                 "name": "hokuto",
-                "rank": 83,
+                "rank": 87,
                 "point": 2,
                 "icon_id": 11
             }
@@ -7767,599 +7844,655 @@
                 "icon_id": 17
             },
             {
+                "user_id": 57252,
+                "name": "0329",
+                "rank": 8,
+                "point": 99,
+                "icon_id": 19
+            },
+            {
                 "user_id": 78286,
                 "name": "KAWASE",
-                "rank": 8,
+                "rank": 9,
                 "point": 98,
                 "icon_id": 15
             },
             {
+                "user_id": 24051,
+                "name": "ZIKUU.",
+                "rank": 10,
+                "point": 98,
+                "icon_id": 5
+            },
+            {
                 "user_id": 51370,
                 "name": "kabukabu000",
-                "rank": 9,
+                "rank": 11,
                 "point": 97,
                 "icon_id": 17
             },
             {
                 "user_id": 430376,
                 "name": "ShoBON",
-                "rank": 10,
+                "rank": 12,
                 "point": 96,
                 "icon_id": 25
             },
             {
                 "user_id": 348126,
                 "name": "azu",
-                "rank": 11,
+                "rank": 13,
                 "point": 96,
                 "icon_id": 11
             },
             {
                 "user_id": 221160,
                 "name": "2222",
-                "rank": 12,
+                "rank": 14,
                 "point": 96,
                 "icon_id": 18
             },
             {
                 "user_id": 383187,
                 "name": "Thormer",
-                "rank": 13,
+                "rank": 15,
                 "point": 95,
                 "icon_id": 26
             },
             {
                 "user_id": 171922,
                 "name": "BADMANI3",
-                "rank": 14,
+                "rank": 16,
                 "point": 95,
                 "icon_id": 26
             },
             {
                 "user_id": 309267,
                 "name": "KAMTEM",
-                "rank": 15,
+                "rank": 17,
                 "point": 95,
                 "icon_id": 13
             },
             {
                 "user_id": 239736,
                 "name": "KOTEA",
-                "rank": 16,
+                "rank": 18,
                 "point": 94,
                 "icon_id": 30
             },
             {
                 "user_id": 11968,
                 "name": "GAMBOL",
-                "rank": 17,
+                "rank": 19,
                 "point": 94,
                 "icon_id": 6
             },
             {
                 "user_id": 389477,
                 "name": "3-Ponzu",
-                "rank": 18,
+                "rank": 20,
                 "point": 94,
                 "icon_id": 8
             },
             {
                 "user_id": 384808,
                 "name": "SUIREN",
-                "rank": 19,
+                "rank": 21,
                 "point": 93,
                 "icon_id": 8
             },
             {
                 "user_id": 125167,
                 "name": "2wm",
-                "rank": 20,
+                "rank": 22,
                 "point": 93,
                 "icon_id": 18
             },
             {
                 "user_id": 4461,
                 "name": "Myad",
-                "rank": 21,
+                "rank": 23,
                 "point": 93,
                 "icon_id": 2
             },
             {
                 "user_id": 2808,
                 "name": "SBH",
-                "rank": 22,
+                "rank": 24,
                 "point": 92,
                 "icon_id": 7
             },
             {
                 "user_id": 420236,
                 "name": "Hikaaa",
-                "rank": 23,
+                "rank": 25,
                 "point": 91,
                 "icon_id": 20
             },
             {
                 "user_id": 134291,
                 "name": "luminous",
-                "rank": 24,
+                "rank": 26,
                 "point": 91,
                 "icon_id": 12
             },
             {
                 "user_id": 426403,
                 "name": "BLUST",
-                "rank": 25,
+                "rank": 27,
                 "point": 90,
                 "icon_id": 21
             },
             {
                 "user_id": 472407,
                 "name": "Mnosin",
-                "rank": 26,
+                "rank": 28,
                 "point": 90,
                 "icon_id": 21
             },
             {
                 "user_id": 248933,
                 "name": "a1r-c0n",
-                "rank": 27,
+                "rank": 29,
                 "point": 90,
                 "icon_id": 14
             },
             {
                 "user_id": 208809,
                 "name": "CECIL",
-                "rank": 28,
+                "rank": 30,
                 "point": 88,
                 "icon_id": 19
             },
             {
                 "user_id": 204692,
                 "name": "Ha55enble",
-                "rank": 29,
+                "rank": 31,
                 "point": 88,
                 "icon_id": 6
             },
             {
                 "user_id": 425966,
                 "name": "yuri",
-                "rank": 30,
+                "rank": 32,
                 "point": 87,
                 "icon_id": 24
             },
             {
                 "user_id": 39972,
                 "name": "TORIA",
-                "rank": 31,
+                "rank": 33,
                 "point": 87,
                 "icon_id": 10
             },
             {
                 "user_id": 417523,
                 "name": "Inuboe-saki",
-                "rank": 32,
+                "rank": 34,
                 "point": 86,
                 "icon_id": 16
             },
             {
                 "user_id": 425804,
                 "name": "NEOGUL",
-                "rank": 33,
+                "rank": 35,
                 "point": 86,
                 "icon_id": 13
             },
             {
                 "user_id": 15443,
                 "name": "Y.",
-                "rank": 34,
+                "rank": 36,
                 "point": 86,
                 "icon_id": 22
             },
             {
                 "user_id": 221178,
                 "name": "SIRIUS",
-                "rank": 35,
+                "rank": 37,
                 "point": 86,
                 "icon_id": 5
             },
             {
                 "user_id": 362303,
                 "name": "B0YDTR",
-                "rank": 36,
+                "rank": 38,
                 "point": 86,
                 "icon_id": 27
             },
             {
                 "user_id": 385103,
                 "name": "siidxra",
-                "rank": 37,
+                "rank": 39,
                 "point": 85,
                 "icon_id": 18
             },
             {
                 "user_id": 28487,
                 "name": "SRNKC",
-                "rank": 38,
+                "rank": 40,
                 "point": 85,
                 "icon_id": 10
             },
             {
                 "user_id": 194911,
                 "name": "FORGE",
-                "rank": 39,
+                "rank": 41,
                 "point": 84,
                 "icon_id": 5
             },
             {
                 "user_id": 470176,
                 "name": "anima",
-                "rank": 40,
+                "rank": 42,
                 "point": 84,
                 "icon_id": 29
             },
             {
+                "user_id": 88000,
+                "name": "neko",
+                "rank": 43,
+                "point": 84,
+                "icon_id": 10
+            },
+            {
                 "user_id": 465023,
                 "name": "Hope",
-                "rank": 41,
+                "rank": 44,
                 "point": 83,
                 "icon_id": 13
             },
             {
                 "user_id": 101362,
                 "name": "ADEF",
-                "rank": 42,
+                "rank": 45,
                 "point": 83,
                 "icon_id": 24
             },
             {
                 "user_id": 20919,
                 "name": "Nodi",
-                "rank": 43,
+                "rank": 46,
                 "point": 83,
                 "icon_id": 12
             },
             {
                 "user_id": 379896,
                 "name": "mkt",
-                "rank": 44,
+                "rank": 47,
                 "point": 82,
                 "icon_id": 4
             },
             {
                 "user_id": 306297,
                 "name": "HIRO",
-                "rank": 45,
+                "rank": 48,
                 "point": 82,
                 "icon_id": 27
             },
             {
                 "user_id": 127369,
                 "name": "a99-17",
-                "rank": 46,
+                "rank": 49,
                 "point": 82,
                 "icon_id": 27
             },
             {
                 "user_id": 216543,
                 "name": "NC.",
-                "rank": 47,
+                "rank": 50,
                 "point": 81,
                 "icon_id": 17
             },
             {
                 "user_id": 337771,
                 "name": "FUYUUMI",
-                "rank": 48,
+                "rank": 51,
                 "point": 81,
                 "icon_id": 14
             },
             {
                 "user_id": 38384,
                 "name": "yukino8556",
-                "rank": 49,
+                "rank": 52,
                 "point": 80,
                 "icon_id": 28
             },
             {
                 "user_id": 8243,
                 "name": "MALDIVES",
-                "rank": 50,
+                "rank": 53,
                 "point": 79,
                 "icon_id": 23
             },
             {
+                "user_id": 425011,
+                "name": "daiji",
+                "rank": 54,
+                "point": 79,
+                "icon_id": 14
+            },
+            {
                 "user_id": 13527,
                 "name": "*4NT46",
-                "rank": 51,
+                "rank": 55,
                 "point": 78,
                 "icon_id": 26
             },
             {
                 "user_id": 423872,
                 "name": "Yuyuyu",
-                "rank": 52,
+                "rank": 56,
                 "point": 78,
                 "icon_id": 28
             },
             {
                 "user_id": 304969,
                 "name": "Kafeoreeeeee",
-                "rank": 53,
+                "rank": 57,
                 "point": 78,
                 "icon_id": 29
             },
             {
+                "user_id": 184308,
+                "name": "MARU",
+                "rank": 58,
+                "point": 77,
+                "icon_id": 22
+            },
+            {
                 "user_id": 371847,
                 "name": "M!NE",
-                "rank": 54,
+                "rank": 59,
                 "point": 75,
                 "icon_id": 21
             },
             {
                 "user_id": 18952,
                 "name": "KanadeHayami",
-                "rank": 55,
+                "rank": 60,
                 "point": 75,
                 "icon_id": 7
             },
             {
+                "user_id": 82092,
+                "name": "yutanpo",
+                "rank": 61,
+                "point": 74,
+                "icon_id": 15
+            },
+            {
                 "user_id": 355515,
                 "name": "mumu",
-                "rank": 56,
+                "rank": 62,
                 "point": 73,
                 "icon_id": 22
             },
             {
                 "user_id": 10056,
                 "name": "MARUYK",
-                "rank": 57,
+                "rank": 63,
                 "point": 72,
                 "icon_id": 30
             },
             {
                 "user_id": 329212,
                 "name": "kawataka",
-                "rank": 58,
+                "rank": 64,
                 "point": 72,
                 "icon_id": 27
             },
             {
+                "user_id": 452152,
+                "name": "II",
+                "rank": 65,
+                "point": 72,
+                "icon_id": 14
+            },
+            {
                 "user_id": 400240,
                 "name": "Kissy",
-                "rank": 59,
+                "rank": 66,
                 "point": 71,
                 "icon_id": 20
             },
             {
                 "user_id": 367547,
                 "name": "aaaaa",
-                "rank": 60,
+                "rank": 67,
                 "point": 71,
                 "icon_id": 21
             },
             {
                 "user_id": 121839,
                 "name": "Kisara",
-                "rank": 61,
+                "rank": 68,
                 "point": 71,
                 "icon_id": 23
             },
             {
                 "user_id": 342354,
                 "name": "XYZ-OWL",
-                "rank": 62,
+                "rank": 69,
                 "point": 71,
                 "icon_id": 23
             },
             {
                 "user_id": 31318,
                 "name": "smz",
-                "rank": 63,
+                "rank": 70,
                 "point": 71,
                 "icon_id": 5
             },
             {
                 "user_id": 229897,
                 "name": "Kazuto.com",
-                "rank": 64,
+                "rank": 71,
                 "point": 70,
                 "icon_id": 5
             },
             {
                 "user_id": 463626,
                 "name": "GAUMI",
-                "rank": 65,
+                "rank": 72,
                 "point": 69,
                 "icon_id": 15
             },
             {
+                "user_id": 391753,
+                "name": "pu",
+                "rank": 73,
+                "point": 69,
+                "icon_id": 2
+            },
+            {
                 "user_id": 142864,
                 "name": "tom",
-                "rank": 66,
+                "rank": 74,
                 "point": 68,
                 "icon_id": 20
             },
             {
                 "user_id": 243016,
                 "name": "Doll",
-                "rank": 67,
+                "rank": 75,
                 "point": 67,
                 "icon_id": 2
             },
             {
                 "user_id": 120001,
                 "name": "ginba",
-                "rank": 68,
+                "rank": 76,
                 "point": 67,
                 "icon_id": 6
             },
             {
                 "user_id": 383214,
                 "name": "k",
-                "rank": 69,
+                "rank": 77,
                 "point": 66,
                 "icon_id": 21
             },
             {
                 "user_id": 7546,
                 "name": "HkRea09",
-                "rank": 70,
+                "rank": 78,
                 "point": 65,
                 "icon_id": 5
             },
             {
                 "user_id": 28429,
                 "name": "PARM",
-                "rank": 71,
+                "rank": 79,
                 "point": 64,
                 "icon_id": 28
             },
             {
                 "user_id": 74962,
                 "name": "feles",
-                "rank": 72,
+                "rank": 80,
                 "point": 62,
                 "icon_id": 30
             },
             {
                 "user_id": 65025,
                 "name": "alc96",
-                "rank": 73,
+                "rank": 81,
                 "point": 60,
                 "icon_id": 9
             },
             {
                 "user_id": 50455,
                 "name": "SILLY",
-                "rank": 74,
+                "rank": 82,
                 "point": 60,
                 "icon_id": 18
             },
             {
                 "user_id": 389836,
                 "name": "COACH",
-                "rank": 75,
+                "rank": 83,
                 "point": 58,
                 "icon_id": 1
             },
             {
                 "user_id": 2296,
                 "name": "N.",
-                "rank": 76,
+                "rank": 84,
                 "point": 54,
                 "icon_id": 8
             },
             {
                 "user_id": 358134,
                 "name": "YURIE",
-                "rank": 77,
+                "rank": 85,
                 "point": 53,
                 "icon_id": 9
             },
             {
                 "user_id": 8910,
                 "name": "H2O",
-                "rank": 78,
+                "rank": 86,
                 "point": 52,
                 "icon_id": 18
             },
             {
                 "user_id": 380026,
                 "name": "seoris",
-                "rank": 79,
+                "rank": 87,
                 "point": 50,
                 "icon_id": 27
             },
             {
                 "user_id": 16265,
                 "name": "Demny",
-                "rank": 80,
+                "rank": 88,
                 "point": 49,
                 "icon_id": 30
             },
             {
+                "user_id": 16087,
+                "name": "coffee",
+                "rank": 89,
+                "point": 39,
+                "icon_id": 14
+            },
+            {
                 "user_id": 242676,
                 "name": "negiusagi",
-                "rank": 81,
+                "rank": 90,
                 "point": 36,
                 "icon_id": 22
             },
             {
+                "user_id": 468351,
+                "name": "xl",
+                "rank": 91,
+                "point": 33,
+                "icon_id": 15
+            },
+            {
+                "user_id": 162244,
+                "name": "Mihanada",
+                "rank": 92,
+                "point": 28,
+                "icon_id": 15
+            },
+            {
                 "user_id": 30539,
                 "name": "mmj",
-                "rank": 82,
+                "rank": 93,
                 "point": 24,
                 "icon_id": 30
             },
             {
                 "user_id": 395173,
                 "name": "kitsuneko",
-                "rank": 83,
+                "rank": 94,
                 "point": 24,
                 "icon_id": 4
             },
             {
                 "user_id": 456990,
                 "name": "HZM",
-                "rank": 84,
+                "rank": 95,
                 "point": 23,
                 "icon_id": 30
             },
             {
                 "user_id": 8298,
                 "name": "KPAILO",
-                "rank": 85,
+                "rank": 96,
                 "point": 23,
                 "icon_id": 15
             },
             {
+                "user_id": 4754,
+                "name": "Nodata",
+                "rank": 97,
+                "point": 22,
+                "icon_id": 6
+            },
+            {
+                "user_id": 367035,
+                "name": "tanasinn",
+                "rank": 98,
+                "point": 21,
+                "icon_id": 12
+            },
+            {
                 "user_id": 359603,
                 "name": "tabasa",
-                "rank": 86,
+                "rank": 99,
                 "point": 20,
                 "icon_id": 24
             },
             {
                 "user_id": 327264,
                 "name": "hokuto",
-                "rank": 87,
+                "rank": 100,
                 "point": 20,
                 "icon_id": 11
-            },
-            {
-                "user_id": 188137,
-                "name": "Ene",
-                "rank": 88,
-                "point": 19,
-                "icon_id": 27
-            },
-            {
-                "user_id": 33517,
-                "name": "wand",
-                "rank": 89,
-                "point": 14,
-                "icon_id": 4
-            },
-            {
-                "user_id": 298648,
-                "name": "Boss",
-                "rank": 90,
-                "point": 8,
-                "icon_id": 6
-            },
-            {
-                "user_id": 446876,
-                "name": "CYPHER",
-                "rank": 91,
-                "point": 8,
-                "icon_id": 4
-            },
-            {
-                "user_id": 225274,
-                "name": "1cup2girls",
-                "rank": 92,
-                "point": 4,
-                "icon_id": 7
             }
         ]
     },
@@ -8436,424 +8569,529 @@
                 "icon_id": 11
             },
             {
+                "user_id": 24051,
+                "name": "ZIKUU.",
+                "rank": 9,
+                "point": 98,
+                "icon_id": 5
+            },
+            {
                 "user_id": 208809,
                 "name": "CECIL",
-                "rank": 9,
+                "rank": 10,
                 "point": 97,
                 "icon_id": 19
             },
             {
                 "user_id": 80438,
                 "name": "peropero",
-                "rank": 10,
+                "rank": 11,
                 "point": 97,
                 "icon_id": 15
             },
             {
+                "user_id": 88000,
+                "name": "neko",
+                "rank": 12,
+                "point": 97,
+                "icon_id": 10
+            },
+            {
+                "user_id": 57252,
+                "name": "0329",
+                "rank": 13,
+                "point": 97,
+                "icon_id": 19
+            },
+            {
                 "user_id": 430376,
                 "name": "ShoBON",
-                "rank": 11,
+                "rank": 14,
                 "point": 95,
                 "icon_id": 25
             },
             {
                 "user_id": 221160,
                 "name": "2222",
-                "rank": 12,
+                "rank": 15,
                 "point": 95,
                 "icon_id": 18
             },
             {
                 "user_id": 425966,
                 "name": "yuri",
-                "rank": 13,
+                "rank": 16,
                 "point": 95,
                 "icon_id": 24
             },
             {
                 "user_id": 11968,
                 "name": "GAMBOL",
-                "rank": 14,
+                "rank": 17,
                 "point": 95,
                 "icon_id": 6
             },
             {
                 "user_id": 39972,
                 "name": "TORIA",
-                "rank": 15,
+                "rank": 18,
                 "point": 95,
                 "icon_id": 10
             },
             {
                 "user_id": 2808,
                 "name": "SBH",
-                "rank": 16,
+                "rank": 19,
                 "point": 94,
                 "icon_id": 7
             },
             {
                 "user_id": 4373,
                 "name": "Linn",
-                "rank": 17,
+                "rank": 20,
                 "point": 94,
                 "icon_id": 8
             },
             {
                 "user_id": 425804,
                 "name": "NEOGUL",
-                "rank": 18,
+                "rank": 21,
                 "point": 94,
                 "icon_id": 13
             },
             {
                 "user_id": 236100,
                 "name": "SPICA",
-                "rank": 19,
+                "rank": 22,
                 "point": 94,
                 "icon_id": 5
             },
             {
                 "user_id": 426403,
                 "name": "BLUST",
-                "rank": 20,
+                "rank": 23,
                 "point": 93,
                 "icon_id": 21
             },
             {
                 "user_id": 362303,
                 "name": "B0YDTR",
-                "rank": 21,
+                "rank": 24,
                 "point": 93,
                 "icon_id": 27
             },
             {
                 "user_id": 221178,
                 "name": "SIRIUS",
-                "rank": 22,
+                "rank": 25,
                 "point": 92,
                 "icon_id": 5
             },
             {
                 "user_id": 383187,
                 "name": "Thormer",
-                "rank": 23,
+                "rank": 26,
                 "point": 90,
                 "icon_id": 26
             },
             {
                 "user_id": 20919,
                 "name": "Nodi",
-                "rank": 24,
+                "rank": 27,
                 "point": 90,
                 "icon_id": 12
             },
             {
                 "user_id": 379896,
                 "name": "mkt",
-                "rank": 25,
+                "rank": 28,
                 "point": 89,
                 "icon_id": 4
             },
             {
                 "user_id": 306297,
                 "name": "HIRO",
-                "rank": 26,
+                "rank": 29,
                 "point": 89,
                 "icon_id": 27
             },
             {
                 "user_id": 13527,
                 "name": "*4NT46",
-                "rank": 27,
+                "rank": 30,
                 "point": 89,
                 "icon_id": 26
             },
             {
+                "user_id": 355100,
+                "name": "NAE",
+                "rank": 31,
+                "point": 89,
+                "icon_id": 6
+            },
+            {
                 "user_id": 216543,
                 "name": "NC.",
-                "rank": 28,
+                "rank": 32,
                 "point": 88,
                 "icon_id": 17
             },
             {
                 "user_id": 194911,
                 "name": "FORGE",
-                "rank": 29,
+                "rank": 33,
                 "point": 88,
                 "icon_id": 5
             },
             {
+                "user_id": 470176,
+                "name": "anima",
+                "rank": 34,
+                "point": 88,
+                "icon_id": 29
+            },
+            {
                 "user_id": 229897,
                 "name": "Kazuto.com",
-                "rank": 30,
+                "rank": 35,
                 "point": 87,
                 "icon_id": 5
             },
             {
                 "user_id": 8910,
                 "name": "H2O",
-                "rank": 31,
+                "rank": 36,
                 "point": 85,
                 "icon_id": 18
             },
             {
                 "user_id": 38384,
                 "name": "yukino8556",
-                "rank": 32,
+                "rank": 37,
                 "point": 84,
                 "icon_id": 28
             },
             {
                 "user_id": 465023,
                 "name": "Hope",
-                "rank": 33,
+                "rank": 38,
                 "point": 83,
                 "icon_id": 13
             },
             {
                 "user_id": 120001,
                 "name": "ginba",
-                "rank": 34,
+                "rank": 39,
                 "point": 83,
                 "icon_id": 6
             },
             {
+                "user_id": 184308,
+                "name": "MARU",
+                "rank": 40,
+                "point": 83,
+                "icon_id": 22
+            },
+            {
                 "user_id": 385103,
                 "name": "siidxra",
-                "rank": 35,
+                "rank": 41,
                 "point": 78,
                 "icon_id": 18
             },
             {
                 "user_id": 463626,
                 "name": "GAUMI",
-                "rank": 36,
+                "rank": 42,
                 "point": 77,
                 "icon_id": 15
             },
             {
                 "user_id": 8243,
                 "name": "MALDIVES",
-                "rank": 37,
+                "rank": 43,
                 "point": 77,
                 "icon_id": 23
             },
             {
+                "user_id": 452152,
+                "name": "II",
+                "rank": 44,
+                "point": 77,
+                "icon_id": 14
+            },
+            {
                 "user_id": 304969,
                 "name": "Kafeoreeeeee",
-                "rank": 38,
+                "rank": 45,
                 "point": 76,
                 "icon_id": 29
             },
             {
                 "user_id": 121839,
                 "name": "Kisara",
-                "rank": 39,
+                "rank": 46,
                 "point": 76,
                 "icon_id": 23
             },
             {
                 "user_id": 7546,
                 "name": "HkRea09",
-                "rank": 40,
+                "rank": 47,
                 "point": 75,
                 "icon_id": 5
             },
             {
                 "user_id": 313801,
                 "name": "Tan*38",
-                "rank": 41,
+                "rank": 48,
                 "point": 75,
                 "icon_id": 14
             },
             {
+                "user_id": 459451,
+                "name": "Mamedeppou",
+                "rank": 49,
+                "point": 75,
+                "icon_id": 3
+            },
+            {
                 "user_id": 340736,
                 "name": "U1TeGr4",
-                "rank": 42,
+                "rank": 50,
                 "point": 74,
                 "icon_id": 30
             },
             {
                 "user_id": 10056,
                 "name": "MARUYK",
-                "rank": 43,
+                "rank": 51,
                 "point": 73,
                 "icon_id": 30
             },
             {
                 "user_id": 50163,
                 "name": "LikeThis",
-                "rank": 44,
+                "rank": 52,
                 "point": 72,
                 "icon_id": 13
             },
             {
                 "user_id": 219833,
                 "name": "Piro",
-                "rank": 45,
+                "rank": 53,
                 "point": 72,
                 "icon_id": 14
             },
             {
                 "user_id": 447902,
                 "name": "lerul",
-                "rank": 46,
+                "rank": 54,
                 "point": 72,
                 "icon_id": 14
             },
             {
                 "user_id": 380026,
                 "name": "seoris",
-                "rank": 47,
+                "rank": 55,
                 "point": 72,
                 "icon_id": 27
             },
             {
                 "user_id": 358134,
                 "name": "YURIE",
-                "rank": 48,
+                "rank": 56,
                 "point": 71,
                 "icon_id": 9
             },
             {
+                "user_id": 162244,
+                "name": "Mihanada",
+                "rank": 57,
+                "point": 71,
+                "icon_id": 15
+            },
+            {
+                "user_id": 16087,
+                "name": "coffee",
+                "rank": 58,
+                "point": 71,
+                "icon_id": 14
+            },
+            {
                 "user_id": 188137,
                 "name": "Ene",
-                "rank": 49,
+                "rank": 59,
                 "point": 70,
                 "icon_id": 27
             },
             {
                 "user_id": 389836,
                 "name": "COACH",
-                "rank": 50,
+                "rank": 60,
                 "point": 69,
                 "icon_id": 1
             },
             {
                 "user_id": 50455,
                 "name": "SILLY",
-                "rank": 51,
+                "rank": 61,
                 "point": 69,
                 "icon_id": 18
             },
             {
                 "user_id": 2296,
                 "name": "N.",
-                "rank": 52,
+                "rank": 62,
                 "point": 68,
                 "icon_id": 8
             },
             {
                 "user_id": 383214,
                 "name": "k",
-                "rank": 53,
+                "rank": 63,
                 "point": 65,
                 "icon_id": 21
             },
             {
                 "user_id": 395173,
                 "name": "kitsuneko",
-                "rank": 54,
+                "rank": 64,
                 "point": 63,
                 "icon_id": 4
             },
             {
+                "user_id": 359603,
+                "name": "tabasa",
+                "rank": 65,
+                "point": 63,
+                "icon_id": 24
+            },
+            {
+                "user_id": 367035,
+                "name": "tanasinn",
+                "rank": 66,
+                "point": 61,
+                "icon_id": 12
+            },
+            {
                 "user_id": 298648,
                 "name": "Boss",
-                "rank": 55,
+                "rank": 67,
                 "point": 59,
                 "icon_id": 6
             },
             {
                 "user_id": 456990,
                 "name": "HZM",
-                "rank": 56,
+                "rank": 68,
                 "point": 59,
                 "icon_id": 30
             },
             {
-                "user_id": 359603,
-                "name": "tabasa",
-                "rank": 57,
-                "point": 56,
-                "icon_id": 24
-            },
-            {
                 "user_id": 418254,
                 "name": "Tomawo",
-                "rank": 58,
+                "rank": 69,
                 "point": 54,
                 "icon_id": 26
             },
             {
                 "user_id": 242676,
                 "name": "negiusagi",
-                "rank": 59,
+                "rank": 70,
                 "point": 50,
                 "icon_id": 22
             },
             {
+                "user_id": 34814,
+                "name": "Aoi",
+                "rank": 71,
+                "point": 47,
+                "icon_id": 5
+            },
+            {
                 "user_id": 33517,
                 "name": "wand",
-                "rank": 60,
+                "rank": 72,
                 "point": 45,
                 "icon_id": 4
             },
             {
                 "user_id": 30539,
                 "name": "mmj",
-                "rank": 61,
+                "rank": 73,
                 "point": 44,
                 "icon_id": 30
             },
             {
                 "user_id": 381480,
                 "name": "Zirow",
-                "rank": 62,
+                "rank": 74,
                 "point": 43,
                 "icon_id": 12
             },
             {
                 "user_id": 398203,
                 "name": "HaRuN",
-                "rank": 63,
+                "rank": 75,
                 "point": 43,
                 "icon_id": 27
             },
             {
                 "user_id": 329212,
                 "name": "kawataka",
-                "rank": 64,
+                "rank": 76,
                 "point": 41,
                 "icon_id": 27
             },
             {
                 "user_id": 4461,
                 "name": "Myad",
-                "rank": 65,
+                "rank": 77,
                 "point": 38,
                 "icon_id": 2
             },
             {
                 "user_id": 446876,
                 "name": "CYPHER",
-                "rank": 66,
+                "rank": 78,
                 "point": 36,
                 "icon_id": 4
             },
             {
                 "user_id": 401609,
                 "name": "Mivi",
-                "rank": 67,
+                "rank": 79,
                 "point": 33,
                 "icon_id": 12
             },
             {
+                "user_id": 398929,
+                "name": "dettyu",
+                "rank": 80,
+                "point": 33,
+                "icon_id": 28
+            },
+            {
                 "user_id": 394921,
                 "name": "Itamae",
-                "rank": 68,
+                "rank": 81,
                 "point": 31,
                 "icon_id": 25
+            },
+            {
+                "user_id": 320546,
+                "name": "Rinne",
+                "rank": 82,
+                "point": 30,
+                "icon_id": 14
+            },
+            {
+                "user_id": 399269,
+                "name": "L1am.",
+                "rank": 83,
+                "point": 15,
+                "icon_id": 14
             }
         ]
     },
@@ -8930,366 +9168,429 @@
                 "icon_id": 18
             },
             {
+                "user_id": 24051,
+                "name": "ZIKUU.",
+                "rank": 9,
+                "point": 100,
+                "icon_id": 5
+            },
+            {
+                "user_id": 445686,
+                "name": "ILUMA",
+                "rank": 10,
+                "point": 100,
+                "icon_id": 30
+            },
+            {
                 "user_id": 430376,
                 "name": "ShoBON",
-                "rank": 9,
+                "rank": 11,
                 "point": 99,
                 "icon_id": 25
             },
             {
                 "user_id": 425966,
                 "name": "yuri",
-                "rank": 10,
+                "rank": 12,
                 "point": 99,
                 "icon_id": 24
             },
             {
                 "user_id": 51370,
                 "name": "kabukabu000",
-                "rank": 11,
+                "rank": 13,
                 "point": 99,
                 "icon_id": 17
             },
             {
                 "user_id": 348126,
                 "name": "azu",
-                "rank": 12,
+                "rank": 14,
                 "point": 99,
                 "icon_id": 11
             },
             {
                 "user_id": 174195,
                 "name": "f_sita",
-                "rank": 13,
+                "rank": 15,
                 "point": 99,
                 "icon_id": 21
             },
             {
                 "user_id": 425804,
                 "name": "NEOGUL",
-                "rank": 14,
+                "rank": 16,
                 "point": 99,
                 "icon_id": 13
             },
             {
                 "user_id": 221178,
                 "name": "SIRIUS",
-                "rank": 15,
+                "rank": 17,
                 "point": 99,
                 "icon_id": 5
             },
             {
                 "user_id": 362303,
                 "name": "B0YDTR",
-                "rank": 16,
+                "rank": 18,
                 "point": 99,
                 "icon_id": 27
             },
             {
                 "user_id": 194911,
                 "name": "FORGE",
-                "rank": 17,
+                "rank": 19,
                 "point": 98,
                 "icon_id": 5
             },
             {
                 "user_id": 379896,
                 "name": "mkt",
-                "rank": 18,
+                "rank": 20,
                 "point": 98,
                 "icon_id": 4
             },
             {
                 "user_id": 383187,
                 "name": "Thormer",
-                "rank": 19,
+                "rank": 21,
                 "point": 97,
                 "icon_id": 26
             },
             {
                 "user_id": 208809,
                 "name": "CECIL",
-                "rank": 20,
+                "rank": 22,
                 "point": 97,
                 "icon_id": 19
             },
             {
                 "user_id": 13527,
                 "name": "*4NT46",
-                "rank": 21,
+                "rank": 23,
                 "point": 96,
                 "icon_id": 26
             },
             {
                 "user_id": 20919,
                 "name": "Nodi",
-                "rank": 22,
+                "rank": 24,
                 "point": 95,
                 "icon_id": 12
             },
             {
+                "user_id": 184308,
+                "name": "MARU",
+                "rank": 25,
+                "point": 95,
+                "icon_id": 22
+            },
+            {
                 "user_id": 216543,
                 "name": "NC.",
-                "rank": 23,
+                "rank": 26,
                 "point": 94,
                 "icon_id": 17
             },
             {
                 "user_id": 365693,
                 "name": "DISNEY",
-                "rank": 24,
+                "rank": 27,
                 "point": 94,
                 "icon_id": 16
             },
             {
                 "user_id": 463626,
                 "name": "GAUMI",
-                "rank": 25,
+                "rank": 28,
                 "point": 93,
                 "icon_id": 15
             },
             {
                 "user_id": 229897,
                 "name": "Kazuto.com",
-                "rank": 26,
+                "rank": 29,
                 "point": 92,
                 "icon_id": 5
             },
             {
+                "user_id": 452152,
+                "name": "II",
+                "rank": 30,
+                "point": 92,
+                "icon_id": 14
+            },
+            {
                 "user_id": 465023,
                 "name": "Hope",
-                "rank": 27,
+                "rank": 31,
                 "point": 91,
                 "icon_id": 13
             },
             {
                 "user_id": 121839,
                 "name": "Kisara",
-                "rank": 28,
+                "rank": 32,
                 "point": 91,
                 "icon_id": 23
             },
             {
                 "user_id": 358134,
                 "name": "YURIE",
-                "rank": 29,
+                "rank": 33,
                 "point": 90,
                 "icon_id": 9
             },
             {
                 "user_id": 459451,
                 "name": "Mamedeppou",
-                "rank": 30,
+                "rank": 34,
                 "point": 90,
                 "icon_id": 3
             },
             {
                 "user_id": 380026,
                 "name": "seoris",
-                "rank": 31,
+                "rank": 35,
                 "point": 89,
                 "icon_id": 27
             },
             {
                 "user_id": 340736,
                 "name": "U1TeGr4",
-                "rank": 32,
+                "rank": 36,
                 "point": 87,
                 "icon_id": 30
             },
             {
                 "user_id": 120001,
                 "name": "ginba",
-                "rank": 33,
+                "rank": 37,
                 "point": 87,
                 "icon_id": 6
             },
             {
                 "user_id": 50163,
                 "name": "LikeThis",
-                "rank": 34,
+                "rank": 38,
                 "point": 82,
                 "icon_id": 13
             },
             {
                 "user_id": 447902,
                 "name": "lerul",
-                "rank": 35,
+                "rank": 39,
                 "point": 78,
                 "icon_id": 14
             },
             {
                 "user_id": 188137,
                 "name": "Ene",
-                "rank": 36,
+                "rank": 40,
                 "point": 78,
                 "icon_id": 27
             },
             {
                 "user_id": 16087,
                 "name": "coffee",
-                "rank": 37,
+                "rank": 41,
                 "point": 78,
                 "icon_id": 14
             },
             {
+                "user_id": 34814,
+                "name": "Aoi",
+                "rank": 42,
+                "point": 77,
+                "icon_id": 5
+            },
+            {
                 "user_id": 395173,
                 "name": "kitsuneko",
-                "rank": 38,
+                "rank": 43,
                 "point": 74,
                 "icon_id": 4
             },
             {
+                "user_id": 463287,
+                "name": "DETOROID",
+                "rank": 44,
+                "point": 71,
+                "icon_id": 8
+            },
+            {
                 "user_id": 298648,
                 "name": "Boss",
-                "rank": 39,
+                "rank": 45,
                 "point": 70,
                 "icon_id": 6
             },
             {
                 "user_id": 326170,
                 "name": "ALMI",
-                "rank": 40,
+                "rank": 46,
                 "point": 70,
                 "icon_id": 14
             },
             {
                 "user_id": 25614,
                 "name": "XSLIS",
-                "rank": 41,
+                "rank": 47,
                 "point": 70,
                 "icon_id": 12
             },
             {
                 "user_id": 470375,
                 "name": "kururin",
-                "rank": 42,
+                "rank": 48,
                 "point": 69,
                 "icon_id": 7
             },
             {
                 "user_id": 2296,
                 "name": "N.",
-                "rank": 43,
+                "rank": 49,
                 "point": 67,
                 "icon_id": 8
             },
             {
                 "user_id": 314653,
                 "name": "LoosaB.L.S.",
-                "rank": 44,
+                "rank": 50,
                 "point": 65,
                 "icon_id": 5
             },
             {
                 "user_id": 33517,
                 "name": "wand",
-                "rank": 45,
+                "rank": 51,
                 "point": 63,
                 "icon_id": 4
             },
             {
+                "user_id": 38121,
+                "name": "nenena",
+                "rank": 52,
+                "point": 63,
+                "icon_id": 3
+            },
+            {
                 "user_id": 418664,
                 "name": "IMPaniki",
-                "rank": 46,
+                "rank": 53,
                 "point": 62,
                 "icon_id": 1
             },
             {
+                "user_id": 320546,
+                "name": "Rinne",
+                "rank": 54,
+                "point": 59,
+                "icon_id": 14
+            },
+            {
                 "user_id": 242676,
                 "name": "negiusagi",
-                "rank": 47,
+                "rank": 55,
                 "point": 58,
                 "icon_id": 22
             },
             {
                 "user_id": 283939,
                 "name": "annz",
-                "rank": 48,
+                "rank": 56,
                 "point": 56,
                 "icon_id": 26
             },
             {
+                "user_id": 399269,
+                "name": "L1am.",
+                "rank": 57,
+                "point": 53,
+                "icon_id": 14
+            },
+            {
                 "user_id": 398203,
                 "name": "HaRuN",
-                "rank": 49,
+                "rank": 58,
                 "point": 50,
                 "icon_id": 27
             },
             {
                 "user_id": 29,
                 "name": "nan*U",
-                "rank": 50,
+                "rank": 59,
                 "point": 48,
                 "icon_id": 23
             },
             {
                 "user_id": 459697,
                 "name": "SIM",
-                "rank": 51,
+                "rank": 60,
                 "point": 44,
                 "icon_id": 4
             },
             {
                 "user_id": 381480,
                 "name": "Zirow",
-                "rank": 52,
+                "rank": 61,
                 "point": 43,
                 "icon_id": 12
             },
             {
                 "user_id": 329212,
                 "name": "kawataka",
-                "rank": 53,
+                "rank": 62,
                 "point": 43,
                 "icon_id": 27
             },
             {
                 "user_id": 401609,
                 "name": "Mivi",
-                "rank": 54,
+                "rank": 63,
                 "point": 40,
                 "icon_id": 12
             },
             {
                 "user_id": 61773,
                 "name": "MSTK",
-                "rank": 55,
+                "rank": 64,
                 "point": 38,
                 "icon_id": 25
             },
             {
                 "user_id": 384473,
                 "name": "HAYATE",
-                "rank": 56,
+                "rank": 65,
                 "point": 38,
                 "icon_id": 27
             },
             {
                 "user_id": 4461,
                 "name": "Myad",
-                "rank": 57,
+                "rank": 66,
                 "point": 24,
                 "icon_id": 2
             },
             {
                 "user_id": 425757,
                 "name": "kausu",
-                "rank": 58,
+                "rank": 67,
                 "point": 23,
                 "icon_id": 23
             },
             {
                 "user_id": 466362,
                 "name": "MlKO",
-                "rank": 59,
+                "rank": 68,
                 "point": 18,
                 "icon_id": 15
             },
             {
                 "user_id": 291278,
                 "name": "ma24ge",
-                "rank": 60,
+                "rank": 69,
                 "point": 9,
                 "icon_id": 13
             }
@@ -9382,290 +9683,353 @@
                 "icon_id": 18
             },
             {
+                "user_id": 24051,
+                "name": "ZIKUU.",
+                "rank": 11,
+                "point": 100,
+                "icon_id": 5
+            },
+            {
                 "user_id": 2808,
                 "name": "SBH",
-                "rank": 11,
+                "rank": 12,
                 "point": 99,
                 "icon_id": 7
             },
             {
                 "user_id": 426403,
                 "name": "BLUST",
-                "rank": 12,
+                "rank": 13,
                 "point": 99,
                 "icon_id": 21
             },
             {
                 "user_id": 425966,
                 "name": "yuri",
-                "rank": 13,
+                "rank": 14,
                 "point": 99,
                 "icon_id": 24
             },
             {
                 "user_id": 463626,
                 "name": "GAUMI",
-                "rank": 14,
+                "rank": 15,
                 "point": 99,
                 "icon_id": 15
             },
             {
                 "user_id": 425804,
                 "name": "NEOGUL",
-                "rank": 15,
+                "rank": 16,
                 "point": 99,
                 "icon_id": 13
             },
             {
                 "user_id": 221178,
                 "name": "SIRIUS",
-                "rank": 16,
+                "rank": 17,
                 "point": 99,
                 "icon_id": 5
             },
             {
                 "user_id": 362303,
                 "name": "B0YDTR",
-                "rank": 17,
+                "rank": 18,
                 "point": 99,
                 "icon_id": 27
             },
             {
                 "user_id": 383187,
                 "name": "Thormer",
-                "rank": 18,
+                "rank": 19,
                 "point": 98,
                 "icon_id": 26
             },
             {
                 "user_id": 459451,
                 "name": "Mamedeppou",
-                "rank": 19,
+                "rank": 20,
                 "point": 98,
                 "icon_id": 3
             },
             {
                 "user_id": 20919,
                 "name": "Nodi",
-                "rank": 20,
+                "rank": 21,
                 "point": 98,
                 "icon_id": 12
             },
             {
                 "user_id": 430376,
                 "name": "ShoBON",
-                "rank": 21,
+                "rank": 22,
                 "point": 97,
                 "icon_id": 25
             },
             {
                 "user_id": 121839,
                 "name": "Kisara",
-                "rank": 22,
+                "rank": 23,
                 "point": 97,
                 "icon_id": 23
             },
             {
                 "user_id": 216543,
                 "name": "NC.",
-                "rank": 23,
+                "rank": 24,
                 "point": 96,
                 "icon_id": 17
             },
             {
                 "user_id": 465023,
                 "name": "Hope",
-                "rank": 24,
+                "rank": 25,
                 "point": 96,
                 "icon_id": 13
             },
             {
                 "user_id": 229897,
                 "name": "Kazuto.com",
-                "rank": 25,
+                "rank": 26,
                 "point": 96,
                 "icon_id": 5
             },
             {
                 "user_id": 365693,
                 "name": "DISNEY",
-                "rank": 26,
+                "rank": 27,
                 "point": 96,
                 "icon_id": 16
             },
             {
+                "user_id": 184308,
+                "name": "MARU",
+                "rank": 28,
+                "point": 96,
+                "icon_id": 22
+            },
+            {
                 "user_id": 38384,
                 "name": "yukino8556",
-                "rank": 27,
+                "rank": 29,
                 "point": 95,
                 "icon_id": 28
             },
             {
                 "user_id": 219833,
                 "name": "Piro",
-                "rank": 28,
+                "rank": 30,
                 "point": 90,
                 "icon_id": 14
             },
             {
                 "user_id": 188137,
                 "name": "Ene",
-                "rank": 29,
+                "rank": 31,
                 "point": 89,
                 "icon_id": 27
             },
             {
                 "user_id": 50163,
                 "name": "LikeThis",
-                "rank": 30,
+                "rank": 32,
                 "point": 88,
                 "icon_id": 13
             },
             {
                 "user_id": 326170,
                 "name": "ALMI",
-                "rank": 31,
+                "rank": 33,
                 "point": 87,
                 "icon_id": 14
             },
             {
+                "user_id": 119346,
+                "name": "MASA.",
+                "rank": 34,
+                "point": 87,
+                "icon_id": 16
+            },
+            {
                 "user_id": 314653,
                 "name": "LoosaB.L.S.",
-                "rank": 32,
+                "rank": 35,
                 "point": 86,
                 "icon_id": 5
             },
             {
                 "user_id": 25614,
                 "name": "XSLIS",
-                "rank": 33,
+                "rank": 36,
                 "point": 85,
                 "icon_id": 12
             },
             {
                 "user_id": 395173,
                 "name": "kitsuneko",
-                "rank": 34,
+                "rank": 37,
                 "point": 82,
                 "icon_id": 4
             },
             {
+                "user_id": 463287,
+                "name": "DETOROID",
+                "rank": 38,
+                "point": 82,
+                "icon_id": 8
+            },
+            {
                 "user_id": 470375,
                 "name": "kururin",
-                "rank": 35,
+                "rank": 39,
                 "point": 81,
                 "icon_id": 7
             },
             {
                 "user_id": 2296,
                 "name": "N.",
-                "rank": 36,
+                "rank": 40,
                 "point": 80,
                 "icon_id": 8
             },
             {
+                "user_id": 398203,
+                "name": "HaRuN",
+                "rank": 41,
+                "point": 80,
+                "icon_id": 27
+            },
+            {
                 "user_id": 298648,
                 "name": "Boss",
-                "rank": 37,
+                "rank": 42,
                 "point": 78,
                 "icon_id": 6
             },
             {
                 "user_id": 61773,
                 "name": "MSTK",
-                "rank": 38,
+                "rank": 43,
                 "point": 75,
                 "icon_id": 25
             },
             {
                 "user_id": 283939,
                 "name": "annz",
-                "rank": 39,
+                "rank": 44,
                 "point": 75,
                 "icon_id": 26
             },
             {
                 "user_id": 38121,
                 "name": "nenena",
-                "rank": 40,
+                "rank": 45,
                 "point": 75,
                 "icon_id": 3
             },
             {
                 "user_id": 29,
                 "name": "nan*U",
-                "rank": 41,
+                "rank": 46,
                 "point": 74,
                 "icon_id": 23
             },
             {
                 "user_id": 33517,
                 "name": "wand",
-                "rank": 42,
+                "rank": 47,
                 "point": 73,
                 "icon_id": 4
             },
             {
                 "user_id": 242676,
                 "name": "negiusagi",
-                "rank": 43,
+                "rank": 48,
                 "point": 73,
                 "icon_id": 22
             },
             {
                 "user_id": 401609,
                 "name": "Mivi",
-                "rank": 44,
+                "rank": 49,
                 "point": 71,
                 "icon_id": 12
             },
             {
+                "user_id": 399269,
+                "name": "L1am.",
+                "rank": 50,
+                "point": 70,
+                "icon_id": 14
+            },
+            {
+                "user_id": 342314,
+                "name": "UNK",
+                "rank": 51,
+                "point": 63,
+                "icon_id": 27
+            },
+            {
                 "user_id": 418664,
                 "name": "IMPaniki",
-                "rank": 45,
+                "rank": 52,
                 "point": 62,
                 "icon_id": 1
             },
             {
                 "user_id": 425757,
                 "name": "kausu",
-                "rank": 46,
+                "rank": 53,
                 "point": 61,
                 "icon_id": 23
             },
             {
                 "user_id": 466362,
                 "name": "MlKO",
-                "rank": 47,
+                "rank": 54,
                 "point": 60,
                 "icon_id": 15
             },
             {
                 "user_id": 4461,
                 "name": "Myad",
-                "rank": 48,
+                "rank": 55,
                 "point": 59,
                 "icon_id": 2
             },
             {
                 "user_id": 384473,
                 "name": "HAYATE",
-                "rank": 49,
+                "rank": 56,
                 "point": 59,
                 "icon_id": 27
             },
             {
                 "user_id": 291278,
                 "name": "ma24ge",
-                "rank": 50,
+                "rank": 57,
                 "point": 57,
                 "icon_id": 13
             },
             {
+                "user_id": 452046,
+                "name": "YOSHI",
+                "rank": 58,
+                "point": 16,
+                "icon_id": 18
+            },
+            {
                 "user_id": 442473,
                 "name": "KinaCo",
-                "rank": 51,
+                "rank": 59,
                 "point": 15,
+                "icon_id": 26
+            },
+            {
+                "user_id": 245800,
+                "name": "hyo",
+                "rank": 60,
+                "point": 14,
                 "icon_id": 26
             }
         ]
