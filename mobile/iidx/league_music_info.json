@@ -1,0 +1,230 @@
+{
+    "refresh": {
+        "league_music_list": [
+            {
+                "league_id": 0,
+                "music_id": 15048,
+                "note_grade": 0,
+                "difficulty": 2,
+                "is_lock": 0,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 15048,
+                "note_grade": 1,
+                "difficulty": 4,
+                "is_lock": 0,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 15048,
+                "note_grade": 2,
+                "difficulty": 7,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 15048,
+                "note_grade": 3,
+                "difficulty": 10,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 19058,
+                "note_grade": 0,
+                "difficulty": 2,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 19058,
+                "note_grade": 1,
+                "difficulty": 3,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 19058,
+                "note_grade": 2,
+                "difficulty": 8,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 19058,
+                "note_grade": 3,
+                "difficulty": 11,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 20068,
+                "note_grade": 1,
+                "difficulty": 3,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 20068,
+                "note_grade": 2,
+                "difficulty": 7,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 20068,
+                "note_grade": 3,
+                "difficulty": 9,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 20100,
+                "note_grade": 0,
+                "difficulty": 1,
+                "is_lock": 0,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 20100,
+                "note_grade": 1,
+                "difficulty": 4,
+                "is_lock": 0,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 20100,
+                "note_grade": 2,
+                "difficulty": 7,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 20100,
+                "note_grade": 3,
+                "difficulty": 10,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 23062,
+                "note_grade": 1,
+                "difficulty": 1,
+                "is_lock": 0,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 23062,
+                "note_grade": 2,
+                "difficulty": 6,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 23062,
+                "note_grade": 3,
+                "difficulty": 10,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 24011,
+                "note_grade": 0,
+                "difficulty": 1,
+                "is_lock": 0,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 24011,
+                "note_grade": 1,
+                "difficulty": 5,
+                "is_lock": 0,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 24011,
+                "note_grade": 2,
+                "difficulty": 7,
+                "is_lock": 0,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 24011,
+                "note_grade": 3,
+                "difficulty": 10,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 25032,
+                "note_grade": 1,
+                "difficulty": 2,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 25032,
+                "note_grade": 2,
+                "difficulty": 5,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 25032,
+                "note_grade": 3,
+                "difficulty": 9,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 26042,
+                "note_grade": 1,
+                "difficulty": 3,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 26042,
+                "note_grade": 2,
+                "difficulty": 6,
+                "is_lock": 1,
+                "is_limited": 0
+            },
+            {
+                "league_id": 0,
+                "music_id": 26042,
+                "note_grade": 3,
+                "difficulty": 9,
+                "is_lock": 1,
+                "is_limited": 0
+            }
+        ]
+    }
+}
