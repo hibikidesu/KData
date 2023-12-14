@@ -1016,6 +1016,11 @@
             "category": 3
         },
         {
+            "albumID": 12017,
+            "title": "DanceDanceRevolution A20 Original Soundtrack",
+            "category": 3
+        },
+        {
             "albumID": 13000,
             "title": "SOUND VOLTEX ULTIMATE TRACKS Dimension Gates Ω -Phase.1-",
             "category": 4
@@ -69725,7 +69730,7 @@
             "trackNo": 68,
             "title": "Emera",
             "artist": "PON",
-            "openType": 0
+            "openType": 1
         },
         {
             "gid": "dr_015_0069",
@@ -70390,6 +70395,566 @@
             "title": "愛言葉",
             "artist": "DECO*27",
             "openType": 0
+        },
+        {
+            "gid": "dr_016_0001",
+            "albumID": 12017,
+            "trackNo": 1,
+            "title": "Neverland",
+            "artist": "ARM (IOSYS) feat. Nicole Curry",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0002",
+            "albumID": 12017,
+            "trackNo": 2,
+            "title": "ORCA",
+            "artist": "かめりあ",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0003",
+            "albumID": 12017,
+            "trackNo": 3,
+            "title": "Drop The Bounce",
+            "artist": "Hommarju",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0004",
+            "albumID": 12017,
+            "trackNo": 4,
+            "title": "Seta Para Cima↑↑",
+            "artist": "BEMANI Sound Team \"U1 overground\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0005",
+            "albumID": 12017,
+            "trackNo": 5,
+            "title": "This Beat Is.....",
+            "artist": "Shoichiro Hirata",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0006",
+            "albumID": 12017,
+            "trackNo": 6,
+            "title": "Starry Sky",
+            "artist": "DJ Genki feat. Mayumi Morinaga",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0007",
+            "albumID": 12017,
+            "trackNo": 7,
+            "title": "Dead Heat",
+            "artist": "Maozon",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0008",
+            "albumID": 12017,
+            "trackNo": 8,
+            "title": "Waiting",
+            "artist": "nc ft.NRG Factory",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0009",
+            "albumID": 12017,
+            "trackNo": 9,
+            "title": "District of the Shadows",
+            "artist": "DJ Noriken",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0010",
+            "albumID": 12017,
+            "trackNo": 10,
+            "title": "Procyon",
+            "artist": "矢鴇つかさ",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0011",
+            "albumID": 12017,
+            "trackNo": 11,
+            "title": "The Light",
+            "artist": "W&W ft. Kizuna AI",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0012",
+            "albumID": 12017,
+            "trackNo": 12,
+            "title": "50th Memorial Songs -Beginning Story-",
+            "artist": "BEMANI Sound Team",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0013",
+            "albumID": 12017,
+            "trackNo": 13,
+            "title": "Helios",
+            "artist": "xac",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0014",
+            "albumID": 12017,
+            "trackNo": 14,
+            "title": "Skywalking",
+            "artist": "Nhato",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0015",
+            "albumID": 12017,
+            "trackNo": 15,
+            "title": "HAVE YOU NEVER BEEN MELLOW (20th Anniversary Mix)",
+            "artist": "nc ft. Kanae Jasmine Asaba",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0016",
+            "albumID": 12017,
+            "trackNo": 16,
+            "title": "Get On Da Floor",
+            "artist": "DJ Shimamura",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0017",
+            "albumID": 12017,
+            "trackNo": 17,
+            "title": "Toy Box Factory",
+            "artist": "まろん（IOSYS）",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0018",
+            "albumID": 12017,
+            "trackNo": 18,
+            "title": "SODA GALAXY",
+            "artist": "KO3",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0019",
+            "albumID": 12017,
+            "trackNo": 19,
+            "title": "スイーツはとまらない♪",
+            "artist": "日向美ビタースイーツ♪",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0020",
+            "albumID": 12017,
+            "trackNo": 20,
+            "title": "ヒカリユリイカ",
+            "artist": "ここなつ",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0021",
+            "albumID": 12017,
+            "trackNo": 21,
+            "title": "ベビーステップ",
+            "artist": "ここなつ",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0022",
+            "albumID": 12017,
+            "trackNo": 22,
+            "title": "革命パッショネイト",
+            "artist": "日向美ビタースイーツ♪",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0023",
+            "albumID": 12017,
+            "trackNo": 23,
+            "title": "熱情のサパデアード",
+            "artist": "日向美ビタースイーツ♪",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0024",
+            "albumID": 12017,
+            "trackNo": 24,
+            "title": "50th Memorial Songs -The BEMANI History-",
+            "artist": "BEMANI Sound Team",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0025",
+            "albumID": 12017,
+            "trackNo": 25,
+            "title": "50th Memorial Songs -二人の時 ～under the cherry blossoms～-",
+            "artist": "BEMANI Sound Team",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0026",
+            "albumID": 12017,
+            "trackNo": 26,
+            "title": "50th Memorial Songs -Flagship medley-",
+            "artist": "BEMANI Sound Team",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0027",
+            "albumID": 12017,
+            "trackNo": 27,
+            "title": "ライアーダンス",
+            "artist": "DECO*27",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0028",
+            "albumID": 12017,
+            "trackNo": 28,
+            "title": "タイガーランペイジ",
+            "artist": "sasakure.UK",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0029",
+            "albumID": 12017,
+            "trackNo": 29,
+            "title": "腐れ外道とチョコレゐト",
+            "artist": "ピノキオピー",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0030",
+            "albumID": 12017,
+            "trackNo": 30,
+            "title": "CARTOON HEROES (20th Anniversary Mix)",
+            "artist": "nc ft.Jasmine And DARIO TODA",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0031",
+            "albumID": 12017,
+            "trackNo": 31,
+            "title": "Avenger",
+            "artist": "USAO",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0032",
+            "albumID": 12017,
+            "trackNo": 32,
+            "title": "F4SH10N",
+            "artist": "aran",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0033",
+            "albumID": 12017,
+            "trackNo": 33,
+            "title": "Right Time Right Way",
+            "artist": "KAN TAKAHIKO",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0034",
+            "albumID": 12017,
+            "trackNo": 34,
+            "title": "Our Soul",
+            "artist": "CaZ",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0035",
+            "albumID": 12017,
+            "trackNo": 35,
+            "title": "LONG TRAIN RUNNIN' (20th Anniversary Mix)",
+            "artist": "Haruki Yamada (ATTIC INC.) with Bodhi Kenyon",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0036",
+            "albumID": 12017,
+            "trackNo": 36,
+            "title": "New Era",
+            "artist": "BEMANI Sound Team \"Sota F.\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0037",
+            "albumID": 12017,
+            "trackNo": 37,
+            "title": "LEVEL UP",
+            "artist": "TORIENA",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0038",
+            "albumID": 12017,
+            "trackNo": 38,
+            "title": "CROSS",
+            "artist": "TeddyLoid",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0039",
+            "albumID": 12017,
+            "trackNo": 39,
+            "title": "BLSTR",
+            "artist": "Ujico*",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0040",
+            "albumID": 12017,
+            "trackNo": 40,
+            "title": "SKY HIGH (20th Anniversary Mix)",
+            "artist": "Haruki Yamada (ATTIC INC.) with Martin Leroux",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0041",
+            "albumID": 12017,
+            "trackNo": 41,
+            "title": "未来（ダ）FUTURE",
+            "artist": "seiya-murai",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0042",
+            "albumID": 12017,
+            "trackNo": 42,
+            "title": "Give Me",
+            "artist": "Relect",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0043",
+            "albumID": 12017,
+            "trackNo": 43,
+            "title": "No Tears Left to Cry",
+            "artist": "Ariana Grande",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0044",
+            "albumID": 12017,
+            "trackNo": 44,
+            "title": "New Rules",
+            "artist": "Dua Lipa",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0045",
+            "albumID": 12017,
+            "trackNo": 45,
+            "title": "Something Just Like This (Alesso Remix)",
+            "artist": "The Chainsmokers & Coldplay",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0046",
+            "albumID": 12017,
+            "trackNo": 46,
+            "title": "Clarity",
+            "artist": "Zedd feat. Foxes",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0047",
+            "albumID": 12017,
+            "trackNo": 47,
+            "title": "Play Hard",
+            "artist": "David Guetta feat. Ne-Yo, Akon",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0048",
+            "albumID": 12017,
+            "trackNo": 48,
+            "title": "I'm an Albatraoz",
+            "artist": "AronChupa",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0049",
+            "albumID": 12017,
+            "trackNo": 49,
+            "title": "Alone",
+            "artist": "Marshmello",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0050",
+            "albumID": 12017,
+            "trackNo": 50,
+            "title": "Party Rock Anthem",
+            "artist": "LMFAO",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0051",
+            "albumID": 12017,
+            "trackNo": 51,
+            "title": "BUTTERFLY (20th Anniversary Mix)",
+            "artist": "BEMANI Sound Team \"Sota F.\"",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0052",
+            "albumID": 12017,
+            "trackNo": 52,
+            "title": "Splash Gold",
+            "artist": "BEMANI Sound Team \"TAG underground\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0053",
+            "albumID": 12017,
+            "trackNo": 53,
+            "title": "Ace out",
+            "artist": "BEMANI Sound Team \"SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0054",
+            "albumID": 12017,
+            "trackNo": 54,
+            "title": "DOWNER & UPPER",
+            "artist": "BEMANI Sound Team \"DJ TOTTO\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0055",
+            "albumID": 12017,
+            "trackNo": 55,
+            "title": "毒占欲",
+            "artist": "DECO*27",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0056",
+            "albumID": 12017,
+            "trackNo": 56,
+            "title": "妄想感傷代償連盟",
+            "artist": "DECO*27",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0057",
+            "albumID": 12017,
+            "trackNo": 57,
+            "title": "すきなことだけでいいです",
+            "artist": "ピノキオピー",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0058",
+            "albumID": 12017,
+            "trackNo": 58,
+            "title": "Crazy Shuffle",
+            "artist": "Yooh",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0059",
+            "albumID": 12017,
+            "trackNo": 59,
+            "title": "Small Steps",
+            "artist": "かめりあ",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0060",
+            "albumID": 12017,
+            "trackNo": 60,
+            "title": "The World Ends Now",
+            "artist": "Akira Complex",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0061",
+            "albumID": 12017,
+            "trackNo": 61,
+            "title": "最小三倍完全数",
+            "artist": "DJ TECHNORCH",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0062",
+            "albumID": 12017,
+            "trackNo": 62,
+            "title": "BLACK JACKAL",
+            "artist": "Akira Complex",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0063",
+            "albumID": 12017,
+            "trackNo": 63,
+            "title": "Afterimage d'automne",
+            "artist": "BEMANI Sound Team \"猫叉劇団\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0064",
+            "albumID": 12017,
+            "trackNo": 64,
+            "title": "voltississimo",
+            "artist": "BEMANI Sound Team \"PHQUASE\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0065",
+            "albumID": 12017,
+            "trackNo": 65,
+            "title": "Six String Proof",
+            "artist": "BEMANI Sound Team \"Yvya × Mutsuhiko Izumi\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0066",
+            "albumID": 12017,
+            "trackNo": 66,
+            "title": "toy boxer",
+            "artist": "BEMANI Sound Team \"S-C-U & SYUNN\"",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0067",
+            "albumID": 12017,
+            "trackNo": 67,
+            "title": "おーまい！らぶりー！すうぃーてぃ！だーりん！",
+            "artist": "BEMANI Sound Team \"PON\" feat.NU-KO",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0068",
+            "albumID": 12017,
+            "trackNo": 68,
+            "title": "Trill auf G",
+            "artist": "BEMANI Sound Team \"dj TAKA\"",
+            "openType": 0
+        },
+        {
+            "gid": "dr_016_0069",
+            "albumID": 12017,
+            "trackNo": 69,
+            "title": "ミッドナイト☆WAR",
+            "artist": "いちか",
+            "openType": 1
+        },
+        {
+            "gid": "dr_016_0070",
+            "albumID": 12017,
+            "trackNo": 70,
+            "title": "Rampage Hero",
+            "artist": "DJ Shimamura",
+            "openType": 1
         },
         {
             "gid": "dr_017_0001",
