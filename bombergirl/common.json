@@ -1,10 +1,10 @@
 {
     "messages": [
         {
-            "msg_id": 148,
+            "msg_id": 153,
             "tag": "GAME",
-            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=31,6,104;MatchingType=1;TeamSyncType=1;",
-            "till_time": 9223372036825200000
+            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=6,53,191;MatchingType=1;TeamSyncType=1;",
+            "till_time": 1703552400000
         },
         {
             "msg_id": 200,
@@ -31,10 +31,10 @@
             "till_time": 9223372036825200000
         },
         {
-            "msg_id": 26,
-            "tag": "R_MAP",
-            "message": "Map=31,6,104;",
-            "till_time": 1698080400000
+            "msg_id": 88,
+            "tag": "KSMATCH",
+            "message": "private_match_time=60;",
+            "till_time": 9223372036825200000
         },
         {
             "msg_id": 232,
@@ -46,7 +46,7 @@
     "events": [
         {
             "type": 1,
-            "phase": 88
+            "phase": 95
         },
         {
             "type": 4,
@@ -209,12 +209,16 @@
             "phase": 79
         },
         {
+            "type": 4,
+            "phase": 80
+        },
+        {
             "type": 5,
-            "phase": 36
+            "phase": 40
         },
         {
             "type": 7,
-            "phase": 19
+            "phase": 20
         },
         {
             "type": 8,
@@ -277,126 +281,126 @@
             "phase": 26
         },
         {
+            "type": 9,
+            "phase": 27
+        },
+        {
             "type": 10,
             "phase": 1
         },
         {
             "type": 101,
-            "phase": 5
+            "phase": 6
         }
     ],
     "event_info": [
         {
             "type": 5,
-            "phase": 36,
-            "str_date": "10/11(水) 10:00 am ～ 10/25(水) 9:59 am"
+            "phase": 40,
+            "str_date": "12/14(木) 10:00 am ～ 12/26(火) 9:59 am"
         },
         {
             "type": 101,
-            "phase": 5,
-            "str_date": "9/20(水) 10:00 am ～ 11/1(水) 9:59 am"
+            "phase": 6,
+            "str_date": "11/1(水) 10:00 am ～ 12/15(金) 9:59 am"
         }
     ],
     "gacha": {
-        "id": 36,
+        "id": 40,
         "items": [
             {
-                "item_id": 10,
+                "item_id": 6,
                 "pick_rate": 1
             },
             {
-                "item_id": 1151,
+                "item_id": 9,
                 "pick_rate": 1
             },
             {
-                "item_id": 2903,
+                "item_id": 866,
                 "pick_rate": 1
             },
             {
-                "item_id": 863,
+                "item_id": 868,
                 "pick_rate": 1
             },
             {
-                "item_id": 1447,
+                "item_id": 871,
                 "pick_rate": 1
             },
             {
-                "item_id": 867,
+                "item_id": 919,
                 "pick_rate": 1
             },
             {
-                "item_id": 1699,
+                "item_id": 922,
                 "pick_rate": 1
             },
             {
-                "item_id": 880,
+                "item_id": 1135,
                 "pick_rate": 1
             },
             {
-                "item_id": 1310,
+                "item_id": 1136,
                 "pick_rate": 1
             },
             {
-                "item_id": 1154,
+                "item_id": 1137,
                 "pick_rate": 1
             },
             {
-                "item_id": 2652,
+                "item_id": 1138,
                 "pick_rate": 1
             },
             {
-                "item_id": 2906,
+                "item_id": 1142,
                 "pick_rate": 1
             },
             {
-                "item_id": 2398,
+                "item_id": 1143,
                 "pick_rate": 1
             },
             {
-                "item_id": 2399,
+                "item_id": 1144,
                 "pick_rate": 1
             },
             {
-                "item_id": 2400,
+                "item_id": 1145,
                 "pick_rate": 1
             },
             {
-                "item_id": 2402,
+                "item_id": 1146,
                 "pick_rate": 1
             },
             {
-                "item_id": 2401,
+                "item_id": 1147,
                 "pick_rate": 1
             },
             {
-                "item_id": 2403,
+                "item_id": 1148,
                 "pick_rate": 1
             },
             {
-                "item_id": 2404,
+                "item_id": 1149,
                 "pick_rate": 1
             },
             {
-                "item_id": 889,
+                "item_id": 1309,
                 "pick_rate": 1
             },
             {
-                "item_id": 890,
+                "item_id": 1448,
                 "pick_rate": 1
             },
             {
-                "item_id": 891,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1125,
+                "item_id": 2245,
                 "pick_rate": 1
             }
         ],
         "pick_rate": [
             {
                 "rare": 2,
-                "pick_rate": 20
+                "pick_rate": 10
             },
             {
                 "rare": 3,
@@ -404,7 +408,7 @@
             },
             {
                 "rare": 4,
-                "pick_rate": 15
+                "pick_rate": 35
             },
             {
                 "rare": 5,
