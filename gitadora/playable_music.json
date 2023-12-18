@@ -1820,34 +1820,6 @@
         "ifs_ver": 1
     },
     {
-        "id": 2516,
-        "diff": [
-            0,
-            350,
-            490,
-            680,
-            800,
-            0,
-            330,
-            485,
-            630,
-            765,
-            0,
-            340,
-            560,
-            705,
-            800
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": false,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 1,
-        "ifs_ver": 1
-    },
-    {
         "id": 722,
         "diff": [
             0,
@@ -1873,6 +1845,34 @@
         "is_hot": false,
         "data_ver": 115,
         "knst_pack": 0,
+        "ifs_ver": 1
+    },
+    {
+        "id": 2516,
+        "diff": [
+            0,
+            350,
+            490,
+            680,
+            800,
+            0,
+            330,
+            485,
+            630,
+            765,
+            0,
+            340,
+            560,
+            705,
+            800
+        ],
+        "cont_gf": true,
+        "cont_dm": true,
+        "is_cont": true,
+        "is_secret": false,
+        "is_hot": true,
+        "data_ver": 115,
+        "knst_pack": 1,
         "ifs_ver": 1
     },
     {
@@ -5989,7 +5989,7 @@
         "is_hot": true,
         "data_ver": 115,
         "knst_pack": 4,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 815,
@@ -9993,7 +9993,7 @@
         "is_hot": true,
         "data_ver": 115,
         "knst_pack": 8,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 1302,
@@ -10021,7 +10021,7 @@
         "is_hot": true,
         "data_ver": 115,
         "knst_pack": 8,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 5033,
@@ -10049,7 +10049,7 @@
         "is_hot": true,
         "data_ver": 123,
         "knst_pack": 8,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 2002,
@@ -21165,7 +21165,7 @@
         "is_hot": true,
         "data_ver": 115,
         "knst_pack": 6,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 5019,
@@ -21193,7 +21193,7 @@
         "is_hot": true,
         "data_ver": 122,
         "knst_pack": 6,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 504,
@@ -22649,7 +22649,7 @@
         "is_hot": true,
         "data_ver": 115,
         "knst_pack": 0,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 2311,
@@ -23713,7 +23713,7 @@
         "is_hot": true,
         "data_ver": 115,
         "knst_pack": 4,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 5072,
@@ -23741,7 +23741,7 @@
         "is_hot": true,
         "data_ver": 147,
         "knst_pack": 4,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 1103,
@@ -24245,7 +24245,7 @@
         "is_hot": true,
         "data_ver": 203,
         "knst_pack": 14,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 2286,
@@ -27577,7 +27577,7 @@
         "is_hot": true,
         "data_ver": 115,
         "knst_pack": 0,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 5010,
@@ -27605,7 +27605,7 @@
         "is_hot": false,
         "data_ver": 122,
         "knst_pack": 0,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 2033,
@@ -29173,7 +29173,7 @@
         "is_hot": false,
         "data_ver": 115,
         "knst_pack": 0,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 5030,
@@ -29201,7 +29201,7 @@
         "is_hot": false,
         "data_ver": 123,
         "knst_pack": 0,
-        "ifs_ver": 1
+        "ifs_ver": 2
     },
     {
         "id": 1235,
