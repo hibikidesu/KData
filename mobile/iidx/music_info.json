@@ -4998,7 +4998,7 @@
         {
             "music_id": 26004,
             "lock_type": 3,
-            "is_new": 1
+            "is_new": 0
         },
         {
             "music_id": 26005,
@@ -5033,7 +5033,7 @@
         {
             "music_id": 26013,
             "lock_type": 3,
-            "is_new": 1
+            "is_new": 0
         },
         {
             "music_id": 26014,
@@ -5288,7 +5288,7 @@
         {
             "music_id": 26080,
             "lock_type": 3,
-            "is_new": 1
+            "is_new": 0
         },
         {
             "music_id": 26081,
@@ -5793,7 +5793,7 @@
         {
             "music_id": 27090,
             "lock_type": 3,
-            "is_new": 1
+            "is_new": 0
         },
         {
             "music_id": 27092,
@@ -5818,7 +5818,7 @@
         {
             "music_id": 27100,
             "lock_type": 3,
-            "is_new": 1
+            "is_new": 0
         },
         {
             "music_id": 27101,
@@ -6617,8 +6617,8 @@
         },
         {
             "music_id": 30001,
-            "lock_type": 3,
-            "is_new": 0
+            "lock_type": 0,
+            "is_new": 1
         },
         {
             "music_id": 30002,
@@ -6627,8 +6627,8 @@
         },
         {
             "music_id": 30004,
-            "lock_type": 3,
-            "is_new": 0
+            "lock_type": 0,
+            "is_new": 1
         },
         {
             "music_id": 30005,
@@ -6722,8 +6722,8 @@
         },
         {
             "music_id": 30036,
-            "lock_type": 3,
-            "is_new": 0
+            "lock_type": 0,
+            "is_new": 1
         },
         {
             "music_id": 30039,
@@ -6772,8 +6772,8 @@
         },
         {
             "music_id": 30048,
-            "lock_type": 3,
-            "is_new": 0
+            "lock_type": 0,
+            "is_new": 1
         },
         {
             "music_id": 30050,
