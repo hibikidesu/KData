@@ -1,10 +1,10 @@
 {
     "messages": [
         {
-            "msg_id": 153,
+            "msg_id": 154,
             "tag": "GAME",
-            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=6,53,191;MatchingType=1;TeamSyncType=1;",
-            "till_time": 1703552400000
+            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=2130,2082,163;MatchingType=1;TeamSyncType=1;",
+            "till_time": 1704762000000
         },
         {
             "msg_id": 200,
@@ -214,7 +214,7 @@
         },
         {
             "type": 5,
-            "phase": 40
+            "phase": 41
         },
         {
             "type": 7,
@@ -291,13 +291,17 @@
         {
             "type": 101,
             "phase": 7
+        },
+        {
+            "type": 102,
+            "phase": 2
         }
     ],
     "event_info": [
         {
             "type": 5,
-            "phase": 40,
-            "str_date": "12/14(木) 10:00 am ～ 12/26(火) 9:59 am"
+            "phase": 41,
+            "str_date": "12/26(火) 10:00 am ～ 1/9(火) 9:59 am"
         },
         {
             "type": 101,
@@ -306,14 +310,66 @@
         }
     ],
     "gacha": {
-        "id": 40,
+        "id": 41,
         "items": [
             {
-                "item_id": 6,
+                "item_id": 851,
                 "pick_rate": 1
             },
             {
-                "item_id": 9,
+                "item_id": 852,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 853,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 854,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 855,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 856,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 857,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 858,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 859,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 860,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 861,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 862,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 863,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 864,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 865,
                 "pick_rate": 1
             },
             {
@@ -321,7 +377,19 @@
                 "pick_rate": 1
             },
             {
+                "item_id": 867,
+                "pick_rate": 1
+            },
+            {
                 "item_id": 868,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 869,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 870,
                 "pick_rate": 1
             },
             {
@@ -329,7 +397,47 @@
                 "pick_rate": 1
             },
             {
-                "item_id": 919,
+                "item_id": 872,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 873,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 874,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 875,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 876,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 877,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 878,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 879,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 880,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 920,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 921,
                 "pick_rate": 1
             },
             {
@@ -337,51 +445,27 @@
                 "pick_rate": 1
             },
             {
-                "item_id": 1135,
+                "item_id": 1106,
                 "pick_rate": 1
             },
             {
-                "item_id": 1136,
+                "item_id": 1107,
                 "pick_rate": 1
             },
             {
-                "item_id": 1137,
+                "item_id": 1108,
                 "pick_rate": 1
             },
             {
-                "item_id": 1138,
+                "item_id": 1152,
                 "pick_rate": 1
             },
             {
-                "item_id": 1142,
+                "item_id": 1153,
                 "pick_rate": 1
             },
             {
-                "item_id": 1143,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1144,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1145,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1146,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1147,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1148,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1149,
+                "item_id": 1154,
                 "pick_rate": 1
             },
             {
@@ -389,26 +473,238 @@
                 "pick_rate": 1
             },
             {
+                "item_id": 1310,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1313,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1314,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1315,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1447,
+                "pick_rate": 1
+            },
+            {
                 "item_id": 1448,
                 "pick_rate": 1
             },
             {
+                "item_id": 1500,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1501,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1502,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1699,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1719,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1720,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1721,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1722,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1871,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1872,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 1873,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2040,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2073,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2074,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2075,
+                "pick_rate": 1
+            },
+            {
                 "item_id": 2245,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2265,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2266,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2267,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2460,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2461,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2462,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2463,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2652,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2708,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2709,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2710,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2904,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2905,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 2906,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3014,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3015,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3016,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3221,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3222,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3223,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3224,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3350,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3351,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3352,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3484,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3485,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3486,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3595,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3629,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3630,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3631,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3784,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3785,
+                "pick_rate": 1
+            },
+            {
+                "item_id": 3786,
                 "pick_rate": 1
             }
         ],
         "pick_rate": [
             {
                 "rare": 2,
-                "pick_rate": 10
+                "pick_rate": 60
             },
             {
                 "rare": 3,
-                "pick_rate": 30
-            },
-            {
-                "rare": 4,
-                "pick_rate": 35
+                "pick_rate": 60
             },
             {
                 "rare": 5,
