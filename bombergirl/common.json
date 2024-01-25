@@ -1,10 +1,10 @@
 {
     "messages": [
         {
-            "msg_id": 155,
+            "msg_id": 156,
             "tag": "GAME",
-            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=2129,55,2101;MatchingType=1;TeamSyncType=1;",
-            "till_time": 1706058000000
+            "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=31,5,102;MatchingType=1;TeamSyncType=1;",
+            "till_time": 9223372036825200000
         },
         {
             "msg_id": 200,
@@ -29,12 +29,6 @@
             "tag": "GACHA",
             "message": "tuika_gacha_rate=0,-2,-1,1,1,1;",
             "till_time": 9223372036825200000
-        },
-        {
-            "msg_id": 29,
-            "tag": "R_MAP",
-            "message": "Map=2129,55,2101;",
-            "till_time": 1705942800000
         },
         {
             "msg_id": 88,
@@ -220,7 +214,7 @@
         },
         {
             "type": 5,
-            "phase": 42
+            "phase": 44
         },
         {
             "type": 7,
@@ -296,125 +290,65 @@
         },
         {
             "type": 101,
-            "phase": 7
+            "phase": 8
         }
     ],
     "event_info": [
         {
             "type": 5,
-            "phase": 42,
-            "str_date": "1/9(火) 10:00 am ～ 1/24(水) 9:59 am"
+            "phase": 44,
+            "str_date": "1/24(水) 10:00 am ～ 2/7(水) 9:59 am"
         },
         {
             "type": 101,
-            "phase": 7,
-            "str_date": "12/15(金) 10:00 am ～ 1/24(水) 9:59 am"
+            "phase": 8,
+            "str_date": "1/24(水) 10:00 am ～ 3/6(水) 9:59 am"
         }
     ],
     "gacha": {
-        "id": 42,
+        "id": 44,
         "items": [
             {
-                "item_id": 8,
+                "item_id": 865,
                 "pick_rate": 1
             },
             {
-                "item_id": 863,
+                "item_id": 1107,
                 "pick_rate": 1
             },
             {
-                "item_id": 877,
+                "item_id": 1312,
                 "pick_rate": 1
             },
             {
-                "item_id": 1108,
+                "item_id": 1315,
                 "pick_rate": 1
             },
             {
-                "item_id": 1151,
+                "item_id": 2707,
                 "pick_rate": 1
             },
             {
-                "item_id": 1154,
+                "item_id": 2710,
                 "pick_rate": 1
             },
             {
-                "item_id": 1447,
+                "item_id": 3483,
                 "pick_rate": 1
             },
             {
-                "item_id": 1870,
+                "item_id": 3486,
                 "pick_rate": 1
             },
             {
-                "item_id": 1872,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1965,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1966,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1967,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1968,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1973,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1976,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1991,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1992,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1993,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1994,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1995,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 1996,
-                "pick_rate": 1
-            },
-            {
-                "item_id": 2652,
+                "item_id": 3595,
                 "pick_rate": 1
             }
         ],
         "pick_rate": [
             {
-                "rare": 2,
-                "pick_rate": 20
-            },
-            {
                 "rare": 3,
-                "pick_rate": 25
-            },
-            {
-                "rare": 4,
-                "pick_rate": 20
+                "pick_rate": 30
             },
             {
                 "rare": 5,
