@@ -6646,18 +6646,18 @@
                 "icon_id": 22
             },
             {
-                "user_id": 78286,
-                "name": "KAWASE",
-                "rank": 25,
-                "point": 14,
-                "icon_id": 15
-            },
-            {
                 "user_id": 384808,
                 "name": "SUIREN",
+                "rank": 25,
+                "point": 15,
+                "icon_id": 8
+            },
+            {
+                "user_id": 78286,
+                "name": "KAWASE",
                 "rank": 26,
                 "point": 14,
-                "icon_id": 8
+                "icon_id": 15
             },
             {
                 "user_id": 134291,
@@ -7063,18 +7063,18 @@
                 "icon_id": 2
             },
             {
-                "user_id": 134291,
-                "name": "luminous",
-                "rank": 37,
-                "point": 55,
-                "icon_id": 12
-            },
-            {
                 "user_id": 420236,
                 "name": "Hikaaa",
+                "rank": 37,
+                "point": 57,
+                "icon_id": 20
+            },
+            {
+                "user_id": 134291,
+                "name": "luminous",
                 "rank": 38,
                 "point": 55,
-                "icon_id": 20
+                "icon_id": 12
             },
             {
                 "user_id": 434705,
@@ -11901,7 +11901,7 @@
             },
             {
                 "user_id": 344390,
-                "name": "*tamifuru*",
+                "name": "HANA-GE",
                 "rank": 52,
                 "point": 100,
                 "icon_id": 18
@@ -12388,7 +12388,7 @@
             },
             {
                 "user_id": 344390,
-                "name": "*tamifuru*",
+                "name": "HANA-GE",
                 "rank": 19,
                 "point": 100,
                 "icon_id": 18
@@ -13106,7 +13106,7 @@
             },
             {
                 "user_id": 344390,
-                "name": "*tamifuru*",
+                "name": "HANA-GE",
                 "rank": 19,
                 "point": 100,
                 "icon_id": 18
@@ -14500,7 +14500,7 @@
             },
             {
                 "user_id": 344390,
-                "name": "*tamifuru*",
+                "name": "HANA-GE",
                 "rank": 13,
                 "point": 100,
                 "icon_id": 18
@@ -15246,7 +15246,7 @@
             },
             {
                 "user_id": 344390,
-                "name": "*tamifuru*",
+                "name": "HANA-GE",
                 "rank": 17,
                 "point": 100,
                 "icon_id": 18
@@ -15929,7 +15929,7 @@
             },
             {
                 "user_id": 344390,
-                "name": "*tamifuru*",
+                "name": "HANA-GE",
                 "rank": 12,
                 "point": 100,
                 "icon_id": 18
@@ -16633,7 +16633,7 @@
             },
             {
                 "user_id": 344390,
-                "name": "*tamifuru*",
+                "name": "HANA-GE",
                 "rank": 10,
                 "point": 100,
                 "icon_id": 18
@@ -17372,7 +17372,7 @@
             },
             {
                 "user_id": 344390,
-                "name": "*tamifuru*",
+                "name": "HANA-GE",
                 "rank": 13,
                 "point": 100,
                 "icon_id": 18
@@ -18062,7 +18062,7 @@
             },
             {
                 "user_id": 344390,
-                "name": "*tamifuru*",
+                "name": "HANA-GE",
                 "rank": 9,
                 "point": 100,
                 "icon_id": 18
@@ -18780,7 +18780,7 @@
             },
             {
                 "user_id": 344390,
-                "name": "*tamifuru*",
+                "name": "HANA-GE",
                 "rank": 9,
                 "point": 100,
                 "icon_id": 18
