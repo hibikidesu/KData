@@ -4,7 +4,7 @@
             "msg_id": 156,
             "tag": "GAME",
             "message": "BonusGame=0;BonusNum=1;BonusMax=1;Map=31,5,102;MatchingType=1;TeamSyncType=1;",
-            "till_time": 9223372036825200000
+            "till_time": 1707267600000
         },
         {
             "msg_id": 200,
@@ -297,7 +297,7 @@
         {
             "type": 5,
             "phase": 44,
-            "str_date": "1/24(水) 10:00 am ～ 2/7(水) 9:59 am"
+            "str_date": "1/24(水) 10:00 am ～ 2/7(水) 8:59 am"
         },
         {
             "type": 101,
