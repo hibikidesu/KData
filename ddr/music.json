@@ -3518,7 +3518,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 16
     },
@@ -3649,7 +3648,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 16
     },
@@ -5482,7 +5480,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 2
     },
@@ -5734,7 +5731,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1
     },
     {
@@ -7070,8 +7066,7 @@
         "music_pack_no": 19,
         "editable": false,
         "seriesid": 0,
-        "ac_seriesid": 13,
-        "limited_cha": 1
+        "ac_seriesid": 13
     },
     {
         "mcode": 37735,
@@ -8942,7 +8937,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 14,
-        "limited_cha": 1,
         "bemaniflag": 186,
         "stage": 2
     },
@@ -13247,7 +13241,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited_cha": 1,
         "stage": 31
     },
     {
@@ -13838,7 +13831,7 @@
         "artist": "\u304b\u3081\u308a\u3042",
         "bpmmax": 153,
         "bpmmin": 153,
-        "level_str": "3 6 10 14 0 0 6 11 14 0",
+        "level_str": "\u07edt\u05cd|\u04edu\u05cd|",
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
@@ -13857,7 +13850,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited_cha": 1,
         "stage": 15
     },
     {
@@ -15840,7 +15832,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 12,
+        "limited": 11,
         "limited_cha": 1,
         "stage": 15
     },
@@ -15872,7 +15864,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 11,
         "limited_cha": 1,
         "stage": 16
     },
@@ -15888,7 +15879,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 13,
+        "limited": 12,
         "limited_cha": 1,
         "stage": 15
     },
@@ -15904,7 +15895,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 12,
+        "limited": 11,
         "limited_cha": 1,
         "stage": 31
     },
@@ -15920,7 +15911,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 13,
+        "limited": 12,
         "limited_cha": 1,
         "stage": 17
     },
@@ -16307,7 +16298,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 11,
         "limited_cha": 1,
         "stage": 16
     },
@@ -16432,7 +16422,6 @@
         "seriesid": 0,
         "ac_seriesid": 20,
         "limited": 1,
-        "limited_cha": 2,
         "genreid": 8,
         "movie": 1,
         "stage": 5
@@ -16509,7 +16498,6 @@
         "seriesid": 0,
         "ac_seriesid": 20,
         "limited": 1,
-        "limited_cha": 2,
         "genreid": 8,
         "movie": 1,
         "stage": 14
@@ -17139,7 +17127,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 14,
+        "limited": 13,
         "limited_cha": 1,
         "stage": 15
     },
@@ -17234,7 +17222,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
+        "limited": 13,
         "limited_cha": 1,
         "stage": 3
     },
@@ -17325,7 +17313,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "genreid": 7,
         "stage": 3
     },
@@ -17484,7 +17471,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 3
     }
