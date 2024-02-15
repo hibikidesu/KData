@@ -1046,6 +1046,21 @@
             "category": 4
         },
         {
+            "albumID": 13005,
+            "title": "SOUND VOLTEX ULTIMATE TRACKS Dimension Gates Ω -Phase.4-",
+            "category": 4
+        },
+        {
+            "albumID": 13006,
+            "title": "SOUND VOLTEX ULTIMATE TRACKS Dimension Gates Ω -Phase.5-",
+            "category": 4
+        },
+        {
+            "albumID": 13007,
+            "title": "SOUND VOLTEX ULTIMATE TRACKS Dimension Gates Ω -Phase.6-",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -73067,6 +73082,110 @@
             "title": "突撃!ガラスのニーソ姫! D.watt nu-denpa RMX",
             "artist": "D.watt(IOSYS)",
             "openType": 0
+        },
+        {
+            "gid": "sv_106_0001",
+            "albumID": 13005,
+            "trackNo": 1,
+            "title": "Made In Love",
+            "artist": "黒魔",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0002",
+            "albumID": 13005,
+            "trackNo": 2,
+            "title": "コメット⇒スケイター",
+            "artist": "U-ske feat.棗いつき",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0003",
+            "albumID": 13005,
+            "trackNo": 3,
+            "title": "Another Chapter",
+            "artist": "からとP feat.リた☆",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0004",
+            "albumID": 13005,
+            "trackNo": 4,
+            "title": "スラッシュ//シスターズ",
+            "artist": "はるなば with すずしろ&桃箱",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0005",
+            "albumID": 13005,
+            "trackNo": 5,
+            "title": "サイコパスラビット",
+            "artist": "うさぎ愛好会PSYCHOPATH(cosMo×syuri22)",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0006",
+            "albumID": 13005,
+            "trackNo": 6,
+            "title": "水簾ノ調",
+            "artist": "Capchii × Crawk",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0007",
+            "albumID": 13005,
+            "trackNo": 7,
+            "title": "そして黄金郷へ",
+            "artist": "TAKU1175 × かにまゆ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0008",
+            "albumID": 13005,
+            "trackNo": 8,
+            "title": "光射す澪のユズリハ",
+            "artist": "Cororo feat.Yuria Miyazono",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0009",
+            "albumID": 13005,
+            "trackNo": 9,
+            "title": "オニユリ",
+            "artist": "ぺのれり",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0010",
+            "albumID": 13005,
+            "trackNo": 10,
+            "title": "Fly Like You",
+            "artist": "technoplanet",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0011",
+            "albumID": 13005,
+            "trackNo": 11,
+            "title": "Failnaught",
+            "artist": "xi",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0012",
+            "albumID": 13005,
+            "trackNo": 12,
+            "title": "Absolute Domination",
+            "artist": "Laur",
+            "openType": 1
+        },
+        {
+            "gid": "sv_106_0013",
+            "albumID": 13005,
+            "trackNo": 13,
+            "title": "Xronièr",
+            "artist": "かめりあ as \"fluX Xroisé\"",
+            "openType": 1
         },
         {
             "gid": "da_001_0001",
