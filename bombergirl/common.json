@@ -31,6 +31,12 @@
             "till_time": 9223372036825200000
         },
         {
+            "msg_id": 30,
+            "tag": "R_MAP",
+            "message": "Map=6,84,162;",
+            "till_time": 1709686800000
+        },
+        {
             "msg_id": 88,
             "tag": "KSMATCH",
             "message": "private_match_time=60;",
