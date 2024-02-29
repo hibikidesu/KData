@@ -17227,6 +17227,22 @@
         "stage": 3
     },
     {
+        "mcode": 38634,
+        "basename": "niou",
+        "title": "9th Outburst",
+        "title_sort": "9thoutburst",
+        "artist": "Zekk",
+        "bpmmax": 163,
+        "bpmmin": 82,
+        "level_str": "3 7 11 15 0 0 7 11 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 14
+    },
+    {
         "mcode": 38637,
         "basename": "inwo",
         "title": "INFINITE WORLD",
