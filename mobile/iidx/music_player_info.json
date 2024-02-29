@@ -4176,71 +4176,6 @@
             "is_new": 0
         },
         {
-            "mp_gid": "gd_053_0045",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "gd_053_0046",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "gd_053_0047",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "gd_053_0048",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "gd_053_0049",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "gd_053_0050",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_018_0098",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_018_0099",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "bm_065_0048",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "bm_065_0049",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "bm_065_0050",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "bm_065_0051",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "bm_065_0052",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
             "mp_gid": "sv_106_0001",
             "mp_flag": 0,
             "is_new": 1
@@ -4302,6 +4237,26 @@
         },
         {
             "mp_gid": "sv_106_0013",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_018_0100",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_018_0101",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "jb_020_0010",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "bm_065_0053",
             "mp_flag": 0,
             "is_new": 1
         }
