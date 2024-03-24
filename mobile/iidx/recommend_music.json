@@ -1,41 +1,41 @@
 [
     {
-        "recommended_id": 1425,
+        "recommended_id": 1426,
         "type": 1,
         "message": "",
         "reward_id": 101,
-        "start_date": "2024-03-24 00:00:00",
-        "end_date": "2024-03-24 23:59:59",
+        "start_date": "2024-03-25 00:00:00",
+        "end_date": "2024-03-25 23:59:59",
         "recommended_music_list": [
             {
+                "recommended_no": 1,
+                "music_id": 5030
+            },
+            {
                 "recommended_no": 2,
-                "music_id": 27068
+                "music_id": 20074
             },
             {
                 "recommended_no": 0,
-                "music_id": 28052
-            },
-            {
-                "recommended_no": 1,
-                "music_id": 28086
+                "music_id": 26035
             }
         ]
     },
     {
-        "recommended_id": 5188,
+        "recommended_id": 5189,
         "type": 2,
-        "message": "オシャレな曲をセレクト♪",
+        "message": "ハイテンションな曲をセレクト♪",
         "reward_id": 0,
-        "start_date": "2024-03-18 00:00:00",
-        "end_date": "2024-03-24 23:59:59",
+        "start_date": "2024-03-25 00:00:00",
+        "end_date": "2024-03-31 23:59:59",
         "recommended_music_list": [
             {
-                "recommended_no": 1,
-                "music_id": 21079
+                "recommended_no": 0,
+                "music_id": 23086
             },
             {
-                "recommended_no": 0,
-                "music_id": 23039
+                "recommended_no": 1,
+                "music_id": 27014
             }
         ]
     }
