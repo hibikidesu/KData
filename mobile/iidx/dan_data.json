@@ -7595,18 +7595,18 @@
                 "icon_id": 5
             },
             {
-                "user_id": 110304,
-                "name": "SWITCHMAN",
-                "rank": 80,
-                "point": 24,
-                "icon_id": 12
-            },
-            {
                 "user_id": 410936,
                 "name": "ihasa",
-                "rank": 81,
-                "point": 23,
+                "rank": 80,
+                "point": 26,
                 "icon_id": 6
+            },
+            {
+                "user_id": 110304,
+                "name": "SWITCHMAN",
+                "rank": 81,
+                "point": 24,
+                "icon_id": 12
             },
             {
                 "user_id": 439433,
