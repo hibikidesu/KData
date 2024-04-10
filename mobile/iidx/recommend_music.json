@@ -1,23 +1,23 @@
 [
     {
-        "recommended_id": 1442,
+        "recommended_id": 1443,
         "type": 1,
         "message": "",
         "reward_id": 101,
-        "start_date": "2024-04-10 00:00:00",
-        "end_date": "2024-04-10 23:59:59",
+        "start_date": "2024-04-11 00:00:00",
+        "end_date": "2024-04-11 23:59:59",
         "recommended_music_list": [
             {
                 "recommended_no": 1,
-                "music_id": 3004
-            },
-            {
-                "recommended_no": 0,
-                "music_id": 13013
+                "music_id": 7038
             },
             {
                 "recommended_no": 2,
-                "music_id": 26081
+                "music_id": 14021
+            },
+            {
+                "recommended_no": 0,
+                "music_id": 25006
             }
         ]
     },
