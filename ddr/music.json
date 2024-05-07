@@ -17454,6 +17454,22 @@
         "limited_cha": 1
     },
     {
+        "mcode": 38641,
+        "basename": "mydr",
+        "title": "My Drama",
+        "title_sort": "mydrama",
+        "artist": "Coretex feat. MIDI War",
+        "bpmmax": 220,
+        "bpmmin": 220,
+        "level_str": "7 10 13 15 0 0 10 13 14 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 14
+    },
+    {
         "mcode": 38643,
         "basename": "pola",
         "title": "\u30dd\u30e9\u30ea\u30b9\u30ce\u30a6\u30bf",
@@ -17941,5 +17957,22 @@
         "limited_cha": 1,
         "bemaniflag": 4097,
         "movie": 1
+    },
+    {
+        "mcode": 38720,
+        "basename": "meh4",
+        "title": "melody H4CKER",
+        "title_sort": "melodyh4cker",
+        "artist": "Moe Shop",
+        "bpmmax": 155,
+        "bpmmin": 155,
+        "level_str": "2 6 12 15 0 0 6 11 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 20,
+        "limited": 2,
+        "limited_cha": 1,
+        "bemaniflag": 2048,
+        "stage": 15
     }
 ]
