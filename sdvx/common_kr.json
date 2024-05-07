@@ -1,7 +1,7 @@
 {
     "events": [
         "BLASTER_ABLE",
-        "BLASTER_BONUS_ENABLE 14",
+        "BLASTER_BONUS_ENABLE 15",
         "CHARACTER_DISABLE 143",
         "CHARACTER_DISABLE 149",
         "CLOUD_LINK_ENABLE",
@@ -202,6 +202,20 @@
             "param_num_4": 20,
             "param_num_5": 0,
             "param_str_1": "176231",
+            "param_str_2": "",
+            "param_str_3": "",
+            "param_str_4": "",
+            "param_str_5": ""
+        },
+        {
+            "extend_id": 17,
+            "extend_type": 18,
+            "param_num_1": 0,
+            "param_num_2": 15,
+            "param_num_3": 1717340399,
+            "param_num_4": 20,
+            "param_num_5": 0,
+            "param_str_1": "176331",
             "param_str_2": "",
             "param_str_3": "",
             "param_str_4": "",
