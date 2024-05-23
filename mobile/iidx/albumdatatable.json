@@ -1061,6 +1061,11 @@
             "category": 4
         },
         {
+            "albumID": 13008,
+            "title": "SOUND VOLTEX ULTIMATE TRACKS -FLOOR ANTHEM- EP.01",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -73401,6 +73406,278 @@
             "trackNo": 7,
             "title": "* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...?",
             "artist": "かめりあ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0001",
+            "albumID": 13008,
+            "trackNo": 1,
+            "title": "Ray",
+            "artist": "源屋",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0002",
+            "albumID": 13008,
+            "trackNo": 2,
+            "title": "caramel ribbon",
+            "artist": "P*Light",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0003",
+            "albumID": 13008,
+            "trackNo": 3,
+            "title": "Fire Strike",
+            "artist": "Junk",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0004",
+            "albumID": 13008,
+            "trackNo": 4,
+            "title": "華陽炎-Hana Kagerou-",
+            "artist": "源屋 feat.Kuroa*",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0005",
+            "albumID": 13008,
+            "trackNo": 5,
+            "title": "crazy cinema story",
+            "artist": "黒魔",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0006",
+            "albumID": 13008,
+            "trackNo": 6,
+            "title": "INFINITY OVERDRIVE",
+            "artist": "DecisionS(kanone + nora2r)",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0007",
+            "albumID": 13008,
+            "trackNo": 7,
+            "title": "超恋愛☆エクストリーム・ガール",
+            "artist": "Music by Ayatsugu_Otowa, Vocal by みゅい",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0008",
+            "albumID": 13008,
+            "trackNo": 8,
+            "title": "Fiat Lux",
+            "artist": "xi",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0009",
+            "albumID": 13008,
+            "trackNo": 9,
+            "title": "カレクレンマ",
+            "artist": "Music by アサヒナユウ, Vocal by みかん汁",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0010",
+            "albumID": 13008,
+            "trackNo": 10,
+            "title": "OVERDRIVERS",
+            "artist": "P*Light feat. mow*2",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0011",
+            "albumID": 13008,
+            "trackNo": 11,
+            "title": "冬に桜が咲くようなキセキ。",
+            "artist": "Music by nmk/佐原誠&kei_iwata, Vocal by SOPHY",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0012",
+            "albumID": 13008,
+            "trackNo": 12,
+            "title": "STARDUST MERMAID",
+            "artist": "Music by MasKaleido, Vocal by ぁゅ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0013",
+            "albumID": 13008,
+            "trackNo": 13,
+            "title": "Distorted Floor",
+            "artist": "RoughSketch",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0014",
+            "albumID": 13008,
+            "trackNo": 14,
+            "title": "Dignity",
+            "artist": "Yooh",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0015",
+            "albumID": 13008,
+            "trackNo": 15,
+            "title": "Onigo",
+            "artist": "Hommarju",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0016",
+            "albumID": 13008,
+            "trackNo": 16,
+            "title": "Joyeuse",
+            "artist": "ke-ji",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0017",
+            "albumID": 13008,
+            "trackNo": 17,
+            "title": "Dawn of Asia",
+            "artist": "ginkiha+kamome sano",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0018",
+            "albumID": 13008,
+            "trackNo": 18,
+            "title": "Qubism",
+            "artist": "Hate vs Brilliance",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0019",
+            "albumID": 13008,
+            "trackNo": 19,
+            "title": "Space Diver Tama",
+            "artist": "黒魔",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0020",
+            "albumID": 13008,
+            "trackNo": 20,
+            "title": "The world of sound",
+            "artist": "Music by Ryuwitty, Vocal by Kuroa*",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0021",
+            "albumID": 13008,
+            "trackNo": 21,
+            "title": "Innocent Tempest",
+            "artist": "Diceros Bicornis",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0022",
+            "albumID": 13008,
+            "trackNo": 22,
+            "title": "V.I.P.",
+            "artist": "ismK",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0023",
+            "albumID": 13008,
+            "trackNo": 23,
+            "title": "Booths of Fighters",
+            "artist": "RoughSketch + DD\"ナカタ\"Metal",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0024",
+            "albumID": 13008,
+            "trackNo": 24,
+            "title": "LEMON SUMMER",
+            "artist": "パイタン",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0025",
+            "albumID": 13008,
+            "trackNo": 25,
+            "title": "SOUL EXPLOSION",
+            "artist": "kanone",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0026",
+            "albumID": 13008,
+            "trackNo": 26,
+            "title": "レトロスペクティビリー・メリーゴーランド",
+            "artist": "はるなば",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0027",
+            "albumID": 13008,
+            "trackNo": 27,
+            "title": "C18H27NO3",
+            "artist": "Team Grimoire",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0028",
+            "albumID": 13008,
+            "trackNo": 28,
+            "title": "Quietus Ray",
+            "artist": "xi",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0029",
+            "albumID": 13008,
+            "trackNo": 29,
+            "title": "侵蝕コード：666　-今日ちょっと指（略-",
+            "artist": "かぼちゃ「黒幕はあやつぐ」と供述しており",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0030",
+            "albumID": 13008,
+            "trackNo": 30,
+            "title": "freaky freak",
+            "artist": "kamome sano",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0031",
+            "albumID": 13008,
+            "trackNo": 31,
+            "title": "雪女",
+            "artist": "かねこちはる",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0032",
+            "albumID": 13008,
+            "trackNo": 32,
+            "title": "Crack Traxxxx",
+            "artist": "Lite Show Magic (t+pazolite vs C-Show)",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0033",
+            "albumID": 13008,
+            "trackNo": 33,
+            "title": "香港功夫大旋風",
+            "artist": "Daisuke Ohnuma",
+            "openType": 1
+        },
+        {
+            "gid": "sv_109_0034",
+            "albumID": 13008,
+            "trackNo": 34,
+            "title": "XROSS INFECTION",
+            "artist": "BlackY vs. Yooh",
             "openType": 1
         },
         {
