@@ -839,41 +839,6 @@
         "sort_id": 23
     },
     {
-        "gacha_id": 13,
-        "gacha_type": 1,
-        "name": "\u30c4\u30e6",
-        "disp_name": "\u30c4\u30e6",
-        "comment": "",
-        "new_flag": 1,
-        "gacha_item_num": 6,
-        "limit_type": 0,
-        "limit_num": 0,
-        "gacha_small_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/13_jacket.png",
-        "gacha_big_jacket": "Konami/AssetBundles/Album/MusicDrawing/Jackets/13_jacket.png",
-        "accessibility": 1,
-        "price_type": [
-            1
-        ],
-        "gacha_1_price": 1000,
-        "gacha_10_price": 10000,
-        "gacha_1_flg": 1,
-        "gacha_10_flg": 1,
-        "music_list": [
-            321121003,
-            321121004,
-            321121005,
-            321121006,
-            351121001,
-            351121002
-        ],
-        "extra_time_type": 0,
-        "start_time": 1620349200,
-        "end_time": 5711734800,
-        "playable_date": 1655491967,
-        "10_disp_flg": 1,
-        "sort_id": 24
-    },
-    {
         "gacha_id": 29,
         "gacha_type": 1,
         "name": "\u30cb\u30ac\u30df17\u624d",
@@ -905,7 +870,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 25
+        "sort_id": 24
     },
     {
         "gacha_id": 53,
@@ -939,7 +904,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 26
+        "sort_id": 25
     },
     {
         "gacha_id": 12,
@@ -996,7 +961,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 27
+        "sort_id": 26
     },
     {
         "gacha_id": 26,
@@ -1027,7 +992,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 0,
-        "sort_id": 28
+        "sort_id": 27
     },
     {
         "gacha_id": 25,
@@ -1058,7 +1023,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 0,
-        "sort_id": 29
+        "sort_id": 28
     },
     {
         "gacha_id": 17,
@@ -1095,7 +1060,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 30
+        "sort_id": 29
     },
     {
         "gacha_id": 19,
@@ -1140,7 +1105,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 31
+        "sort_id": 30
     },
     {
         "gacha_id": 16,
@@ -1174,7 +1139,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 32
+        "sort_id": 31
     },
     {
         "gacha_id": 51,
@@ -1209,7 +1174,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 33
+        "sort_id": 32
     },
     {
         "gacha_id": 30,
@@ -1287,7 +1252,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 34
+        "sort_id": 33
     },
     {
         "gacha_id": 41,
@@ -1324,7 +1289,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 35
+        "sort_id": 34
     },
     {
         "gacha_id": 39,
@@ -1361,7 +1326,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 36
+        "sort_id": 35
     },
     {
         "gacha_id": 40,
@@ -1395,7 +1360,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 37
+        "sort_id": 36
     },
     {
         "gacha_id": 35,
@@ -1472,7 +1437,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 38
+        "sort_id": 37
     },
     {
         "gacha_id": 38,
@@ -1521,7 +1486,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 39
+        "sort_id": 38
     },
     {
         "gacha_id": 34,
@@ -1597,7 +1562,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 40
+        "sort_id": 39
     },
     {
         "gacha_id": 33,
@@ -1643,7 +1608,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 41
+        "sort_id": 40
     },
     {
         "gacha_id": 32,
@@ -1685,7 +1650,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 42
+        "sort_id": 41
     },
     {
         "gacha_id": 49,
@@ -1730,7 +1695,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 43
+        "sort_id": 42
     },
     {
         "gacha_id": 37,
@@ -1766,7 +1731,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 44
+        "sort_id": 43
     },
     {
         "gacha_id": 14,
@@ -1805,7 +1770,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 45
+        "sort_id": 44
     },
     {
         "gacha_id": 36,
@@ -1852,7 +1817,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 46
+        "sort_id": 45
     },
     {
         "gacha_id": 44,
@@ -1891,7 +1856,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 47
+        "sort_id": 46
     },
     {
         "gacha_id": 48,
@@ -1925,7 +1890,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 48
+        "sort_id": 47
     },
     {
         "gacha_id": 45,
@@ -1969,7 +1934,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 49
+        "sort_id": 48
     },
     {
         "gacha_id": 46,
@@ -2008,7 +1973,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 50
+        "sort_id": 49
     },
     {
         "gacha_id": 47,
@@ -2047,7 +2012,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 51
+        "sort_id": 50
     },
     {
         "gacha_id": 18,
@@ -2081,7 +2046,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 52
+        "sort_id": 51
     },
     {
         "gacha_id": 79,
@@ -2127,7 +2092,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 53
+        "sort_id": 52
     },
     {
         "gacha_id": 80,
@@ -2168,7 +2133,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 54
+        "sort_id": 53
     },
     {
         "gacha_id": 58,
@@ -2207,7 +2172,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 55
+        "sort_id": 54
     },
     {
         "gacha_id": 74,
@@ -2237,7 +2202,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 0,
-        "sort_id": 56
+        "sort_id": 55
     },
     {
         "gacha_id": 72,
@@ -2267,7 +2232,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 0,
-        "sort_id": 57
+        "sort_id": 56
     },
     {
         "gacha_id": 61,
@@ -2335,7 +2300,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 58
+        "sort_id": 57
     },
     {
         "gacha_id": 68,
@@ -2399,7 +2364,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 59
+        "sort_id": 58
     },
     {
         "gacha_id": 66,
@@ -2462,7 +2427,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 60
+        "sort_id": 59
     },
     {
         "gacha_id": 63,
@@ -2532,7 +2497,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 61
+        "sort_id": 60
     },
     {
         "gacha_id": 59,
@@ -2612,7 +2577,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 62
+        "sort_id": 61
     },
     {
         "gacha_id": 69,
@@ -2659,7 +2624,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 63
+        "sort_id": 62
     },
     {
         "gacha_id": 76,
@@ -2692,7 +2657,7 @@
         "end_time": 5711734800,
         "playable_date": 0,
         "10_disp_flg": 1,
-        "sort_id": 64
+        "sort_id": 63
     },
     {
         "gacha_id": 10,
@@ -2850,7 +2815,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 65
+        "sort_id": 64
     },
     {
         "gacha_id": 9,
@@ -2937,7 +2902,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 66
+        "sort_id": 65
     },
     {
         "gacha_id": 8,
@@ -3044,7 +3009,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 67
+        "sort_id": 66
     },
     {
         "gacha_id": 7,
@@ -3108,7 +3073,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 68
+        "sort_id": 67
     },
     {
         "gacha_id": 6,
@@ -3181,7 +3146,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 69
+        "sort_id": 68
     },
     {
         "gacha_id": 5,
@@ -3377,7 +3342,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 70
+        "sort_id": 69
     },
     {
         "gacha_id": 4,
@@ -3441,7 +3406,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 71
+        "sort_id": 70
     },
     {
         "gacha_id": 3,
@@ -3493,7 +3458,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 72
+        "sort_id": 71
     },
     {
         "gacha_id": 2,
@@ -3543,7 +3508,7 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 73
+        "sort_id": 72
     },
     {
         "gacha_id": 1,
@@ -3592,6 +3557,6 @@
         "end_time": 5711734800,
         "playable_date": 1655491967,
         "10_disp_flg": 1,
-        "sort_id": 74
+        "sort_id": 73
     }
 ]
