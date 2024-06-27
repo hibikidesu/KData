@@ -1021,6 +1021,11 @@
             "category": 3
         },
         {
+            "albumID": 12018,
+            "title": "DanceDanceRevolution WORLD Original Soundtrack",
+            "category": 3
+        },
+        {
             "albumID": 13000,
             "title": "SOUND VOLTEX ULTIMATE TRACKS Dimension Gates Ω -Phase.1-",
             "category": 4
@@ -45545,6 +45550,38 @@
             "openType": 1
         },
         {
+            "gid": "ns_003_0053",
+            "albumID": 5002,
+            "trackNo": 53,
+            "title": "女神の微睡",
+            "artist": "m@sumi",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0054",
+            "albumID": 5002,
+            "trackNo": 54,
+            "title": "Groovin' Keys",
+            "artist": "BEMANI Sound Team \"Sota Fujimori\"",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0055",
+            "albumID": 5002,
+            "trackNo": 55,
+            "title": "Bárbara",
+            "artist": "BEMANI Sound Team \"Power Of Nature\"",
+            "openType": 1
+        },
+        {
+            "gid": "ns_003_0056",
+            "albumID": 5002,
+            "trackNo": 56,
+            "title": "I and I",
+            "artist": "ぺのれり feat.はぁち",
+            "openType": 1
+        },
+        {
             "gid": "pm_001_0001",
             "albumID": 2000,
             "trackNo": 1,
@@ -72718,6 +72755,94 @@
             "trackNo": 105,
             "title": "melody H4CKER",
             "artist": "Moe Shop",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0001",
+            "albumID": 12018,
+            "trackNo": 1,
+            "title": "DanRevoAthlon",
+            "artist": "アツムワンダフル",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0002",
+            "albumID": 12018,
+            "trackNo": 2,
+            "title": "Don't Stop The Hypercore",
+            "artist": "Halv",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0003",
+            "albumID": 12018,
+            "trackNo": 3,
+            "title": "バッドユース・アウェイク",
+            "artist": "みーに feat. はらもりよしな",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0004",
+            "albumID": 12018,
+            "trackNo": 4,
+            "title": "Arcadia",
+            "artist": "OMOCHI feat.星野奏子",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0005",
+            "albumID": 12018,
+            "trackNo": 5,
+            "title": "The Ashes of Boreas",
+            "artist": "Se-U-Ra",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0006",
+            "albumID": 12018,
+            "trackNo": 6,
+            "title": "極地大衝撃",
+            "artist": "Kolaa",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0007",
+            "albumID": 12018,
+            "trackNo": 7,
+            "title": "HyperNOAH",
+            "artist": "永瀬優太",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0008",
+            "albumID": 12018,
+            "trackNo": 8,
+            "title": "WONDER COASTER",
+            "artist": "MUGIPONG",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0009",
+            "albumID": 12018,
+            "trackNo": 9,
+            "title": "Gravity Collapse",
+            "artist": "X-END",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0010",
+            "albumID": 12018,
+            "trackNo": 10,
+            "title": "Roche Limit",
+            "artist": "Felysrator",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0011",
+            "albumID": 12018,
+            "trackNo": 11,
+            "title": "Ødyssey",
+            "artist": "Kaname",
             "openType": 1
         },
         {
