@@ -1227,7 +1227,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 7,
-        "limited": 3,
         "stage": 2
     },
     {
@@ -1242,7 +1241,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 7,
-        "limited": 3,
         "bemaniflag": 32,
         "stage": 4
     },
@@ -1258,7 +1256,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 7,
-        "limited": 3,
         "movie": 4,
         "movieoffset": 3072,
         "stage": 3
@@ -1275,7 +1272,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 7,
-        "limited": 3,
         "stage": 15
     },
     {
@@ -1290,7 +1286,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 7,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -1305,7 +1300,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 7,
-        "limited": 3,
         "stage": 2
     },
     {
@@ -1320,7 +1314,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 7,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -1335,7 +1328,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 7,
-        "limited": 3,
         "stage": 16
     },
     {
@@ -1350,7 +1342,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 7,
-        "limited": 3,
         "stage": 16
     },
     {
@@ -3423,7 +3414,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 5
     },
@@ -3583,7 +3573,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 17
     },
@@ -3665,7 +3654,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 2
     },
@@ -4117,7 +4105,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 10,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -4132,7 +4119,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 10,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -4147,7 +4133,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 10,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -4162,7 +4147,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 10,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -4177,7 +4161,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 10,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -4192,7 +4175,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 10,
-        "limited": 3,
         "stage": 14
     },
     {
@@ -4715,7 +4697,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 4
     },
@@ -4809,7 +4790,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 2
     },
@@ -4955,7 +4935,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 2
     },
@@ -5167,7 +5146,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5182,7 +5160,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5197,7 +5174,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5212,7 +5188,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5227,7 +5202,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5242,7 +5216,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5257,7 +5230,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5272,7 +5244,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5287,7 +5258,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5302,7 +5272,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5317,7 +5286,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5332,7 +5300,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "movie": 3,
         "movieoverride": "maxx",
         "stage": 20
@@ -5349,7 +5316,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5365,7 +5331,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5380,7 +5345,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "stage": 3
     },
     {
@@ -5395,7 +5359,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 11,
-        "limited": 3,
         "movie": 3,
         "movieoverride": "ddre",
         "stage": 20
@@ -5916,7 +5879,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 13,
-        "limited_cha": 1,
         "stage": 15
     },
     {
@@ -7208,7 +7170,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 13,
-        "limited_cha": 1,
         "stage": 15
     },
     {
@@ -7271,7 +7232,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 4
     },
@@ -7546,7 +7506,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 13,
-        "limited_cha": 1,
         "bemaniflag": 128,
         "stage": 15
     },
@@ -7937,7 +7896,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 3
     },
@@ -9456,7 +9414,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 15,
-        "limited_cha": 1,
         "bemaniflag": 2217,
         "eventno_1": 10,
         "movie": 4,
@@ -9618,7 +9575,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 15,
-        "limited_cha": 1,
         "bemaniflag": 83,
         "movie": 3,
         "stage": 18
@@ -10227,7 +10183,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 2
     },
@@ -11686,7 +11641,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 17,
-        "limited_cha": 1,
         "eventno_1": 35,
         "stage": 3
     },
@@ -13882,7 +13836,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited_cha": 1,
         "stage": 2
     },
     {
@@ -14332,7 +14285,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 2,
         "limited_cha": 1,
         "voice": 1,
         "bemaniflag": 73,
@@ -14351,7 +14303,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 2,
         "limited_cha": 1,
         "voice": 1,
         "bemaniflag": 1030,
@@ -14369,7 +14320,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 2,
         "limited_cha": 1,
         "voice": 1,
         "bemaniflag": 3151,
@@ -14388,7 +14338,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 2,
         "limited_cha": 1,
         "voice": 1,
         "bemaniflag": 3151,
@@ -14407,7 +14356,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 2,
         "limited_cha": 1,
         "voice": 1,
         "bemaniflag": 2051,
@@ -14426,7 +14374,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited": 2,
         "limited_cha": 1,
         "voice": 1,
         "bemaniflag": 2120,
@@ -14620,7 +14567,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "stage": 14
     },
@@ -14636,7 +14582,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "stage": 3
     },
@@ -14697,7 +14642,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "eventno_1": 61,
         "stage": 29
@@ -14729,7 +14673,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "stage": 14
     },
@@ -14792,7 +14735,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "eventno_1": 61,
         "stage": 3
@@ -15680,7 +15622,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 512,
         "stage": 15
@@ -15733,7 +15674,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 18,
         "eventno_1": 62,
@@ -15751,7 +15691,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 27,
         "eventno_1": 62,
@@ -15770,7 +15709,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "voice": 1,
         "bemaniflag": 1031,
@@ -15789,7 +15727,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "voice": 1,
         "bemaniflag": 2121,
@@ -15808,7 +15745,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "voice": 1,
         "bemaniflag": 3078,
@@ -15827,7 +15763,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "voice": 1,
         "bemaniflag": 1100,
@@ -15846,7 +15781,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 11,
         "limited_cha": 1,
         "stage": 28
     },
@@ -15879,7 +15813,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 11,
         "limited_cha": 1,
         "stage": 15
     },
@@ -15895,7 +15828,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 12,
         "limited_cha": 1,
         "stage": 29
     },
@@ -15926,7 +15858,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 12,
         "limited_cha": 1,
         "stage": 15
     },
@@ -15942,7 +15873,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 11,
         "limited_cha": 1,
         "stage": 31
     },
@@ -15958,7 +15888,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 12,
         "limited_cha": 1,
         "stage": 17
     },
@@ -15974,7 +15903,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 11,
         "limited_cha": 1,
         "stage": 15
     },
@@ -15990,7 +15918,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 12,
         "limited_cha": 1,
         "stage": 15
     },
@@ -16006,7 +15933,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "voice": 1,
         "bemaniflag": 1028,
@@ -16248,7 +16174,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 5,
         "limited_cha": 1,
         "stage": 14
     },
@@ -16328,7 +16253,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "bemaniflag": 6144,
         "eventno_1": 69,
         "stage": 28
@@ -16360,7 +16284,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 72,
         "eventno_1": 64,
@@ -16379,7 +16302,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 2048,
         "eventno_1": 64,
@@ -16397,7 +16319,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 3151,
         "eventno_1": 72,
@@ -16415,7 +16336,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 3151,
         "eventno_1": 72,
@@ -16433,7 +16353,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 2048,
         "stage": 3
@@ -16487,7 +16406,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "bemaniflag": 3151,
         "eventno_1": 72,
         "stage": 30
@@ -16504,7 +16422,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 3151,
         "eventno_1": 72,
@@ -16537,7 +16454,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 3151,
         "eventno_1": 72,
@@ -16594,7 +16510,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 1024,
         "stage": 17
@@ -16650,7 +16565,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "eventno_1": 66,
         "stage": 3
@@ -16667,7 +16581,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "eventno_1": 67,
         "stage": 5
@@ -16700,7 +16613,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 264,
         "movie": 1,
@@ -16718,7 +16630,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 136,
         "stage": 15
@@ -16735,7 +16646,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 24,
         "eventno_1": 68,
@@ -16753,7 +16663,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 26,
         "eventno_1": 68,
@@ -16790,7 +16699,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 1026,
         "stage": 16
@@ -16827,7 +16735,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 30
     },
@@ -16980,7 +16887,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 24,
         "stage": 16
@@ -16998,7 +16904,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 89,
         "stage": 5
@@ -17016,7 +16921,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 16,
         "stage": 15
@@ -17034,8 +16938,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
-        "limited_cha": 1,
         "bemaniflag": 27,
         "stage": 29
     },
@@ -17052,7 +16954,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 27,
         "stage": 2
@@ -17070,7 +16971,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 81,
         "stage": 17
@@ -17088,7 +16988,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "bemaniflag": 16,
         "stage": 3
@@ -17106,8 +17005,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
-        "limited_cha": 1,
         "bemaniflag": 81,
         "stage": 31
     },
@@ -17123,7 +17020,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 576,
         "stage": 3
@@ -17140,7 +17036,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 1024,
         "stage": 16
@@ -17157,7 +17052,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 1024,
         "stage": 16
@@ -17174,7 +17068,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "stage": 16
     },
@@ -17263,7 +17156,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 13,
         "limited_cha": 1,
         "stage": 15
     },
@@ -17358,7 +17250,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 13,
         "limited_cha": 1,
         "stage": 3
     },
@@ -17374,7 +17265,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 14,
         "limited_cha": 1,
         "stage": 14
     },
@@ -17450,7 +17340,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1
     },
     {
@@ -17465,7 +17354,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 1,
         "limited_cha": 1,
         "stage": 14
     },
@@ -17654,7 +17542,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 65,
         "eventno_1": 72,
@@ -17672,7 +17559,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 68,
         "eventno_1": 72,
@@ -17690,7 +17576,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 2056,
         "eventno_1": 72,
@@ -17708,7 +17593,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 1032,
         "eventno_1": 72,
@@ -17726,7 +17610,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 1026,
         "eventno_1": 72,
@@ -17744,7 +17627,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 3,
         "eventno_1": 72,
@@ -17970,7 +17852,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 20,
-        "limited": 2,
         "limited_cha": 1,
         "bemaniflag": 2048,
         "stage": 15
