@@ -7166,9 +7166,19 @@
             "is_new": 0
         },
         {
+            "music_id": 31031,
+            "lock_type": 3,
+            "is_new": 1
+        },
+        {
             "music_id": 31033,
             "lock_type": 3,
             "is_new": 0
+        },
+        {
+            "music_id": 31035,
+            "lock_type": 3,
+            "is_new": 1
         },
         {
             "music_id": 31038,
@@ -7184,6 +7194,11 @@
             "music_id": 31040,
             "lock_type": 3,
             "is_new": 0
+        },
+        {
+            "music_id": 31042,
+            "lock_type": 3,
+            "is_new": 1
         },
         {
             "music_id": 31043,
@@ -7214,6 +7229,11 @@
             "music_id": 31062,
             "lock_type": 3,
             "is_new": 0
+        },
+        {
+            "music_id": 31063,
+            "lock_type": 3,
+            "is_new": 1
         },
         {
             "music_id": 31064,
