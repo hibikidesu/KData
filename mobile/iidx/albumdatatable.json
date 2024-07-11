@@ -1071,6 +1071,11 @@
             "category": 4
         },
         {
+            "albumID": 13009,
+            "title": "SOUND VOLTEX ULTIMATE TRACKS -LEGEND OF KAC-",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -73987,6 +73992,254 @@
             "trackNo": 44,
             "title": "V.I.P. (Premium 2016)",
             "artist": "ismK",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0001",
+            "albumID": 13009,
+            "trackNo": 1,
+            "title": "Last Battalion",
+            "artist": "ETIA.",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0002",
+            "albumID": 13009,
+            "trackNo": 2,
+            "title": "TrailBlazer",
+            "artist": "cold kiss",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0003",
+            "albumID": 13009,
+            "trackNo": 3,
+            "title": "EGG",
+            "artist": "ginkiha",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0004",
+            "albumID": 13009,
+            "trackNo": 4,
+            "title": "VISION",
+            "artist": "nora2r",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0005",
+            "albumID": 13009,
+            "trackNo": 5,
+            "title": "TRIGGER★HAPPY",
+            "artist": "P*Light",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0006",
+            "albumID": 13009,
+            "trackNo": 6,
+            "title": "はなむけ",
+            "artist": "ふる",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0007",
+            "albumID": 13009,
+            "trackNo": 7,
+            "title": "éclair au chocolat",
+            "artist": "kamome sano",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0008",
+            "albumID": 13009,
+            "trackNo": 8,
+            "title": "Erlung",
+            "artist": "削除",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0009",
+            "albumID": 13009,
+            "trackNo": 9,
+            "title": "Absurd Gaff",
+            "artist": "siromaru",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0010",
+            "albumID": 13009,
+            "trackNo": 10,
+            "title": "ウバワレ",
+            "artist": "TAKU1175",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0011",
+            "albumID": 13009,
+            "trackNo": 11,
+            "title": "大宇宙ステージ",
+            "artist": "黒魔",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0012",
+            "albumID": 13009,
+            "trackNo": 12,
+            "title": "Hoshizora Illumination",
+            "artist": "you",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0013",
+            "albumID": 13009,
+            "trackNo": 13,
+            "title": "odds and ends",
+            "artist": "MarcheИ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0014",
+            "albumID": 13009,
+            "trackNo": 14,
+            "title": "choux à la crème",
+            "artist": "kamome sano",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0015",
+            "albumID": 13009,
+            "trackNo": 15,
+            "title": "EOS -INFINITE EDIT-",
+            "artist": "ginkiha",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0016",
+            "albumID": 13009,
+            "trackNo": 16,
+            "title": "LittleGameStar",
+            "artist": "An",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0017",
+            "albumID": 13009,
+            "trackNo": 17,
+            "title": "take a step forward",
+            "artist": "uma",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0018",
+            "albumID": 13009,
+            "trackNo": 18,
+            "title": "Verse IV",
+            "artist": "ZOGRAPHOS (Yu_Asahina+Yamajet)",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0019",
+            "albumID": 13009,
+            "trackNo": 19,
+            "title": "PANIC HOLIC",
+            "artist": "C-Show",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0020",
+            "albumID": 13009,
+            "trackNo": 20,
+            "title": "croiX",
+            "artist": "Team Grimoire+あま猫",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0021",
+            "albumID": 13009,
+            "trackNo": 21,
+            "title": "Gott",
+            "artist": "Hommarju",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0022",
+            "albumID": 13009,
+            "trackNo": 22,
+            "title": "Dynasty",
+            "artist": "Yooh",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0023",
+            "albumID": 13009,
+            "trackNo": 23,
+            "title": "Max Burning!!",
+            "artist": "BlackY",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0024",
+            "albumID": 13009,
+            "trackNo": 24,
+            "title": "Harpuia",
+            "artist": "BlackY",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0025",
+            "albumID": 13009,
+            "trackNo": 25,
+            "title": "Black Emperor",
+            "artist": "黒魔",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0026",
+            "albumID": 13009,
+            "trackNo": 26,
+            "title": "超越してしまった彼女と其を生み落した理由",
+            "artist": "Ayatsugu_Otowa",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0027",
+            "albumID": 13009,
+            "trackNo": 27,
+            "title": "Hellfire",
+            "artist": "Hommarju",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0028",
+            "albumID": 13009,
+            "trackNo": 28,
+            "title": "Last Concerto",
+            "artist": "ke-ji",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0029",
+            "albumID": 13009,
+            "trackNo": 29,
+            "title": "BLACK or WHITE?",
+            "artist": "BlackYooh vs. siromaru",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0030",
+            "albumID": 13009,
+            "trackNo": 30,
+            "title": "Bangin' Burst",
+            "artist": "かめりあ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_110_0031",
+            "albumID": 13009,
+            "trackNo": 31,
+            "title": "For UltraPlayers",
+            "artist": "cosMo＠暴走P",
             "openType": 1
         },
         {
