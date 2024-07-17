@@ -18336,6 +18336,23 @@
         "stage": 15
     },
     {
+        "mcode": 38733,
+        "basename": "imkk",
+        "title": "\u30a4\u30de\u30b3\u30b3\uff01\u3053\u306e\u77ac\u9593",
+        "title_sort": "\u30a4\u30de\u30b3\u30b3\u30b3\u30ce\u30b7\u30e6\u30f3\u30ab\u30f3",
+        "artist": "\u65e5\u5411\u7f8e\u30d3\u30bf\u30fc\u30b9\u30a4\u30fc\u30c4\u266a",
+        "bpmmax": 152,
+        "bpmmin": 152,
+        "level_str": "2 5 9 12 0 0 5 9 12 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 7,
+        "stage": 16
+    },
+    {
         "mcode": 38737,
         "basename": "safa2",
         "title": "THE SAFARI (STARDOM Remix)",
