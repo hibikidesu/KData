@@ -6625,18 +6625,18 @@
                 "icon_id": 24
             },
             {
-                "user_id": 410199,
-                "name": "START",
-                "rank": 22,
-                "point": 41,
-                "icon_id": 29
-            },
-            {
                 "user_id": 143906,
                 "name": "KIMONO",
-                "rank": 23,
-                "point": 39,
+                "rank": 22,
+                "point": 43,
                 "icon_id": 19
+            },
+            {
+                "user_id": 410199,
+                "name": "START",
+                "rank": 23,
+                "point": 41,
+                "icon_id": 29
             },
             {
                 "user_id": 420236,
