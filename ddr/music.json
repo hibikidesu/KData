@@ -18298,6 +18298,38 @@
         "stage": 3
     },
     {
+        "mcode": 38677,
+        "basename": "fiac",
+        "title": "First Action",
+        "title_sort": "firstaction",
+        "artist": "setu-O",
+        "bpmmax": 170,
+        "bpmmin": 170,
+        "level_str": "3 6 9 12 0 0 6 9 12 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 3
+    },
+    {
+        "mcode": 38678,
+        "basename": "haji",
+        "title": "\u30cf\u30b8\u30de\u30ea\u30ce\u30a2\u30a4\u30ba ft. \u308a\u3093\u305f\u308b",
+        "title_sort": "\u30cf\u30b7\u30de\u30ea\u30ce\u30a2\u30a4\u30b9ft\u30ea\u30f3\u30bf\u30eb",
+        "artist": "SPACELECTRO",
+        "bpmmax": 128,
+        "bpmmin": 128,
+        "level_str": "1 5 9 11 0 0 3 9 12 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 16
+    },
+    {
         "mcode": 38680,
         "basename": "orpu",
         "title": "Origin Pulsation",
