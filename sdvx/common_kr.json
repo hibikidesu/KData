@@ -1,7 +1,6 @@
 {
     "events": [
         "BLASTER_ABLE",
-        "BLASTER_BONUS_ENABLE 18",
         "CHARACTER_DISABLE 143",
         "CHARACTER_DISABLE 149",
         "CHARACTER_DISABLE 160",
