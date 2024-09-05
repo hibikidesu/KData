@@ -1076,6 +1076,11 @@
             "category": 4
         },
         {
+            "albumID": 13010,
+            "title": "SOUND VOLTEX EXCEED GEAR オリジナルグッズキャンペーン スペシャルCD",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -74368,6 +74373,46 @@
             "trackNo": 37,
             "title": "MAX BURNING!! (FOR INFINITE EXTENDED VERSION)",
             "artist": "BLACKY",
+            "openType": 1
+        },
+        {
+            "gid": "sv_111_0001",
+            "albumID": 13010,
+            "trackNo": 1,
+            "title": "ドゥサンコオデッセイ!!",
+            "artist": "cosMo＠暴走P",
+            "openType": 1
+        },
+        {
+            "gid": "sv_111_0002",
+            "albumID": 13010,
+            "trackNo": 2,
+            "title": "αzalea",
+            "artist": "BlackY",
+            "openType": 1
+        },
+        {
+            "gid": "sv_111_0003",
+            "albumID": 13010,
+            "trackNo": 3,
+            "title": "BAYONEX",
+            "artist": "かめりあ as \"Revenge of Riot\"",
+            "openType": 1
+        },
+        {
+            "gid": "sv_111_0004",
+            "albumID": 13010,
+            "trackNo": 4,
+            "title": "Reverenced Flower",
+            "artist": "ぺのれり",
+            "openType": 1
+        },
+        {
+            "gid": "sv_111_0005",
+            "albumID": 13010,
+            "trackNo": 5,
+            "title": "《Re:miniscence》",
+            "artist": "かねこちはる",
             "openType": 1
         },
         {
