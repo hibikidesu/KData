@@ -5076,6 +5076,11 @@
             "is_new": 1
         },
         {
+            "music_id": 26023,
+            "lock_type": 3,
+            "is_new": 1
+        },
+        {
             "music_id": 26024,
             "lock_type": 3,
             "is_new": 0
@@ -5231,6 +5236,11 @@
             "is_new": 1
         },
         {
+            "music_id": 26062,
+            "lock_type": 3,
+            "is_new": 1
+        },
+        {
             "music_id": 26064,
             "lock_type": 3,
             "is_new": 0
@@ -5269,6 +5279,11 @@
             "music_id": 26074,
             "lock_type": 3,
             "is_new": 0
+        },
+        {
+            "music_id": 26076,
+            "lock_type": 3,
+            "is_new": 1
         },
         {
             "music_id": 26077,
@@ -5393,6 +5408,11 @@
         {
             "music_id": 26104,
             "lock_type": 1,
+            "is_new": 1
+        },
+        {
+            "music_id": 26106,
+            "lock_type": 3,
             "is_new": 1
         },
         {
