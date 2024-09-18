@@ -27720,34 +27720,6 @@
         "ifs_ver": 1
     },
     {
-        "id": 2258,
-        "diff": [
-            0,
-            245,
-            430,
-            800,
-            865,
-            0,
-            225,
-            400,
-            750,
-            840,
-            0,
-            390,
-            540,
-            720,
-            845
-        ],
-        "cont_gf": true,
-        "cont_dm": true,
-        "is_cont": true,
-        "is_secret": true,
-        "is_hot": true,
-        "data_ver": 115,
-        "knst_pack": 0,
-        "ifs_ver": 1
-    },
-    {
         "id": 2121,
         "diff": [
             0,
