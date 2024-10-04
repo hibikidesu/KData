@@ -1,5 +1,25 @@
 [
     {
+        "id": 246,
+        "category": 1,
+        "title": "きまぐれ！スペシャルミッションスタート！",
+        "start_date": "2024-10-02 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_event.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20241002_0_info_event.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
+        "id": 245,
+        "category": 3,
+        "title": "楽曲パック販売停止に関しまして",
+        "start_date": "2024-09-30 11:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20240930_0_info_pack.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
         "id": 240,
         "category": 2,
         "title": "楽曲配信停止に関しまして",
