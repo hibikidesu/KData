@@ -1081,6 +1081,11 @@
             "category": 4
         },
         {
+            "albumID": 13011,
+            "title": "SOUND VOLTEX EXCEED GEAR プレミアムグッズキャンペーン スペシャルCD",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -74437,6 +74442,62 @@
             "trackNo": 5,
             "title": "《Re:miniscence》",
             "artist": "かねこちはる",
+            "openType": 1
+        },
+        {
+            "gid": "sv_112_0001",
+            "albumID": 13011,
+            "trackNo": 1,
+            "title": "PLANISPHERE",
+            "artist": "SOUND HOLIC feat. Nana Takahashi",
+            "openType": 1
+        },
+        {
+            "gid": "sv_112_0002",
+            "albumID": 13011,
+            "trackNo": 2,
+            "title": "Foolish Again",
+            "artist": "lapix",
+            "openType": 1
+        },
+        {
+            "gid": "sv_112_0003",
+            "albumID": 13011,
+            "trackNo": 3,
+            "title": "夢の終わり、世界のはじまり。",
+            "artist": "TAKU1175 ft.駄々子",
+            "openType": 1
+        },
+        {
+            "gid": "sv_112_0004",
+            "albumID": 13011,
+            "trackNo": 4,
+            "title": "う``ぉるみっくす!!!!",
+            "artist": "かめりあ feat. ななひら",
+            "openType": 1
+        },
+        {
+            "gid": "sv_112_0005",
+            "albumID": 13011,
+            "trackNo": 5,
+            "title": "sparky spark",
+            "artist": "kamome sano",
+            "openType": 1
+        },
+        {
+            "gid": "sv_112_0006",
+            "albumID": 13011,
+            "trackNo": 6,
+            "title": "Test Flight",
+            "artist": "黒魔",
+            "openType": 1
+        },
+        {
+            "gid": "sv_112_0007",
+            "albumID": 13011,
+            "trackNo": 7,
+            "title": "Perfect Ultimate Celebration!!",
+            "artist": "2時間でPUCされたかぼちゃ",
             "openType": 1
         },
         {
