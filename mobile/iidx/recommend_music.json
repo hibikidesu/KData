@@ -1,41 +1,23 @@
 [
     {
-        "recommended_id": 1635,
+        "recommended_id": 1636,
         "type": 1,
         "message": "",
         "reward_id": 101,
-        "start_date": "2024-10-20 00:00:00",
-        "end_date": "2024-10-20 23:59:59",
+        "start_date": "2024-10-21 00:00:00",
+        "end_date": "2024-10-21 23:59:59",
         "recommended_music_list": [
             {
                 "recommended_no": 2,
-                "music_id": 13035
-            },
-            {
-                "recommended_no": 1,
-                "music_id": 25073
+                "music_id": 14001
             },
             {
                 "recommended_no": 0,
-                "music_id": 29028
-            }
-        ]
-    },
-    {
-        "recommended_id": 5218,
-        "type": 2,
-        "message": "オシャレな曲をセレクト♪",
-        "reward_id": 0,
-        "start_date": "2024-10-14 00:00:00",
-        "end_date": "2024-10-20 23:59:59",
-        "recommended_music_list": [
-            {
-                "recommended_no": 0,
-                "music_id": 24040
+                "music_id": 20047
             },
             {
                 "recommended_no": 1,
-                "music_id": 25071
+                "music_id": 28086
             }
         ]
     }
