@@ -74,6 +74,20 @@
             },
             {
                 "msg_id": {
+                    "<value>": 33
+                },
+                "tag": {
+                    "<value>": "R_MAP"
+                },
+                "message": {
+                    "<value>": "Map=191,2103,133;"
+                },
+                "till_time": {
+                    "<value>": 1730221200000
+                }
+            },
+            {
+                "msg_id": {
                     "<value>": 88
                 },
                 "tag": {
@@ -606,42 +620,21 @@
                     "phase": {
                         "<value>": 1
                     }
-                },
-                {
-                    "type": {
-                        "<value>": 101
-                    },
-                    "phase": {
-                        "<value>": 12
-                    }
                 }
             ]
         },
         "event_info": {
-            "data": [
-                {
-                    "type": {
-                        "<value>": 5
-                    },
-                    "phase": {
-                        "<value>": 57
-                    },
-                    "str_date": {
-                        "<value>": "10/10(木) 10:00 am ～ 10/30(水) 9:59 am"
-                    }
+            "data": {
+                "type": {
+                    "<value>": 5
                 },
-                {
-                    "type": {
-                        "<value>": 101
-                    },
-                    "phase": {
-                        "<value>": 12
-                    },
-                    "str_date": {
-                        "<value>": "8/28(水) 10:00 am ～ 10/16(水) 9:59 am"
-                    }
+                "phase": {
+                    "<value>": 57
+                },
+                "str_date": {
+                    "<value>": "10/10(木) 10:00 am ～ 10/30(水) 9:59 am"
                 }
-            ]
+            }
         },
         "pick_gacha": {
             "gacha_id": {
@@ -812,122 +805,7 @@
                 }
             ]
         },
-        "bonus_battle1": {
-            "data": {
-                "type": {
-                    "<value>": 101
-                },
-                "phase": {
-                    "<value>": 12
-                },
-                "data": [
-                    {
-                        "b_type": {
-                            "<value>": 3
-                        },
-                        "rate": {
-                            "<value>": 100
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 500
-                                }
-                            },
-                            {
-                                "role_id": {
-                                    "<value>": 2
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 500
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "b_type": {
-                            "<value>": 2
-                        },
-                        "rate": {
-                            "<value>": 1000
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 200
-                                }
-                            },
-                            {
-                                "role_id": {
-                                    "<value>": 2
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 200
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "b_type": {
-                            "<value>": 1
-                        },
-                        "rate": {
-                            "<value>": 2700
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 150
-                                }
-                            },
-                            {
-                                "role_id": {
-                                    "<value>": 2
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 150
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "b_type": {
-                            "<value>": 0
-                        },
-                        "rate": {
-                            "<value>": 6200
-                        }
-                    }
-                ]
-            }
-        },
+        "bonus_battle1": {},
         "map_para": {
             "mpt": {
                 "data": [
@@ -1034,7 +912,121 @@
                 ]
             }
         },
-        "r_match": {},
+        "r_match": {
+            "data": {
+                "rate_id": {
+                    "<value>": 19
+                },
+                "name": {
+                    "<value>": "新シーズン10"
+                },
+                "data_str": {
+                    "<value>": "10/16 10:00 am～10/30 1:59 am"
+                },
+                "state": {
+                    "<value>": 0
+                },
+                "default_rate": {
+                    "<value>": 1300
+                },
+                "min_rate": {
+                    "<value>": 0
+                },
+                "max_rate": {
+                    "<value>": 3000
+                },
+                "rate_g": [
+                    {
+                        "grade": {
+                            "<value>": 1
+                        },
+                        "rate_from": {
+                            "<value>": 0
+                        },
+                        "rate_till": {
+                            "<value>": 1325
+                        }
+                    },
+                    {
+                        "grade": {
+                            "<value>": 2
+                        },
+                        "rate_from": {
+                            "<value>": 1325
+                        },
+                        "rate_till": {
+                            "<value>": 1375
+                        }
+                    },
+                    {
+                        "grade": {
+                            "<value>": 3
+                        },
+                        "rate_from": {
+                            "<value>": 1375
+                        },
+                        "rate_till": {
+                            "<value>": 1425
+                        }
+                    },
+                    {
+                        "grade": {
+                            "<value>": 4
+                        },
+                        "rate_from": {
+                            "<value>": 1425
+                        },
+                        "rate_till": {
+                            "<value>": 1475
+                        }
+                    },
+                    {
+                        "grade": {
+                            "<value>": 5
+                        },
+                        "rate_from": {
+                            "<value>": 1475
+                        },
+                        "rate_till": {
+                            "<value>": 1550
+                        }
+                    },
+                    {
+                        "grade": {
+                            "<value>": 6
+                        },
+                        "rate_from": {
+                            "<value>": 1550
+                        },
+                        "rate_till": {
+                            "<value>": 1700
+                        }
+                    },
+                    {
+                        "grade": {
+                            "<value>": 7
+                        },
+                        "rate_from": {
+                            "<value>": 1700
+                        },
+                        "rate_till": {
+                            "<value>": 2000
+                        }
+                    },
+                    {
+                        "grade": {
+                            "<value>": 8
+                        },
+                        "rate_from": {
+                            "<value>": 2000
+                        },
+                        "rate_till": {
+                            "<value>": 3001
+                        }
+                    }
+                ]
+            }
+        },
         "auxiliary_data": {
             "auxiliary_id": {
                 "<value>": 5
@@ -1106,27 +1098,6 @@
                         }
                     }
                 ]
-            }
-        },
-        "point_event_boost": {
-            "data": {
-                "event_id": {
-                    "<value>": 12
-                },
-                "b_data": {
-                    "idx": {
-                        "<value>": 1
-                    },
-                    "point": {
-                        "<value>": 10
-                    },
-                    "buy_act": {
-                        "<value>": true
-                    },
-                    "date_str": {
-                        "<value>": "8/28(水) 10:00 am ～ 10/15(火) 4:29 am"
-                    }
-                }
             }
         }
     }
