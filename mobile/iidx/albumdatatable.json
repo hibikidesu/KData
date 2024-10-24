@@ -186,6 +186,11 @@
             "category": 0
         },
         {
+            "albumID": 1037,
+            "title": "beatmania IIDX 32 Pinky Crush ON GAME",
+            "category": 0
+        },
+        {
             "albumID": 2000,
             "title": "pop'n music original soundtrack",
             "category": 2
@@ -21610,6 +21615,254 @@
             "trackNo": 71,
             "title": "Resonant",
             "artist": "BEMANI Sound Team \"猫叉Master\" & かめりあ",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0001",
+            "albumID": 1037,
+            "trackNo": 1,
+            "title": "スパークリング☆彡ハイパーチューン！！",
+            "artist": "Machico",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0002",
+            "albumID": 1037,
+            "trackNo": 2,
+            "title": "Raspberry Potion (feat.あれたん & ぎゃるのしん☆)",
+            "artist": "Tatsunoshin & 藍良あれれ",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0003",
+            "albumID": 1037,
+            "trackNo": 3,
+            "title": "FERMI PARADOX",
+            "artist": "BlackY feat. Risa Yuzuki",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0004",
+            "albumID": 1037,
+            "trackNo": 4,
+            "title": "最強頂戴girl",
+            "artist": "BEMANI Sound Team \"TATSUYA\" feat. ななひら",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0005",
+            "albumID": 1037,
+            "trackNo": 5,
+            "title": "PopなEDEN",
+            "artist": "YASUHIRO(康寛) feat.橘田ほのか",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0006",
+            "albumID": 1037,
+            "trackNo": 6,
+            "title": "get set mind",
+            "artist": "TORIENA",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0007",
+            "albumID": 1037,
+            "trackNo": 7,
+            "title": "CHAOTIC SUNBIRD",
+            "artist": "Tanchiky",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0008",
+            "albumID": 1037,
+            "trackNo": 8,
+            "title": "PIT A PAT",
+            "artist": "Zekk",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0009",
+            "albumID": 1037,
+            "trackNo": 9,
+            "title": "ELYSIUM",
+            "artist": "Snail's House",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0010",
+            "albumID": 1037,
+            "trackNo": 10,
+            "title": "Eleanor",
+            "artist": "satella feat. Nayuta",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0011",
+            "albumID": 1037,
+            "trackNo": 11,
+            "title": "Digital Radiance",
+            "artist": "BEMANI Sound Team \"Sota Fujimori\" feat. S.B.Z.",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0012",
+            "albumID": 1037,
+            "trackNo": 12,
+            "title": "Dreamship",
+            "artist": "Nhato feat. Kanae Asaba",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0013",
+            "albumID": 1037,
+            "trackNo": 13,
+            "title": "Fiery Stallion",
+            "artist": "Dirty Androids",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0014",
+            "albumID": 1037,
+            "trackNo": 14,
+            "title": "Secret Rouge",
+            "artist": "ハレトキドキ",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0015",
+            "albumID": 1037,
+            "trackNo": 15,
+            "title": "Vibing! Shake it!",
+            "artist": "らっぷびと Prod. by RoughSketch & NUE",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0016",
+            "albumID": 1037,
+            "trackNo": 16,
+            "title": "u gotta beat",
+            "artist": "KARUT",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0017",
+            "albumID": 1037,
+            "trackNo": 17,
+            "title": "ADAMANT",
+            "artist": "BEMANI Sound Team \"L.E.D.-G\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0018",
+            "albumID": 1037,
+            "trackNo": 18,
+            "title": "RAVE SYNDROME",
+            "artist": "Yuta Imai",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0019",
+            "albumID": 1037,
+            "trackNo": 19,
+            "title": "Bring The Fire",
+            "artist": "kors k",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0020",
+            "albumID": 1037,
+            "trackNo": 20,
+            "title": "Here We Go Now",
+            "artist": "Whac-A-Me",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0021",
+            "albumID": 1037,
+            "trackNo": 21,
+            "title": "lowercase lifetime",
+            "artist": "BEMANI Sound Team \"ZAQUVA\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0022",
+            "albumID": 1037,
+            "trackNo": 22,
+            "title": "Drop Syndicate",
+            "artist": "Seventhrun × nora2r",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0023",
+            "albumID": 1037,
+            "trackNo": 23,
+            "title": "destination",
+            "artist": "One Round Rabbits",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0024",
+            "albumID": 1037,
+            "trackNo": 24,
+            "title": "NOIXIA",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0025",
+            "albumID": 1037,
+            "trackNo": 25,
+            "title": "Satellite Burst",
+            "artist": "xi",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0026",
+            "albumID": 1037,
+            "trackNo": 26,
+            "title": "Space In Time",
+            "artist": "Masayoshi Iimori",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0027",
+            "albumID": 1037,
+            "trackNo": 27,
+            "title": "断罪の一花",
+            "artist": "Len feat.mochari",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0028",
+            "albumID": 1037,
+            "trackNo": 28,
+            "title": "Chasing After YOU ～夢の欠片～ ft. 小林マナ",
+            "artist": "Xceon",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0029",
+            "albumID": 1037,
+            "trackNo": 29,
+            "title": "MVP",
+            "artist": "PRIDASK",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0030",
+            "albumID": 1037,
+            "trackNo": 30,
+            "title": "灼熱 Lost Summer Dayz",
+            "artist": "DJ Mass MAD Izm* feat.すみはね",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0031",
+            "albumID": 1037,
+            "trackNo": 31,
+            "title": "KOTONOHA ft. Kotoha",
+            "artist": "EmoCosine × BEMANI Sound Team \"HuΣeR\"",
             "openType": 1
         },
         {
