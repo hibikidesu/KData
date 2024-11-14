@@ -191,6 +191,11 @@
             "category": 0
         },
         {
+            "albumID": 1038,
+            "title": "beatmania IIDX 29 CastHour オリジナルグッズキャンペーン スペシャルCD",
+            "category": 0
+        },
+        {
             "albumID": 2000,
             "title": "pop'n music original soundtrack",
             "category": 2
@@ -21863,6 +21868,102 @@
             "trackNo": 31,
             "title": "KOTONOHA ft. Kotoha",
             "artist": "EmoCosine × BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0001",
+            "albumID": 1038,
+            "trackNo": 1,
+            "title": "Theme of HEROIC VERSE",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0002",
+            "albumID": 1038,
+            "trackNo": 2,
+            "title": "SHADOW REBELLION part 1",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0003",
+            "albumID": 1038,
+            "trackNo": 3,
+            "title": "SHADOW REBELLION part 2",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0004",
+            "albumID": 1038,
+            "trackNo": 4,
+            "title": "HEROIC WORKOUT!! ～training scene～",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0005",
+            "albumID": 1038,
+            "trackNo": 5,
+            "title": "HEROIC WORKOUT!! ～battle scene～",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0006",
+            "albumID": 1038,
+            "trackNo": 6,
+            "title": "HEROIC WORKOUT!!～story scene～",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0007",
+            "albumID": 1038,
+            "trackNo": 7,
+            "title": "Theme of BISTROVER",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0008",
+            "albumID": 1038,
+            "trackNo": 8,
+            "title": "BISTRO LANDING",
+            "artist": "BEMANI Sound Team \"Sota Fujimori\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0009",
+            "albumID": 1038,
+            "trackNo": 9,
+            "title": "召しませ！BISTROVER～Let's cooking～",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0010",
+            "albumID": 1038,
+            "trackNo": 10,
+            "title": "召しませ！BISTROVER～hospitality～",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0011",
+            "albumID": 1038,
+            "trackNo": 11,
+            "title": "召しませ！BISTROVER～story scene～",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_067_0012",
+            "albumID": 1038,
+            "trackNo": 12,
+            "title": "Theme of CastHour",
+            "artist": "BEMANI Sound Team \"HuΣeR\"",
             "openType": 1
         },
         {
