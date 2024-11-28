@@ -346,6 +346,11 @@
             "category": 2
         },
         {
+            "albumID": 2030,
+            "title": "pop'n music Jam&Fizz ORIGINAL SOUNDTRACK",
+            "category": 2
+        },
+        {
             "albumID": 3000,
             "title": "DANCERUSH STARDOM ORIGINAL SOUNDTRACK",
             "category": 5
@@ -60564,6 +60569,110 @@
             "trackNo": 55,
             "title": "The Metalist",
             "artist": "REI",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0001",
+            "albumID": 2030,
+            "trackNo": 1,
+            "title": "時が戻れば...",
+            "artist": "阿部靖広 feat.ゆめめ",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0002",
+            "albumID": 2030,
+            "trackNo": 2,
+            "title": "Heavenly Good Morning!",
+            "artist": "アマギセーラ",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0003",
+            "albumID": 2030,
+            "trackNo": 3,
+            "title": "storia",
+            "artist": "BEMANI Sound Team \"HuΣeR\" × Cororo feat. 大瀬良あい",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0004",
+            "albumID": 2030,
+            "trackNo": 4,
+            "title": "Que Sera Sera",
+            "artist": "大谷舞 feat.つむぎしゃち（from キミのね）",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0005",
+            "albumID": 2030,
+            "trackNo": 5,
+            "title": "装填昇天エクソシスト",
+            "artist": "My Complex of Academy",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0006",
+            "albumID": 2030,
+            "trackNo": 6,
+            "title": "囚われの魔女人形",
+            "artist": "m@sumi feat. q'yul",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0007",
+            "albumID": 2030,
+            "trackNo": 7,
+            "title": "How Many Eyes On You?",
+            "artist": "青野りえ+mizuno",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0008",
+            "albumID": 2030,
+            "trackNo": 8,
+            "title": "Levitation Minneapolis",
+            "artist": "北川翔也",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0009",
+            "albumID": 2030,
+            "trackNo": 9,
+            "title": "Bomb be love",
+            "artist": "sei☆shin feat.ken",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0010",
+            "albumID": 2030,
+            "trackNo": 10,
+            "title": "Hypernova ",
+            "artist": "Serph ",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0011",
+            "albumID": 2030,
+            "trackNo": 11,
+            "title": "BROADWAY QUEENS",
+            "artist": "T-HEY & TANEKO",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0012",
+            "albumID": 2030,
+            "trackNo": 12,
+            "title": "The Die is cast.",
+            "artist": "T4K feat.ういにゃす",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0013",
+            "albumID": 2030,
+            "trackNo": 13,
+            "title": "Yum Yum OYACHU",
+            "artist": "BEMANI Sound Team \"PON\" feat.NU-KO",
             "openType": 1
         },
         {
