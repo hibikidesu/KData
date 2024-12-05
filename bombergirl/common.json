@@ -4,16 +4,16 @@
         "server_message": [
             {
                 "msg_id": {
-                    "<value>": 176
+                    "<value>": 177
                 },
                 "tag": {
                     "<value>": "GAME"
                 },
                 "message": {
-                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=6,84,130;MatchingType=1;TeamSyncType=1;"
+                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=2101,132,163;MatchingType=1;TeamSyncType=1;"
                 },
                 "till_time": {
-                    "<value>": 1732669200000
+                    "<value>": 9223372036825200000
                 }
             },
             {
@@ -452,7 +452,7 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 59
+                        "<value>": 60
                     }
                 },
                 {
@@ -632,10 +632,10 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 59
+                        "<value>": 60
                     },
                     "str_date": {
-                        "<value>": "11/13(水) 10:00 am ～ 11/27(水) 9:59 am"
+                        "<value>": "11/27(水) 10:00 am ～ 12/11(水) 9:59 am"
                     }
                 },
                 {
@@ -653,12 +653,12 @@
         },
         "pick_gacha": {
             "gacha_id": {
-                "<value>": 59
+                "<value>": 60
             },
             "item": [
                 {
                     "item_id": {
-                        "<value>": 10
+                        "<value>": 866
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -666,7 +666,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 864
+                        "<value>": 3349
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -674,7 +674,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 880
+                        "<value>": 3352
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -682,7 +682,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1106
+                        "<value>": 3483
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -690,7 +690,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1310
+                        "<value>": 3486
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -698,7 +698,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1870
+                        "<value>": 3628
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -706,7 +706,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1872
+                        "<value>": 3631
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -714,15 +714,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 3013
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3016
+                        "<value>": 3965
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -735,7 +727,7 @@
                         "<value>": 3
                     },
                     "pick_rate": {
-                        "<value>": 28
+                        "<value>": 23
                     }
                 },
                 {
