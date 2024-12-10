@@ -17757,6 +17757,22 @@
         "stage": 3
     },
     {
+        "mcode": 38629,
+        "basename": "hakk",
+        "title": "Is this dance a Hakken?",
+        "title_sort": "isthisdanceahakken",
+        "artist": "RoughSketch",
+        "bpmmax": 205,
+        "bpmmin": 103,
+        "level_str": "3 7 12 16 0 0 7 12 16 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 27
+    },
+    {
         "mcode": 38632,
         "basename": "hani",
         "title": "HANIPAGANDA",
