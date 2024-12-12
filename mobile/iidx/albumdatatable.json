@@ -1101,6 +1101,11 @@
             "category": 4
         },
         {
+            "albumID": 13012,
+            "title": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ～Legend of KAC with Ω～ disc1",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -74961,6 +74966,126 @@
             "trackNo": 7,
             "title": "Perfect Ultimate Celebration!!",
             "artist": "2時間でPUCされたかぼちゃ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0001",
+            "albumID": 13012,
+            "trackNo": 1,
+            "title": "大宇宙ステージ",
+            "artist": "黒魔",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0002",
+            "albumID": 13012,
+            "trackNo": 2,
+            "title": "EGG",
+            "artist": "ginkiha",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0003",
+            "albumID": 13012,
+            "trackNo": 3,
+            "title": "Absurd Gaff",
+            "artist": "siromaru",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0004",
+            "albumID": 13012,
+            "trackNo": 4,
+            "title": "VISION",
+            "artist": "nora2r",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0005",
+            "albumID": 13012,
+            "trackNo": 5,
+            "title": "éclair au chocolat",
+            "artist": "kamome sano",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0006",
+            "albumID": 13012,
+            "trackNo": 6,
+            "title": "TRIGGER★HAPPY",
+            "artist": "P*Light",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0007",
+            "albumID": 13012,
+            "trackNo": 7,
+            "title": "PANIC HOLIC",
+            "artist": "C-Show",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0008",
+            "albumID": 13012,
+            "trackNo": 8,
+            "title": "Dynasty",
+            "artist": "Yooh",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0009",
+            "albumID": 13012,
+            "trackNo": 9,
+            "title": "Gott",
+            "artist": "Hommarju",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0010",
+            "albumID": 13012,
+            "trackNo": 10,
+            "title": "croiX",
+            "artist": "TeamGrimoire+あま猫",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0011",
+            "albumID": 13012,
+            "trackNo": 11,
+            "title": "Max Burning!!",
+            "artist": "BlackY",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0012",
+            "albumID": 13012,
+            "trackNo": 12,
+            "title": "Last Battalion",
+            "artist": "ETIA.",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0013",
+            "albumID": 13012,
+            "trackNo": 13,
+            "title": "Erlung",
+            "artist": "削除",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0014",
+            "albumID": 13012,
+            "trackNo": 14,
+            "title": "EOS -INFINITE EDIT-",
+            "artist": "ginkiha",
+            "openType": 1
+        },
+        {
+            "gid": "sv_113_0015",
+            "albumID": 13012,
+            "trackNo": 15,
+            "title": "take a step forward",
+            "artist": "uma",
             "openType": 1
         },
         {
