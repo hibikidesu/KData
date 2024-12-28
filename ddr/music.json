@@ -10946,7 +10946,6 @@
         "seriesid": 0,
         "ac_seriesid": 17,
         "limited": 1,
-        "limited_cha": 1,
         "genreid": 8,
         "stage": 2
     },
@@ -13605,7 +13604,6 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 19,
-        "limited_cha": 1,
         "stage": 3
     },
     {
@@ -16041,7 +16039,6 @@
         "seriesid": 0,
         "ac_seriesid": 20,
         "limited": 1,
-        "limited_cha": 1,
         "genreid": 8,
         "movie": 1
     },
@@ -17333,6 +17330,22 @@
         "stage": 31
     },
     {
+        "mcode": 38600,
+        "basename": "ashf",
+        "title": "access super [hyper] focus",
+        "title_sort": "accesssuperhyperfocus",
+        "artist": "kiraku",
+        "bpmmax": 492,
+        "bpmmin": 105,
+        "level_str": "4 9 12 15 0 0 9 12 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 15
+    },
+    {
         "mcode": 38602,
         "basename": "comi",
         "title": "\u30ab\u30e9\u30d5\u30eb\u30df\u30cb\u30c3\u30c4",
@@ -17600,7 +17613,6 @@
         "seriesid": 0,
         "ac_seriesid": 20,
         "limited": 1,
-        "limited_cha": 1,
         "genreid": 8,
         "stage": 14
     },
@@ -17768,7 +17780,7 @@
         "editable": false,
         "seriesid": 0,
         "ac_seriesid": 21,
-        "limited": 1,
+        "limited": 13,
         "limited_cha": 1,
         "stage": 27
     },
@@ -17906,7 +17918,6 @@
         "seriesid": 0,
         "ac_seriesid": 20,
         "limited": 1,
-        "limited_cha": 1,
         "genreid": 8,
         "movie": 1,
         "stage": 2
@@ -18428,6 +18439,22 @@
         "stage": 3
     },
     {
+        "mcode": 38673,
+        "basename": "hage",
+        "title": "\u767d\u65e5\u3068\u5e7b\u6708",
+        "title_sort": "\u30cf\u30af\u30b7\u30c4\u30c8\u30b1\u30f3\u30b1\u30c4",
+        "artist": "\u3081\u3068\uff08Metomate\uff09",
+        "bpmmax": 118,
+        "bpmmin": 118,
+        "level_str": "1 4 7 10 0 0 4 7 10 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 3
+    },
+    {
         "mcode": 38677,
         "basename": "fiac",
         "title": "First Action",
@@ -18471,6 +18498,38 @@
         "ac_seriesid": 21,
         "limited_cha": 1,
         "stage": 14
+    },
+    {
+        "mcode": 38682,
+        "basename": "dade",
+        "title": "Dance and Death",
+        "title_sort": "danceanddeath",
+        "artist": "ikaruga_nex",
+        "bpmmax": 145,
+        "bpmmin": 145,
+        "level_str": "1 7 10 13 0 0 7 10 13 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 2
+    },
+    {
+        "mcode": 38683,
+        "basename": "ohch",
+        "title": "\u304a\u3072\u3055\u3057\u4e2d\u83ef\u8857\uff01",
+        "title_sort": "\u30aa\u30d2\u30b5\u30b7\u30c1\u30e6\u30a6\u30ab\u30ab\u30a4",
+        "artist": "\u8af8\u661f\u306a\u306a feat.\u52a0\u85e4\u306f\u308b\u304b",
+        "bpmmax": 140,
+        "bpmmin": 140,
+        "level_str": "1 4 9 12 0 0 4 9 12 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 16
     },
     {
         "mcode": 38688,
