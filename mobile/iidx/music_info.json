@@ -7406,6 +7406,21 @@
             "is_new": 0
         },
         {
+            "music_id": 32011,
+            "lock_type": 3,
+            "is_new": 1
+        },
+        {
+            "music_id": 32012,
+            "lock_type": 3,
+            "is_new": 1
+        },
+        {
+            "music_id": 32026,
+            "lock_type": 3,
+            "is_new": 1
+        },
+        {
             "music_id": 32028,
             "lock_type": 3,
             "is_new": 0
@@ -7414,6 +7429,11 @@
             "music_id": 32031,
             "lock_type": 3,
             "is_new": 0
+        },
+        {
+            "music_id": 32039,
+            "lock_type": 3,
+            "is_new": 1
         },
         {
             "music_id": 32043,
