@@ -1,41 +1,41 @@
 [
     {
-        "recommended_id": 1726,
+        "recommended_id": 1727,
         "type": 1,
         "message": "",
         "reward_id": 101,
-        "start_date": "2025-01-19 00:00:00",
-        "end_date": "2025-01-19 23:59:59",
+        "start_date": "2025-01-20 00:00:00",
+        "end_date": "2025-01-20 23:59:59",
         "recommended_music_list": [
             {
                 "recommended_no": 1,
-                "music_id": 7004
+                "music_id": 13053
             },
             {
                 "recommended_no": 2,
-                "music_id": 19004
+                "music_id": 18026
             },
             {
                 "recommended_no": 0,
-                "music_id": 28066
+                "music_id": 27076
             }
         ]
     },
     {
-        "recommended_id": 5231,
+        "recommended_id": 5232,
         "type": 2,
-        "message": "ハイテンションな曲をセレクト♪",
+        "message": "ハードな楽曲を揃えました！",
         "reward_id": 0,
-        "start_date": "2025-01-13 00:00:00",
-        "end_date": "2025-01-19 23:59:59",
+        "start_date": "2025-01-20 00:00:00",
+        "end_date": "2025-01-26 23:59:59",
         "recommended_music_list": [
             {
                 "recommended_no": 1,
-                "music_id": 18002
+                "music_id": 17056
             },
             {
                 "recommended_no": 0,
-                "music_id": 27051
+                "music_id": 20089
             }
         ]
     }
