@@ -4,16 +4,16 @@
         "server_message": [
             {
                 "msg_id": {
-                    "<value>": 179
+                    "<value>": 183
                 },
                 "tag": {
                     "<value>": "GAME"
                 },
                 "message": {
-                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=191,2103,131;MatchingType=1;TeamSyncType=1;"
+                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=55,2101,132;MatchingType=1;TeamSyncType=1;"
                 },
                 "till_time": {
-                    "<value>": 1736298000000
+                    "<value>": 1741136400000
                 }
             },
             {
@@ -108,7 +108,7 @@
                         "<value>": 1
                     },
                     "phase": {
-                        "<value>": 111
+                        "<value>": 121
                     }
                 },
                 {
@@ -213,14 +213,6 @@
                     },
                     "phase": {
                         "<value>": 43
-                    }
-                },
-                {
-                    "type": {
-                        "<value>": 4
-                    },
-                    "phase": {
-                        "<value>": 44
                     }
                 },
                 {
@@ -444,6 +436,22 @@
                         "<value>": 4
                     },
                     "phase": {
+                        "<value>": 83
+                    }
+                },
+                {
+                    "type": {
+                        "<value>": 4
+                    },
+                    "phase": {
+                        "<value>": 84
+                    }
+                },
+                {
+                    "type": {
+                        "<value>": 4
+                    },
+                    "phase": {
                         "<value>": 85
                     }
                 },
@@ -452,7 +460,7 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 62
+                        "<value>": 66
                     }
                 },
                 {
@@ -460,7 +468,7 @@
                         "<value>": 7
                     },
                     "phase": {
-                        "<value>": 22
+                        "<value>": 23
                     }
                 },
                 {
@@ -609,6 +617,14 @@
                 },
                 {
                     "type": {
+                        "<value>": 9
+                    },
+                    "phase": {
+                        "<value>": 30
+                    }
+                },
+                {
+                    "type": {
                         "<value>": 10
                     },
                     "phase": {
@@ -617,35 +633,67 @@
                 },
                 {
                     "type": {
+                        "<value>": 101
+                    },
+                    "phase": {
+                        "<value>": 14
+                    }
+                },
+                {
+                    "type": {
                         "<value>": 102
                     },
                     "phase": {
-                        "<value>": 2
+                        "<value>": 1
                     }
                 }
             ]
         },
         "event_info": {
-            "data": {
-                "type": {
-                    "<value>": 5
+            "data": [
+                {
+                    "type": {
+                        "<value>": 5
+                    },
+                    "phase": {
+                        "<value>": 66
+                    },
+                    "str_date": {
+                        "<value>": "2/20(木) 10:00 am ～ 3/12(水) 8:59 am"
+                    }
                 },
-                "phase": {
-                    "<value>": 62
+                {
+                    "type": {
+                        "<value>": 101
+                    },
+                    "phase": {
+                        "<value>": 14
+                    },
+                    "str_date": {
+                        "<value>": "1/8(水)10:00 am ～ 3/5(水) 9:59 am"
+                    }
                 },
-                "str_date": {
-                    "<value>": "12/25(水) 10:00 am ～ 1/8(水) 9:59 am"
+                {
+                    "type": {
+                        "<value>": 102
+                    },
+                    "phase": {
+                        "<value>": 1
+                    },
+                    "str_date": {
+                        "<value>": "3/12(水) 8:59 am,50"
+                    }
                 }
-            }
+            ]
         },
         "pick_gacha": {
             "gacha_id": {
-                "<value>": 62
+                "<value>": 66
             },
             "item": [
                 {
                     "item_id": {
-                        "<value>": 867
+                        "<value>": 3628
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -653,23 +701,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1699
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3221
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3224
+                        "<value>": 3631
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -710,6 +742,46 @@
                 {
                     "item_id": {
                         "<value>": 3982
+                    },
+                    "pick_rate": {
+                        "<value>": 1
+                    }
+                },
+                {
+                    "item_id": {
+                        "<value>": 4347
+                    },
+                    "pick_rate": {
+                        "<value>": 1
+                    }
+                },
+                {
+                    "item_id": {
+                        "<value>": 4350
+                    },
+                    "pick_rate": {
+                        "<value>": 1
+                    }
+                },
+                {
+                    "item_id": {
+                        "<value>": 4538
+                    },
+                    "pick_rate": {
+                        "<value>": 1
+                    }
+                },
+                {
+                    "item_id": {
+                        "<value>": 4541
+                    },
+                    "pick_rate": {
+                        "<value>": 1
+                    }
+                },
+                {
+                    "item_id": {
+                        "<value>": 4542
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -799,7 +871,122 @@
                 }
             ]
         },
-        "bonus_battle1": {},
+        "bonus_battle1": {
+            "data": {
+                "type": {
+                    "<value>": 101
+                },
+                "phase": {
+                    "<value>": 14
+                },
+                "data": [
+                    {
+                        "b_type": {
+                            "<value>": 3
+                        },
+                        "rate": {
+                            "<value>": 100
+                        },
+                        "data": [
+                            {
+                                "role_id": {
+                                    "<value>": 1
+                                },
+                                "type_id": {
+                                    "<value>": 1
+                                },
+                                "param": {
+                                    "<value>": 500
+                                }
+                            },
+                            {
+                                "role_id": {
+                                    "<value>": 2
+                                },
+                                "type_id": {
+                                    "<value>": 1
+                                },
+                                "param": {
+                                    "<value>": 500
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "b_type": {
+                            "<value>": 2
+                        },
+                        "rate": {
+                            "<value>": 1000
+                        },
+                        "data": [
+                            {
+                                "role_id": {
+                                    "<value>": 1
+                                },
+                                "type_id": {
+                                    "<value>": 1
+                                },
+                                "param": {
+                                    "<value>": 200
+                                }
+                            },
+                            {
+                                "role_id": {
+                                    "<value>": 2
+                                },
+                                "type_id": {
+                                    "<value>": 1
+                                },
+                                "param": {
+                                    "<value>": 200
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "b_type": {
+                            "<value>": 1
+                        },
+                        "rate": {
+                            "<value>": 2700
+                        },
+                        "data": [
+                            {
+                                "role_id": {
+                                    "<value>": 1
+                                },
+                                "type_id": {
+                                    "<value>": 1
+                                },
+                                "param": {
+                                    "<value>": 150
+                                }
+                            },
+                            {
+                                "role_id": {
+                                    "<value>": 2
+                                },
+                                "type_id": {
+                                    "<value>": 1
+                                },
+                                "param": {
+                                    "<value>": 150
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "b_type": {
+                            "<value>": 0
+                        },
+                        "rate": {
+                            "<value>": 6200
+                        }
+                    }
+                ]
+            }
+        },
         "map_para": {
             "mpt": {
                 "data": [
@@ -848,61 +1035,64 @@
                         },
                         "map_id": [
                             {
-                                "<value>": 4
-                            },
-                            {
-                                "<value>": 5
-                            },
-                            {
-                                "<value>": 6
-                            },
-                            {
-                                "<value>": 40
-                            },
-                            {
-                                "<value>": 51
-                            },
-                            {
-                                "<value>": 52
-                            },
-                            {
-                                "<value>": 55
-                            },
-                            {
-                                "<value>": 83
-                            },
-                            {
-                                "<value>": 104
-                            },
-                            {
-                                "<value>": 105
-                            },
-                            {
-                                "<value>": 133
-                            },
-                            {
-                                "<value>": 163
-                            },
-                            {
-                                "<value>": 191
-                            },
-                            {
-                                "<value>": 192
-                            },
-                            {
-                                "<value>": 2011
-                            },
-                            {
-                                "<value>": 2082
-                            },
-                            {
-                                "<value>": 2103
+                                "<value>": 2129
                             },
                             {
                                 "<value>": 2119
                             },
                             {
-                                "<value>": 2129
+                                "<value>": 2103
+                            },
+                            {
+                                "<value>": 2082
+                            },
+                            {
+                                "<value>": 2054
+                            },
+                            {
+                                "<value>": 2011
+                            },
+                            {
+                                "<value>": 192
+                            },
+                            {
+                                "<value>": 191
+                            },
+                            {
+                                "<value>": 163
+                            },
+                            {
+                                "<value>": 133
+                            },
+                            {
+                                "<value>": 105
+                            },
+                            {
+                                "<value>": 104
+                            },
+                            {
+                                "<value>": 83
+                            },
+                            {
+                                "<value>": 55
+                            },
+                            {
+                                "<value>": 52
+                            },
+                            {
+                                "<value>": 51
+                            },
+                            {
+                                "<value>": 40
+                            },
+                            {
+                                "<value>": 6
+                            },
+                            {
+                                "<value>": 5
+                            },
+                            {
+                                "<value>": 4
                             }
                         ]
                     }
@@ -912,7 +1102,7 @@
         "r_match": {},
         "auxiliary_data": {
             "auxiliary_id": {
-                "<value>": 6
+                "<value>": 7
             },
             "page_num": {
                 "<value>": 1
@@ -933,23 +1123,12 @@
                             "<value>": 1
                         },
                         "num": {
-                            "<value>": 5
+                            "<value>": 3
                         }
                     },
                     {
                         "idx": {
                             "<value>": 1
-                        },
-                        "auxi_id": {
-                            "<value>": 1
-                        },
-                        "num": {
-                            "<value>": 4
-                        }
-                    },
-                    {
-                        "idx": {
-                            "<value>": 2
                         },
                         "auxi_id": {
                             "<value>": 1
@@ -960,13 +1139,24 @@
                     },
                     {
                         "idx": {
-                            "<value>": 3
+                            "<value>": 2
                         },
                         "auxi_id": {
                             "<value>": 1
                         },
                         "num": {
                             "<value>": 2
+                        }
+                    },
+                    {
+                        "idx": {
+                            "<value>": 3
+                        },
+                        "auxi_id": {
+                            "<value>": 1
+                        },
+                        "num": {
+                            "<value>": 1
                         }
                     },
                     {
@@ -981,6 +1171,27 @@
                         }
                     }
                 ]
+            }
+        },
+        "point_event_boost": {
+            "data": {
+                "event_id": {
+                    "<value>": 14
+                },
+                "b_data": {
+                    "idx": {
+                        "<value>": 1
+                    },
+                    "point": {
+                        "<value>": 10
+                    },
+                    "buy_act": {
+                        "<value>": true
+                    },
+                    "date_str": {
+                        "<value>": "1/8(水)10:00 am ～ 3/4(火) 4:29 am"
+                    }
+                }
             }
         }
     }
