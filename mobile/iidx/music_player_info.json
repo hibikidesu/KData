@@ -4176,66 +4176,6 @@
             "is_new": 0
         },
         {
-            "mp_gid": "bm_066_0037",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "bm_066_0038",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "bm_066_0039",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "bm_066_0040",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_019_0041",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_019_0042",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_019_0043",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_019_0044",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_019_0045",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "dr_019_0046",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "jb_020_0011",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
-            "mp_gid": "jb_020_0012",
-            "mp_flag": 0,
-            "is_new": 1
-        },
-        {
             "mp_gid": "sv_114_0001",
             "mp_flag": 0,
             "is_new": 1
@@ -4302,6 +4242,96 @@
         },
         {
             "mp_gid": "sv_114_0014",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0047",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0048",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0049",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0050",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0051",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0052",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0053",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0054",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0055",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0056",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0057",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0058",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "dr_019_0059",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "pm_062_0014",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "pm_062_0015",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "pm_062_0016",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "pm_062_0017",
+            "mp_flag": 0,
+            "is_new": 1
+        },
+        {
+            "mp_gid": "pm_062_0018",
             "mp_flag": 0,
             "is_new": 1
         }
