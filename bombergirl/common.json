@@ -675,6 +675,17 @@
                 },
                 {
                     "type": {
+                        "<value>": 101
+                    },
+                    "phase": {
+                        "<value>": 15
+                    },
+                    "str_date": {
+                        "<value>": "3/5(水)10:00 am ～ 4/30(水) 9:59 am"
+                    }
+                },
+                {
+                    "type": {
                         "<value>": 102
                     },
                     "phase": {
@@ -872,120 +883,236 @@
             ]
         },
         "bonus_battle1": {
-            "data": {
-                "type": {
-                    "<value>": 101
-                },
-                "phase": {
-                    "<value>": 14
-                },
-                "data": [
-                    {
-                        "b_type": {
-                            "<value>": 3
-                        },
-                        "rate": {
-                            "<value>": 100
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 500
-                                }
-                            },
-                            {
-                                "role_id": {
-                                    "<value>": 2
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 500
-                                }
-                            }
-                        ]
+            "data": [
+                {
+                    "type": {
+                        "<value>": 101
                     },
-                    {
-                        "b_type": {
-                            "<value>": 2
-                        },
-                        "rate": {
-                            "<value>": 1000
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 200
-                                }
-                            },
-                            {
-                                "role_id": {
-                                    "<value>": 2
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 200
-                                }
-                            }
-                        ]
+                    "phase": {
+                        "<value>": 14
                     },
-                    {
-                        "b_type": {
-                            "<value>": 1
-                        },
-                        "rate": {
-                            "<value>": 2700
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 150
-                                }
+                    "data": [
+                        {
+                            "b_type": {
+                                "<value>": 3
                             },
-                            {
-                                "role_id": {
-                                    "<value>": 2
+                            "rate": {
+                                "<value>": 100
+                            },
+                            "data": [
+                                {
+                                    "role_id": {
+                                        "<value>": 1
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 500
+                                    }
                                 },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 150
+                                {
+                                    "role_id": {
+                                        "<value>": 2
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 500
+                                    }
                                 }
-                            }
-                        ]
-                    },
-                    {
-                        "b_type": {
-                            "<value>": 0
+                            ]
                         },
-                        "rate": {
-                            "<value>": 6200
+                        {
+                            "b_type": {
+                                "<value>": 2
+                            },
+                            "rate": {
+                                "<value>": 1000
+                            },
+                            "data": [
+                                {
+                                    "role_id": {
+                                        "<value>": 1
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 200
+                                    }
+                                },
+                                {
+                                    "role_id": {
+                                        "<value>": 2
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 200
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "b_type": {
+                                "<value>": 1
+                            },
+                            "rate": {
+                                "<value>": 2700
+                            },
+                            "data": [
+                                {
+                                    "role_id": {
+                                        "<value>": 1
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 150
+                                    }
+                                },
+                                {
+                                    "role_id": {
+                                        "<value>": 2
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 150
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "b_type": {
+                                "<value>": 0
+                            },
+                            "rate": {
+                                "<value>": 6200
+                            }
                         }
-                    }
-                ]
-            }
+                    ]
+                },
+                {
+                    "type": {
+                        "<value>": 101
+                    },
+                    "phase": {
+                        "<value>": 15
+                    },
+                    "data": [
+                        {
+                            "b_type": {
+                                "<value>": 3
+                            },
+                            "rate": {
+                                "<value>": 100
+                            },
+                            "data": [
+                                {
+                                    "role_id": {
+                                        "<value>": 1
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 500
+                                    }
+                                },
+                                {
+                                    "role_id": {
+                                        "<value>": 2
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 500
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "b_type": {
+                                "<value>": 2
+                            },
+                            "rate": {
+                                "<value>": 1000
+                            },
+                            "data": [
+                                {
+                                    "role_id": {
+                                        "<value>": 1
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 200
+                                    }
+                                },
+                                {
+                                    "role_id": {
+                                        "<value>": 2
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 200
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "b_type": {
+                                "<value>": 1
+                            },
+                            "rate": {
+                                "<value>": 2700
+                            },
+                            "data": [
+                                {
+                                    "role_id": {
+                                        "<value>": 1
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 150
+                                    }
+                                },
+                                {
+                                    "role_id": {
+                                        "<value>": 2
+                                    },
+                                    "type_id": {
+                                        "<value>": 1
+                                    },
+                                    "param": {
+                                        "<value>": 150
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "b_type": {
+                                "<value>": 0
+                            },
+                            "rate": {
+                                "<value>": 6200
+                            }
+                        }
+                    ]
+                }
+            ]
         },
         "map_para": {
             "mpt": {
