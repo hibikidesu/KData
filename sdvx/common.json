@@ -3,6 +3,8 @@
         "BLASTER_ABLE",
         "CLOUD_LINK_ENABLE",
         "CREW_SELECT_ABLE",
+        "FAVORITE_CREW_ENABLE",
+        "FAVORITE_CREW_MAX 20",
         "PLAYER_RADAR_ENABLE",
         "SKILL_ANALYZER_ABLE",
         "VOLFORCE_ENABLE"
