@@ -4,16 +4,16 @@
         "server_message": [
             {
                 "msg_id": {
-                    "<value>": 184
+                    "<value>": 185
                 },
                 "tag": {
                     "<value>": "GAME"
                 },
                 "message": {
-                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=192,102,6;MatchingType=1;TeamSyncType=1;"
+                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=163,190,131;MatchingType=1;TeamSyncType=1;"
                 },
                 "till_time": {
-                    "<value>": 1742518800000
+                    "<value>": 9223372036825200000
                 }
             },
             {
@@ -460,7 +460,7 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 67
+                        "<value>": 68
                     }
                 },
                 {
@@ -648,10 +648,10 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 67
+                        "<value>": 68
                     },
                     "str_date": {
-                        "<value>": "3/12(水) 10:00 am ～ 3/21(金) 9:59 am"
+                        "<value>": "3/21(金) 10:00 am ～ 4/2(水) 9:59 am"
                     }
                 },
                 {
@@ -669,12 +669,12 @@
         },
         "pick_gacha": {
             "gacha_id": {
-                "<value>": 67
+                "<value>": 68
             },
             "item": [
                 {
                     "item_id": {
-                        "<value>": 851
+                        "<value>": 7
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -682,111 +682,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 852
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 853
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 854
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 855
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 856
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 857
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 858
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 859
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 860
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 861
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 862
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 863
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 864
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 865
+                        "<value>": 10
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -802,103 +698,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 867
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 868
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 869
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 870
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 871
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 872
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 873
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
                         "<value>": 874
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 875
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 876
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 877
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 878
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 879
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -914,223 +714,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 919
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 920
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 921
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 922
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1106
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1107
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1108
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1152
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1153
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1154
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1309
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
                         "<value>": 1310
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1313
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1314
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1315
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1447
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1448
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1499
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1500
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1501
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1502
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1699
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1720
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1721
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1722
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1871
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1872
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 1873
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -1146,207 +730,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 2073
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2074
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2075
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2245
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2265
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2266
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2267
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2461
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2462
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2463
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2652
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2708
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2709
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2710
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2904
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2905
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 2906
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3013
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3014
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3015
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3016
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3222
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3223
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3224
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3350
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3351
+                        "<value>": 3349
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -1362,191 +746,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 3484
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3485
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3486
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3595
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3629
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3630
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3631
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3784
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3785
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3786
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
                         "<value>": 3965
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3979
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3980
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3981
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3982
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4109
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4348
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4349
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4350
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4537
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4539
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4540
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4541
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4542
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -1556,18 +756,10 @@
             "pick_rate_param": [
                 {
                     "rare": {
-                        "<value>": 2
-                    },
-                    "pick_rate": {
-                        "<value>": 62
-                    }
-                },
-                {
-                    "rare": {
                         "<value>": 3
                     },
                     "pick_rate": {
-                        "<value>": 62
+                        "<value>": 28
                     }
                 },
                 {
@@ -1808,64 +1000,64 @@
                         },
                         "map_id": [
                             {
-                                "<value>": 2129
-                            },
-                            {
-                                "<value>": 2119
-                            },
-                            {
-                                "<value>": 2103
-                            },
-                            {
-                                "<value>": 2082
-                            },
-                            {
-                                "<value>": 2054
-                            },
-                            {
-                                "<value>": 2011
-                            },
-                            {
-                                "<value>": 192
-                            },
-                            {
-                                "<value>": 191
-                            },
-                            {
-                                "<value>": 163
-                            },
-                            {
-                                "<value>": 133
-                            },
-                            {
-                                "<value>": 105
-                            },
-                            {
-                                "<value>": 104
-                            },
-                            {
-                                "<value>": 83
-                            },
-                            {
-                                "<value>": 55
-                            },
-                            {
-                                "<value>": 52
-                            },
-                            {
-                                "<value>": 51
-                            },
-                            {
-                                "<value>": 40
-                            },
-                            {
-                                "<value>": 6
+                                "<value>": 4
                             },
                             {
                                 "<value>": 5
                             },
                             {
-                                "<value>": 4
+                                "<value>": 6
+                            },
+                            {
+                                "<value>": 40
+                            },
+                            {
+                                "<value>": 51
+                            },
+                            {
+                                "<value>": 52
+                            },
+                            {
+                                "<value>": 55
+                            },
+                            {
+                                "<value>": 83
+                            },
+                            {
+                                "<value>": 104
+                            },
+                            {
+                                "<value>": 105
+                            },
+                            {
+                                "<value>": 133
+                            },
+                            {
+                                "<value>": 163
+                            },
+                            {
+                                "<value>": 191
+                            },
+                            {
+                                "<value>": 192
+                            },
+                            {
+                                "<value>": 2011
+                            },
+                            {
+                                "<value>": 2054
+                            },
+                            {
+                                "<value>": 2082
+                            },
+                            {
+                                "<value>": 2103
+                            },
+                            {
+                                "<value>": 2119
+                            },
+                            {
+                                "<value>": 2129
                             }
                         ]
                     }
