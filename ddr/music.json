@@ -18533,6 +18533,38 @@
         "stage": 15
     },
     {
+        "mcode": 38675,
+        "basename": "rofo",
+        "title": "Robot Footwork",
+        "title_sort": "robotfootwork",
+        "artist": "Super Shrimp",
+        "bpmmax": 162,
+        "bpmmin": 162,
+        "level_str": "3 8 12 14 0 0 8 12 14 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 15
+    },
+    {
+        "mcode": 38676,
+        "basename": "defl",
+        "title": "Dense Flyer",
+        "title_sort": "denseflyer",
+        "artist": "seatrus",
+        "bpmmax": 166,
+        "bpmmin": 166,
+        "level_str": "3 6 10 14 0 0 6 10 14 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 14
+    },
+    {
         "mcode": 38677,
         "basename": "fiac",
         "title": "First Action",
@@ -18592,6 +18624,22 @@
         "ac_seriesid": 21,
         "limited_cha": 1,
         "stage": 14
+    },
+    {
+        "mcode": 38681,
+        "basename": "w\u000bk",
+        "title": "Dance wiz the Rhythm",
+        "title_sort": "dancewiztherhythm",
+        "artist": "AMAZE",
+        "bpmmax": 126,
+        "bpmmin": 75,
+        "level_str": "4 7 11 14 0 0 7 11 14 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 15
     },
     {
         "mcode": 38682,
