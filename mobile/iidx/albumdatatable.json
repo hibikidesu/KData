@@ -541,6 +541,11 @@
             "category": 7
         },
         {
+            "albumID": 4037,
+            "title": "GITADORA GALAXY WAVE",
+            "category": 7
+        },
+        {
             "albumID": 5000,
             "title": "NOSTALGIA ORIGINAL SOUNDTRACK",
             "category": 8
@@ -21958,6 +21963,46 @@
             "openType": 1
         },
         {
+            "gid": "bm_066_0041",
+            "albumID": 1037,
+            "trackNo": 41,
+            "title": "ハルイロメロディー",
+            "artist": "月乃 ＆ BEMANI Sound Team \"劇団レコード\"",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0042",
+            "albumID": 1037,
+            "trackNo": 42,
+            "title": "Constellation",
+            "artist": "Maozon",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0043",
+            "albumID": 1037,
+            "trackNo": 43,
+            "title": "きみのせかい",
+            "artist": "Nhato",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0044",
+            "albumID": 1037,
+            "trackNo": 44,
+            "title": "FlyAway",
+            "artist": "Blacklolita",
+            "openType": 1
+        },
+        {
+            "gid": "bm_066_0045",
+            "albumID": 1037,
+            "trackNo": 45,
+            "title": "Without Heaven",
+            "artist": "BEMANI Sound Team \"ZAQUVA\"",
+            "openType": 1
+        },
+        {
             "gid": "bm_067_0001",
             "albumID": 1038,
             "trackNo": 1,
@@ -38731,6 +38776,350 @@
             "trackNo": 50,
             "title": "Ouroboros\t",
             "artist": "BEMANI Sound Team \"asaki\"\t",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0001",
+            "albumID": 4037,
+            "trackNo": 1,
+            "title": "月下美人",
+            "artist": "石井 真之 feat.小林 正典",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0002",
+            "albumID": 4037,
+            "trackNo": 2,
+            "title": "WARRIOR",
+            "artist": "NEXTRADE",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0003",
+            "albumID": 4037,
+            "trackNo": 3,
+            "title": "Arcadia",
+            "artist": "Maro feat.藤城 リエ",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0004",
+            "albumID": 4037,
+            "trackNo": 4,
+            "title": "さよならストローク",
+            "artist": "涼平 feat. みいらみさと",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0005",
+            "albumID": 4037,
+            "trackNo": 5,
+            "title": "惨事のヒロイン、朝を待つ。",
+            "artist": "駄々子",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0006",
+            "albumID": 4037,
+            "trackNo": 6,
+            "title": "シューティンスター★☆",
+            "artist": "BEMANI Sound Team \"ZAQUVA\" feat. 月乃",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0007",
+            "albumID": 4037,
+            "trackNo": 7,
+            "title": "輝石のDESTINATION feat. 花たん",
+            "artist": "SOUND HOLIC Vs. BEMANI Sound Team \"T.Kakuta\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0008",
+            "albumID": 4037,
+            "trackNo": 8,
+            "title": "おこめごころ",
+            "artist": "三矢禅晃 feat.こやまゆいぽ.",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0009",
+            "albumID": 4037,
+            "trackNo": 9,
+            "title": "あなたしかいないから",
+            "artist": "田中れいな with Team MiA",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0010",
+            "albumID": 4037,
+            "trackNo": 10,
+            "title": "虹の先に何があるか - Remaster -",
+            "artist": "あさき",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0011",
+            "albumID": 4037,
+            "trackNo": 11,
+            "title": "愛はToxic! feat.LilyMone",
+            "artist": "Mitsuyo",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0012",
+            "albumID": 4037,
+            "trackNo": 12,
+            "title": "Calm days",
+            "artist": "BEMANI Sound Team \"肥塚良彦\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0013",
+            "albumID": 4037,
+            "trackNo": 13,
+            "title": "Astrum",
+            "artist": "零 -zero- × BEMANI Sound Team \"HuΣeR\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0014",
+            "albumID": 4037,
+            "trackNo": 14,
+            "title": "DESPERATE ERROR",
+            "artist": "山本真央樹",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0015",
+            "albumID": 4037,
+            "trackNo": 15,
+            "title": "ABSOLUTE R6",
+            "artist": "dj TAKA feat.good-cool",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0016",
+            "albumID": 4037,
+            "trackNo": 16,
+            "title": "Far East Nightbird (GITADORA Remix)",
+            "artist": "猫叉Master Remixed by The Herb Shop",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0017",
+            "albumID": 4037,
+            "trackNo": 17,
+            "title": "HYPER JET WIND",
+            "artist": "Mutsuhiko Izumi",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0018",
+            "albumID": 4037,
+            "trackNo": 18,
+            "title": "Multiverse",
+            "artist": "BEMANI Sound Team \"Coyaan\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0019",
+            "albumID": 4037,
+            "trackNo": 19,
+            "title": "Ruddle",
+            "artist": "BEMANI Sound Team \"Yvya\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0020",
+            "albumID": 4037,
+            "trackNo": 20,
+            "title": "SUIREN",
+            "artist": "BEMANI Sound Team \"TATSUYA\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0021",
+            "albumID": 4037,
+            "trackNo": 21,
+            "title": "宇宙怪獣ゴスラの誕生。そして、TO THE SKY.",
+            "artist": "BEMANI Sound Team \"桃山珍太郎\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0022",
+            "albumID": 4037,
+            "trackNo": 22,
+            "title": "gn8",
+            "artist": "あべち feat.YUSA ",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0023",
+            "albumID": 4037,
+            "trackNo": 23,
+            "title": "DOGMA",
+            "artist": "RENO",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0024",
+            "albumID": 4037,
+            "trackNo": 24,
+            "title": "Récolte",
+            "artist": "BEMANI Sound Team \"Loz\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0025",
+            "albumID": 4037,
+            "trackNo": 25,
+            "title": "P9 exPt.",
+            "artist": "Sebon",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0026",
+            "albumID": 4037,
+            "trackNo": 26,
+            "title": "Stay By My Side",
+            "artist": "MEG feat. Keita Takeshita",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0027",
+            "albumID": 4037,
+            "trackNo": 27,
+            "title": "改良型自動連射装置",
+            "artist": "namae.",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0028",
+            "albumID": 4037,
+            "trackNo": 28,
+            "title": "Waza Anniversary Edition",
+            "artist": "Jimmy Weckl Loved by BEMANI Sound Team \"あさき\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0029",
+            "albumID": 4037,
+            "trackNo": 29,
+            "title": "Invitation from ZEN",
+            "artist": "Satoshi Oka",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0030",
+            "albumID": 4037,
+            "trackNo": 30,
+            "title": "Sweet Summer",
+            "artist": "BEMANI Sound Team \"Sota F.\" feat. Starbitz",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0031",
+            "albumID": 4037,
+            "trackNo": 31,
+            "title": "Prog for your Soul",
+            "artist": "BEMANI Sound Team \"Seal Stellar Spectrum\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0032",
+            "albumID": 4037,
+            "trackNo": 32,
+            "title": "スーパーヒーローシンドローム",
+            "artist": "BEMANI Sound Team \"KE!JU\" feat. ねんね",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0033",
+            "albumID": 4037,
+            "trackNo": 33,
+            "title": "PERFECT SHOW-TIME",
+            "artist": "竹内光雄＆BEMANI Sound Team \"劇団レコード\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0034",
+            "albumID": 4037,
+            "trackNo": 34,
+            "title": "LET IT ROLL",
+            "artist": "good-cool w/z BEMANI Sound Team \"あさき\" ft.Pete Klassen",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0035",
+            "albumID": 4037,
+            "trackNo": 35,
+            "title": "GALAXY WAVE",
+            "artist": "BEMANI Sound Team \"Yvya\"",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0036",
+            "albumID": 4037,
+            "trackNo": 36,
+            "title": "Zero Visibility",
+            "artist": "setsat",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0037",
+            "albumID": 4037,
+            "trackNo": 37,
+            "title": "To the Sky ",
+            "artist": "Rookie.F feat. Sean(from PHOENIX ASH) ",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0038",
+            "albumID": 4037,
+            "trackNo": 38,
+            "title": "Graint",
+            "artist": "The Herb Shop",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0039",
+            "albumID": 4037,
+            "trackNo": 39,
+            "title": "Rhythm Emotion",
+            "artist": "colors",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0040",
+            "albumID": 4037,
+            "trackNo": 40,
+            "title": "Hopeful Daybreak!!!",
+            "artist": "cosMo＠暴走P",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0041",
+            "albumID": 4037,
+            "trackNo": 41,
+            "title": "Snow Falcon",
+            "artist": "Mutsuhiko Izumi",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0042",
+            "albumID": 4037,
+            "trackNo": 42,
+            "title": "Heaven or Hell ",
+            "artist": "Yusuke Koshiro",
+            "openType": 1
+        },
+        {
+            "gid": "gd_054_0043",
+            "albumID": 4037,
+            "trackNo": 43,
+            "title": "Monogatary",
+            "artist": "BEMANI Sound Team \"PON ×あさき×Yvya\"",
             "openType": 1
         },
         {
