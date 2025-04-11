@@ -1116,6 +1116,11 @@
             "category": 4
         },
         {
+            "albumID": 13014,
+            "title": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ～Legend of KAC with Ω～ disc3",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -76344,6 +76349,134 @@
             "trackNo": 28,
             "title": "Everlasting Message",
             "artist": "ぺのれり",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0001",
+            "albumID": 13014,
+            "trackNo": 1,
+            "title": "Apex of the World",
+            "artist": "uma&hurirai feat.ましろ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0002",
+            "albumID": 13014,
+            "trackNo": 2,
+            "title": "ブチアゲドクター☆ハイテッコ三姉妹",
+            "artist": "溝口ゆうま feat. みこ なち あい",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0003",
+            "albumID": 13014,
+            "trackNo": 3,
+            "title": "ゆうしゃのふゆやすみ",
+            "artist": "Verdammt",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0004",
+            "albumID": 13014,
+            "trackNo": 4,
+            "title": "侍Annihilate!!",
+            "artist": "QURELESS",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0005",
+            "albumID": 13014,
+            "trackNo": 5,
+            "title": "The End of War",
+            "artist": "たちのん as Project Mayhem",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0006",
+            "albumID": 13014,
+            "trackNo": 6,
+            "title": "Endless GRAVITY",
+            "artist": "kanone",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0007",
+            "albumID": 13014,
+            "trackNo": 7,
+            "title": "Voynich:Manuscript",
+            "artist": "かゆき",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0008",
+            "albumID": 13014,
+            "trackNo": 8,
+            "title": "Zero-Day Exploit",
+            "artist": "Trerey-U",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0009",
+            "albumID": 13014,
+            "trackNo": 9,
+            "title": "eastward -sdvx edit-",
+            "artist": "ginkiha",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0010",
+            "albumID": 13014,
+            "trackNo": 10,
+            "title": "relegation grimoire",
+            "artist": "tsuzu",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0011",
+            "albumID": 13014,
+            "trackNo": 11,
+            "title": "Quaint Echo",
+            "artist": "KLing(Aoi+Yunosuke)",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0012",
+            "albumID": 13014,
+            "trackNo": 12,
+            "title": "Demise Quartet",
+            "artist": "Shiron＋こふ×モリモリあつしと提供でお送りします。",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0013",
+            "albumID": 13014,
+            "trackNo": 13,
+            "title": "UROBØROS",
+            "artist": "溝口ゆうま feat. 大瀬良あい",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0014",
+            "albumID": 13014,
+            "trackNo": 14,
+            "title": "REGALIA",
+            "artist": "Riz",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0015",
+            "albumID": 13014,
+            "trackNo": 15,
+            "title": "いつかの夢、またねの約束。",
+            "artist": "TAKU1175 ft. 駄々子",
+            "openType": 1
+        },
+        {
+            "gid": "sv_115_0016",
+            "albumID": 13014,
+            "trackNo": 16,
+            "title": "#Endroll",
+            "artist": "uno & D.watt (IOSYS TRAX)",
             "openType": 1
         },
         {
