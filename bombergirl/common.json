@@ -4,16 +4,16 @@
         "server_message": [
             {
                 "msg_id": {
-                    "<value>": 186
+                    "<value>": 188
                 },
                 "tag": {
                     "<value>": "GAME"
                 },
                 "message": {
-                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=162,2103,5;MatchingType=1;TeamSyncType=1;"
+                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=2008,130,83;MatchingType=1;TeamSyncType=1;"
                 },
                 "till_time": {
-                    "<value>": 1744765200000
+                    "<value>": 1747184400000
                 }
             },
             {
@@ -460,7 +460,7 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 69
+                        "<value>": 71
                     }
                 },
                 {
@@ -633,48 +633,35 @@
                 },
                 {
                     "type": {
-                        "<value>": 101
+                        "<value>": 102
                     },
                     "phase": {
-                        "<value>": 15
+                        "<value>": 2
                     }
                 }
             ]
         },
         "event_info": {
-            "data": [
-                {
-                    "type": {
-                        "<value>": 5
-                    },
-                    "phase": {
-                        "<value>": 69
-                    },
-                    "str_date": {
-                        "<value>": "4/2(水) 10:00 am ～ 4/16(水) 9:59 am"
-                    }
+            "data": {
+                "type": {
+                    "<value>": 5
                 },
-                {
-                    "type": {
-                        "<value>": 101
-                    },
-                    "phase": {
-                        "<value>": 15
-                    },
-                    "str_date": {
-                        "<value>": "3/5(水)10:00 am ～ 4/30(水) 9:59 am"
-                    }
+                "phase": {
+                    "<value>": 71
+                },
+                "str_date": {
+                    "<value>": "4/30(水) 10:00 am ～ 5/14(水) 9:59 am"
                 }
-            ]
+            }
         },
         "pick_gacha": {
             "gacha_id": {
-                "<value>": 69
+                "<value>": 71
             },
             "item": [
                 {
                     "item_id": {
-                        "<value>": 6
+                        "<value>": 864
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -682,7 +669,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 9
+                        "<value>": 1106
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -690,7 +677,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 867
+                        "<value>": 3483
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -698,7 +685,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 868
+                        "<value>": 3486
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -706,7 +693,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 871
+                        "<value>": 3978
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -714,7 +701,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1448
+                        "<value>": 3981
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -722,7 +709,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1699
+                        "<value>": 3982
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -730,7 +717,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 2245
+                        "<value>": 4538
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -738,7 +725,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 3221
+                        "<value>": 4541
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -746,7 +733,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 3224
+                        "<value>": 4542
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -836,122 +823,7 @@
                 }
             ]
         },
-        "bonus_battle1": {
-            "data": {
-                "type": {
-                    "<value>": 101
-                },
-                "phase": {
-                    "<value>": 15
-                },
-                "data": [
-                    {
-                        "b_type": {
-                            "<value>": 3
-                        },
-                        "rate": {
-                            "<value>": 100
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 500
-                                }
-                            },
-                            {
-                                "role_id": {
-                                    "<value>": 2
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 500
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "b_type": {
-                            "<value>": 2
-                        },
-                        "rate": {
-                            "<value>": 1000
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 200
-                                }
-                            },
-                            {
-                                "role_id": {
-                                    "<value>": 2
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 200
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "b_type": {
-                            "<value>": 1
-                        },
-                        "rate": {
-                            "<value>": 2700
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 150
-                                }
-                            },
-                            {
-                                "role_id": {
-                                    "<value>": 2
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 150
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "b_type": {
-                            "<value>": 0
-                        },
-                        "rate": {
-                            "<value>": 6200
-                        }
-                    }
-                ]
-            }
-        },
+        "bonus_battle1": {},
         "map_para": {
             "mpt": {
                 "data": [
@@ -1136,27 +1008,6 @@
                         }
                     }
                 ]
-            }
-        },
-        "point_event_boost": {
-            "data": {
-                "event_id": {
-                    "<value>": 15
-                },
-                "b_data": {
-                    "idx": {
-                        "<value>": 1
-                    },
-                    "point": {
-                        "<value>": 10
-                    },
-                    "buy_act": {
-                        "<value>": true
-                    },
-                    "date_str": {
-                        "<value>": "3/5(水)10:00 am ～ 4/29(火) 4:29 am"
-                    }
-                }
             }
         }
     }
