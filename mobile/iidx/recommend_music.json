@@ -1,41 +1,41 @@
 [
     {
-        "recommended_id": 1831,
+        "recommended_id": 1832,
         "type": 1,
         "message": "",
         "reward_id": 101,
-        "start_date": "2025-05-04 00:00:00",
-        "end_date": "2025-05-04 23:59:59",
+        "start_date": "2025-05-05 00:00:00",
+        "end_date": "2025-05-05 23:59:59",
         "recommended_music_list": [
             {
-                "recommended_no": 2,
-                "music_id": 17016
-            },
-            {
                 "recommended_no": 0,
-                "music_id": 26031
+                "music_id": 14033
             },
             {
                 "recommended_no": 1,
-                "music_id": 27046
+                "music_id": 20020
+            },
+            {
+                "recommended_no": 2,
+                "music_id": 23026
             }
         ]
     },
     {
-        "recommended_id": 5246,
+        "recommended_id": 5247,
         "type": 2,
-        "message": "カッコいい曲を揃えました！",
+        "message": "ハードな楽曲を揃えました！",
         "reward_id": 0,
-        "start_date": "2025-04-28 00:00:00",
-        "end_date": "2025-05-04 23:59:59",
+        "start_date": "2025-05-05 00:00:00",
+        "end_date": "2025-05-11 23:59:59",
         "recommended_music_list": [
             {
                 "recommended_no": 0,
-                "music_id": 22025
+                "music_id": 21021
             },
             {
                 "recommended_no": 1,
-                "music_id": 23057
+                "music_id": 21062
             }
         ]
     }
