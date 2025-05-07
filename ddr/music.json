@@ -18698,6 +18698,22 @@
         "stage": 16
     },
     {
+        "mcode": 38686,
+        "basename": "hodf",
+        "title": "HYPER OVERR DANCEFLOORRR",
+        "title_sort": "hyperoverrdancefloorrr",
+        "artist": "Tanchiky",
+        "bpmmax": 160,
+        "bpmmin": 160,
+        "level_str": "3 8 13 16 0 0 8 13 16 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 2,
+        "limited_cha": 1,
+        "stage": 2
+    },
+    {
         "mcode": 38687,
         "basename": "j+\"",
         "title": "\u611b\u6c0fAI\u3055\u308c",
@@ -18727,6 +18743,22 @@
         "ac_seriesid": 21,
         "limited_cha": 1,
         "stage": 28
+    },
+    {
+        "mcode": 38689,
+        "basename": "fluc",
+        "title": "fluctus",
+        "title_sort": "fluctus",
+        "artist": "Ashrount",
+        "bpmmax": 180,
+        "bpmmin": 180,
+        "level_str": "4 8 13 16 0 0 8 13 16 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 2,
+        "limited_cha": 1,
+        "stage": 30
     },
     {
         "mcode": 38691,
