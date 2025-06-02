@@ -11469,7 +11469,7 @@
                 "name": "FAKE",
                 "rank": 98,
                 "point": 88,
-                "icon_id": 11
+                "icon_id": 19
             },
             {
                 "user_id": 474372,
@@ -11977,7 +11977,7 @@
                 "name": "FAKE",
                 "rank": 68,
                 "point": 93,
-                "icon_id": 11
+                "icon_id": 19
             },
             {
                 "user_id": 524074,
@@ -17822,130 +17822,130 @@
                 "icon_id": 22
             },
             {
+                "user_id": 129354,
+                "name": "Konmai",
+                "rank": 83,
+                "point": 94,
+                "icon_id": 18
+            },
+            {
                 "user_id": 148168,
                 "name": "TAROT.M",
-                "rank": 83,
+                "rank": 84,
                 "point": 93,
                 "icon_id": 21
             },
             {
                 "user_id": 451469,
                 "name": "Hal.Ca.",
-                "rank": 84,
+                "rank": 85,
                 "point": 93,
                 "icon_id": 14
             },
             {
                 "user_id": 457467,
                 "name": "Elcott",
-                "rank": 85,
+                "rank": 86,
                 "point": 93,
                 "icon_id": 18
             },
             {
                 "user_id": 490780,
                 "name": "Amumu.",
-                "rank": 86,
+                "rank": 87,
                 "point": 93,
                 "icon_id": 9
             },
             {
                 "user_id": 474472,
                 "name": "maRio",
-                "rank": 87,
+                "rank": 88,
                 "point": 93,
                 "icon_id": 1
             },
             {
                 "user_id": 502102,
                 "name": "suimi",
-                "rank": 88,
+                "rank": 89,
                 "point": 93,
                 "icon_id": 21
             },
             {
                 "user_id": 439796,
                 "name": "Chan",
-                "rank": 89,
+                "rank": 90,
                 "point": 93,
                 "icon_id": 15
             },
             {
                 "user_id": 87900,
                 "name": "saryo",
-                "rank": 90,
+                "rank": 91,
                 "point": 92,
                 "icon_id": 8
             },
             {
                 "user_id": 8035,
                 "name": "nozomin",
-                "rank": 91,
+                "rank": 92,
                 "point": 92,
                 "icon_id": 29
             },
             {
                 "user_id": 9905,
                 "name": "WTYB",
-                "rank": 92,
+                "rank": 93,
                 "point": 92,
                 "icon_id": 17
             },
             {
                 "user_id": 452336,
                 "name": "Kome",
-                "rank": 93,
+                "rank": 94,
                 "point": 92,
                 "icon_id": 11
             },
             {
                 "user_id": 454227,
                 "name": "Kinako",
-                "rank": 94,
+                "rank": 95,
                 "point": 92,
                 "icon_id": 26
             },
             {
                 "user_id": 442473,
                 "name": "KinaCo",
-                "rank": 95,
+                "rank": 96,
                 "point": 92,
                 "icon_id": 26
             },
             {
                 "user_id": 494381,
                 "name": "CoroNantora",
-                "rank": 96,
+                "rank": 97,
                 "point": 92,
                 "icon_id": 22
             },
             {
                 "user_id": 483525,
                 "name": "nametake_",
-                "rank": 97,
+                "rank": 98,
                 "point": 92,
                 "icon_id": 14
             },
             {
                 "user_id": 12349,
                 "name": "Kryunake",
-                "rank": 98,
+                "rank": 99,
                 "point": 91,
                 "icon_id": 20
             },
             {
                 "user_id": 445358,
                 "name": "x-peke",
-                "rank": 99,
-                "point": 91,
-                "icon_id": 18
-            },
-            {
-                "user_id": 323012,
-                "name": "Masa",
                 "rank": 100,
                 "point": 91,
-                "icon_id": 13
+                "icon_id": 18
             }
         ]
     },
