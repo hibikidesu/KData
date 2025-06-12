@@ -1121,6 +1121,11 @@
             "category": 4
         },
         {
+            "albumID": 13015,
+            "title": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ～Legend of KAC with Ω～ disc4",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -76861,6 +76866,118 @@
             "trackNo": 33,
             "title": "Lachryma《Re:Queen’M》",
             "artist": "かねこちはる",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0001",
+            "albumID": 13015,
+            "trackNo": 1,
+            "title": "DropZ-Line-",
+            "artist": "Getty vs. DJ DiA",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0002",
+            "albumID": 13015,
+            "trackNo": 2,
+            "title": "Chaotic Romance",
+            "artist": "はるなば",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0003",
+            "albumID": 13015,
+            "trackNo": 3,
+            "title": "Destruction & Qreation",
+            "artist": "polysha+inusack",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0004",
+            "albumID": 13015,
+            "trackNo": 4,
+            "title": "おにいちゃんハイテック",
+            "artist": "立秋 feat.ちょこ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0005",
+            "albumID": 13015,
+            "trackNo": 5,
+            "title": "PIERROT KNIfE",
+            "artist": "まろん (IOSYS)",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0006",
+            "albumID": 13015,
+            "trackNo": 6,
+            "title": "Xibercannon",
+            "artist": "隣の庭は青い(庭師+Aoi)",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0007",
+            "albumID": 13015,
+            "trackNo": 7,
+            "title": "Khionos TiARA",
+            "artist": "Ellim Gnirps vs よみぃ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0008",
+            "albumID": 13015,
+            "trackNo": 8,
+            "title": "Goddess Bless you",
+            "artist": "winddrums",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0009",
+            "albumID": 13015,
+            "trackNo": 9,
+            "title": "dreamin' of u",
+            "artist": "Jun Kuroda",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0010",
+            "albumID": 13015,
+            "trackNo": 10,
+            "title": "rhythmology study",
+            "artist": "古屋直雪",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0011",
+            "albumID": 13015,
+            "trackNo": 11,
+            "title": "Game Over",
+            "artist": "Ancraft",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0012",
+            "albumID": 13015,
+            "trackNo": 12,
+            "title": "JUNKIE FLAVOR",
+            "artist": "yaseta + Hidra-Xjeil",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0013",
+            "albumID": 13015,
+            "trackNo": 13,
+            "title": "Legendary Road",
+            "artist": "kanone",
+            "openType": 1
+        },
+        {
+            "gid": "sv_116_0014",
+            "albumID": 13015,
+            "trackNo": 14,
+            "title": "Apocrypha",
+            "artist": "お月さま交響曲",
             "openType": 1
         },
         {
