@@ -672,6 +672,17 @@
                 },
                 {
                     "type": {
+                        "<value>": 5
+                    },
+                    "phase": {
+                        "<value>": 75
+                    },
+                    "str_date": {
+                        "<value>": "6/25(水) 10:00 am ～ 7/9(水) 8:59 am"
+                    }
+                },
+                {
+                    "type": {
                         "<value>": 101
                     },
                     "phase": {
