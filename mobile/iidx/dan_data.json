@@ -7875,25 +7875,25 @@
                 "icon_id": 21
             },
             {
+                "user_id": 532906,
+                "name": "Bagain",
+                "rank": 98,
+                "point": 52,
+                "icon_id": 13
+            },
+            {
                 "user_id": 426403,
                 "name": "BLUST",
-                "rank": 98,
+                "rank": 99,
                 "point": 51,
                 "icon_id": 21
             },
             {
                 "user_id": 898,
                 "name": "Lepi",
-                "rank": 99,
-                "point": 50,
-                "icon_id": 8
-            },
-            {
-                "user_id": 483684,
-                "name": "TOMO",
                 "rank": 100,
                 "point": 50,
-                "icon_id": 6
+                "icon_id": 8
             }
         ]
     },
