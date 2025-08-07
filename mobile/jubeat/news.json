@@ -1,5 +1,15 @@
 [
     {
+        "id": 254,
+        "category": 3,
+        "title": "楽曲パック『festo pack 26』追加のおしらせ",
+        "start_date": "2025-08-07 10:00:00",
+        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_pack.png",
+        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20250810_info_pack.html",
+        "pick_up_flg": 0,
+        "view_flg": 0
+    },
+    {
         "id": 247,
         "category": 6,
         "title": "Android 15でゲームが進行不能になる問題に関しまして",
