@@ -1131,6 +1131,11 @@
             "category": 4
         },
         {
+            "albumID": 13016,
+            "title": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ～Legend of KAC with Ω～ disc5",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -77439,6 +77444,134 @@
             "trackNo": 28,
             "title": "iLLness LiLin",
             "artist": "かねこちはる",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0001",
+            "albumID": 13016,
+            "trackNo": 1,
+            "title": "Beyond the BLUE",
+            "artist": "Ayato × sak × 田島千種",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0002",
+            "albumID": 13016,
+            "trackNo": 2,
+            "title": "Blue Stream",
+            "artist": "とろまる",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0003",
+            "albumID": 13016,
+            "trackNo": 3,
+            "title": "SUPER BUBBLE JOURNEY",
+            "artist": "こふ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0004",
+            "albumID": 13016,
+            "trackNo": 4,
+            "title": "No way",
+            "artist": "影虎。",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0005",
+            "albumID": 13016,
+            "trackNo": 5,
+            "title": "Melty Sweets",
+            "artist": "Ironami",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0006",
+            "albumID": 13016,
+            "trackNo": 6,
+            "title": "Musha Vibration",
+            "artist": "NA7",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0007",
+            "albumID": 13016,
+            "trackNo": 7,
+            "title": "Iridescent Clouds",
+            "artist": "Hidra-Xjeil",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0008",
+            "albumID": 13016,
+            "trackNo": 8,
+            "title": "ブチ上げ候！現代忍者三姉妹",
+            "artist": "溝口ゆうま feat. みこ♡なち♡あい",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0009",
+            "albumID": 13016,
+            "trackNo": 9,
+            "title": "MeteorGlow Aftermath",
+            "artist": "pan",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0010",
+            "albumID": 13016,
+            "trackNo": 10,
+            "title": "Knights Assault",
+            "artist": "零 -zero-",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0011",
+            "albumID": 13016,
+            "trackNo": 11,
+            "title": "Coldlapse",
+            "artist": "Aoi vs. r0y",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0012",
+            "albumID": 13016,
+            "trackNo": 12,
+            "title": "Divine's or Deal",
+            "artist": "winddrums vs cosMo",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0013",
+            "albumID": 13016,
+            "trackNo": 13,
+            "title": "Divine's:Bugscript",
+            "artist": "かゆき",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0014",
+            "albumID": 13016,
+            "trackNo": 14,
+            "title": "BLAZING_LAZER",
+            "artist": "brz1128",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0015",
+            "albumID": 13016,
+            "trackNo": 15,
+            "title": "Gate of Atlantis",
+            "artist": "MasKaleido",
+            "openType": 1
+        },
+        {
+            "gid": "sv_117_0016",
+            "albumID": 13016,
+            "trackNo": 16,
+            "title": "LastΩmegA",
+            "artist": "BlackY",
             "openType": 1
         },
         {
