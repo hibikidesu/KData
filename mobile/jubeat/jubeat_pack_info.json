@@ -37001,7 +37001,9 @@
                     ]
                 }
             ],
-            "category": [],
+            "category": [
+                7
+            ],
             "new_flag": 1,
             "comment": "",
             "short_comment": "",
@@ -37018,6 +37020,94 @@
             "jacket_disable": 1,
             "start_date": 1754528400,
             "end_date": 4910461200
+        },
+        {
+            "purchase_id": 1090,
+            "product_id": "jbt_IAB2441",
+            "pack_id": 2441,
+            "pack_name": "\u771f\u590f\u306e\u6b4c\u5408\u6226 pack 1",
+            "disp_pack_name": "\u771f\u590f\u306e\u6b4c\u5408\u6226 pack 1",
+            "music_list": [
+                {
+                    "music_id": 100060211,
+                    "fumen_list": [
+                        "1f657f0b-92b2-4acb-b469-7adb096277b0",
+                        "5e6ae5a1-03c3-41a0-a975-4b1c74268bc1",
+                        "ccd50785-1c51-4c63-b98b-52ed70d70324",
+                        "6fc73e76-cc80-434c-803e-71437d88fb53"
+                    ]
+                },
+                {
+                    "music_id": 100060212,
+                    "fumen_list": [
+                        "1f657f0b-92b2-4acb-b469-7adb096277b0",
+                        "5e6ae5a1-03c3-41a0-a975-4b1c74268bc1",
+                        "ccd50785-1c51-4c63-b98b-52ed70d70324",
+                        "6fc73e76-cc80-434c-803e-71437d88fb53",
+                        "31f8a9f7-6dcc-4b8f-823c-34d33989070b",
+                        "81523f9b-2409-4424-83f3-6802ac8863a4",
+                        "5a644876-9d0f-4605-925e-83aaee1307ca",
+                        "d5272166-079e-444e-bdf1-c65e38a75a05"
+                    ]
+                },
+                {
+                    "music_id": 100060215,
+                    "fumen_list": [
+                        "1f657f0b-92b2-4acb-b469-7adb096277b0",
+                        "5e6ae5a1-03c3-41a0-a975-4b1c74268bc1",
+                        "ccd50785-1c51-4c63-b98b-52ed70d70324",
+                        "6fc73e76-cc80-434c-803e-71437d88fb53",
+                        "31f8a9f7-6dcc-4b8f-823c-34d33989070b",
+                        "81523f9b-2409-4424-83f3-6802ac8863a4",
+                        "5a644876-9d0f-4605-925e-83aaee1307ca",
+                        "d5272166-079e-444e-bdf1-c65e38a75a05",
+                        "97295d16-6be6-41fd-b362-d94d600c0df4",
+                        "b50c6bde-c6e1-4fb4-89fa-e5d88de1c52b",
+                        "65db3b7c-4745-49c1-b1a2-e19a284d8337",
+                        "22f0b781-832f-4350-b0e0-2b420961e2ed"
+                    ]
+                },
+                {
+                    "music_id": 100060219,
+                    "fumen_list": [
+                        "1f657f0b-92b2-4acb-b469-7adb096277b0",
+                        "5e6ae5a1-03c3-41a0-a975-4b1c74268bc1",
+                        "ccd50785-1c51-4c63-b98b-52ed70d70324",
+                        "6fc73e76-cc80-434c-803e-71437d88fb53",
+                        "31f8a9f7-6dcc-4b8f-823c-34d33989070b",
+                        "81523f9b-2409-4424-83f3-6802ac8863a4",
+                        "5a644876-9d0f-4605-925e-83aaee1307ca",
+                        "d5272166-079e-444e-bdf1-c65e38a75a05",
+                        "97295d16-6be6-41fd-b362-d94d600c0df4",
+                        "b50c6bde-c6e1-4fb4-89fa-e5d88de1c52b",
+                        "65db3b7c-4745-49c1-b1a2-e19a284d8337",
+                        "22f0b781-832f-4350-b0e0-2b420961e2ed",
+                        "815c8880-4746-4948-b253-2443964edcd2",
+                        "2c768913-d803-4b56-a5a5-26402e88c123",
+                        "ab94d9bf-bf75-41c2-8930-6bed0df61016",
+                        "6d2e6cb5-5f2e-4472-8567-dd880f90c6eb"
+                    ]
+                }
+            ],
+            "category": [
+                7
+            ],
+            "new_flag": 1,
+            "comment": "",
+            "short_comment": "",
+            "pack_small_jacket": "Konami/AssetBundles/Album/Store/Jackets/2441_pack_jacket.png",
+            "pack_big_jacket": "Konami/AssetBundles/Album/Store/Jackets/2441_pack_jacket.png",
+            "copyright": "",
+            "order_rank": 521,
+            "artist_url": "",
+            "artist_url_label": "",
+            "price": 500,
+            "cash_flg": 0,
+            "jblock_flg": 1,
+            "item_id": 100,
+            "jacket_disable": 1,
+            "start_date": 1755759600,
+            "end_date": 4825530000
         }
     ]
 }
