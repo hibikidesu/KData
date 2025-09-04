@@ -1,15 +1,5 @@
 [
     {
-        "id": 256,
-        "category": 5,
-        "title": "メンテナンス実施のおしらせ",
-        "start_date": "2025-09-03 18:00:00",
-        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_mainte.png",
-        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/2025090300_maintenance_info.html",
-        "pick_up_flg": 0,
-        "view_flg": 0
-    },
-    {
         "id": 255,
         "category": 3,
         "title": "楽曲パック『真夏の歌合戦 pack 1』追加のおしらせ",
