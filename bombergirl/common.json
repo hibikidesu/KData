@@ -4,16 +4,16 @@
         "server_message": [
             {
                 "msg_id": {
-                    "<value>": 195
+                    "<value>": 197
                 },
                 "tag": {
                     "<value>": "GAME"
                 },
                 "message": {
-                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=133,2103,162;MatchingType=1;TeamSyncType=1;"
+                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=163,2025,131;MatchingType=1;TeamSyncType=1;"
                 },
                 "till_time": {
-                    "<value>": 1755651600000
+                    "<value>": 9223372036825200000
                 }
             },
             {
@@ -476,7 +476,7 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 78
+                        "<value>": 80
                     }
                 },
                 {
@@ -672,10 +672,10 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 78
+                        "<value>": 80
                     },
                     "str_date": {
-                        "<value>": "8/6(水) 10:00 am ～ 8/20(水) 8:59 am"
+                        "<value>": "9/3(水) 10:00 am ～ 9/17(水) 9:59 am"
                     }
                 },
                 {
@@ -693,12 +693,12 @@
         },
         "pick_gacha": {
             "gacha_id": {
-                "<value>": 78
+                "<value>": 80
             },
             "item": [
                 {
                     "item_id": {
-                        "<value>": 7
+                        "<value>": 9
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -706,7 +706,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 866
+                        "<value>": 863
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -714,7 +714,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 874
+                        "<value>": 871
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -722,7 +722,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1412
+                        "<value>": 1447
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -730,7 +730,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1414
+                        "<value>": 1448
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -738,7 +738,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1416
+                        "<value>": 1870
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -746,7 +746,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1418
+                        "<value>": 1872
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -754,7 +754,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1420
+                        "<value>": 2405
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -762,7 +762,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1626
+                        "<value>": 2406
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -770,7 +770,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1629
+                        "<value>": 2407
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -778,7 +778,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1630
+                        "<value>": 2408
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -786,7 +786,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 2040
+                        "<value>": 2409
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -794,7 +794,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 2182
+                        "<value>": 2410
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -802,7 +802,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 2184
+                        "<value>": 2411
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -810,7 +810,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 3013
+                        "<value>": 2412
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -818,7 +818,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 3016
+                        "<value>": 3483
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -826,23 +826,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 3349
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3352
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 3965
+                        "<value>": 3486
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -855,7 +839,7 @@
                         "<value>": 2
                     },
                     "pick_rate": {
-                        "<value>": 5
+                        "<value>": 10
                     }
                 },
                 {
@@ -863,7 +847,7 @@
                         "<value>": 3
                     },
                     "pick_rate": {
-                        "<value>": 35
+                        "<value>": 25
                     }
                 },
                 {
@@ -871,7 +855,7 @@
                         "<value>": 4
                     },
                     "pick_rate": {
-                        "<value>": 35
+                        "<value>": 25
                     }
                 },
                 {
@@ -1263,7 +1247,7 @@
                         "<value>": 10
                     },
                     "buy_act": {
-                        "<value>": true
+                        "<value>": false
                     },
                     "date_str": {
                         "<value>": "7/23(水)10:00 am ～ 9/9(火) 4:29 am"
