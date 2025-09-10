@@ -18880,6 +18880,22 @@
         "stage": 29
     },
     {
+        "mcode": 38699,
+        "basename": "brhe",
+        "title": "BRAIN-HEART",
+        "title_sort": "brainheart",
+        "artist": "SOUND HOLIC Vs. ZYTOKINE feat. Nana Takahashi",
+        "bpmmax": 140,
+        "bpmmin": 140,
+        "level_str": "3 6 11 14 0 0 6 11 14 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 2
+    },
+    {
         "mcode": 38701,
         "basename": "y3s3",
         "title": "3y3s",
