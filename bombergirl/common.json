@@ -654,42 +654,21 @@
                     "phase": {
                         "<value>": 1
                     }
-                },
-                {
-                    "type": {
-                        "<value>": 101
-                    },
-                    "phase": {
-                        "<value>": 17
-                    }
                 }
             ]
         },
         "event_info": {
-            "data": [
-                {
-                    "type": {
-                        "<value>": 5
-                    },
-                    "phase": {
-                        "<value>": 80
-                    },
-                    "str_date": {
-                        "<value>": "9/3(水) 10:00 am ～ 9/17(水) 9:59 am"
-                    }
+            "data": {
+                "type": {
+                    "<value>": 5
                 },
-                {
-                    "type": {
-                        "<value>": 101
-                    },
-                    "phase": {
-                        "<value>": 17
-                    },
-                    "str_date": {
-                        "<value>": "7/23(水)10:00 am ～ 9/10(水) 9:59 am"
-                    }
+                "phase": {
+                    "<value>": 80
+                },
+                "str_date": {
+                    "<value>": "9/3(水) 10:00 am ～ 9/17(水) 9:59 am"
                 }
-            ]
+            }
         },
         "pick_gacha": {
             "gacha_id": {
@@ -932,122 +911,7 @@
                 }
             ]
         },
-        "bonus_battle1": {
-            "data": {
-                "type": {
-                    "<value>": 101
-                },
-                "phase": {
-                    "<value>": 17
-                },
-                "data": [
-                    {
-                        "b_type": {
-                            "<value>": 3
-                        },
-                        "rate": {
-                            "<value>": 100
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 500
-                                }
-                            },
-                            {
-                                "role_id": {
-                                    "<value>": 2
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 500
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "b_type": {
-                            "<value>": 2
-                        },
-                        "rate": {
-                            "<value>": 1000
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 200
-                                }
-                            },
-                            {
-                                "role_id": {
-                                    "<value>": 2
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 200
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "b_type": {
-                            "<value>": 1
-                        },
-                        "rate": {
-                            "<value>": 2700
-                        },
-                        "data": [
-                            {
-                                "role_id": {
-                                    "<value>": 1
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 150
-                                }
-                            },
-                            {
-                                "role_id": {
-                                    "<value>": 2
-                                },
-                                "type_id": {
-                                    "<value>": 1
-                                },
-                                "param": {
-                                    "<value>": 150
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "b_type": {
-                            "<value>": 0
-                        },
-                        "rate": {
-                            "<value>": 6200
-                        }
-                    }
-                ]
-            }
-        },
+        "bonus_battle1": {},
         "map_para": {
             "mpt": {
                 "data": [
@@ -1232,27 +1096,6 @@
                         }
                     }
                 ]
-            }
-        },
-        "point_event_boost": {
-            "data": {
-                "event_id": {
-                    "<value>": 17
-                },
-                "b_data": {
-                    "idx": {
-                        "<value>": 1
-                    },
-                    "point": {
-                        "<value>": 10
-                    },
-                    "buy_act": {
-                        "<value>": false
-                    },
-                    "date_str": {
-                        "<value>": "7/23(水)10:00 am ～ 9/9(火) 4:29 am"
-                    }
-                }
             }
         }
     }
