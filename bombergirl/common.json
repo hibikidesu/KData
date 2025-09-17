@@ -658,17 +658,30 @@
             ]
         },
         "event_info": {
-            "data": {
-                "type": {
-                    "<value>": 5
+            "data": [
+                {
+                    "type": {
+                        "<value>": 5
+                    },
+                    "phase": {
+                        "<value>": 80
+                    },
+                    "str_date": {
+                        "<value>": "9/3(水) 10:00 am ～ 9/17(水) 9:59 am"
+                    }
                 },
-                "phase": {
-                    "<value>": 80
-                },
-                "str_date": {
-                    "<value>": "9/3(水) 10:00 am ～ 9/17(水) 9:59 am"
+                {
+                    "type": {
+                        "<value>": 5
+                    },
+                    "phase": {
+                        "<value>": 81
+                    },
+                    "str_date": {
+                        "<value>": "9/17(水) 10:00 am ～ 10/1(水) 9:59 am"
+                    }
                 }
-            }
+            ]
         },
         "pick_gacha": {
             "gacha_id": {
