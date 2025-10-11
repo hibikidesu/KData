@@ -1136,6 +1136,11 @@
             "category": 4
         },
         {
+            "albumID": 13017,
+            "title": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ～Legend of KAC with Ω～ disc6",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -77820,6 +77825,110 @@
             "trackNo": 32,
             "title": "Xéroa",
             "artist": "かめりあ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0001",
+            "albumID": 13017,
+            "trackNo": 1,
+            "title": "FIRST：DREAMS",
+            "artist": "uma vs. モリモリあつし",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0002",
+            "albumID": 13017,
+            "trackNo": 2,
+            "title": "翠雨の祷",
+            "artist": "Cororo feat.Yuria Miyazono",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0003",
+            "albumID": 13017,
+            "trackNo": 3,
+            "title": "JUPITΨR  GЯÃVITÝ",
+            "artist": "YumAeL ex. 溝口ゆうま",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0004",
+            "albumID": 13017,
+            "trackNo": 4,
+            "title": "empty",
+            "artist": "Λerdammt",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0005",
+            "albumID": 13017,
+            "trackNo": 5,
+            "title": "Enigma II",
+            "artist": "とろまる",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0006",
+            "albumID": 13017,
+            "trackNo": 6,
+            "title": "Sacrifice Escape: 不条理の模倣による感情と代償",
+            "artist": "memex",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0007",
+            "albumID": 13017,
+            "trackNo": 7,
+            "title": "Call of the World",
+            "artist": "お月さま交響曲",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0008",
+            "albumID": 13017,
+            "trackNo": 8,
+            "title": "Turn the story",
+            "artist": "technoplanet feat. Kuroto Sion",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0009",
+            "albumID": 13017,
+            "trackNo": 9,
+            "title": "ЯegreT of MemoRy",
+            "artist": "からとP vs タケノコ少年",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0010",
+            "albumID": 13017,
+            "trackNo": 10,
+            "title": "Aurolla",
+            "artist": "MisoilePunch♪",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0011",
+            "albumID": 13017,
+            "trackNo": 11,
+            "title": "Jacob’s Elevator",
+            "artist": "まろん (IOSYS)",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0012",
+            "albumID": 13017,
+            "trackNo": 12,
+            "title": "SociuS",
+            "artist": "Ellim Gnirps vs よみぃ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_118_0013",
+            "albumID": 13017,
+            "trackNo": 13,
+            "title": "Glorious Journey",
+            "artist": "古屋直雪",
             "openType": 1
         },
         {
