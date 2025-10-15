@@ -7143,39 +7143,39 @@
                 "icon_id": 3
             },
             {
+                "user_id": 456708,
+                "name": "ROKINE",
+                "rank": 96,
+                "point": 14,
+                "icon_id": 27
+            },
+            {
                 "user_id": 451699,
                 "name": "T.MELO",
-                "rank": 96,
+                "rank": 97,
                 "point": 13,
                 "icon_id": 21
             },
             {
                 "user_id": 247061,
                 "name": "hazu",
-                "rank": 97,
+                "rank": 98,
                 "point": 13,
                 "icon_id": 27
             },
             {
                 "user_id": 325041,
                 "name": "RUBY",
-                "rank": 98,
+                "rank": 99,
                 "point": 13,
                 "icon_id": 13
             },
             {
                 "user_id": 494397,
                 "name": "SORAKO",
-                "rank": 99,
-                "point": 13,
-                "icon_id": 15
-            },
-            {
-                "user_id": 506140,
-                "name": "YADON.",
                 "rank": 100,
                 "point": 13,
-                "icon_id": 14
+                "icon_id": 15
             }
         ]
     },
@@ -7882,18 +7882,18 @@
                 "icon_id": 5
             },
             {
-                "user_id": 110637,
-                "name": "cap10",
+                "user_id": 456708,
+                "name": "ROKINE",
                 "rank": 99,
-                "point": 53,
+                "point": 54,
                 "icon_id": 27
             },
             {
-                "user_id": 257902,
-                "name": "wish",
+                "user_id": 110637,
+                "name": "cap10",
                 "rank": 100,
-                "point": 52,
-                "icon_id": 13
+                "point": 53,
+                "icon_id": 27
             }
         ]
     },
