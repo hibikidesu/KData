@@ -1,19 +1,19 @@
 [
     {
-        "recommended_id": 5273,
+        "recommended_id": 5274,
         "type": 2,
-        "message": "カッコいい曲を揃えました！",
+        "message": "和を感じる曲ですね♪",
         "reward_id": 0,
-        "start_date": "2025-11-03 00:00:00",
-        "end_date": "2025-11-09 23:59:59",
+        "start_date": "2025-11-10 00:00:00",
+        "end_date": "2025-11-16 23:59:59",
         "recommended_music_list": [
             {
                 "recommended_no": 0,
-                "music_id": 25039
+                "music_id": 17034
             },
             {
                 "recommended_no": 1,
-                "music_id": 25040
+                "music_id": 24077
             }
         ]
     }
