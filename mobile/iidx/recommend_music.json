@@ -1,19 +1,19 @@
 [
     {
-        "recommended_id": 5274,
+        "recommended_id": 5275,
         "type": 2,
-        "message": "和を感じる曲ですね♪",
+        "message": "ボーカル曲をセレクト♪",
         "reward_id": 0,
-        "start_date": "2025-11-10 00:00:00",
-        "end_date": "2025-11-16 23:59:59",
+        "start_date": "2025-11-17 00:00:00",
+        "end_date": "2025-11-23 23:59:59",
         "recommended_music_list": [
             {
-                "recommended_no": 0,
-                "music_id": 17034
+                "recommended_no": 1,
+                "music_id": 17004
             },
             {
-                "recommended_no": 1,
-                "music_id": 24077
+                "recommended_no": 0,
+                "music_id": 20061
             }
         ]
     }
