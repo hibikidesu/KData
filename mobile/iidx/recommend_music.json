@@ -1,5 +1,27 @@
 [
     {
+        "recommended_id": 2032,
+        "type": 1,
+        "message": "",
+        "reward_id": 101,
+        "start_date": "2025-11-21 00:00:00",
+        "end_date": "2025-11-21 23:59:59",
+        "recommended_music_list": [
+            {
+                "recommended_no": 0,
+                "music_id": 12015
+            },
+            {
+                "recommended_no": 1,
+                "music_id": 19026
+            },
+            {
+                "recommended_no": 2,
+                "music_id": 24005
+            }
+        ]
+    },
+    {
         "recommended_id": 5275,
         "type": 2,
         "message": "ボーカル曲をセレクト♪",
