@@ -1146,6 +1146,11 @@
             "category": 4
         },
         {
+            "albumID": 13018,
+            "title": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ～Legend of KAC with Ω～ disc7",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -78302,6 +78307,134 @@
             "trackNo": 26,
             "title": "ΣmbryØ",
             "artist": "かぼちゃ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0001",
+            "albumID": 13018,
+            "trackNo": 1,
+            "title": "Blessing Bouquet",
+            "artist": "setu-O",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0002",
+            "albumID": 13018,
+            "trackNo": 2,
+            "title": "eternite",
+            "artist": "Ryo Arue",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0003",
+            "albumID": 13018,
+            "trackNo": 3,
+            "title": "Φnd:you",
+            "artist": "かゆき",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0004",
+            "albumID": 13018,
+            "trackNo": 4,
+            "title": "Defining Future",
+            "artist": "！すでのな",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0005",
+            "albumID": 13018,
+            "trackNo": 5,
+            "title": "Non RolicK!!大冒険",
+            "artist": "Croire",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0006",
+            "albumID": 13018,
+            "trackNo": 6,
+            "title": "Me:Tear",
+            "artist": "タケノコ少年 feat. 荒巻",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0007",
+            "albumID": 13018,
+            "trackNo": 7,
+            "title": "おどりましょうよ！ドラゴンさん ～転生したらゲーム曲でした～",
+            "artist": "諸星なな feat.加藤はるか＆廣瀬祐輝",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0008",
+            "albumID": 13018,
+            "trackNo": 8,
+            "title": "le coeur patissiere",
+            "artist": "U-ske feat.Ri9",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0009",
+            "albumID": 13018,
+            "trackNo": 9,
+            "title": "who I am",
+            "artist": "カエルとネコ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0010",
+            "albumID": 13018,
+            "trackNo": 10,
+            "title": "Valkyrja ~Aldrlag~",
+            "artist": "Fsinfonia (Yu_Asahina 溝口ゆうま かなたん 大瀬良あい)",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0011",
+            "albumID": 13018,
+            "trackNo": 11,
+            "title": "MICHIZURE",
+            "artist": "708/残響P",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0012",
+            "albumID": 13018,
+            "trackNo": 12,
+            "title": "Thank you for your playing music",
+            "artist": "かぼちゃ feat. miko",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0013",
+            "albumID": 13018,
+            "trackNo": 13,
+            "title": "星の詩",
+            "artist": "しーけー feat.arinco",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0014",
+            "albumID": 13018,
+            "trackNo": 14,
+            "title": "濁色踊るオートマタ",
+            "artist": "めと（Metomate）",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0015",
+            "albumID": 13018,
+            "trackNo": 15,
+            "title": "Lazurite",
+            "artist": "sazanami",
+            "openType": 1
+        },
+        {
+            "gid": "sv_119_0016",
+            "albumID": 13018,
+            "trackNo": 16,
+            "title": "Ethereal Lotus",
+            "artist": "wa. + 杠葉えりか",
             "openType": 1
         },
         {
