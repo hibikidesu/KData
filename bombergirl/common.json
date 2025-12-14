@@ -88,16 +88,16 @@
             },
             {
                 "msg_id": {
-                    "<value>": 235
+                    "<value>": 236
                 },
                 "tag": {
                     "<value>": "GAME"
                 },
                 "message": {
-                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=131,161,2103;MatchingType=1;TeamSyncType=1;"
+                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=84,134,2104;MatchingType=1;TeamSyncType=1;"
                 },
                 "till_time": {
-                    "<value>": 9223372036825200000
+                    "<value>": 1766538000000
                 }
             }
         ],
@@ -108,7 +108,7 @@
                         "<value>": 1
                     },
                     "phase": {
-                        "<value>": 134
+                        "<value>": 138
                     }
                 },
                 {
@@ -476,7 +476,7 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 86
+                        "<value>": 87
                     }
                 },
                 {
@@ -484,7 +484,7 @@
                         "<value>": 7
                     },
                     "phase": {
-                        "<value>": 24
+                        "<value>": 25
                     }
                 },
                 {
@@ -649,6 +649,14 @@
                 },
                 {
                     "type": {
+                        "<value>": 9
+                    },
+                    "phase": {
+                        "<value>": 32
+                    }
+                },
+                {
+                    "type": {
                         "<value>": 10
                     },
                     "phase": {
@@ -662,6 +670,14 @@
                     "phase": {
                         "<value>": 19
                     }
+                },
+                {
+                    "type": {
+                        "<value>": 102
+                    },
+                    "phase": {
+                        "<value>": 1
+                    }
                 }
             ]
         },
@@ -672,10 +688,10 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 86
+                        "<value>": 87
                     },
                     "str_date": {
-                        "<value>": "11/26(水) 10:00 am ～ 12/10(水) 9:59 am"
+                        "<value>": "12/10(水) 10:00 am ～ 12/24(水) 8:59 am"
                     }
                 },
                 {
@@ -688,17 +704,28 @@
                     "str_date": {
                         "<value>": "11/12(水)10:00 am ～ 12/24(水) 9:59 am"
                     }
+                },
+                {
+                    "type": {
+                        "<value>": 102
+                    },
+                    "phase": {
+                        "<value>": 1
+                    },
+                    "str_date": {
+                        "<value>": "12/24(水) 8:59 am,50"
+                    }
                 }
             ]
         },
         "pick_gacha": {
             "gacha_id": {
-                "<value>": 86
+                "<value>": 87
             },
             "item": [
                 {
                     "item_id": {
-                        "<value>": 863
+                        "<value>": 4538
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -706,7 +733,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 919
+                        "<value>": 4541
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -714,7 +741,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 922
+                        "<value>": 4542
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -722,7 +749,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1309
+                        "<value>": 4757
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -730,7 +757,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 1447
+                        "<value>": 4760
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -738,7 +765,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 3221
+                        "<value>": 4761
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -746,7 +773,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 3224
+                        "<value>": 5211
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -754,7 +781,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 3483
+                        "<value>": 5214
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -762,327 +789,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 3486
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4875
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4876
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4877
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4878
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4879
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4880
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4881
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4882
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4883
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4884
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4885
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4886
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4887
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4888
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4889
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4890
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4891
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4892
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4893
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4894
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4895
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4896
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4897
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4898
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4899
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4900
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4901
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4902
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4903
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4904
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4905
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4906
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4907
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4908
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4909
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4910
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4911
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4912
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4913
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 4914
+                        "<value>": 5215
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -1092,26 +799,10 @@
             "pick_rate_param": [
                 {
                     "rare": {
-                        "<value>": 2
-                    },
-                    "pick_rate": {
-                        "<value>": 70
-                    }
-                },
-                {
-                    "rare": {
                         "<value>": 3
                     },
                     "pick_rate": {
-                        "<value>": 77
-                    }
-                },
-                {
-                    "rare": {
-                        "<value>": 4
-                    },
-                    "pick_rate": {
-                        "<value>": 67
+                        "<value>": 80
                     }
                 },
                 {
@@ -1119,7 +810,7 @@
                         "<value>": 5
                     },
                     "pick_rate": {
-                        "<value>": 80
+                        "<value>": 70
                     }
                 }
             ]
@@ -1419,7 +1110,7 @@
         "r_match": {},
         "auxiliary_data": {
             "auxiliary_id": {
-                "<value>": 8
+                "<value>": 9
             },
             "page_num": {
                 "<value>": 1
@@ -1440,7 +1131,7 @@
                             "<value>": 1
                         },
                         "num": {
-                            "<value>": 5
+                            "<value>": 3
                         }
                     },
                     {
@@ -1462,7 +1153,7 @@
                             "<value>": 1
                         },
                         "num": {
-                            "<value>": 5
+                            "<value>": 2
                         }
                     },
                     {
@@ -1473,7 +1164,7 @@
                             "<value>": 1
                         },
                         "num": {
-                            "<value>": 2
+                            "<value>": 1
                         }
                     },
                     {
@@ -1484,7 +1175,7 @@
                             "<value>": 1
                         },
                         "num": {
-                            "<value>": 5
+                            "<value>": 1
                         }
                     }
                 ]
