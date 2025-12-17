@@ -19088,6 +19088,22 @@
         "stage": 29
     },
     {
+        "mcode": 38698,
+        "basename": "bhny",
+        "title": "Be Happy Next 2 You",
+        "title_sort": "behappynext2you",
+        "artist": "nc feat. maimie",
+        "bpmmax": 175,
+        "bpmmin": 175,
+        "level_str": "2 5 9 15 0 0 5 9 15 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "stage": 3
+    },
+    {
         "mcode": 38699,
         "basename": "brhe",
         "title": "BRAIN-HEART",
