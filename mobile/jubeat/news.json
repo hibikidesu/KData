@@ -10,16 +10,6 @@
         "view_flg": 0
     },
     {
-        "id": 261,
-        "category": 6,
-        "title": "アプリが停止する症状の対応とお詫び",
-        "start_date": "2025-12-08 15:00:00",
-        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_bug.png",
-        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20251208_5_info.html",
-        "pick_up_flg": 0,
-        "view_flg": 0
-    },
-    {
         "id": 259,
         "category": 4,
         "title": "動作環境変更のお知らせ",
