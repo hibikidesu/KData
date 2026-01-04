@@ -1,41 +1,41 @@
 [
     {
-        "recommended_id": 2076,
+        "recommended_id": 2077,
         "type": 1,
         "message": "",
         "reward_id": 101,
-        "start_date": "2026-01-04 00:00:00",
-        "end_date": "2026-01-04 23:59:59",
+        "start_date": "2026-01-05 00:00:00",
+        "end_date": "2026-01-05 23:59:59",
         "recommended_music_list": [
             {
-                "recommended_no": 2,
-                "music_id": 21060
+                "recommended_no": 0,
+                "music_id": 11036
             },
             {
-                "recommended_no": 0,
-                "music_id": 25006
+                "recommended_no": 2,
+                "music_id": 15038
             },
             {
                 "recommended_no": 1,
-                "music_id": 25073
+                "music_id": 20039
             }
         ]
     },
     {
-        "recommended_id": 5281,
+        "recommended_id": 5282,
         "type": 2,
-        "message": "和を感じる曲ですね♪",
+        "message": "ポップな曲を用意してみました！",
         "reward_id": 0,
-        "start_date": "2025-12-29 00:00:00",
-        "end_date": "2026-01-04 23:59:59",
+        "start_date": "2026-01-05 00:00:00",
+        "end_date": "2026-01-11 23:59:59",
         "recommended_music_list": [
             {
-                "recommended_no": 1,
-                "music_id": 18060
+                "recommended_no": 0,
+                "music_id": 18069
             },
             {
-                "recommended_no": 0,
-                "music_id": 28015
+                "recommended_no": 1,
+                "music_id": 25059
             }
         ]
     }
