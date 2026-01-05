@@ -1,15 +1,5 @@
 [
     {
-        "id": 260,
-        "category": 5,
-        "title": "年末年始期間中のお問い合わせについて",
-        "start_date": "2025-12-22 00:00:00",
-        "icon_path": "Konami/AssetBundles/Menu/Textures/NoticeLavel_mainte.png",
-        "news_file_path": "https://ayy-web.mo.konami.net/ayy/html/info/file/20251208_0_notice.html",
-        "pick_up_flg": 0,
-        "view_flg": 0
-    },
-    {
         "id": 259,
         "category": 4,
         "title": "動作環境変更のお知らせ",
