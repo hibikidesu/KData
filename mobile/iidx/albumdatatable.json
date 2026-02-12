@@ -1151,6 +1151,11 @@
             "category": 4
         },
         {
+            "albumID": 13019,
+            "title": "SOUND VOLTEX PERFECT ULTIMATE COMPLETE TRACKS ～Legend of KAC with Ω～ disc10",
+            "category": 4
+        },
+        {
             "albumID": 14000,
             "title": "DANCE aROUND ORIGINAL SOUNDTRACK",
             "category": 6
@@ -78666,6 +78671,78 @@
             "albumID": 13018,
             "trackNo": 32,
             "title": "666",
+            "artist": "RoughSketch",
+            "openType": 1
+        },
+        {
+            "gid": "sv_120_0001",
+            "albumID": 13019,
+            "trackNo": 1,
+            "title": "X1GNUS",
+            "artist": "BlackY",
+            "openType": 1
+        },
+        {
+            "gid": "sv_120_0002",
+            "albumID": 13019,
+            "trackNo": 2,
+            "title": "Nebula Dysorder",
+            "artist": "かめりあ",
+            "openType": 1
+        },
+        {
+            "gid": "sv_120_0003",
+            "albumID": 13019,
+            "trackNo": 3,
+            "title": "For All The Challengers",
+            "artist": "cosMo＠暴走P",
+            "openType": 1
+        },
+        {
+            "gid": "sv_120_0004",
+            "albumID": 13019,
+            "trackNo": 4,
+            "title": "Guinevere～白き妖精～",
+            "artist": "ぺのれり",
+            "openType": 1
+        },
+        {
+            "gid": "sv_120_0005",
+            "albumID": 13019,
+            "trackNo": 5,
+            "title": "細氷",
+            "artist": "かねこちはる",
+            "openType": 1
+        },
+        {
+            "gid": "sv_120_0006",
+            "albumID": 13019,
+            "trackNo": 6,
+            "title": "while (screen is blue)",
+            "artist": "kamome sano",
+            "openType": 1
+        },
+        {
+            "gid": "sv_120_0007",
+            "albumID": 13019,
+            "trackNo": 7,
+            "title": "Never Forget Evergreen",
+            "artist": "黒魔",
+            "openType": 1
+        },
+        {
+            "gid": "sv_120_0008",
+            "albumID": 13019,
+            "trackNo": 8,
+            "title": "ヴァルプルギスの夜",
+            "artist": "すっかりBPM200以下の曲を作れない体に改造されてしまった哀れなかぼちゃを見るがいい",
+            "openType": 1
+        },
+        {
+            "gid": "sv_120_0009",
+            "albumID": 13019,
+            "trackNo": 9,
+            "title": "Little Red Riding Hood",
             "artist": "RoughSketch",
             "openType": 1
         },
