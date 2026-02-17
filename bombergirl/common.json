@@ -88,7 +88,7 @@
             },
             {
                 "msg_id": {
-                    "<value>": 240
+                    "<value>": 84
                 },
                 "tag": {
                     "<value>": "GAME"
@@ -97,7 +97,7 @@
                     "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=55,190,2101;MatchingType=1;TeamSyncType=1;"
                 },
                 "till_time": {
-                    "<value>": 9223372036825200000
+                    "<value>": 1771376400000
                 }
             }
         ],
