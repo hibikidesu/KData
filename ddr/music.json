@@ -21255,5 +21255,22 @@
         "bemaniflag": 12,
         "movie": 1,
         "stage": 5
+    },
+    {
+        "mcode": 38886,
+        "basename": "kare",
+        "title": "\u83ef\u9e97\u306a\u308b\uff01\u97f3\u622f\u63a2\u5075\u3072\u306a\u30d3\u30bf\u266b",
+        "title_sort": "\u30ab\u30ec\u30a4\u30ca\u30eb\u30aa\u30c8\u30ad\u30bf\u30f3\u30c6\u30a4\u30d2\u30ca\u30d2\u30bf",
+        "artist": "\u97f3\u622f\u63a2\u5075\u3072\u306a\u30d3\u30bf\u266b",
+        "bpmmax": 127,
+        "bpmmin": 92,
+        "level_str": "2 5 10 14 0 0 5 10 14 0",
+        "editable": false,
+        "seriesid": 0,
+        "ac_seriesid": 21,
+        "limited": 1,
+        "limited_cha": 1,
+        "genreid": 7,
+        "stage": 2
     }
 ]
