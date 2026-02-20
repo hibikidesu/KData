@@ -94,7 +94,7 @@
                     "<value>": "GAME"
                 },
                 "message": {
-                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=131,102,134;MatchingType=1;TeamSyncType=1;"
+                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=131,102,134;MatchingType=1;TeamSyncType=1;NewBomPutFlagSystem=0;"
                 },
                 "till_time": {
                     "<value>": 1773190800000
