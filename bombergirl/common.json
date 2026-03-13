@@ -88,16 +88,16 @@
             },
             {
                 "msg_id": {
-                    "<value>": 85
+                    "<value>": 86
                 },
                 "tag": {
                     "<value>": "GAME"
                 },
                 "message": {
-                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=131,102,134;MatchingType=1;TeamSyncType=1;NewBomPutFlagSystem=0;"
+                    "<value>": "BonusGame=0;BonusNum=1;BonusMax=1;Map=133,2008,2054;MatchingType=1;TeamSyncType=1;NewBomPutFlagSystem=0;"
                 },
                 "till_time": {
-                    "<value>": 1773190800000
+                    "<value>": 1775005200000
                 }
             }
         ],
@@ -476,7 +476,7 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 94
+                        "<value>": 95
                     }
                 },
                 {
@@ -678,14 +678,6 @@
                     "phase": {
                         "<value>": 20
                     }
-                },
-                {
-                    "type": {
-                        "<value>": 102
-                    },
-                    "phase": {
-                        "<value>": 1
-                    }
                 }
             ]
         },
@@ -696,10 +688,10 @@
                         "<value>": 5
                     },
                     "phase": {
-                        "<value>": 94
+                        "<value>": 95
                     },
                     "str_date": {
-                        "<value>": "2/18(水) 10:00 am ～ 3/11(水) 8:59 am"
+                        "<value>": "3/11(水) 10:00 am ～ 4/1(水) 9:59 am"
                     }
                 },
                 {
@@ -712,28 +704,17 @@
                     "str_date": {
                         "<value>": "2/4(水)10:00 am ～ 3/18(水) 9:59 am"
                     }
-                },
-                {
-                    "type": {
-                        "<value>": 102
-                    },
-                    "phase": {
-                        "<value>": 1
-                    },
-                    "str_date": {
-                        "<value>": "3/11(水) 8:59 am,50"
-                    }
                 }
             ]
         },
         "pick_gacha": {
             "gacha_id": {
-                "<value>": 94
+                "<value>": 95
             },
             "item": [
                 {
                     "item_id": {
-                        "<value>": 4347
+                        "<value>": 865
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -741,7 +722,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 4350
+                        "<value>": 919
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -749,7 +730,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 4538
+                        "<value>": 922
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -757,7 +738,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 4541
+                        "<value>": 1107
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -765,7 +746,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 4542
+                        "<value>": 1309
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -773,7 +754,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 4757
+                        "<value>": 1499
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -781,7 +762,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 4760
+                        "<value>": 1502
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -789,7 +770,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 4761
+                        "<value>": 2707
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -797,7 +778,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 5211
+                        "<value>": 2710
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -805,7 +786,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 5214
+                        "<value>": 3013
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -813,7 +794,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 5215
+                        "<value>": 3016
                     },
                     "pick_rate": {
                         "<value>": 1
@@ -821,23 +802,7 @@
                 },
                 {
                     "item_id": {
-                        "<value>": 5349
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 5352
-                    },
-                    "pick_rate": {
-                        "<value>": 1
-                    }
-                },
-                {
-                    "item_id": {
-                        "<value>": 5353
+                        "<value>": 4537
                     },
                     "pick_rate": {
                         "<value>": 1
