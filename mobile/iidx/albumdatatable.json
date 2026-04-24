@@ -356,6 +356,11 @@
             "category": 2
         },
         {
+            "albumID": 2031,
+            "title": "pop'n music High☆Cheers!! ORIGINAL SOUNDTRACK",
+            "category": 2
+        },
+        {
             "albumID": 3000,
             "title": "DANCERUSH STARDOM ORIGINAL SOUNDTRACK",
             "category": 5
@@ -22624,6 +22629,62 @@
             "trackNo": 44,
             "title": "fixer",
             "artist": "PHQUASE vs. dj TAKA",
+            "openType": 1
+        },
+        {
+            "gid": "bm_068_0045",
+            "albumID": 1039,
+            "trackNo": 45,
+            "title": "ラブコメトキドキシリアス",
+            "artist": "cosMo＠暴走P & L.E.D.-G",
+            "openType": 1
+        },
+        {
+            "gid": "bm_068_0046",
+            "albumID": 1039,
+            "trackNo": 46,
+            "title": "Nemophila",
+            "artist": "TAN1CHU",
+            "openType": 1
+        },
+        {
+            "gid": "bm_068_0047",
+            "albumID": 1039,
+            "trackNo": 47,
+            "title": "Show Time",
+            "artist": "MK&Kanae Asaba",
+            "openType": 1
+        },
+        {
+            "gid": "bm_068_0048",
+            "albumID": 1039,
+            "trackNo": 48,
+            "title": "UNDO THE NIGHT",
+            "artist": "葛城ユイ feat. Command (Eurobeat Union)",
+            "openType": 1
+        },
+        {
+            "gid": "bm_068_0049",
+            "albumID": 1039,
+            "trackNo": 49,
+            "title": "PERFECT GREAT!!",
+            "artist": "Zekk",
+            "openType": 1
+        },
+        {
+            "gid": "bm_068_0050",
+            "albumID": 1039,
+            "trackNo": 50,
+            "title": "ベンガル vs. アムール Battle",
+            "artist": "OSTER project",
+            "openType": 1
+        },
+        {
+            "gid": "bm_068_0051",
+            "albumID": 1039,
+            "trackNo": 51,
+            "title": "Amor∞Fati",
+            "artist": "BlackY",
             "openType": 1
         },
         {
@@ -62027,6 +62088,198 @@
             "openType": 1
         },
         {
+            "gid": "pm_062_0027",
+            "albumID": 2030,
+            "trackNo": 27,
+            "title": "真夜中のun thé noir",
+            "artist": "m@sumi",
+            "openType": 1
+        },
+        {
+            "gid": "pm_062_0028",
+            "albumID": 2030,
+            "trackNo": 28,
+            "title": "THX 4",
+            "artist": "BEMANI Sound Team \"Power Of Nature\"",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0001",
+            "albumID": 2031,
+            "trackNo": 1,
+            "title": "MILKY HIGHWAY",
+            "artist": "PON feat.NU-KO",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0002",
+            "albumID": 2031,
+            "trackNo": 2,
+            "title": "幽世幻夜",
+            "artist": "TAN1CHU feat.妃那子",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0003",
+            "albumID": 2031,
+            "trackNo": 3,
+            "title": "キミのそばに",
+            "artist": "KE!JU feat. ねんね",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0004",
+            "albumID": 2031,
+            "trackNo": 4,
+            "title": "Take It! Make It!",
+            "artist": "dj TAKA feat.ゆめめ",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0005",
+            "albumID": 2031,
+            "trackNo": 5,
+            "title": "雪のラヴニーナ",
+            "artist": "劇団レコード",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0006",
+            "albumID": 2031,
+            "trackNo": 6,
+            "title": "靉靆の小景",
+            "artist": "red glasses",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0007",
+            "albumID": 2031,
+            "trackNo": 7,
+            "title": "BITTER-ENDER",
+            "artist": "タケベエイスケ feat.終ワ子",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0008",
+            "albumID": 2031,
+            "trackNo": 8,
+            "title": "meme",
+            "artist": "袖野あらわ feat.終末うにこ",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0009",
+            "albumID": 2031,
+            "trackNo": 9,
+            "title": "ブロックしよ",
+            "artist": "My Complex of Academy",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0010",
+            "albumID": 2031,
+            "trackNo": 10,
+            "title": "poppin' journey",
+            "artist": "オトノマート（小池理子×chocck）",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0011",
+            "albumID": 2031,
+            "trackNo": 11,
+            "title": "Candy love",
+            "artist": "阿部靖広 feat.Shiori",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0012",
+            "albumID": 2031,
+            "trackNo": 12,
+            "title": "朔望",
+            "artist": "DJ TOTTO vs Cororo",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0013",
+            "albumID": 2031,
+            "trackNo": 13,
+            "title": "その闇を薙いで",
+            "artist": "ELFENSJóN",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0014",
+            "albumID": 2031,
+            "trackNo": 14,
+            "title": "OVERDUE DEADEND",
+            "artist": "T4K",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0015",
+            "albumID": 2031,
+            "trackNo": 15,
+            "title": "Oort",
+            "artist": "Yvya",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0016",
+            "albumID": 2031,
+            "trackNo": 16,
+            "title": "告げてみことや かのもとに",
+            "artist": "あさき",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0017",
+            "albumID": 2031,
+            "trackNo": 17,
+            "title": "心転々",
+            "artist": "PHQUASE feat.紫崎 雪",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0018",
+            "albumID": 2031,
+            "trackNo": 18,
+            "title": "フラフラ",
+            "artist": "indoor cats.",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0019",
+            "albumID": 2031,
+            "trackNo": 19,
+            "title": "Zt!ri△",
+            "artist": "m@sumi vs RoughSketch",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0020",
+            "albumID": 2031,
+            "trackNo": 20,
+            "title": "魍魎乱舞",
+            "artist": "山本真央樹",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0021",
+            "albumID": 2031,
+            "trackNo": 21,
+            "title": "BOMBER!BOMBER!BABY!",
+            "artist": "STEVIE(44MAGNUM) Prod. by L.E.D.",
+            "openType": 1
+        },
+        {
+            "gid": "pm_063_0022",
+            "albumID": 2031,
+            "trackNo": 22,
+            "title": "Fragarach",
+            "artist": "ARForest vs. Zekk",
+            "openType": 1
+        },
+        {
             "gid": "rb_001_0001",
             "albumID": 7000,
             "trackNo": 1,
@@ -75488,6 +75741,22 @@
             "trackNo": 100,
             "title": "Fragarach",
             "artist": "ARForest vs. Zekk",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0101",
+            "albumID": 12018,
+            "trackNo": 101,
+            "title": "足神様ノ復活祭",
+            "artist": "U1 overground",
+            "openType": 1
+        },
+        {
+            "gid": "dr_019_0102",
+            "albumID": 12018,
+            "trackNo": 102,
+            "title": "RUINA",
+            "artist": "Dustup VS MAX MAXIMIZER",
             "openType": 1
         },
         {
