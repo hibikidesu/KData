@@ -1,5 +1,27 @@
 [
     {
+        "recommended_id": 2389,
+        "type": 1,
+        "message": "",
+        "reward_id": 101,
+        "start_date": "2026-11-13 00:00:00",
+        "end_date": "2026-11-13 23:59:59",
+        "recommended_music_list": [
+            {
+                "recommended_no": 2,
+                "music_id": 21043
+            },
+            {
+                "recommended_no": 0,
+                "music_id": 26054
+            },
+            {
+                "recommended_no": 1,
+                "music_id": 27007
+            }
+        ]
+    },
+    {
         "recommended_id": 5326,
         "type": 2,
         "message": "和を感じる曲ですね♪",
